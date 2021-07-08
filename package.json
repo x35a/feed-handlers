@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build all": "node synthetic.js & node flagma.js & node vseua.js",
+    "build all": "node synthetic.js & node flagma.js & node vseua.js & node obyava.js",
     "synthetic": "node synthetic.js",
     "flagma": "node flagma.js",
-    "vseua": "node flagma.js"
+    "vseua": "node flagma.js",
+    "obyava": "node obyava.js"
   },
   "author": "",
   "license": "ISC",
