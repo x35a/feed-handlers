@@ -48,6 +48,8 @@ parser.parseString(input_file_data, function (err, result) {
       if (!allowed_category) products_with_missed_category.push({id: offer["$"].id, name: offer.name[0]}) // console.log(offer)
     })
 
-    console.warn('FOUND PRODUCTS WITH MISSED CATEGORY')
-    console.table(products_with_missed_category)
+    if (products_with_missed_category.length) {
+      console.warn('FOUND PRODUCTS WITH MISSED CATEGORY')
+      console.table(products_with_missed_category)
+    }
 })
