@@ -22,6 +22,9 @@ fs.readFile(`./${input_file_name}.yml`, function(err, data) {
             // Add available attr
             offer['$'].available = 'true';
 
+            // Add <quantity>
+            offer.quantity = 100
+
             // Check <vendor> tag
             if (!offer.vendor) offer.vendor = [vendor_name]
             else if (!offer.vendor[0]) offer.vendor[0] = vendor_name
