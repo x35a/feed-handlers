@@ -4,6 +4,7 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
 const path = require('./path')
+const beer = require('./feed_data/beer')
 
 const input_file_name = path.synthetic.input.file //'tilda-feed'
 const output_file_name = path.synthetic.output.file //'synthetic-feed-edited'
@@ -12,39 +13,44 @@ const vendor_name = 'Smart Food Shop'
 const producing_country = 'Польша'
 
 // Read feed file
-fs.readFile(`./${path.input.folder}/${input_file_name}`, function(err, data) {
-    parser.parseString(data, function (err, result) {
-        //console.log(util.inspect(result, false, null))
+const feed_content = fs.readFileSync(`./${path.input.folder}/${input_file_name}`)
 
-        // Update <offer> tag
-        const offers = result.yml_catalog.shop[0].offers[0].offer
-        offers.forEach(offer => {
-            
-            // Add available attr
-            offer['$'].available = 'true';
+parser.parseString(feed_content, function (err, result) {
+    //console.log(util.inspect(result, false, null))
+    let offers = result.yml_catalog.shop[0].offers[0].offer
 
-            // Add <quantity>
-            offer.quantity = 100
+    // Remove beer
+    // synth doesn't support 18+ products
+    const offers_without_beer = offers.filter(offer => !beer.includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
 
-            // Enforce adding <cdata> in description
-            offer.description = offer.description + '<!--Enforce cdata-->'
+    // Update <offer> tag
+    offers.forEach(offer => {
+        
+        // Add available attr
+        offer['$'].available = 'true';
 
-            // Check <vendor> tag
-            if (!offer.vendor) offer.vendor = [vendor_name]
-            else if (!offer.vendor[0]) offer.vendor[0] = vendor_name
+        // Add <quantity>
+        offer.quantity = 100
 
-            // Check <param> existance
-            // If no params add producing country param
-            if (!offer.param) offer.param = [{ _: producing_country, '$': { name: 'Производитель' }}]
-        })
+        // Enforce adding <cdata> in description
+        offer.description = offer.description + '<!--Enforce cdata-->'
 
-        // Make output dir
-        if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
+        // Check <vendor> tag
+        if (!offer.vendor) offer.vendor = [vendor_name]
+        else if (!offer.vendor[0]) offer.vendor[0] = vendor_name
 
-        // Build xml
-        const xml = builder.buildObject(result);
-        fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+        // Check <param> existance
+        // If no params add producing country param
+        if (!offer.param) offer.param = [{ _: producing_country, '$': { name: 'Производитель' }}]
+    })
 
-        console.log('Synthetic feed done');
-    });
-});
+    // Make output dir
+    if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
+
+    // Build xml
+    const xml = builder.buildObject(result)
+    fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+
+    console.log('synthetic feed done')
+})
