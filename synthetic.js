@@ -7,14 +7,13 @@ const path = require('./shared/path')
 require('./shared/make_output_dir')(path.output.folder) // Make output dir
 const beer = require('./feed_data/beer')
 
-const input_file_name = path.synthetic.input.file //'tilda-feed'
-const output_file_name = path.synthetic.output.file //'synthetic-feed-edited'
-const output_folder = path.output.folder //'output'
+const input_file_path = `./${path.input.folder}/${path.synthetic.input.file}`
+const output_file_path = `./${path.output.folder}/${path.synthetic.output.file}`
 const vendor_name = 'Smart Food Shop'
 const producing_country = 'Польша'
 
 // Read feed file
-const feed_content = fs.readFileSync(`./${path.input.folder}/${input_file_name}`)
+const feed_content = fs.readFileSync(input_file_path)
 
 parser.parseString(feed_content, function (err, result) {
     //console.log(util.inspect(result, false, null))
@@ -48,7 +47,7 @@ parser.parseString(feed_content, function (err, result) {
 
     // Build xml
     const xml = builder.buildObject(result)
-    fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+    fs.writeFileSync(output_file_path, xml)
 
     console.log('synthetic feed done')
 })
