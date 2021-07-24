@@ -9,7 +9,7 @@
     "find missed categories": "node find_missed_categories.js",
     "synthetic": "node synthetic.js",
     "flagma": "node flagma.js",
-    "vseua": "node flagma.js",
+    "vseua": "node vseua.js",
     "obyava": "node obyava.js",
     "prom": "node prom.js"
   },
