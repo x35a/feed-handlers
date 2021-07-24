@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build all": "node find_missed_categories.js & node synthetic.js & node flagma.js & node vseua.js & node obyava.js",
+    "build all": "node find_missed_categories.js & node synthetic.js & node flagma.js & node vseua.js & node obyava.js & node prom.js",
     "find missed categories": "node find_missed_categories.js",
     "synthetic": "node synthetic.js",
     "flagma": "node flagma.js",
     "vseua": "node flagma.js",
-    "obyava": "node obyava.js"
+    "obyava": "node obyava.js",
+    "prom": "node prom.js"
   },
   "author": "",
   "license": "ISC",
