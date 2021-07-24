@@ -1,12 +1,13 @@
 const fs = require('fs')
 const parse = require('csv-parse/lib/sync')
 const stringify = require('csv-stringify/lib/sync')
+const path = require('./path')
 
-const input_file_name = 'tilda-feed'
-const output_file_name = 'vseua-feed'
-const output_folder = 'output'
+const input_file_name = path.vseua.input.file //'tilda-feed'
+const output_file_name = path.vseua.output.file //'vseua-feed'
+const output_folder = path.output.folder //'output'
 
-const csv_file_data = fs.readFileSync(`./${input_file_name}.csv`)
+const csv_file_data = fs.readFileSync(`./${path.input.folder}/${input_file_name}`)
 
 const products_list = parse(csv_file_data, {
   columns: true,
@@ -21,6 +22,6 @@ if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
 
 // Build csv
 const products_list_stringified = stringify(products_list, { header: true })
-fs.writeFileSync(`./${output_folder}/${output_file_name}.csv`, products_list_stringified)
+fs.writeFileSync(`./${output_folder}/${output_file_name}`, products_list_stringified)
 
 console.log('vseua feed done')

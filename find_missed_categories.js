@@ -6,8 +6,9 @@ const fs = require('fs')
 const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
+const path = require('./path')
 
-const input_file_name = 'tilda-feed'
+const input_file_name = path.flagma.input.file //'tilda-feed'
 const allowed_categories = [
     {id: '907149595291'}, // Снеки
     {id: '903569256651'}, // Консервация, консервы
@@ -36,7 +37,7 @@ const allowed_categories = [
     {id: '647536114381'}, // Пряности и специи
 ]
 
-const input_file_data = fs.readFileSync(`./${input_file_name}.yml`)
+const input_file_data = fs.readFileSync(`./${path.input.folder}/${input_file_name}`)
 
 parser.parseString(input_file_data, function (err, result) {
     const offers = result.yml_catalog.shop[0].offers[0].offer

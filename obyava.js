@@ -3,12 +3,13 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
+const path = require('./path')
 
-const input_file_name = 'tilda-feed'
-const output_file_name = 'obyava-feed'
-const output_folder = 'output'
+const input_file_name = path.obyava.input.file //'tilda-feed'
+const output_file_name = path.obyava.output.file //'obyava-feed'
+const output_folder = path.output.folder //'output'
 
-const input_file_data = fs.readFileSync(`./${input_file_name}.yml`)
+const input_file_data = fs.readFileSync(`./${path.input.folder}/${input_file_name}`)
 
 parser.parseString(input_file_data, function (err, result) {
     // Update <offer> tag
@@ -24,7 +25,7 @@ parser.parseString(input_file_data, function (err, result) {
 
     // Build xml
     const xml = builder.buildObject(result);
-    fs.writeFileSync(`./${output_folder}/${output_file_name}.xml`, xml)
+    fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
 
     console.log('obyava feed done')
 })

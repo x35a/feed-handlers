@@ -3,15 +3,16 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
+const path = require('./path')
 
-const input_file_name = 'tilda-feed'
-const output_file_name = 'synthetic-feed-edited'
-const output_folder = 'output'
+const input_file_name = path.synthetic.input.file //'tilda-feed'
+const output_file_name = path.synthetic.output.file //'synthetic-feed-edited'
+const output_folder = path.output.folder //'output'
 const vendor_name = 'Smart Food Shop'
 const producing_country = 'Польша'
 
 // Read feed file
-fs.readFile(`./${input_file_name}.yml`, function(err, data) {
+fs.readFile(`./${path.input.folder}/${input_file_name}`, function(err, data) {
     parser.parseString(data, function (err, result) {
         //console.log(util.inspect(result, false, null))
 
@@ -42,7 +43,7 @@ fs.readFile(`./${input_file_name}.yml`, function(err, data) {
 
         // Build xml
         const xml = builder.buildObject(result);
-        fs.writeFileSync(`./${output_folder}/${output_file_name}.yml`, xml)
+        fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
 
         console.log('Synthetic feed done');
     });
