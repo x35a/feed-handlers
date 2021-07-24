@@ -3,7 +3,8 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
-const path = require('./path')
+const path = require('./shared/path')
+require('./shared/make_output_dir')(path.output.folder) // Make output dir
 const beer = require('./feed_data/beer')
 
 const input_file_name = path.synthetic.input.file //'tilda-feed'
@@ -44,9 +45,6 @@ parser.parseString(feed_content, function (err, result) {
         // If no params add producing country param
         if (!offer.param) offer.param = [{ _: producing_country, '$': { name: 'Производитель' }}]
     })
-
-    // Make output dir
-    if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
 
     // Build xml
     const xml = builder.buildObject(result)
