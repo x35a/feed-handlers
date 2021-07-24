@@ -25,6 +25,9 @@ fs.readFile(`./${input_file_name}.yml`, function(err, data) {
             // Add <quantity>
             offer.quantity = 100
 
+            // Enforce adding <cdata> in description
+            offer.description = offer.description + '<!--Enforce cdata-->'
+
             // Check <vendor> tag
             if (!offer.vendor) offer.vendor = [vendor_name]
             else if (!offer.vendor[0]) offer.vendor[0] = vendor_name
