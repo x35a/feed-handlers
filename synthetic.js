@@ -4,13 +4,16 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
 const path = require('./shared/path')
-require('./shared/make_output_dir')(path.output.folder) // Make output dir
+const make_output_dir = require('./shared/make_output_dir')
 const beer = require('./feed_data/beer')
 
 const input_file_path = `./${path.input.folder}/${path.synthetic.input.file}`
 const output_file_path = `./${path.output.folder}/${path.synthetic.output.file}`
 const vendor_name = 'Smart Food Shop'
 const producing_country = 'Польша'
+
+// Make output dir
+make_output_dir(path.output.folder)
 
 // Read feed file
 const feed_content = fs.readFileSync(input_file_path)
