@@ -5,6 +5,7 @@ const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
 const path = require('./shared/path')
 const make_output_dir = require('./shared/make_output_dir')
+const beer = require('./feed_data/beer')
 
 const input_file_path = `./${path.input.folder}/${path.flagma.input.file}` 
 const output_file_path = `./${path.output.folder}/${path.flagma.output.file}`
@@ -36,55 +37,48 @@ const allowed_categories = [
     {id: '647536114381'}, // Пряности и специи
     {id: '683060012691'} // Микрогрины, микрозелень
 ]
-const disallowed_products = [
-    // Beer
-    '548805709201',
-    '185027128611',
-    '707371010191',
-    '344282592881',
-    '327085478361',
-    '313013215591'
-]
 
 // Make output dir
 make_output_dir(path.output.folder)
 
 // Read feed file
-fs.readFile(input_file_path, function(err, data) {
-    parser.parseString(data, function (err, result) {
-        //console.log(util.inspect(result, false, null))
+const feed_content = fs.readFileSync(input_file_path)
 
-        // Delete disallowed categories
-        const categories = result.yml_catalog.shop[0].categories[0].category
-        categories.forEach((category, index) => {
-            const current_category_id = category['$'].id
-            const allowed_category = allowed_categories.find(allowed_category => allowed_category.id === current_category_id)
-            // Delete category
-            if (!allowed_category) delete categories[index]
-        })
+// Read feed file
+parser.parseString(feed_content, function (err, result) {
+    //console.log(util.inspect(result, false, null))
+    const offers = result.yml_catalog.shop[0].offers[0].offer
 
-        // Update <offer> tag
-        const offers = result.yml_catalog.shop[0].offers[0].offer
-        offers.forEach((offer, index) => {
-            
-            // Remove disallowed products
-            if (disallowed_products.includes(offer['$'].id)) return delete offers[index]
-            
-            // Add available attr
-            offer['$'].available = 'true';
+    // Remove beer
+    const offers_without_beer = offers.filter(offer => !beer.includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
 
-            // Replace <picture> to <photo> tag
-            offer.photo = offer.picture
-            delete offer.picture
-        })
-
-        // Make output dir
-        //if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
-
-        // Build xml
-        const xml = builder.buildObject(result)
-        fs.writeFileSync(output_file_path, xml)
-
-        console.log('Flagma feed done')
+    // Delete disallowed categories
+    const categories = result.yml_catalog.shop[0].categories[0].category
+    categories.forEach((category, index) => {
+        const current_category_id = category['$'].id
+        const allowed_category = allowed_categories.find(allowed_category => allowed_category.id === current_category_id)
+        // Delete category
+        if (!allowed_category) delete categories[index]
     })
+
+    // Update <offer> tag    
+    offers.forEach((offer, index) => {
+        
+        // Add available attr
+        offer['$'].available = 'true';
+
+        // Replace <picture> to <photo> tag
+        offer.photo = offer.picture
+        delete offer.picture
+    })
+
+    // Make output dir
+    //if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
+
+    // Build xml
+    const xml = builder.buildObject(result)
+    fs.writeFileSync(output_file_path, xml)
+
+    console.log('Flagma feed done')
 })
