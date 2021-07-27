@@ -3,11 +3,12 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
-const path = require('./path')
+const path = require('./shared/path')
+const make_output_dir = require('./shared/make_output_dir')
 
-const input_file_name = path.flagma.input.file //'tilda-feed'
-const output_file_name = path.flagma.output.file //'flagma-feed'
-const output_folder = path.output.folder //'output'
+const input_file_path = `./${path.input.folder}/${path.flagma.input.file}` 
+const output_file_path = `./${path.output.folder}/${path.flagma.output.file}`
+
 const allowed_categories = [
     {id: '907149595291'}, // Снеки
     {id: '903569256651'}, // Консервация, консервы
@@ -36,6 +37,7 @@ const allowed_categories = [
     {id: '683060012691'} // Микрогрины, микрозелень
 ]
 const disallowed_products = [
+    // Beer
     '548805709201',
     '185027128611',
     '707371010191',
@@ -44,8 +46,11 @@ const disallowed_products = [
     '313013215591'
 ]
 
+// Make output dir
+make_output_dir(path.output.folder)
+
 // Read feed file
-fs.readFile(`./${path.input.folder}/${input_file_name}`, function(err, data) {
+fs.readFile(input_file_path, function(err, data) {
     parser.parseString(data, function (err, result) {
         //console.log(util.inspect(result, false, null))
 
@@ -74,11 +79,11 @@ fs.readFile(`./${path.input.folder}/${input_file_name}`, function(err, data) {
         })
 
         // Make output dir
-        if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
+        //if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
 
         // Build xml
         const xml = builder.buildObject(result)
-        fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+        fs.writeFileSync(output_file_path, xml)
 
         console.log('Flagma feed done')
     })
