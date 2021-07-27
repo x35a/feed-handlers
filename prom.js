@@ -3,7 +3,7 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
-const path = require('./path')
+const path = require('./shared/path')
 
 const input_file_name = path.prom.input.file //'tilda-feed'
 const output_file_name = path.prom.output.file //'prom-feed'

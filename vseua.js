@@ -1,7 +1,7 @@
 const fs = require('fs')
 const parse = require('csv-parse/lib/sync')
 const stringify = require('csv-stringify/lib/sync')
-const path = require('./path')
+const path = require('./shared/path')
 
 const input_file_name = path.vseua.input.file //'tilda-feed'
 const output_file_name = path.vseua.output.file //'vseua-feed'
