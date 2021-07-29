@@ -6,6 +6,7 @@ const builder = new xml2js.Builder({cdata: true})
 const path = require('./shared/path')
 const make_output_dir = require('./shared/make_output_dir')
 const beer = require('./feed_data/beer')
+const test_vendor = require('./synthetic-vendor-test')
 
 const input_file_path = `./${path.input.folder}/${path.synthetic.input.file}`
 const output_file_path = `./${path.output.folder}/${path.synthetic.output.file}`
@@ -29,7 +30,7 @@ parser.parseString(feed_content, function (err, result) {
 
     // Update <offer> tag
     offers.forEach(offer => {
-        
+
         // Add available attr
         offer['$'].available = 'true';
 
@@ -41,7 +42,6 @@ parser.parseString(feed_content, function (err, result) {
 
         // Check <vendor> tag
         if (!offer.vendor) offer.vendor = [vendor_name]
-        else if (!offer.vendor[0]) offer.vendor[0] = vendor_name
 
         // Check <param> existance
         // If no params add producing country param
@@ -51,6 +51,9 @@ parser.parseString(feed_content, function (err, result) {
     // Build xml
     const xml = builder.buildObject(result)
     fs.writeFileSync(output_file_path, xml)
+
+    // Test <vendor> existance
+    test_vendor()
 
     console.log('synthetic feed done')
 })
