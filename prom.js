@@ -18,6 +18,13 @@ parser.parseString(input_file_data, function (err, result) {
         
         // Add available attr
         offer['$'].available = 'true'
+
+        // Trim group_id length. Prom supports only 9 numbers.
+        let group_id = offer['$'].group_id
+        if (group_id) offer['$'].group_id = group_id.substr(0, 9)
+
+        // Enforce adding <cdata> in description
+        offer.description = offer.description + '<!--Enforce cdata-->'
     })
 
     // Make output dir
