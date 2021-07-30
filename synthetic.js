@@ -46,6 +46,12 @@ parser.parseString(feed_content, function (err, result) {
         // Check <param> existance
         // If no params add producing country param
         if (!offer.param) offer.param = [{ _: producing_country, '$': { name: 'Производитель' }}]
+
+        // Remove disallowed symbols in product title
+        // synth docs, item 1.2 https://spv-doc.atlassian.net/wiki/spaces/SYN/pages/621641729/XML+YML+Synthetic.ua
+        offer.name[0] = offer.name[0].replace(/"|&|>|<|'/g, '')
+        //const test = /"|&|>|<|'/g.test(offer.name)
+        //if (test) console.log(offer.name)
     })
 
     // Build xml
