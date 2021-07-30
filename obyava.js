@@ -18,6 +18,9 @@ parser.parseString(input_file_data, function (err, result) {
         
         // Add available attr
         offer['$'].available = 'true'
+
+        // Enforce adding <cdata> in description
+        offer.description = offer.description + '<!--Enforce cdata-->'
     })
 
     // Make output dir
