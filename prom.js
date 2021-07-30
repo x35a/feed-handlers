@@ -25,6 +25,11 @@ parser.parseString(input_file_data, function (err, result) {
 
         // Enforce adding <cdata> in description
         offer.description = offer.description + '<!--Enforce cdata-->'
+
+        // Delete <vendor> cause it makes import errors. 
+        // Reason - prom has own vendors white list, if the vendor (in feed) is out of the list then import error happens.
+        // It was easier to delete vendor fields than trying to push new vendors into prom's list.
+        delete offer.vendor
     })
 
     // Make output dir
