@@ -1,3 +1,8 @@
 /node_modules
-/input
-/output
+/input/tilda-feed.yml
+/input/tilda-feed.csv
+/output/flagma-feed.yml
+/output/obyava-feed.xml
+/output/prom-feed.yml
+/output/synthetic-feed-edited.yml
+/output/vseua-feed.csv
