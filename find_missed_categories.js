@@ -9,7 +9,7 @@ const parser = new xml2js.Parser()
 const path = require('./shared/path')
 const allowed_categories = require('./feed_data/categories')
 
-const input_file_path = `./${path.input.folder}/${path.flagma.input.file}`
+const input_file_path = `./${path.input.folder}/${path.input.yml}`
 
 // Read feed file
 const feed_content = fs.readFileSync(input_file_path)
@@ -28,4 +28,5 @@ parser.parseString(feed_content, function (err, result) {
       console.warn('FOUND PRODUCTS WITH MISSED CATEGORY')
       console.table(products_with_missed_category)
     }
+    else console.log('Category test done')
 })

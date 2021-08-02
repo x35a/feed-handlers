@@ -1,6 +1,8 @@
 module.exports = {
     input: {
-        folder: 'input'
+        folder: 'input',
+        yml: 'tilda-feed.yml',
+        csv: 'tilda-feed.csv'
     },
     output: {
         folder: 'output'
