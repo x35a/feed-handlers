@@ -4,6 +4,7 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
 const path = require('./shared/path')
+const beer = require('./feed_data/beer')
 
 const input_file_name = path.prom.input.file //'tilda-feed'
 const output_file_name = path.prom.output.file //'prom-feed'
@@ -14,6 +15,12 @@ const input_file_data = fs.readFileSync(`./${path.input.folder}/${input_file_nam
 parser.parseString(input_file_data, function (err, result) {
     // Update <offer> tag
     const offers = result.yml_catalog.shop[0].offers[0].offer
+
+    // Remove beer
+    // wayforpay doesn't allow alco
+    const offers_without_beer = offers.filter(offer => !beer.includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
+
     offers.forEach(offer => {
         
         // Add available attr
