@@ -21,13 +21,19 @@ parser.parseString(input_file_data, function (err, result) {
     const offers_without_beer = offers.filter(offer => !beer.includes(offer['$'].id))
     result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
 
+    // Remove cans
+    // prom banned ru cans
+    const offers_without_cans = offers.filter(offer => !['647977965791', '585033696611', '204949597221', '193868340851', '554583485411'].includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = offers_without_cans
+
+
     offers.forEach(offer => {
         
         // Add available attr
         offer['$'].available = 'true'
 
         // 1% price drop
-        offer.price = (offer.price * .01) < 1 ? offer.price - 1 : offer.price - Math.floor(offer.price * .01)
+        //offer.price = (offer.price * .01) < 1 ? offer.price - 1 : offer.price - Math.floor(offer.price * .01)
 
         // Trim group_id length. Prom supports only 9 numbers.
         let group_id = offer['$'].group_id
