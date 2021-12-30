@@ -29,9 +29,6 @@ parser.parseString(input_file_data, function (err, result) {
         // Add available attr
         offer['$'].available = 'true'
 
-        // 1% price drop
-        //offer.price = (offer.price * .01) < 1 ? offer.price - 1 : offer.price - Math.floor(offer.price * .01)
-
         // Trim group_id length. Prom supports only 9 numbers.
         let group_id = offer['$'].group_id
         if (group_id) offer['$'].group_id = group_id.substr(0, 9)
