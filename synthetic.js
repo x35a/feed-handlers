@@ -29,13 +29,15 @@ parser.parseString(feed_content, function (err, result) {
     result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
 
     // Update <offer> tag
-    offers.forEach(offer => {
+    offers.forEach((offer, index) => {
 
         // Add available attr
         offer['$'].available = 'true';
 
         // Add <quantity>
         offer.quantity = 100
+        //if (offer['$'].id == '269254494281') offer.quantity = 10 // temp exception for 269254494281 product
+        //console.log(offer['$'].id)
 
         // Enforce adding <cdata> in description
         offer.description = offer.description + '<!--Enforce cdata-->'
@@ -47,11 +49,14 @@ parser.parseString(feed_content, function (err, result) {
         // If no params add producing country param
         if (!offer.param) offer.param = [{ _: producing_country, '$': { name: 'Производитель' }}]
 
-        // Remove disallowed symbols in product title
+        // Remove disallowed symbols in <name>, <vendor>, <param>
         // synth docs, item 1.2 https://spv-doc.atlassian.net/wiki/spaces/SYN/pages/621641729/XML+YML+Synthetic.ua
-        offer.name[0] = offer.name[0].replace(/"|&|>|<|'/g, '')
-        //const test = /"|&|>|<|'/g.test(offer.name)
-        //if (test) console.log(offer.name)
+        offer.name[0] = offer.name[0].replace(/"|'|&|<|>/g, '')
+        offer.vendor[0] = offer.vendor[0].replace(/"|'|&|<|>/g, '')
+        offer.param.forEach((param, index) => offer.param[index]['_'] = param['_'].replace(/"|'|&|<|>/g, ''))
+        // test
+        //if (/"|'|&|<|>/g.test(offer.name)) console.log(offer.name)
+        //if (/"|'|&|<|>/g.test(offer.vendor)) console.log(offer.vendor)
     })
 
     // Build xml
