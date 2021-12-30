@@ -23,12 +23,11 @@ make_output_dir(path.output.folder)
 const feed_content = fs.readFileSync(input_file_path)
 
 parser.parseString(feed_content, function (err, result) {
-    //console.log(util.inspect(result, false, null))
-    let offers = result.yml_catalog.shop[0].offers[0].offer
+    const offers = result.yml_catalog.shop[0].offers[0].offer
 
     // Remove products
-    const offers_without_beer = offers.filter(offer => !products_tobe_removed.includes(offer['$'].id))
-    result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
+    const filtered_offers = offers.filter(offer => !products_tobe_removed.includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 
     // Update <offer> tag
     offers.forEach((offer, index) => {

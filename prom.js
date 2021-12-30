@@ -21,8 +21,8 @@ parser.parseString(input_file_data, function (err, result) {
     const offers = result.yml_catalog.shop[0].offers[0].offer
 
     // Remove products
-    const offers_without_beer = offers.filter(offer => !products_tobe_removed.includes(offer['$'].id))
-    result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
+    const filtered_offers = offers.filter(offer => !products_tobe_removed.includes(offer['$'].id))
+    result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 
     offers.forEach(offer => {
         
