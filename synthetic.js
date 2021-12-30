@@ -37,8 +37,6 @@ parser.parseString(feed_content, function (err, result) {
 
         // Add <quantity>
         offer.quantity = 100
-        //if (offer['$'].id == '269254494281') offer.quantity = 10 // temp exception for 269254494281 product
-        //console.log(offer['$'].id)
 
         // Enforce adding <cdata> in description
         offer.description = offer.description + '<!--Enforce cdata-->'
