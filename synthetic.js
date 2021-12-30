@@ -5,8 +5,11 @@ const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({cdata: true})
 const path = require('./shared/path')
 const make_output_dir = require('./shared/make_output_dir')
-const beer = require('./feed_data/beer')
 const test_vendor = require('./synthetic-vendor-test')
+
+const beer = require('./feed_data/beer')
+const caviar = ['449478458271', '732519722811', '521676464691', '612843888421', '472843531421', '274404744471', '639176784161', '515567209421', '833511309741']
+const products_tobe_removed = [].concat(beer, caviar)
 
 const input_file_path = `./${path.input.folder}/${path.synthetic.input.file}`
 const output_file_path = `./${path.output.folder}/${path.synthetic.output.file}`
@@ -23,9 +26,8 @@ parser.parseString(feed_content, function (err, result) {
     //console.log(util.inspect(result, false, null))
     let offers = result.yml_catalog.shop[0].offers[0].offer
 
-    // Remove beer
-    // synth doesn't support 18+ products
-    const offers_without_beer = offers.filter(offer => !beer.includes(offer['$'].id))
+    // Remove products
+    const offers_without_beer = offers.filter(offer => !products_tobe_removed.includes(offer['$'].id))
     result.yml_catalog.shop[0].offers[0].offer = offers_without_beer
 
     // Update <offer> tag
