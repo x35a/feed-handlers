@@ -11,7 +11,8 @@
     "flagma": "node flagma.js",
     "vseua": "node vseua.js",
     "obyava": "node obyava.js",
-    "prom": "node prom.js"
+    "prom": "node prom.js",
+    "update-prices": "node update-prices.js"
   },
   "author": "",
   "license": "ISC",
