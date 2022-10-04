@@ -3,6 +3,7 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 const path = require('./shared/path')
+const cloneDeep = require('lodash/cloneDeep')
 
 const input_file_name = path.input.yml //'tilda-feed'
 const output_file_name = path.input.yml //'tilda-feed'
