@@ -148,13 +148,10 @@ const changesList = [
 
 parser.parseString(input_file_data, function (err, result) {
     const offers = result.yml_catalog.shop[0].offers[0].offer
-    //console.log(result.yml_catalog.shop[0].categories[0].category)
 
     offers.forEach((offer) => {
-        //console.log(`old price: ${offer.price}`)
-
         const categoryIndex = changesList.findIndex(
-            (cat) => cat.categoryID == offer.categoryId
+            (cat) => cat.categoryID == offer.categoryId[0]
         )
 
         const priceToBeUpdated =
@@ -167,16 +164,46 @@ parser.parseString(input_file_data, function (err, result) {
             offer.price,
             changesList[categoryIndex].percentToAddToThePrice
         )
-
-        //console.log(`new price: ${offer.price}`)
     })
 
-    // Make output dir
-    if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
+    // Split feed by categories
+    const categoryIDs = result.yml_catalog.shop[0].categories[0].category.map(
+        (category) => category.$.id
+    )
 
-    // Build xml
-    const xml = builder.buildObject(result)
-    fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+    categoryIDs.forEach((catID) => {
+        const feed = cloneDeep(result)
+        const categoryID = catID
+        let categoryName
+
+        const categoryHasProducts =
+            feed.yml_catalog.shop[0].offers[0].offer.find(
+                (offer) => offer.categoryId[0] === categoryID
+            )
+
+        if (!categoryHasProducts) return
+
+        // Find target category
+        const categoryObject =
+            feed.yml_catalog.shop[0].categories[0].category.find(
+                (cat) => cat.$.id === categoryID
+            )
+        feed.yml_catalog.shop[0].categories[0].category = [categoryObject]
+        categoryName = categoryObject._
+
+        // Filter target products
+        const categoryOffers = feed.yml_catalog.shop[0].offers[0].offer.filter(
+            (offer) => offer.categoryId[0] === categoryID
+        )
+        feed.yml_catalog.shop[0].offers[0].offer = categoryOffers
+
+        // Build xml
+        const xml = builder.buildObject(feed)
+        fs.writeFileSync(
+            `./${output_folder}/${categoryID} ${categoryName}.yml`,
+            xml
+        )
+    })
 
     console.log('prices updated')
 })
