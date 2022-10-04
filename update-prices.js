@@ -145,16 +145,17 @@ const changesList = [
     }
 ]
 
-const categories = changesList.map((category) => category.categoryID)
-//console.log(categories)
-
 parser.parseString(input_file_data, function (err, result) {
     const offers = result.yml_catalog.shop[0].offers[0].offer
+    //console.log(result.yml_catalog.shop[0].categories[0].category)
 
     offers.forEach((offer) => {
-        const categoryIndex = categories.findIndex(
-            (cat) => cat == offer.categoryId
+        //console.log(`old price: ${offer.price}`)
+
+        const categoryIndex = changesList.findIndex(
+            (cat) => cat.categoryID == offer.categoryId
         )
+
         const priceToBeUpdated =
             categoryIndex >= 0 && changesList[categoryIndex].active
 
@@ -165,6 +166,8 @@ parser.parseString(input_file_data, function (err, result) {
             offer.price,
             changesList[categoryIndex].percentToAddToThePrice
         )
+
+        //console.log(`new price: ${offer.price}`)
     })
 
     // Make output dir
