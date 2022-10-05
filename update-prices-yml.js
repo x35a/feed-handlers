@@ -5,6 +5,8 @@ const builder = new xml2js.Builder({ cdata: true })
 const path = require('./shared/path')
 const cloneDeep = require('lodash/cloneDeep')
 
+// There is no category ID in csv export file therefore filter by category is possible in yml file only.
+
 const input_file_name = path.input.yml //'tilda-feed'
 const output_file_name = path.input.yml //'tilda-feed'
 const output_folder = path.output.folder //'output'
