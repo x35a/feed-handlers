@@ -1,3 +1,6 @@
+// CSV export file failed.
+// No category ID in csv file - filter by category is not possible.
+
 const fs = require('fs')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
@@ -5,199 +8,119 @@ const builder = new xml2js.Builder({ cdata: true })
 const path = require('./shared/path')
 const cloneDeep = require('lodash/cloneDeep')
 
-// There is no category ID in csv export file therefore filter by category is possible in yml file only.
-
 const input_file_name = path.input.yml //'tilda-feed'
-const output_file_name = path.input.yml //'tilda-feed'
 const output_folder = path.output.folder //'output'
 
 const input_file_data = fs.readFileSync(
     `./${path.input.folder}/${input_file_name}`
 )
 
-// todo:
-// extract categories from feed insted of changesList
-// make possible filters like: include/exclude cat; set price + % to each category individually
-// make possible output one file or many files by category
-const changesList = [
-    {
-        categoryID: '907149595291',
-        percentToAddToThePrice: 0.05, // 5%
-        active: true
-    },
-    {
-        categoryID: '903569256651',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '866426313361',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '444943533321',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '456028571861',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '287161144321',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '658530553911',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '910272790511',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '441079117491',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '443169019671',
-        percentToAddToThePrice: 0.05,
-        active: false
-    },
-    {
-        categoryID: '439103222771',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '715825165071',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '742941910481',
-        percentToAddToThePrice: 0.05,
-        active: false
-    },
-    {
-        categoryID: '320586217181',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '516822319031',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '188559425471',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '466871267201',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '300028999651',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '635698216721',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '426550774261',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '152485699881',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '720640154791',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '847107982971',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '647536114381',
-        percentToAddToThePrice: 0.05,
-        active: true
-    },
-    {
-        categoryID: '798974541701',
-        percentToAddToThePrice: 0.05,
-        active: true
-    }
-]
+const rulesSettings = {
+    includeCategories: ['907149595291'], // get all categories if empty
+    excludeCategories: ['443169019671', '742941910481'],
+    percentToAddToThePrice: 0.05, // 5%
+    specificRules: [
+        {
+            categoryID: '',
+            percentToAddToThePrice: 0.1
+        }
+    ]
+}
 
 const updatePrice = (price, percent) => Math.ceil(+price + price * percent)
 
-parser.parseString(input_file_data, function (err, result) {
-    const offers = result.yml_catalog.shop[0].offers[0].offer
+const createCategoryChangeList = (
+    feedCategories,
+    feedOffers,
+    rulesSettings
+) => {
+    // feedCategories // [{ _: 'Снеки', '$': { id: '907149595291' } }]
+    let categoryChangeList = []
 
-    offers.forEach((offer) => {
-        const categoryIndex = changesList.findIndex(
-            (cat) => cat.categoryID == offer.categoryId[0]
+    feedCategories.forEach((feedCategory) => {
+        const categoryID = feedCategory.$.id
+        const categoryName = feedCategory._
+
+        // Skip category if there are no referenced products
+        const productsInCategory = feedOffers.find(
+            (offer) => offer.categoryId[0] === categoryID
+        )
+        if (!productsInCategory) return
+
+        // Find specific rule
+        const specificRule = rulesSettings.specificRules.find(
+            (rule) => rule.categoryID === categoryID
         )
 
-        const priceToBeUpdated =
-            categoryIndex >= 0 && changesList[categoryIndex].active
+        // Find percent to add
+        const percentToAddToThePrice = specificRule
+            ? specificRule.percentToAddToThePrice
+            : rulesSettings.percentToAddToThePrice
 
-        if (!priceToBeUpdated) return
+        // Create a rule object
+        const aChangeRule = {
+            categoryID: categoryID,
+            categoryName: categoryName,
+            percentToAddToThePrice: percentToAddToThePrice
+        }
 
-        // Update price
-        offer.price = updatePrice(
-            offer.price,
-            changesList[categoryIndex].percentToAddToThePrice
-        )
+        // Filter by include
+        if (
+            rulesSettings.includeCategories.length &&
+            rulesSettings.includeCategories.includes(categoryID)
+        ) {
+            categoryChangeList.push(aChangeRule)
+            return
+        }
+
+        // Filter by exclude
+        if (
+            !rulesSettings.includeCategories.length &&
+            !rulesSettings.excludeCategories.includes(categoryID)
+        ) {
+            categoryChangeList.push(aChangeRule)
+            return
+        }
     })
 
-    // Split feed by categories
-    const categoryIDs = result.yml_catalog.shop[0].categories[0].category.map(
-        (category) => category.$.id
+    return categoryChangeList
+}
+
+parser.parseString(input_file_data, function (err, result) {
+    const offers = result.yml_catalog.shop[0].offers[0].offer
+    const categories = result.yml_catalog.shop[0].categories[0].category
+    const categoryChangeList = createCategoryChangeList(
+        categories,
+        offers,
+        rulesSettings
     )
 
-    categoryIDs.forEach((catID) => {
+    categoryChangeList.forEach((category) => {
         const feed = cloneDeep(result)
-        const categoryID = catID
-        let categoryName
+        const categoryID = category.categoryID
+        const categoryName = category.categoryName
+        const percentToAddToThePrice = category.percentToAddToThePrice
 
-        const categoryHasProducts =
-            feed.yml_catalog.shop[0].offers[0].offer.find(
-                (offer) => offer.categoryId[0] === categoryID
-            )
-
-        if (!categoryHasProducts) return
-
-        // Find target category
+        // Find target category in feed
         const categoryObject =
             feed.yml_catalog.shop[0].categories[0].category.find(
                 (cat) => cat.$.id === categoryID
             )
-        feed.yml_catalog.shop[0].categories[0].category = [categoryObject]
-        categoryName = categoryObject._
 
-        // Filter target products
+        // Replace categories in feed
+        feed.yml_catalog.shop[0].categories[0].category = [categoryObject]
+
+        // Filter target offers
         const categoryOffers = feed.yml_catalog.shop[0].offers[0].offer.filter(
             (offer) => offer.categoryId[0] === categoryID
         )
+
+        // Update offer price
+        categoryOffers.forEach((offer) => {
+            offer.price = updatePrice(offer.price[0], percentToAddToThePrice)
+        })
+
+        // Replace offers in feed
         feed.yml_catalog.shop[0].offers[0].offer = categoryOffers
 
         // Build xml
