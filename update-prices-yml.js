@@ -13,11 +13,10 @@ const input_file_data = fs.readFileSync(
     `./${path.input.folder}/${input_file_name}`
 )
 
-const updatePrice = (price, percent) => Math.ceil(+price + price * percent)
-
 // todo:
 // extract categories from feed insted of changesList
 // make possible filters like: include/exclude cat; set price + % to each category individually
+// make possible output one file or many files by category
 const changesList = [
     {
         categoryID: '907149595291',
@@ -145,6 +144,8 @@ const changesList = [
         active: true
     }
 ]
+
+const updatePrice = (price, percent) => Math.ceil(+price + price * percent)
 
 parser.parseString(input_file_data, function (err, result) {
     const offers = result.yml_catalog.shop[0].offers[0].offer
