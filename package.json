@@ -12,8 +12,7 @@
     "vseua": "node vseua.js",
     "obyava": "node obyava.js",
     "prom": "node prom.js",
-    "update-prices-yml": "node update-prices-yml.js",
-    "update-prices-csv": "node update-prices-csv.js"
+    "update-prices-yml": "node update-prices-yml.js"
   },
   "author": "",
   "license": "ISC",
