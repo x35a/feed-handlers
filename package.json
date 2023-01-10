@@ -11,7 +11,7 @@
     "flagma": "node flagma.js",
     "vseua": "node vseua.js",
     "obyava": "node obyava.js",
-    "prom": "node prom.js",
+    "prom": "node handlers/prom/prom.js",
     "update-prices-yml": "node update-prices-yml.js"
   },
   "author": "",
