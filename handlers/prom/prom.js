@@ -6,15 +6,12 @@ const builder = new xml2js.Builder({ cdata: true })
 const idExcludeList = require('./exclude-list')
 
 const path = require('../../shared/path')
-const input_file_name = path.prom.input.file //'tilda-feed'
-const output_file_name = path.prom.output.file //'prom-feed'
-const output_folder = path.output.folder //'output'
+const inputFilePath = path.prom.input
+const outputFilePath = path.prom.output
 
-const input_file_data = fs.readFileSync(
-    `./${path.input.folder}/${input_file_name}`
-)
+const feedData = fs.readFileSync(inputFilePath)
 
-parser.parseString(input_file_data, function (err, result) {
+parser.parseString(feedData, function (err, result) {
     // Update <offer> tag
     const offers = result.yml_catalog.shop[0].offers[0].offer
 
@@ -41,12 +38,9 @@ parser.parseString(input_file_data, function (err, result) {
         delete offer.vendor
     })
 
-    // Make output dir
-    if (!fs.existsSync(`./${output_folder}`)) fs.mkdirSync(`./${output_folder}`)
-
     // Build xml
     const xml = builder.buildObject(result)
-    fs.writeFileSync(`./${output_folder}/${output_file_name}`, xml)
+    fs.writeFileSync(outputFilePath, xml)
 
     console.log('prom feed done')
     //console.log('offers', offers.length)
