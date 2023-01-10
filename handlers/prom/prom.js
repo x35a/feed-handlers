@@ -3,35 +3,9 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
+const idExcludeList = require('./exclude-list')
+
 const path = require('../../shared/path')
-
-const beer = require('../../feed_data/beer')
-const ru_cans = [
-    '647977965791',
-    '585033696611',
-    '204949597221',
-    '193868340851',
-    '554583485411',
-    '111735614071',
-    '432736792841',
-    '822403725721',
-    '974512923591'
-] // dobroflot
-const caviar = [
-    '449478458271',
-    '732519722811',
-    '521676464691',
-    '612843888421',
-    '472843531421',
-    '274404744471',
-    '639176784161',
-    '515567209421',
-    '833511309741',
-    '834978246171',
-    '160445044221'
-]
-const products_tobe_removed = [].concat(beer, ru_cans, caviar)
-
 const input_file_name = path.prom.input.file //'tilda-feed'
 const output_file_name = path.prom.output.file //'prom-feed'
 const output_folder = path.output.folder //'output'
@@ -46,7 +20,7 @@ parser.parseString(input_file_data, function (err, result) {
 
     // Remove products
     const filtered_offers = offers.filter(
-        (offer) => !products_tobe_removed.includes(offer['$'].id)
+        (offer) => !idExcludeList.includes(offer['$'].id)
     )
     result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 
