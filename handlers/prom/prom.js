@@ -5,7 +5,7 @@ const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 const idExcludeList = require('./exclude-list')
 
-const path = require('../../shared/path')
+const path = require('../../common/path')
 const inputFilePath = path.prom.input
 const outputFilePath = path.prom.output
 
