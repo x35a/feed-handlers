@@ -16,13 +16,90 @@ const input_file_data = fs.readFileSync(
 )
 
 const rulesSettings = {
-    includeCategories: ['907149595291'], // get all categories if empty
-    excludeCategories: ['443169019671', '742941910481'],
+    includeCategories: [
+        '907149595291',
+        '742941910481',
+        '444943533321',
+        '903569256651',
+        '866426313361',
+        '287161144321',
+        '456028571861',
+        '910272790511',
+        '443169019671',
+        '715825165071',
+        '516822319031',
+        '300028999651',
+        '426550774261',
+        '635698216721',
+        '847107982971',
+        '320586217181'
+    ], // get all categories if empty
+    excludeCategories: [],
     percentToAddToThePrice: 0.05, // 5%
     specificRules: [
         {
-            categoryID: '',
+            categoryID: '907149595291',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '742941910481',
             percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '444943533321',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '903569256651',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '866426313361',
+            percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '287161144321',
+            percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '456028571861',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '910272790511',
+            percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '443169019671',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '715825165071',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '516822319031',
+            percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '300028999651',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '426550774261',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '635698216721',
+            percentToAddToThePrice: 0.1
+        },
+        {
+            categoryID: '847107982971',
+            percentToAddToThePrice: 0.05
+        },
+        {
+            categoryID: '320586217181',
+            percentToAddToThePrice: 0.05
         }
     ]
 }
