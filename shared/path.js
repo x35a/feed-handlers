@@ -1,50 +1,25 @@
+const inputFeedYML = 'input/tilda-feed.yml'
+const inputFeedCSV = 'input/tilda-feed.csv'
+
 module.exports = {
-    input: {
-        folder: 'input',
-        yml: 'tilda-feed.yml',
-        csv: 'tilda-feed.csv'
-    },
-    output: {
-        folder: 'output'
-    },
     flagma: {
-        input: {
-            file: 'tilda-feed.yml'
-        },
-        output: {
-            file: 'flagma-feed.yml'
-        }
+        input: inputFeedYML,
+        output: 'output/flagma-feed.yml'
     },
     obyava: {
-        input: {
-            file: 'tilda-feed.yml'
-        },
-        output: {
-            file: 'obyava-feed.xml'
-        }
+        input: inputFeedYML,
+        output: 'output/obyava-feed.xml'
     },
     prom: {
-        input: {
-            file: 'tilda-feed.yml'
-        },
-        output: {
-            file: 'prom-feed.yml'
-        }
+        input: inputFeedYML,
+        output: 'output/prom-feed.yml'
     },
     synthetic: {
-        input: {
-            file: 'tilda-feed.yml'
-        },
-        output: {
-            file: 'synthetic-feed-edited.yml'
-        }
+        input: inputFeedYML,
+        output: 'output/synthetic-feed-edited.yml'
     },
     vseua: {
-        input: {
-            file: 'tilda-feed.csv'
-        },
-        output: {
-            file: 'vseua-feed.csv'
-        }
+        input: inputFeedCSV,
+        output: 'output/vseua-feed.csv'
     }
 }
