@@ -11,6 +11,10 @@ const {
 const { merchant } = require('../../common/path')
 const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
 
+// In Google Merchant Setting
+// Set Delimiter: Tab
+// Uncheck 'Use quoted fields' checkbox
+
 ;(async () => {
     let response = await fetch(feedFb)
 
