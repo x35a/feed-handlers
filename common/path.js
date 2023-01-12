@@ -21,5 +21,9 @@ module.exports = {
     vseua: {
         input: inputFeedCSV,
         output: 'output/vseua-feed.csv'
+    },
+    merchant: {
+        outputAd: 'output/merchant-ad.tsv',
+        outputFree: 'output/merchant-free.tsv'
     }
 }
