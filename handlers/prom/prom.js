@@ -3,7 +3,7 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
-const idExcludeList = require('./exclude-list')
+const idExcludeList = require('./exclude')
 
 const path = require('../../common/path')
 const inputFilePath = path.prom.input
