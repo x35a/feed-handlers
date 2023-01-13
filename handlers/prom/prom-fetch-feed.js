@@ -31,7 +31,7 @@ const feedYMLlink =
 
             offers.forEach((offer) => {
                 // Add available attr
-                offer['$'].available = 'true'
+                //offer['$'].available = 'true'
 
                 // Trim group_id length. Prom supports only 9 numbers.
                 let group_id = offer['$'].group_id
