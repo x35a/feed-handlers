@@ -8,7 +8,7 @@
     "find missed categories": "node find_missed_categories.js",
     "update-prices-yml": "node update-prices-yml.js",
     "synthetic": "node synthetic.js",
-    "prom": "node handlers/prom/prom-fetch-feed.js"
+    "prom": "node handlers/prom/prom-fetch-yml.js"
   },
   "author": "",
   "license": "ISC",
