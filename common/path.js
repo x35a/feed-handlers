@@ -16,7 +16,7 @@ module.exports = {
     },
     synthetic: {
         input: inputFeedYML,
-        output: 'output/synthetic-feed-edited.yml'
+        output: 'output/synthetic-feed.yml'
     },
     vseua: {
         input: inputFeedCSV,
