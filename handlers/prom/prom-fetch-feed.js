@@ -3,7 +3,7 @@ const util = require('util')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
-const idExcludeList = require('./exclude')
+const excludeList = require('./exclude')
 
 const path = require('../../common/path')
 const outputFilePath = path.prom.output
@@ -25,7 +25,7 @@ const feedYMLlink =
 
             // Remove products
             const filtered_offers = offers.filter(
-                (offer) => !idExcludeList.includes(offer['$'].id)
+                (offer) => !excludeList.includes(offer['$'].id)
             )
             result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 

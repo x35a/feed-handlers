@@ -1,4 +1,4 @@
-const lists = [
+const excludeList = [
     // dobroflot
     [
         '647977965791',
@@ -40,4 +40,4 @@ const lists = [
     ]
 ]
 
-module.exports = lists.flat()
+module.exports = excludeList.flat()
