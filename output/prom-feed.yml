@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-01-14T01:04:22+03:00">
+<yml_catalog date="2023-01-14T20:55:23+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -22720,23 +22720,6 @@ Mare Aperto Tonno Olio di Oliva -#nbsp;тунец в оливковом масл
         <weight>0.35</weight>
         <param name="Производитель">Польша</param>
         <param name="Упаковка">Вакуумный пакет</param>
-      </offer>
-      <offer id="258342416451" available="true">
-        <name>Пряники в черном шоколаде ONLY Schoko Lebkuchen 500г</name>
-        <vendorCode>258342</vendorCode>
-        <description><![CDATA[
-
-Only Schoko Lebkuchen - это настоящие рождественские сладости, имбирные пряники в черном шоколаде (25%). В коробке уложены фигурные, ароматные кондитерские изделия, выполненные в виде сердечек, кренделей и звёздочек, которые подарят радость взрослым и детям и украсят праздничный стол.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3238-3266-4864-b865-626163306530/3399032080_w700_h500.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-258342416451-pryaniki-v-chernom-shokolade-only-schoko</url>
-        <count>9999</count>
-        <price>184.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Австрия</param>
       </offer>
       <offer id="627476036291" available="true">
         <name>Бальзамический уксус из модены Balsamico di Modena IGP "Castello" 500 мл.</name>
