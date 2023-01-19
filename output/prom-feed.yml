@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-01-18T20:19:00+03:00">
+<yml_catalog date="2023-01-19T22:32:38+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -25194,6 +25194,40 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <currencyId>UAH</currencyId>
         <categoryId>287161144321</categoryId>
         <weight>0.2</weight>
+        <param name="Производитель">Украина</param>
+      </offer>
+      <offer id="388923009941" available="true">
+        <name>Набор мясных снеков к пиву 1 кг.</name>
+        <vendorCode>009941</vendorCode>
+        <description><![CDATA[
+
+Набор свежих мясных снеков к пиву! Идеально на компанию из 3-5 человек!<br />Набор состоит из 6-ти позиций в равных пропорциях:#nbsp;<br /><li>Курица по дижонски#nbsp;</li><li>Курица паприка</li><li>Кабаносы</li><li>Свинина в вишевом маринаде</li><li>Карпачини из говядины</li><li>Бастурма#nbsp;</li>Все свежее и оочень вкусное!#nbsp;
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6133-3265-4136-b133-386162306266/61204910.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-388923009941-nabor-myasnih-snekov-k-pivu-1-kg</url>
+        <count>9999</count>
+        <price>849.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+      </offer>
+      <offer id="877573346081" available="true">
+        <name>Набор мясных снеков к пиву 600 грамм</name>
+        <vendorCode>346081</vendorCode>
+        <description><![CDATA[
+
+Набор свежих мясных снеков к пиву! Идеально на компанию из 2-3 человек!<br />Набор состоит из 6-ти позиций в равных пропорциях:#nbsp;<br /><li>Курица по дижонски#nbsp;</li><li>Курица паприка</li><li>Кабаносы</li><li>Свинина в вишевом маринаде</li><li>Карпачини из говядины</li><li>Бастурма#nbsp;</li>Все свежее и оочень вкусное!#nbsp;
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3037-3533-4135-b032-396235373862/86840643.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-877573346081-nabor-myasnih-snekov-k-pivu-600-gramm</url>
+        <count>9999</count>
+        <price>555.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
         <param name="Производитель">Украина</param>
       </offer>
     </offers>
