@@ -3,7 +3,7 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 
-const path = require('../../common/path')
+const path = require('../../common/feeds-path')
 const outputFilePath = path.synthetic.output
 
 const excludeList = require('./exclude')

@@ -5,7 +5,7 @@ const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 const excludeList = require('./exclude')
 
-const path = require('../../common/path')
+const path = require('../../common/feeds-path')
 const outputFilePath = path.prom.output
 
 const feedYMLlink =
