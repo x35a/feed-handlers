@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-01-23T23:18:16+03:00">
+<yml_catalog date="2023-01-23T23:29:03+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -28090,18 +28090,18 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
       <offer id="377208289091" available="true">
-        <name>Copy: Павербанк Baseus Adaman Metal 20000 mAh 22,5 W</name>
+        <name>Павербанк Baseus Adaman Metal 10000 mAh 22,5 W</name>
         <vendor>Baseus</vendor>
-        <vendorCode>683641</vendorCode>
+        <vendorCode>289091</vendorCode>
         <description><![CDATA[
 
-Внешний аккумулятор Baseus Adaman Metal Digital Display Power Bank 22.5W с функцией быстрой зарядки PPAD000101 – это портативная батарея, которая поможет подзарядить ваш смартфон или планшет, если вы окажетесь вдали от розетки. Благодаря компактному размеру её удобно брать с собой в поездки и использовать по мере необходимости.<br />Характеристики: <br />Тип аккумулятора: Литий-полимерный; Емкость аккумулятора: 20000 мА*ч 3.7V 74Wh; <br />Номинальная емкость: 12000 мА*ч (5.1V — 3.7А); <br />Максимальный ток: 3.7 А; <br />Два порта Micro-USB и USB-C для собственной зарядки; <br />Поддержка зарядки малым током; <br />Два порта USB-A для одновременной зарядки двух устройств; <br />Функции зарядки: QC быстрая зарядка 22,5W; <br />Входной интерфейс: Micro-USB, USB-C; <br />Выходной интерфейс: 2 х USB-A; <br />Параметры входа:Micro-USB:5V/2A, 9V/2A USB-C: 5V-3.6A; 9V-2.1A; 12V-1.5A; Параметры выхода:USB-A: 5.1V — 2.4А, 9V — 2A (MAX), 12V- 1.5А (MAX); При работе двух портов USB-A: 5.1V — 3.6А;
+Внешний аккумулятор Baseus Adaman Metal Digital Display Power Bank 10000mAh 22.5W с функцией быстрой зарядки – это портативная батарея, которая поможет подзарядить ваш смартфон или планшет, если вы окажетесь вдали от розетки. Благодаря компактному размеру её удобно брать с собой в поездки и использовать по мере необходимости.<br />Характеристики: <br />Тип аккумулятора: Литий-полимерный; Емкость аккумулятора: 10000 мА*ч 3.7V 74Wh; <br /><br />Максимальный ток: 3.7 А; <br />Два порта Micro-USB и USB-C для собственной зарядки; <br />Поддержка зарядки малым током; <br />Два порта USB-A для одновременной зарядки двух устройств; <br />Функции зарядки: QC быстрая зарядка 22,5W; <br />Входной интерфейс: Micro-USB, USB-C; <br />Выходной интерфейс: 2 х USB-A; <br />Параметры входа:Micro-USB:5V/2A, 9V/2A USB-C: 5V-3.6A; 9V-2.1A; 12V-1.5A; Параметры выхода:USB-A: 5.1V — 2.4А, 9V — 2A (MAX), 12V- 1.5А (MAX); При работе двух портов USB-A: 5.1V — 3.6А;
 
 			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3562-3939-4234-a638-323562346430/72079812.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-377208289091-copy-paverbank-baseus-adaman-metal-20000</url>
+        <picture>https://static.tildacdn.com/stor6262-6537-4036-b266-353337373132/29645151.jpg</picture>
+        <url>https://smartfood.org.ua/household/tproduct/508865546-377208289091-paverbank-baseus-adaman-metal-10000-mah</url>
         <count>9999</count>
-        <price>1599.00</price>
+        <price>1299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>223682564701</categoryId>
         <weight>0.44</weight>
