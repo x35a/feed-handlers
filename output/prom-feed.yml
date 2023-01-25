@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-01-23T23:29:03+03:00">
+<yml_catalog date="2023-01-26T01:01:11+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -1551,25 +1551,6 @@ EkMak – это макароны, изготовленные на основе 
         <param name="Форма">Фигурки</param>
         <param name="Упаковка">Пачка</param>
       </offer>
-      <offer id="471442913031" available="true">
-        <name>Spaghetti Tagliati Barilla (вермишелька) N 38 500г</name>
-        <vendorCode>471442</vendorCode>
-        <description><![CDATA[
-
-Spaghetti Tagliati - идеально подходит для приготовления супов с различными ингредиентами. Рекомендуем пропробовать приготовить вкусный кремовый суп из красной чечевицы, украшенный измельченным миндалем и петрушкой. Изготовлены из твердых сортов пшеницы. Время приготовления 5 минут. Для выбора подходящего соуса, переходите по этой ссылке: соусы, соевые соусы, кетчупы, майонез, томатные пасты, приправы, уксус, горчица .
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3937-6434-4434-a633-633834666134/spagetti-barilla-spa.jpg</picture>
-        <url>https://smartfood.org.ua/pasta/tproduct/320928224-471442913031-spaghetti-tagliati-barilla-vermishelka-n</url>
-        <count>9999</count>
-        <price>75.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>910272790511</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Форма">Вермишель</param>
-        <param name="Упаковка">Пачка</param>
-      </offer>
       <offer id="345707307071" available="true">
         <name>Макароны со шпинатом, свеклой, куркумой "Морская жизнь" Dalla Costa 250г</name>
         <vendorCode>345707</vendorCode>
@@ -3040,23 +3021,6 @@ Costa D'Oro ЭКСТРА - оливковое масло высшего каче
         <weight>0.5</weight>
         <param name="Производитель">Таиланд</param>
         <param name="Фасовка">500г</param>
-      </offer>
-      <offer id="763131174071" available="true">
-        <name>Кокос сушеный натуральный Premium Olmish без сахара 500г</name>
-        <vendorCode>763131</vendorCode>
-        <description><![CDATA[
-
-OLMISH ASIA FOOD - является производителем 100 % натуральных экзотических сухофруктов во Вьетнаме, из сырья, выращенного в самых экологически чистых провинциях Вьетнама.<br /><br />Фрукты без добавления красителей и прочих добавок, сохранивших в себе все полезные микроэлементы и витамины.<br /><br />В ассортименте Вы найдете много полезных продуктов для Вашего здорового питания.<br /><br />Вся продукция очень вкусная, натуральной сладости и высокого качества.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6363-3535-4439-b439-643135623137/26888534_2.jpg</picture>
-        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-763131174071-kokos-sushenii-naturalnii-premium-olmish</url>
-        <count>9999</count>
-        <price>314.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>456028571861</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Вьетнам</param>
       </offer>
       <offer id="936029566621" available="true">
         <name>Манго сушеное натуральный Premium Olmish без сахара 500г</name>
@@ -8844,7 +8808,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild3962-6139-4634-b632-373164643038/sushenyj-polza-i-vre.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-442054103841-pamelo-sushenoe-tsukat?editionuid=938805637441</url>
         <count>9999</count>
-        <price>115.00</price>
+        <price>150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>0.5</weight>
@@ -8862,7 +8826,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild3962-6139-4634-b632-373164643038/sushenyj-polza-i-vre.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-442054103841-pamelo-sushenoe-tsukat?editionuid=112281173401</url>
         <count>9999</count>
-        <price>226.00</price>
+        <price>289.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
@@ -20024,23 +19988,6 @@ Maribel Bio Organic Syrop Klonowy&nbsp;-&nbsp;это натуральный&nbsp
         <weight>0.57</weight>
         <param name="Производитель">Германия</param>
       </offer>
-      <offer id="397262497941" available="true">
-        <name>Соус Чили Барбекю BBQ Chili Heinz 500г</name>
-        <vendorCode>397262</vendorCode>
-        <description><![CDATA[
-
-Томатный кетчуп Heinz - это мировой бренд, мгновенно узнаваемый благодаря насыщенному натуральном томатном вкуса. Heinz не содержит красителей, консервантов и крахмала. Томатный кетчуп Heinz выпускается уже 150 лет и является признанным мировым лидером среди кетчупов.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6631-6234-4366-b930-623036326461/heinz-chili-barbecue.png</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-397262497941-sous-chili-barbekyu-bbq-chili-heinz-500g</url>
-        <count>9999</count>
-        <price>138.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Германия</param>
-      </offer>
       <offer id="858746225151" available="true">
         <name>Соус чесночный Garlic Sauce "Heinz" 220г</name>
         <vendorCode>858746</vendorCode>
@@ -21507,7 +21454,7 @@ Fuet Extra - сыровяленая тонкая колбаса, изготов�
         <picture>https://static.tildacdn.com/tild6137-3064-4266-b538-343866363239/3078047957_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-195672225161-konfeti-ptiche-moloko-magnetic-so-slivoc</url>
         <count>9999</count>
-        <price>159.00</price>
+        <price>185.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>0.38</weight>
@@ -21524,7 +21471,7 @@ Fuet Extra - сыровяленая тонкая колбаса, изготов�
         <picture>https://static.tildacdn.com/tild3430-3439-4263-a635-383130366237/IMG_0795-800x800.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-443207238471-konfeti-ptiche-moloko-magnetic-s-vanilni</url>
         <count>9999</count>
-        <price>167.00</price>
+        <price>185.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>0.38</weight>
@@ -21541,7 +21488,7 @@ Fuet Extra - сыровяленая тонкая колбаса, изготов�
         <picture>https://static.tildacdn.com/tild6639-3537-4464-a534-393630393637/2160542828_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-435717691961-konfeti-ptiche-moloko-magnetic-s-kokosov</url>
         <count>9999</count>
-        <price>167.00</price>
+        <price>185.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>0.38</weight>
@@ -24616,23 +24563,6 @@ Berlinki classic, копченая свиная колбаса в несъедо
         <weight>0.5</weight>
         <param name="Производитель">Турция</param>
         <param name="Упаковка">Пакет</param>
-      </offer>
-      <offer id="416958158881" available="true">
-        <name>Кетчуп Heinz Томатный 1 кг.</name>
-        <vendorCode>158881</vendorCode>
-        <description><![CDATA[
-
-Томатный кетчуп Heinz - это мировой бренд, мгновенно узнаваемый благодаря насыщенному натуральном томатном вкуса. Heinz не содержит красителей, консервантов и крахмала. Томатный кетчуп Heinz выпускается уже 150 лет и является признанным мировым лидером среди кетчупов.<br />Рекомендуется к бургерам, картофеля фри, жареного и запеченного мяса, рыбы в кляре.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6137-3231-4837-a235-313432663831/17326911.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-416958158881-ketchup-heinz-tomatnii-1-kg</url>
-        <count>9999</count>
-        <price>199.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>1.5</weight>
-        <param name="Производитель">Германия</param>
       </offer>
       <offer id="300670668341" available="true">
         <name>Приправа натуральная 10 овощей 1кг.</name>
