@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-02-13T12:59:06+03:00">
+<yml_catalog date="2023-02-13T19:24:07+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -5562,29 +5562,6 @@ Cuétara Bolacha Tostada (Tostada Biscuits) с аутентичным вкусо
         <param name="Упаковка">Картонная пачка</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="896488137431" available="true">
-        <name>Кофе в зернах Alvorada Gastro Kaffee 1кг</name>
-        <vendor>Alvorada</vendor>
-        <vendorCode>896488</vendorCode>
-        <description><![CDATA[
-
-ALVORADA Gastro Kaffe подходит для тех, кто любит крепкий кофе с горечью. Чашка этого кофе вас точно разбудит. Все это благодаря составу 50 арабики и 50 рабусты. Если такой состав для вас слишком крепкий, то обратите внимание на всю линейку ALVORADA которая состоит из Brasil, Il Caffe Italiano, Wiener Kaffee.<br /><br /> Каждый кофеман при употреблении очередной чашечки ароматного кофе не всегда ограничивается лишь любимым напитком. Очень часто вместе с кофе «в ход» идут всевозможные вкусности и сладости.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3537-3963-4636-b565-626134383232/1006924306_kofe-alvo.jpg</picture>
-        <url>https://smartfood.org.ua/coffee/tproduct/320929310-896488137431-kofe-v-zernah-alvorada-gastro-kaffee-1kg</url>
-        <count>9999</count>
-        <price>379.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>742941910481</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Австрия</param>
-        <param name="Упаковка">Пакет</param>
-        <param name="Вид кофе">Купаж арабики и робусты</param>
-        <param name="Форма выпуска">Зерновой</param>
-        <param name="Степень обжарки">Средняя</param>
-        <quantity>100</quantity>
       </offer>
       <offer id="517803335451" available="true">
         <name>Кофе молотый IDEE KAFFEE J. J. Darboven 100 % арабика 500г</name>
@@ -12653,44 +12630,6 @@ Goldbach Crema отличается своим ярким ароматом св�
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="529735709191" available="true">
-        <name>Шоколадный крем (паста) с фундуком ,без глютена Sovia 200г</name>
-        <vendor>Sovia</vendor>
-        <vendorCode>529735</vendorCode>
-        <description><![CDATA[
-
-Шоколадный крем (паста) с фундуком 0% сахара, без глютена и пальмового масла Sovia 200гр. <br />Производство: Испания
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6534-3961-4265-b432-636663663866/168415363.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-529735709191-shokoladnii-krem-pasta-s-fundukom-bez-gl</url>
-        <count>9999</count>
-        <price>205.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.2</weight>
-        <param name="Производитель">Испания</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="970270589691" available="true">
-        <name>Шоколадный крем (паста) с миндалем ,без глютена Sovia 200г</name>
-        <vendor>Sovia</vendor>
-        <vendorCode>970270</vendorCode>
-        <description><![CDATA[
-
-Шоколадный крем (паста) с миндалем 0% сахара, без глютена и пальмового масла Sovia 200гр. <br />Производство: Испания
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3533-6534-4531-b135-373063356564/168415352.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-970270589691-shokoladnii-krem-pasta-s-mindalem-bez-gl</url>
-        <count>9999</count>
-        <price>205.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.2</weight>
-        <param name="Производитель">Испания</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="509179852681" available="true">
         <name>Шоколадная паста Organic BІО с лесным орехом без лактозы и глютена Torras 200г</name>
         <vendor>Torras</vendor>
@@ -15051,25 +14990,6 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <categoryId>287161144321</categoryId>
         <weight>1.5</weight>
         <param name="Производитель">Турция</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="818233383991" available="true">
-        <name>Помидоры бочковые Зелёные 2кг</name>
-        <vendor>Food Store</vendor>
-        <vendorCode>818233</vendorCode>
-        <description><![CDATA[
-
-Из зеленых соленых помидоров получается прекрасная закуска.<br />Соленые зеленые помидоры вкусные и ароматные, они хороши к отварной или жареной картошке, хороши как закуска на дружеской вечеринке.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6265-3766-4239-a536-343632663963/pomidor.jpg</picture>
-        <url>https://smartfood.org.ua/pickles/tproduct/320931048-818233383991-pomidori-bochkovie-zelyonie-2kg</url>
-        <count>9999</count>
-        <price>199.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>152485699881</categoryId>
-        <weight>2</weight>
-        <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
       <offer id="139586765451" available="true">
@@ -21514,26 +21434,6 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="217411465571" available="true">
-        <name>Кленовый Сироп Maribel Organic Syrop органический 189 мл.</name>
-        <vendorCode>217411</vendorCode>
-        <description><![CDATA[
-
-Maribel Bio Organic Syrop Klonowy&nbsp;-&nbsp;это натуральный&nbsp;сироп из Канады, который готовится путем выпаривания кленового сока без добавления загустителей.&nbsp;<br />Кленовый сироп&nbsp;- это прекрасная альтернатива меду, он гипоаллергенен&nbsp;и не теряет своих свойств при термообработке. Что делает его идеальным для приготовления различных блюд.&nbsp;<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3864-3339-4164-a265-383230623531/klenovyj-sirop-marib.jpg</picture>
-        <url>https://smartfood.org.ua/drinks/tproduct/320930595-217411465571-klenovii-sirop-maribel-organic-syrop-org</url>
-        <count>9999</count>
-        <price>329.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>635698216721</categoryId>
-        <weight>0.189</weight>
-        <param name="Производитель">Польша</param>
-        <param name="Упаковка">Стеклянная бутылка</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
       <offer id="807149008571" available="true">
         <name>Пахлава Cарма с волосским орехом и фисташкой Amanti 1кг.​​</name>
         <vendor>Amanti</vendor>
@@ -21887,25 +21787,6 @@ Maribel Bio Organic Syrop Klonowy&nbsp;-&nbsp;это натуральный&nbsp
         <param name="Тип">Зеленый чай</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="333063694041" available="true">
-        <name>Рахат Лукум ролл АТОМ с барбарисом Sahinoglu Премиум! 500г</name>
-        <vendor>Sahinoglu</vendor>
-        <vendorCode>333063</vendorCode>
-        <description><![CDATA[
-
-Ореховый микс с миндалём, фундуком, кешью, изюмом и грецким орехом в барбарисе.<br />Премиум-лукумы невероятно мягкие и богаты турецкими фисташками, грецкими орехами и фундуком. Сохраняя верность оригинальным рецептам, передаваемым из поколения в поколение с 1950 года, это настоящий рахат-лукум.#nbsp;<br />Рахат лукум – кусочки удовольствия, которые дарят радость. По-турецки rahat – удовольствие или комфорт, удобство, счастье; lokum – значит кусочки. Это#nbsp;традиционная турецкая сладость, разновидностей которой не счесть.Такие конфеты имеют форму небольших кубиков в воздушной сахарной пудре, часто с добавлением хрустящих орешков. Они обладают особенно мягкой текстурой и насыщенным фруктовым вкусом.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3835-3866-4762-a431-643963376239/roll-atom-s-barbaris.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-333063694041-rahat-lukum-roll-atom-s-barbarisom-sahin</url>
-        <count>9999</count>
-        <price>319.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Турция</param>
-        <quantity>100</quantity>
       </offer>
       <offer id="704010977521" available="true">
         <name>Рахат Лукум ролл АТОМ с миндалем Sahinoglu Премиум! 500г</name>
@@ -25263,26 +25144,6 @@ Pralines от известного производителя Maitre Truffout �
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="901680592251" available="true">
-        <name>Кленовый сироп MCennedy, 250 мл.</name>
-        <vendor>MCennedy</vendor>
-        <vendorCode>901680</vendorCode>
-        <description><![CDATA[
-
-Кленовый сироп представляет собой полезный продукт, полученный из натурального сока красного, черного или сахарного клена. В настоящее время им активно заменяют сахар, так как кленовый сироп очень сладкий на вкус. Еще он имеет янтарный цвет и густую прозрачную консистенцию. Именно поэтому переработанный сок клена очень похож на пчелиный мед. Несмотря на то что родиной кленового сиропа является Северная Америка, его ценят во всем мире.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6364-3932-4164-b435-636539636162/klenovyj-sirop-mcenn.jpg</picture>
-        <url>https://smartfood.org.ua/drinks/tproduct/320930595-901680592251-klenovii-sirop-mcennedy-250-ml</url>
-        <count>9999</count>
-        <price>329.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>635698216721</categoryId>
-        <weight>0.25</weight>
-        <param name="Производитель">Канада</param>
-        <param name="Упаковка">Стеклянная бутылка</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="564327132571" available="true">
         <name>Колбаса cалями ТМ Siciliana Notte Salame Dorato 350г.</name>
         <vendor>Siciliana Notte</vendor>
@@ -26731,26 +26592,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <currencyId>UAH</currencyId>
         <categoryId>223682564701</categoryId>
         <weight>0.25</weight>
-        <param name="Производитель">Польша</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="329481641731" available="true">
-        <name>Kinder Сюрприз 20 г. Natoons</name>
-        <vendor>Kinder</vendor>
-        <vendorCode>329481</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Kinder® – детский бренд итальянской компании Ferrero, который знают и любят дети по всему миру более 50 лет.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3135-6633-4562-b131-383762323466/49693394.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-329481641731-kinder-syurpriz-20-g-natoons</url>
-        <count>9999</count>
-        <price>49.00</price>
-        <oldprice>55.00</oldprice>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.02</weight>
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
