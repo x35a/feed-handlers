@@ -22,16 +22,17 @@ module.exports = (
                 (prevFeedId) => newFeedId === prevFeedId
             )
     )
-    console.log(`New Products ID ${newProductsIdList}`)
+    console.log(`NEW PRODUCTS ID ${newProductsIdList}`)
 
     // Find missed products
     const missedProductsIdList = prevFeed.offersIdList.filter(
         (prevFeedId) =>
             !newFeed.offersIdList.find((newFeedId) => newFeedId === prevFeedId)
     )
-    console.log(`Missed Products ID ${missedProductsIdList}`)
+    console.log(`MISSED PRODUCTS ID ${missedProductsIdList}`)
 
-    console.log(`Update ${previousFeedDataFilePath} if necessary`)
+    if (newProductsIdList.length || missedProductsIdList.length)
+        console.log(`UPDATE FILE ${previousFeedDataFilePath}`)
 }
 
 function getNewFeedSimpleObject(offers, feedObject) {
