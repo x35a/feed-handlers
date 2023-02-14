@@ -1,5 +1,4 @@
 const fs = require('fs')
-const { off } = require('process')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
@@ -9,6 +8,7 @@ const removeProductsByCategories = require('./remove-products-by-categories')
 const changePrices = require('./change-prices')
 const findMedianPrice = require('./find-median-price')
 const printNewOrMissedProductsId = require('./find-new-or-missed-products')
+const splitFeed = require('./split-feed')
 
 const feedYMLlink =
     'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
@@ -55,13 +55,19 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         previousFeedDataFilePath
     )
 
+    const feeds = splitFeed(offers, feedObject)
+
     // Save new offers
-    feedObject.yml_catalog.shop[0].offers[0].offer = offers
+    //feedObject.yml_catalog.shop[0].offers[0].offer = offers
 
     // Build xml
     //const xml = builder.buildObject(feedObject)
     //fs.writeFileSync('./output/aveopt-feed.xml', xml)
+    console.log(`Building xml feeds`)
+    feeds.forEach((feed, index) => {
+        const xml = builder.buildObject(feed)
+        fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
+    })
 
-    console.log('Aveopt Feed Done')
     console.log(`Median price ${findMedianPrice(offers)}`)
 })()
