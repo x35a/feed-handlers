@@ -9,6 +9,10 @@ const changePrices = require('./change-prices')
 const findMedianPrice = require('./find-median-price')
 const findNewOrMissedProductsId = require('./find-new-or-missed-products')
 const splitFeed = require('./split-feed')
+const saveNewFeedDataFlag = process.argv.find(
+    (argv) => argv === '--saveNewFeedData'
+)
+const saveNewFeedData = require('./save-new-feed-data')
 
 const feedYMLlink =
     'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
@@ -45,6 +49,10 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
     // Change prices
     offers = changePrices(offers)
     //console.log(offers.length)
+
+    // Save new feed data and exit
+    if (saveNewFeedDataFlag)
+        return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
 
     findNewOrMissedProductsId(
         offers,

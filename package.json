@@ -9,7 +9,9 @@
     "find id duplicates": "node common/find-id-duplicates.js",
     "update-prices-yml": "node update-prices-yml.js",
     "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
-    "prom": "node handlers/prom/prom-fetch-yml.js"
+    "prom": "node handlers/prom/prom-fetch-yml.js",
+    "aveopt": "node handlers/aveopt/aveopt.js",
+    "save-aveopt-new-feed": "node handlers/aveopt/aveopt.js --saveNewFeedData"
   },
   "author": "",
   "license": "ISC",
