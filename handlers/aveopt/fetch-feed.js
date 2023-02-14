@@ -4,8 +4,6 @@ module.exports = async (feedYMLlink) => {
 
     if (response.ok) {
         let text = await response.text()
-        console.log('Fetching completed')
-        console.log(response)
         return text
     } else {
         console.log('HTTP Error: ' + response.status)

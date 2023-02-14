@@ -12,7 +12,7 @@ module.exports = (
 
     // Print feed dates
     console.log(
-        `Previous Feed Date: ${prevFeed.date}\nNew Feed Date: ${feedObject.yml_catalog.$.date}`
+        `Previous Feed Date: ${prevFeed.date}\nNew Feed Date: ${feedObject.yml_catalog.$.date}\n`
     )
 
     // Find new products
@@ -22,14 +22,14 @@ module.exports = (
                 (prevFeedId) => newFeedId === prevFeedId
             )
     )
-    console.log(`NEW PRODUCTS ID ${newProductsIdList}`)
+    console.log(`NEW PRODUCTS ID\n${newProductsIdList.join('\n')}\n`)
 
     // Find missed products
     const missedProductsIdList = prevFeed.offersIdList.filter(
         (prevFeedId) =>
             !newFeed.offersIdList.find((newFeedId) => newFeedId === prevFeedId)
     )
-    console.log(`MISSED PRODUCTS ID ${missedProductsIdList}`)
+    console.log(`MISSED PRODUCTS ID\n${missedProductsIdList.join('\n')}\n`)
 
     if (newProductsIdList.length || missedProductsIdList.length)
         console.log(`UPDATE FILE ${previousFeedDataFilePath}`)

@@ -20,11 +20,10 @@ const feedYMLlink =
 const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
 
 ;(async () => {
-    //console.log('Fetching feed file...')
-    //const feedText = await fetchFeed(feedYMLlink)
+    const feedText = await fetchFeed(feedYMLlink)
 
-    console.log(`Reading ${previousFeedDataFilePath}`)
-    const feedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
+    // console.log(`Reading ${previousFeedDataFilePath}`)
+    // const feedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
 
     const feedObject = await parser.parseStringPromise(feedText)
     const previousFeedData = JSON.parse(
