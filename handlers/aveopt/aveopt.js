@@ -7,7 +7,7 @@ const removeOutOfStockProducts = require('./remove-out-of-stock-products')
 const removeProductsByCategories = require('./remove-products-by-categories')
 const changePrices = require('./change-prices')
 const findMedianPrice = require('./find-median-price')
-const printNewOrMissedProductsId = require('./find-new-or-missed-products')
+const findNewOrMissedProductsId = require('./find-new-or-missed-products')
 const splitFeed = require('./split-feed')
 
 const feedYMLlink =
@@ -18,11 +18,9 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
 ;(async () => {
     //console.log('Fetching feed file...')
     //const feedText = await fetchFeed(feedYMLlink)
-    //console.log('Fetching done')
 
     console.log(`Reading ${previousFeedDataFilePath}`)
     const feedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
-    console.log('Reading done')
 
     const feedObject = await parser.parseStringPromise(feedText)
     const previousFeedData = JSON.parse(
@@ -48,7 +46,7 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
     offers = changePrices(offers)
     //console.log(offers.length)
 
-    printNewOrMissedProductsId(
+    findNewOrMissedProductsId(
         offers,
         feedObject,
         previousFeedData,
@@ -63,7 +61,7 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
     // Build xml
     //const xml = builder.buildObject(feedObject)
     //fs.writeFileSync('./output/aveopt-feed.xml', xml)
-    console.log(`Building xml feeds`)
+    console.log(`Building xml files`)
     feeds.forEach((feed, index) => {
         const xml = builder.buildObject(feed)
         fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
