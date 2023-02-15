@@ -11,16 +11,14 @@ module.exports = (feedObject, newProductsIdList, missedProductsIdList) => {
     const newFeedFingerprint = newProductsIdList
         .concat(missedProductsIdList)
         .join('')
-    console.log(newFeedFingerprint)
 
     const lastFeed = feedsDataHistoryList[feedsDataHistoryList.length - 1]
     const lastFeedFingerprint = lastFeed.newProductsID
         .concat(lastFeed.missedProductsID)
         .join('')
-    console.log(lastFeedFingerprint)
 
     if (newFeedFingerprint === lastFeedFingerprint)
-        return console.log('Saving skipped')
+        return console.log('Saving skipped. New save is equal to the last one.')
 
     feedsDataHistoryList.push({
         date: feedObject.yml_catalog.$.date,
