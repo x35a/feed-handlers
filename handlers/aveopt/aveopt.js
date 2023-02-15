@@ -31,28 +31,25 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
     )
 
     // If feeds dates are equal assume no changes in the feed.
-    // if (feedObject.yml_catalog.$.date === previousFeedData.date)
-    //     return console.log('No changes. Feed dates are equal.')
+    if (feedObject.yml_catalog.$.date === previousFeedData.date)
+        return console.log('No changes. Feed dates are equal.')
 
     let offers = feedObject.yml_catalog.shop[0].offers[0].offer
-    //console.log(offers.length)
 
     // Remove out of stock products
     offers = removeOutOfStockProducts(offers)
-    //console.log(offers.length)
 
     // Remove categories
     offers = removeProductsByCategories(offers)
-    //console.log(offers.length)
 
     // Change prices
     offers = changePrices(offers)
-    //console.log(offers.length)
 
     // Save new feed data and exit
     if (saveNewFeedDataFlag)
         return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
 
+    // Print new or missed products id
     findNewOrMissedProductsId(
         offers,
         feedObject,
@@ -60,14 +57,10 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         previousFeedDataFilePath
     )
 
+    // Split feed
     const feeds = splitFeed(offers, feedObject)
 
-    // Save new offers
-    //feedObject.yml_catalog.shop[0].offers[0].offer = offers
-
     // Build xml
-    //const xml = builder.buildObject(feedObject)
-    //fs.writeFileSync('./output/aveopt-feed.xml', xml)
     console.log(`Building xml files`)
     feeds.forEach((feed, index) => {
         const xml = builder.buildObject(feed)
