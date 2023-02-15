@@ -8,6 +8,7 @@ const removeProductsByCategories = require('./remove-products-by-categories')
 const changePrices = require('./change-prices')
 const findMedianPrice = require('./find-median-price')
 const findNewOrMissedProducts = require('./find-new-or-missed-products')
+const saveNewOrMissedProducts = require('./save-new-or-missed-products')
 const splitFeed = require('./split-feed')
 const saveNewFeedDataFlag = process.argv.find(
     (argv) => argv === '--saveNewFeedData'
@@ -31,6 +32,7 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         fs.readFileSync(previousFeedDataFilePath)
     )
 
+    // not working, consider removing
     // If feeds dates are equal assume no changes in the feed.
     if (feedObject.yml_catalog.$.date === previousFeedData.date)
         return console.log('No changes. Feed dates are equal.')
@@ -55,12 +57,14 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
 
     // Print new or missed products id
-    findNewOrMissedProducts(
+    const [newProductsIdList, missedProductsIdList] = findNewOrMissedProducts(
         offers,
         feedObject,
         previousFeedData,
         previousFeedDataFilePath
     )
+
+    saveNewOrMissedProducts(feedObject, newProductsIdList, missedProductsIdList)
 
     // Split feed
     const feeds = splitFeed(offers, feedObject)
