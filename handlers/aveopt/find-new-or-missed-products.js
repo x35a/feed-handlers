@@ -1,7 +1,9 @@
 // Find new or missed products.
 // Compare new and previous feed by products id.
 
+const fs = require('fs')
 const buildFeedSimpleObject = require('./build-feed-simple-object')
+const feedsDataHistoryPath = './handlers/aveopt/feedsDataHistory.json'
 
 module.exports = (
     offers,
@@ -31,6 +33,21 @@ module.exports = (
     )
     console.log(`MISSED PRODUCTS ID\n${missedProductsIdList.join('\n')}\n`)
 
-    if (newProductsIdList.length || missedProductsIdList.length)
+    if (newProductsIdList.length || missedProductsIdList.length) {
         console.log(`UPDATE FILE ${previousFeedDataFilePath}`)
+
+        // Save new and missed products
+        const feedsDataHistoryList = JSON.parse(
+            fs.readFileSync(feedsDataHistoryPath)
+        )
+        feedsDataHistoryList.push({
+            date: newFeed.date,
+            newProductsID: newProductsIdList,
+            missedProductsID: missedProductsIdList
+        })
+        fs.writeFileSync(
+            feedsDataHistoryPath,
+            JSON.stringify(feedsDataHistoryList)
+        )
+    }
 }
