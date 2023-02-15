@@ -13,6 +13,7 @@ const saveNewFeedDataFlag = process.argv.find(
     (argv) => argv === '--saveNewFeedData'
 )
 const saveNewFeedData = require('./save-new-feed-data')
+const replaceVendorCode = require('./replace-vendor-code')
 
 const feedYMLlink =
     'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
@@ -44,6 +45,10 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
 
     // Change prices
     offers = changePrices(offers)
+
+    // Replace <vendorCode>
+    // tilda considers vendorCode as product SKU for some reason then replace vendorCode to original offer id
+    offers = replaceVendorCode(offers)
 
     // Save new feed data and exit
     if (saveNewFeedDataFlag)
