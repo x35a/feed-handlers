@@ -7,7 +7,7 @@ const removeOutOfStockProducts = require('./remove-out-of-stock-products')
 const removeProductsByCategories = require('./remove-products-by-categories')
 const changePrices = require('./change-prices')
 const findMedianPrice = require('./find-median-price')
-const findNewOrMissedProductsId = require('./find-new-or-missed-products')
+const findNewOrMissedProducts = require('./find-new-or-missed-products')
 const splitFeed = require('./split-feed')
 const saveNewFeedDataFlag = process.argv.find(
     (argv) => argv === '--saveNewFeedData'
@@ -50,7 +50,7 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
 
     // Print new or missed products id
-    findNewOrMissedProductsId(
+    findNewOrMissedProducts(
         offers,
         feedObject,
         previousFeedData,

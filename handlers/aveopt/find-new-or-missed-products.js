@@ -1,6 +1,8 @@
 // Find new or missed products.
 // Compare new and previous feed by products id.
 
+const buildFeedSimpleObject = require('./build-feed-simple-object')
+
 module.exports = (
     offers,
     feedObject,
@@ -8,7 +10,7 @@ module.exports = (
     previousFeedDataFilePath
 ) => {
     const prevFeed = previousFeedData
-    const newFeed = getNewFeedSimpleObject(offers, feedObject)
+    const newFeed = buildFeedSimpleObject(offers, feedObject)
 
     // Print feed dates
     console.log(
@@ -16,30 +18,19 @@ module.exports = (
     )
 
     // Find new products
-    const newProductsIdList = newFeed.offersIdList.filter(
+    const newProductsIdList = newFeed.offersID.filter(
         (newFeedId) =>
-            !prevFeed.offersIdList.find(
-                (prevFeedId) => newFeedId === prevFeedId
-            )
+            !prevFeed.offersID.find((prevFeedId) => newFeedId === prevFeedId)
     )
     console.log(`NEW PRODUCTS ID\n${newProductsIdList.join('\n')}\n`)
 
     // Find missed products
-    const missedProductsIdList = prevFeed.offersIdList.filter(
+    const missedProductsIdList = prevFeed.offersID.filter(
         (prevFeedId) =>
-            !newFeed.offersIdList.find((newFeedId) => newFeedId === prevFeedId)
+            !newFeed.offersID.find((newFeedId) => newFeedId === prevFeedId)
     )
     console.log(`MISSED PRODUCTS ID\n${missedProductsIdList.join('\n')}\n`)
 
     if (newProductsIdList.length || missedProductsIdList.length)
         console.log(`UPDATE FILE ${previousFeedDataFilePath}`)
-}
-
-function getNewFeedSimpleObject(offers, feedObject) {
-    let offersIdList = []
-    offers.forEach((offer) => offersIdList.push(offer.$.id))
-    return {
-        date: feedObject.yml_catalog.$.date,
-        offersIdList: offersIdList
-    }
 }
