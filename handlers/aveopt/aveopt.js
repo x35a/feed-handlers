@@ -34,24 +34,17 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
 
     let offers = feedObject.yml_catalog.shop[0].offers[0].offer
 
-    // Remove out of stock products
     offers = removeOutOfStockProducts(offers)
 
-    // Remove categories
     offers = removeProductsByCategories(offers)
 
-    // Change prices
     offers = changePrices(offers)
 
-    // Replace <vendorCode>
-    // tilda considers vendorCode as product SKU for some reason then replace vendorCode to original offer id
-    offers = replaceVendorCode(offers)
+    offers = replaceVendorCode(offers) // tilda considers vendorCode as product SKU for some reason then replace vendorCode to original offer id
 
-    // Save new feed data and exit
     if (saveNewFeedDataFlag)
         return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
 
-    // Print new or missed products id
     const [newProductsIdList, missedProductsIdList] = findNewOrMissedProducts(
         offers,
         feedObject,
@@ -61,7 +54,6 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
 
     saveNewOrMissedProducts(feedObject, newProductsIdList, missedProductsIdList)
 
-    // Split feed
     const feeds = splitFeed(offers, feedObject)
 
     // Build xml
