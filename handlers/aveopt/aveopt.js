@@ -32,11 +32,6 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         fs.readFileSync(previousFeedDataFilePath)
     )
 
-    // not working, consider removing
-    // If feeds dates are equal assume no changes in the feed.
-    if (feedObject.yml_catalog.$.date === previousFeedData.date)
-        return console.log('No changes. Feed dates are equal.')
-
     let offers = feedObject.yml_catalog.shop[0].offers[0].offer
 
     // Remove out of stock products
