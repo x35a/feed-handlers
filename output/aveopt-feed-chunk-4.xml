@@ -1,0 +1,3902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2023-02-17 01:56">
+  <shop>
+    <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
+    <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
+    <url>https://aveon.net.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="30014688">Красота и здоровье</category>
+      <category id="30017035">Автотовары, электроинструмент, ручной инструмент</category>
+      <category id="30017047">Спорт, здоровье, туризм</category>
+      <category id="30018536">Электроника</category>
+      <category id="30017053">Товары для дома и сада</category>
+      <category id="30017064">Детский мир, детские товары</category>
+      <category id="82325193">Кресла-мешки, кресла-груши</category>
+      <category id="86247596">Электроника</category>
+      <category id="88376566">Электроника</category>
+      <category id="70180736">Колонки и акустические системы</category>
+      <category id="70173138">Товары для животных</category>
+      <category id="70180949">PowerBank, внешние аккумуляторы</category>
+      <category id="70181491">Фонари, прожекторы, светильники</category>
+      <category id="70182026">Наушники и гарнитура</category>
+      <category id="71610854">Кулеры для воды</category>
+      <category id="63744367">Чехлы / Стекла на Apple iPhone</category>
+      <category id="30018858">Все для кухни</category>
+      <category id="64032704">Чемоданы / Сумки</category>
+      <category id="92670183">Всё для кухни</category>
+      <category id="86247595">Спорт, фитнес, туризм</category>
+      <category id="99320587">Подарки и сувениры</category>
+      <category id="99406043">Одежда и обувь</category>
+      <category id="109460283">Парфюмерия. Женские и Мужские духи</category>
+      <category id="98559707">Спорт, здоровье, туризм</category>
+      <category id="101985757">Новогодний товар</category>
+      <category id="108784467">Постельное белье ,полотенца</category>
+      <category id="108442227">Красота и здоровье</category>
+      <category id="108442228" parentId="108442227">Косметика декоративная, уход за телом</category>
+      <category id="108852295">Подарки и сувениры</category>
+      <category id="108482107">Уценка</category>
+      <category id="108495070">Парфюмированые спреи Victoria's Secret</category>
+      <category id="110446915">Косметика BILOU , вся продукция нашумевшего Немецкого бренда,ОРИГИНАЛ !</category>
+      <category id="109015942">Пижамы, нижнее белье, халаты</category>
+      <category id="108117197">Мужская обувь</category>
+      <category id="108118382">Женская обувь</category>
+    </categories>
+    <offers>
+      <offer id="1748517508" available="true">
+        <url>https://aveon.net.ua/p1748517508-elektricheskij-gril-rainberg.html</url>
+        <oldprice>1253</oldprice>
+        <price>1103</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4201770747_elektricheskij-gril-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4201770737_elektricheskij-gril-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4201770743_elektricheskij-gril-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4201770744_elektricheskij-gril-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4201770746_elektricheskij-gril-rainberg.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Электрический гриль Rainberg RB-5407</name>
+        <vendor>Rainberg</vendor>
+        <vendorCode>1748517508</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Гриль электрический Rainberg RB-5407
+
+Электрическая сендвичница отлично подходит для готовки горячих сэндвичей, панини. 
+
+Можно жарить или разогревать стейки, сосиски, овощи 
+
+Ребристые пластины покрыты антипригарным материалом, что делает пищу здоровой и легкой. 
+
+Спокойно можно готовить без масла и жира!
+
+Отличные результаты в приготовления также получаются с использованием бумаги для выпечки. 
+
+Сендвичница оснащена нагревательными лампами, которые дают понять, что прибор «готовый к использованию» и чтобы предупредить, когда пластины горячие.
+
+
+
+Преимущества:
+
+
+	Керамическое покрытие;
+	Антипригарная поверхность;
+	Быстрая готовка.
+
+
+Характеристики:
+
+
+	Покрытие: Керамическое;
+	Антипригарная поверхность;
+	Двойной светодиодный индикатор работы;
+	Мощность:2200 Вт;
+	Питание: от сети 220 В;
+	Защита от перегрева.
+
+
+Комплектация:
+
+
+	Гриль
+	Упаковка. 
+
+</description>
+        <param name="Потребляемая мощность" unit="Вт">2200</param>
+        <param name="Тип прибора">Электрический гриль-барбекю</param>
+        <param name="Вариант установки">Настольный</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1751600841" available="true">
+        <url>https://aveon.net.ua/p1751600841-elektrochajnik-crownberg-2845.html</url>
+        <oldprice>728</oldprice>
+        <price>578</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4211235075_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <picture>https://images.prom.ua/4211235074_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <picture>https://images.prom.ua/4211235078_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <picture>https://images.prom.ua/4211235077_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Электрочайник Crownberg CB-2845 дисковый 1.8л 1800Вт Черный</name>
+        <vendor>CROWNBERG</vendor>
+        <vendorCode>1751600841</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Электрочайник Crownberg CB-2845 дисковый 1.8л 1800Вт Черный
+
+Дисковый электрический чайник Crownberg CB-2845 
+
+ Нагревательный элемент в электрочайнике выполнен из нержавеющей стали и имеет закрытый тип.
+
+Данная модель электрочайника может вращаться на 360 градусов на своем цоколе, а корпус устойчив к воздействию высоких температур.
+
+  Корпус изготовлен из пластика высокого качества с элементами металла. Модель чайника имеет удобную и обтекаемую форму ручки.
+
+ 
+
+Характеристики электрочайника Crownberg CB-2845:
+
+
+	Максимальный объем: 1,8 л
+	Тип нагревательного элемента: закрытая спираль (в диске)
+	Мощность: 1800W
+	Фильтр на горлышке
+	Автоматическое отключение
+	Устойчивая платформа с отсеком для хранения шнура
+	Материал корпуса: пластик, метал
+	Питание: 220 V
+
+
+ 
+</description>
+        <param name="Потребляемая мощность" unit="Вт">1800</param>
+        <param name="Объем" unit="л">1.8</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Материал корпуса">Пластик|Нержавеющая сталь</param>
+        <param name="Функция автоотключения">Да</param>
+        <param name="Тип">Электрочайник</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1751611156" available="true">
+        <url>https://aveon.net.ua/p1751611156-elektrochajnik-crownberg-2845.html</url>
+        <oldprice>728</oldprice>
+        <price>578</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4211257422_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <picture>https://images.prom.ua/4211257423_elektrochajnik-crownberg-cb-2845.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Электрочайник Crownberg CB-2845 дисковый 1.8л 1800Вт Зеленый</name>
+        <vendor>CROWNBERG</vendor>
+        <vendorCode>1751611156</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Электрочайник Crownberg CB-2845 дисковый 1.8л 1800Вт Зеленый
+
+Дисковый электрический чайник Crownberg CB-2845 
+
+ Нагревательный элемент в электрочайнике выполнен из нержавеющей стали и имеет закрытый тип.
+
+Данная модель электрочайника может вращаться на 360 градусов на своем цоколе, а корпус устойчив к воздействию высоких температур.
+
+ Корпус изготовлен из пластика высокого качества с элементами металла. Модель чайника имеет удобную и обтекаемую форму ручки.
+
+Характеристики электрочайника Crownberg CB-2845:
+
+
+	Максимальный объем: 1,8 л
+	Тип нагревательного элемента: закрытая спираль (в диске)
+	Мощность: 1800W
+	Фильтр на горлышке
+	Автоматическое отключение
+	Устойчивая платформа с отсеком для хранения шнура
+	Материал корпуса: пластик, метал
+	Питание: 220 V
+
+</description>
+        <param name="Потребляемая мощность" unit="Вт">1800</param>
+        <param name="Объем" unit="л">1.8</param>
+        <param name="Цвет корпуса">Зеленый</param>
+        <param name="Материал корпуса">Нержавеющая сталь|Пластик</param>
+        <param name="Функция автоотключения">Да</param>
+        <param name="Тип">Электрочайник</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1751627264" available="true">
+        <url>https://aveon.net.ua/p1751627264-toster-crownberg-cb1105.html</url>
+        <oldprice>713</oldprice>
+        <price>563</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4211281865_toster-crownberg-cb1105.jpg</picture>
+        <picture>https://images.prom.ua/4211281864_toster-crownberg-cb1105.jpg</picture>
+        <picture>https://images.prom.ua/4211281861_toster-crownberg-cb1105.jpg</picture>
+        <picture>https://images.prom.ua/4211281862_toster-crownberg-cb1105.jpg</picture>
+        <picture>https://images.prom.ua/4211281863_toster-crownberg-cb1105.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Тостер CROWNBERG CB1105 220V 750W Белый</name>
+        <vendor>CROWNBERG</vendor>
+        <vendorCode>1751627264</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Тостер Crownberg CB 1105 представляет собой небольшое кухонное приспособление, выполненное в классическом стиле белого цвета. Благодаря своей удобной прямоугольной форме, он может легко разместиться в любом, даже самом небольшом уголке кухни. Корпус изделия выполнен из качественного пластика, в процессе работы не нагревается, что позволяет прикасаться к нему, не боясь обжечься.
+
+Что касается технических характеристик, то они являются универсальными для приборов этого класса. Конструкцией предусмотрено два отсека для одновременного приготовления тостов. Мощность составляет 750 Вт, чего вполне достаточно, чтобы обеспечить качественное и равномерное поджаривание хлеба.
+
+Термостат на 7 позиций, позволяет выбрать тот оттенок корочки, который любите именно Вы. Например, установив минимальную степень зажаривания, Вы получите подрумяненную гренку со слегка влажной мякотью. В случае выбора высокого показателя, хлеб получается полностью хрустящим с характерным зажаренным оттенком.
+
+Тостер имеет автоматическое управление, которое производит контроль времени поджаривания в зависимости от выбранной температуры. По мере готовности гренки автоматически подбрасываются вверх, после чего их можно легко извлечь руками, не используя при этом вспомогательные приспособления.
+
+Данная модель обладает 7 уровнями прожарки, и кнопкой «Стоп».
+
+Преимущества:
+
+
+	Эргономичный дизайн;
+	Кнопка "Стоп";
+	Простое удобное использование;
+	Возможность поджаривания толстых ломтиков хлеба;
+	Открывающийся поддон для крошек.
+
+
+Основные характеристики:
+
+
+	Кол-во отделений: 2;
+	7 уровней прожарки;
+	Мощность: 750 Вт;
+	Кнопка «Стоп»;
+	Поддон для крошек.
+	Габариты: 265x125x170 мм
+
+
+ 
+</description>
+        <param name="Потребляемая мощность" unit="Вт">750</param>
+        <param name="Тип управления">Механическое</param>
+        <param name="Цвет корпуса">Белый</param>
+        <param name="Количество отделений">2</param>
+        <param name="Регулировка степени обжаривания">Да</param>
+        <param name="Назначение">Бытовое</param>
+        <param name="Состояние">Новое</param>
+        <param name="Источник питания">Электричество</param>
+      </offer>
+      <offer id="1751643430" available="true">
+        <url>https://aveon.net.ua/p1751643430-perenosnaya-solnechnaya-stantsiya.html</url>
+        <oldprice>1253</oldprice>
+        <price>1103</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4211310213_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310200_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310199_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310202_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310195_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310203_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310198_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <picture>https://images.prom.ua/4211310196_perenosnaya-solnechnaya-stantsiya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Переносная солнечная станция GDTIMES GD-106</name>
+        <vendor>Solar</vendor>
+        <vendorCode>1751643430</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Солнечная панель поможет вам получить источник света и зарядить ваши устройства, где бы вы не находились. Вы получаете автономный источник энергии даже в условиях отключения централизованного электропитания или на природе.  С её помощью вы можете зарядить телефон или планшет, а также обеспечить освещение (светодиодными лампами, входящими в комплект) за счет встроенного аккумулятора и солнечной энергии. В лампочках используются мощные и экономичные светодиоды белого цвета. Их яркости достаточно практически для любых задач, будь-то чтение или приготовление пищи. Для заряда телефонов или других гаджетов в наборе имеется 3 самых распространённых разъёма. Для использования системы не нужно обладать специальными знаниями – всё просто и интуитивно понятно. Также стоит отметить удобный и прочный корпус, который защищает содержимое от повреждений.
+
+Характеристики:
+
+
+	Материал продукта: ABS пластик;
+	Лампочки 3шт
+	время работы: 5 -12 ч
+	Аккумулятор емкостью 4000 МАЧ
+	зарядка двух телефонов одновременно
+	быстрая зарядка мобильного телефона
+	Солнечная панель 6V 3,8 W
+	Суммарная мощность ламп 30 W
+
+
+Комплектация:
+
+
+	фонарь
+	3 лампы
+	зарядный кабель
+	солнечная панель
+
+</description>
+        <param name="Вес" unit="кг">0.535</param>
+        <param name="Ширина" unit="мм">170</param>
+        <param name="Длина" unit="мм">130</param>
+        <param name="Толщина" unit="мм">55</param>
+        <param name="Максимальная рабочая температура" unit="град.">75</param>
+        <param name="Материал рамки">Стеклопластик</param>
+        <param name="Напряжение" unit="В">6</param>
+        <param name="Минимальная рабочая температура" unit="град.">-10</param>
+        <param name="Мощность" unit="Вт">3.5</param>
+        <param name="Степень защиты IP">65</param>
+        <param name="Напряжение холостого хода" unit="В">3.2</param>
+        <param name="Тип панели">Монокристаллическая</param>
+        <param name="Количество элементов" unit="шт.">1</param>
+        <param name="КПД, не менее" unit="%">90</param>
+        <param name="Напряжение при максимальной мощности" unit="В">7.2</param>
+        <param name="Ток при максимальной мощности" unit="А">0.55</param>
+        <param name="Ток короткого замыкания" unit="А">0.577</param>
+      </offer>
+      <offer id="1751649115" available="true">
+        <url>https://aveon.net.ua/p1751649115-akkumulyatornaya-batareya-dlya.html</url>
+        <oldprice>480</oldprice>
+        <price>330</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4211337037_akkumulyatornaya-batareya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4211337034_akkumulyatornaya-batareya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4211337026_akkumulyatornaya-batareya-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторная батарея для весов, фонарей, игрушек GDLITING GD-645</name>
+        <vendor>Gdlite</vendor>
+        <vendorCode>1751649115</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Аккумулятор GDLITE-GD-645 6V 4.0Ah для весов и фонарей
+
+Данная модель аккумулятора предназначена для различного вида продукции такого как электронные весы, детские автомобили, фонари, системы охраны, сигнализации, и другие виды где необходим источник питания 6v. Данный аккумулятор относится к свинцово-кислотным и оптимизирован как для циклического, так и для буферного применения. Имеет высокий коэффициент отдачи. Данная модель, аккумулятор GDLITE-GD-645 6V представляет из себя герметичную конструкцию изготовленную из высококачественной пластмассы. 
+
+Характеристика:
+
+
+	Тип: аккумулятор для торговых весов;
+	Подходит: для весов, фонарей, радиоприемников;
+	Емкость аккумулятора: 6 V 4 A;
+	Герметичный корпус, низкий саморазряд;
+	Свинцово-кислотный;
+	Емкость: 4000 mAh;
+	6 вольт;
+	Размеры: 70×47×107 мм.
+
+</description>
+        <param name="Высота" unit="мм">107</param>
+        <param name="Ширина" unit="мм">47</param>
+        <param name="Длина" unit="мм">70</param>
+        <param name="Тип аккумулятора">Свинцово-кислотные (SLA)</param>
+        <param name="Максимальная рабочая температура" unit="град.">50</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Напряжение" unit="В">6</param>
+        <param name="Минимальная рабочая температура" unit="град.">-10</param>
+        <param name="Ток заряда" unit="А">4</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1751654209" available="true">
+        <url>https://aveon.net.ua/p1751654209-akkumulyatornyj-fonar-7128.html</url>
+        <oldprice>555</oldprice>
+        <price>405</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4211370280_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211370277_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211370276_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211370274_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211370278_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211370275_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <picture>https://images.prom.ua/4211426694_akkumulyatornyj-fonar-hg-7128.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторный фонарь HG-7128 2800mAh</name>
+        <vendorCode>1751654209</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь-прожектор HG-7128 - это качественный и надежный фонарик, отличия от похожих моделей данного производителя, данная модель отличается емкостью аккумулятора, он 2800 mAh и качественным корпусом, станет верным спутником дома и на работе, в походе и на рыбалки. Сочетает в себе свойства ручного фонаря и стационарного прожектора.
+
+Характеристики:
+
+
+	Емкость : 2800 mAh
+	Заряд от сети 220в.
+	2 режима работы
+	Время работы: до 6 часов
+	Вес: 532гр.
+	Время зарядки аккумулятора: от 5 до 6 часов
+	Индикатор заряда
+	Высота: 24см
+	Ширина: 13см
+
+
+Комплектация:
+
+
+	Фонарь
+	Кабель 
+	Заводская упаковка
+
+</description>
+        <param name="Тип питания">Аккумулятор|Сеть</param>
+        <param name="Цвет">Оранжевый</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1751688358" available="true">
+        <url>https://aveon.net.ua/p1751688358-fonarik-ruchnoj-bailong.html</url>
+        <oldprice>221</oldprice>
+        <price>71</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4211481783_fonarik-ruchnoj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4211481777_fonarik-ruchnoj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4211481775_fonarik-ruchnoj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4211481778_fonarik-ruchnoj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4211481776_fonarik-ruchnoj-bailong.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарик ручной Bailong BL-B11 (203), карманный, на батарейках</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1751688358</vendorCode>
+        <description>Фонарик ручной Bailong BL-B11 (203), карманный, на батарейках
+
+Небольшой фонарик Police BL-B11 легкий и удобный в использовании.
+
+Он непременно станет помощником дома и на работе, в походе
+
+и на рыбалке. Источником света служит светодиод, который
+
+обеспечивает качественное освещение.
+
+Корпус Police BL-B11 изготовлен по передовым технологиям
+
+из анодированного алюминия. Пыле- влагозащищенный,
+
+ударопрочный, он легко переносит экстремальные условия и
+
+обеспечивает высокую степень комфорта его обладателя.
+
+Управление фонарем осуществляется резиновой кнопкой
+
+включения, которая находится на задней крышке.
+
+ 
+
+Характеристика:
+
+
+	Материал корпуса: анодированный алюминий
+	Включатель резиновая кнопка
+	Точный WATT LED
+	Более экономный и ударостойкий чем обычный фонарь
+	Продолжительность работы LED достигает 100,000 часов
+	Источник питания: 3 батарейки типа ААА (не идут в комплекте)
+	Режим работы: 1 Габариты: длина 86мм;
+	Диаметр корпуса 23мм.
+
+</description>
+        <param name="Тип питания">Батарейки</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1752023368" available="true">
+        <url>https://aveon.net.ua/p1752023368-fonar-dlya-kempinga.html</url>
+        <oldprice>443</oldprice>
+        <price>293</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4212641471_fonar-dlya-kempinga.jpg</picture>
+        <picture>https://images.prom.ua/4212641472_fonar-dlya-kempinga.jpg</picture>
+        <picture>https://images.prom.ua/4212641473_fonar-dlya-kempinga.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь для кемпинга с солнечной панелью BL-5800 Золото</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1752023368</vendorCode>
+        <description>Многофункциональный кемпинговый фонарь для использования в походных условиях и не только.
+
+Это светодиодная лампа, с удобной ручкой, для переноски или подвешивания в палатке, над столом, над поляной, и т.д.
+
+Идеальный вариант автономного освещения для походов, «дикого» отдыха в палатках, рыбалки, пикников, может использоваться и на даче, и в частном доме и даже в квартире в качестве резервного источника света.
+
+Фонарь кемпинговый сочетает в себе функции лампы для освещения палатки или кемпинга и источника питания, который позволяет заряжать мобильные гаджеты.
+
+Подключаемые устройства заряжаются через встроенный USB-порт.
+
+Питание фонаря осуществляется от встроенного литиевого аккумулятора ёмкостью 1300мАч.
+
+Зарядка аккумулятора осуществляется от сети 220 вольт или от встроенной солнечной панели.
+
+Фонарь устойчив на поверхности, переносить его можно при помощи ручки, можно подвесить фонарь в палатке.
+
+Данная модель кемпингового фонаря  подойдет для использования как в обычной бытовой ситуации, так и в экстренной ситуации ввиду отключения света или его длительного отсутствия. 
+
+Преимущества
+
+
+	 Удобная ручка для подвешивания или переноски
+	 Заряд от солнечной батареи
+	 Долгое время работы
+	 Два режима работы
+	 Возможность заряжать мобильные устройства
+
+
+Характеристики
+
+
+	Емкость аккумулятора: 1300мАч
+	 Тип лампочки: светодиодная
+	 Тип заряда: солнечные батареи, от сети
+	 Режимы работы: диффузное свечение, направленное свечение
+	 Материал корпуса: пластик
+	 Размеры: 135мм 80мм
+	 Вес: 270г
+
+
+Комплектация
+
+
+	 Фонарик
+	 Кабель для зарядки
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Золотистый</param>
+      </offer>
+      <offer id="1752165701" available="true">
+        <url>https://aveon.net.ua/p1752165701-plastyr-pryschej-acne.html</url>
+        <oldprice>237</oldprice>
+        <price>87</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4213103902_plastyr-ot-pryschej.jpg</picture>
+        <picture>https://images.prom.ua/4213122227_plastyr-ot-pryschej.jpg</picture>
+        <picture>https://images.prom.ua/4213103905_plastyr-ot-pryschej.jpg</picture>
+        <picture>https://images.prom.ua/4213103903_plastyr-ot-pryschej.jpg</picture>
+        <picture>https://images.prom.ua/4213103904_plastyr-ot-pryschej.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Пластырь от прыщей Acne Patch</name>
+        <vendor>Acne</vendor>
+        <vendorCode>1752165701</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Acne Patch доступен для ночного и ежедневного использования, что сохраняет кожу под ним влажной, что увеличивает проницаемость кожи. Удерживает активный ингредиент на месте, поэтому он случайно не стирается. Пластырь защищает ваш прыщ от трения и прикосновения, а также сохраняет влажность раны, поэтому она заживает быстрее и лучше.
+
+ 
+Функции
+
+
+	Излечивает прыщи всего за 6 часов
+	Ультратонкий и прозрачный, сочетается со всеми оттенками кожи
+	Идеально подходит для дневного и ночного использования
+	Поглощает жидкость и уменьшает воспаление
+	Создает барьер, стимулирующий процесс заживления ран
+	Предотвращает появление прыщей
+	Увлажняет, гипоаллергенен, безопасен для чувствительной кожи.
+
+
+ 
+
+Как вылечить прыщи?
+
+
+	Закройте воспаленные прыщи пластырем от прыщей.
+	Пластырь от прыщей впитывает гной и становится непрозрачным.
+	Гидроколлоид защищает раны от пыли и вирусов в воздухе.
+	Кожа восстановилась, гладкая.
+
+
+ 
+
+Принцип работы пластыря от прыщей
+
+ 
+
+Направление использования
+
+
+	Сначала вымойте и высушите область прыщей. (Для лучшего эффекта сначала возьмите средства, чтобы уколоть прыщи.)
+	Снимите пленку и выньте пластырь.
+	Нанесите на область прыща, слегка прижмите на 3-5 секунд для лучшего сцепления. (Не повторяйте, чтобы разорвать пластырь.)
+	Удалите и замените после того, как он станет непрозрачным. Носите на ночь или не менее 5 часов.
+
+
+
+
+Как использовать пластырь от прыщей
+
+Функция
+
+Основная функция заключается в том, чтобы выступать в качестве физического барьера для изоляции пыли и вредных веществ, предотвращать раздражение прыщей косметикой и обеспечивать влажную среду для уменьшения вероятности образования рубцов.
+
+Более того, абсорбция экссудата, замкнутая лечебная среда могут способствовать пролиферации микрососудов и образованию грануляционной ткани, тем самым ускоряя заживление раны.
+
+
+</description>
+      </offer>
+      <offer id="1752305970" available="true">
+        <url>https://aveon.net.ua/p1752305970-akkumulyatornyj-fonar-lampa.html</url>
+        <oldprice>630</oldprice>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213529055_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213529058_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213529057_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторный Фонарь-Лампа LED DP-7161B 1500 mAh 6,8W</name>
+        <vendorCode>1752305970</vendorCode>
+        <description>Светильник переносной с аккумулятором DP LED Light DP-7161B  – это незаменимая вещь в период, перебоев со светом и электричеством. Светильник с аккумулятором DP LED Light DP-7161B подойдет как для туристических походов, так и для работы и для чтения. Когда в доме выключите электричество, Вы сможете оценить по достоинству функции диодного светильника.
+
+Светильник оборудован 34 LED энергосберегающими светодиодами. Светодиодная лампа очень удобна и компактна, имеет встроенный мощный аккумулятор на 1500 mAh, которого хватает на несколько часов автономной работы.
+
+
+
+     Характеристики:
+
+	        Тип устройства: светодиодная лампа
+	        Мощность: 6,8W
+	        Вид установки: напольный / настольный / настенный /
+	        Материал корпуса: пластик
+	        Цвет: белый
+
+
+
+Особенности:
+
+
+	ручка для удобной переноски
+	 лампа оснащена регулятором яркости на лицевой части
+	 большой ресурс работы 30000-50000 ч.
+	 использует минимум энергии, благодаря чему может длительное время работать без подзарядки от сети.
+	 стойкий к ударам корпус из пластика.
+
+Кроме того, сами светодиоды намного лучше, чем лампы накаливания, защищены от вибраций.</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752310494" available="true">
+        <url>https://aveon.net.ua/p1752310494-akkumulyatornyj-fonar-lampa.html</url>
+        <oldprice>630</oldprice>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213539807_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213539803_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213539801_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213539802_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213539804_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213539812_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторный Фонарь-Лампа LED DP-7104B 1500 mAh 8W</name>
+        <vendorCode>1752310494</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Характеристики и описание
+
+Светильник переносной с аккумулятором DP LED Light DP-7104B  – это незаменимая вещь в период, перебоев со светом и электричеством. Светильник с аккумулятором DP LED Light DP-7104B подойдет как для туристических походов, так и для работы и для чтения. Когда в доме выключите электричество, Вы сможете оценить по достоинству функции диодного светильника.
+
+
+
+     Характеристики:
+
+
+	        Тип устройства: светодиодная лампа
+	        Мощность: 8W
+	        Вид установки: напольный / настольный / настенный /
+	        Материал корпуса: пластик
+
+
+Особенности:
+
+
+	 выдвижная ручка для удобной переноски
+	 лампа оснащена переключателем на 2 режима:
+	1-й режим только правая лампа (переключатель справа на торце)
+	2-й режим работают 2 лампы (переключатель справа на торце)
+	 большой ресурс работы 30000-50000 ч.
+	 использует минимум энергии, благодаря чему может длительное время работать без подзарядки от сети.
+	 стойкий к ударам корпус из пластика.
+
+
+Кроме того, сами светодиоды намного лучше, чем лампы накаливания, защищены от вибраций.
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752314732" available="true">
+        <url>https://aveon.net.ua/p1752314732-akkumulyatornyj-fonar-lampa.html</url>
+        <oldprice>630</oldprice>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213562152_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213562151_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <picture>https://images.prom.ua/4213562163_akkumulyatornyj-fonar-lampa-led.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторный Фонарь-Лампа LED 4+2.4W DP-7104 1500 mAh</name>
+        <vendorCode>1752314732</vendorCode>
+        <description>Светильник переносной с аккумулятором DP LED Light DP-7104  – это незаменимая вещь в период, перебоев со светом и электричеством. Светильник с аккумулятором DP LED Light DP-7104 подойдет как для туристических походов, так и для работы и для чтения. Когда в доме выключите электричество, Вы сможете оценить по достоинству функции диодного светильника.
+
+Светильник оборудован 40 LED энергосберегающими светодиодами. Светодиодная лампа очень удобна и компактна, имеет встроенный мощный аккумулятор на 1500 mAh, которого хватает на несколько часов автономной работы.
+
+
+
+     Характеристики:
+
+	        Тип устройства: светодиодная лампа
+	        Мощность: 4+2,4W
+	        Вид установки: напольный / настольный / настенный /
+	        Материал корпуса: пластик
+	        Цвет: белый
+
+
+
+Особенности:
+
+
+	 выдвижная ручка для удобной переноски
+	 лампа оснащена переключателем на 3 режима (выкл/мин/макс)
+	 большой ресурс работы 30000-50000 ч.
+	 использует минимум энергии, благодаря чему может длительное время работать без подзарядки от сети.
+	 стойкий к ударам корпус из пластика.
+
+Кроме того, сами светодиоды намного лучше, чем лампы накаливания, защищены от вибраций.</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752320732" available="true">
+        <url>https://aveon.net.ua/p1752320732-kempingovyj-fonar-akkumulyatornyj.html</url>
+        <oldprice>735</oldprice>
+        <price>585</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213572198_kempingovyj-fonar-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4213572197_kempingovyj-fonar-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4213572196_kempingovyj-fonar-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4213572195_kempingovyj-fonar-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4213572194_kempingovyj-fonar-akkumulyatornyj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кемпинговый фонарь аккумуляторный переносной DP-7044С лампа ночник 8W</name>
+        <vendorCode>1752320732</vendorCode>
+        <description>Фонарь переносной аккумуляторный DP-7044С – это отличная светодиодная лампа, которая пригодится туристам, рыбакам и охотникам. Также может использоваться и в домашних условиях.
+
+
+
+Маленький светильник с ручкой (можно повесить, удобно взять в руки, закрепить на стену и ветку) и регулятором яркости. Очень хороший ненавязчивый свет, идеален в наше время света, на случай отключения света в офисе, квартире или как освещение кемпинга.
+
+
+
+  Характеристики:
+
+	       Элемент питания: Встроенный аккумулятор 1800 mAh
+	       Мощность: 8W
+	       Количество светодиодов: 36шт
+	       Количество режимов: регулятор яркости
+	       Тип диода: LED
+	       Размеры: 254 х 127 мм;
+	       Вес: 450гр
+	      Тип установки: напольный/настольный/настенный
+
+ 
+
+  Комплектация:
+
+
+	     Фонарь DP-7044С
+	     Зарядное устройство
+	     Фирменная коробка
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752337653" available="true">
+        <url>https://aveon.net.ua/p1752337653-fonar-bazuka-kemping.html</url>
+        <oldprice>848</oldprice>
+        <price>698</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213604344_fonar-bazuka-kemping.jpg</picture>
+        <picture>https://images.prom.ua/4213604342_fonar-bazuka-kemping.jpg</picture>
+        <picture>https://images.prom.ua/4213604343_fonar-bazuka-kemping.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь базука, кемпинг с регулятором 2800mAh 8W DURATION POWER DP-7048C</name>
+        <vendorCode>1752337653</vendorCode>
+        <description>Характеристики и описание
+
+• Номер модели: LED-7048
+
+• Емкость аккумулятора: 2800 мАч
+
+• Напряжение: 100—240 В переменного тока, 50/60 Гц
+
+• Ток: 0,15 А переменного тока, 1,2 Вт
+
+• Мощность освещения: 4 Вт
+
+• Время зарядки: 18 часов
+
+• Время использования: 5 часов
+
+• Сделано в Китае Инструкции:
+
+• Подключите блок питания, если индикатор зарядки загорается, а значит, он находится в состоянии зарядки. Время зарядки требует около 18 часов.
+
+• С помощью поворотного переключателя можно регулировать освещение по часовой стрелке и против часовой стрелки.
+
+• Когда светодиодная лампа не горит во время использования, это означает, что батарея находится в стадии разрядки. В этот момент, чтобы защитить аккумулятор, пожалуйста, прекратите использование и зарядите его вовремя. (Пожалуйста, зарядите до того, как светодиодная лампа полностью погаснет, иначе это может повредить аккумулятор)
+
+• Обычно следует использовать фонарь для кемпинга, пожалуйста, не t долгосрочная полка это. Если вы обычно не используете его, пожалуйста, заряжайте его каждые 3 месяца, иначе это повлияет на срок службы батареи. Внимание:
+
+• Электропитание и розетка должны быть безопасными и стандартными.
+
+• Пожалуйста, не стреляйте прямо в глаза, это повлияет на зрение. (Дети должны быть проинструктированы взрослыми)
+
+• Беречь от дождя или влаги.
+
+• Процесс зарядки должен проходить вдали от легковоспламеняющихся и взрывоопасных материалов. Время зарядки не может превышать 24 часов. (Предложение зарядки в дневное время)
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752348246" available="true">
+        <url>https://aveon.net.ua/p1752348246-fonar-bazuka-kemping.html</url>
+        <oldprice>968</oldprice>
+        <price>818</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4213618363_fonar-bazuka-kemping.jpg</picture>
+        <picture>https://images.prom.ua/4213618361_fonar-bazuka-kemping.jpg</picture>
+        <picture>https://images.prom.ua/4213618362_fonar-bazuka-kemping.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь базука, кемпинг с регулятором 2800mAh 8.8W DURATION POWER DP-7061C</name>
+        <vendorCode>1752348246</vendorCode>
+        <description>Характеристики и описание
+
+ПОРТАТИВНЫЙ СВЕТОДИОДНЫЙ ФОНАРЬ НА ПЕРЕЗАРЯДКЕ – необходим в каждом доме.
+
+Подходит для учебы, гостиной при отключении электроэнергии или необходимости дополнительного освещения.
+
+Может использоваться как фонарь, а также как настольная лампа.
+
+Регулировка света Steeples: свинцово-кислотный аккумулятор большой емкости 2800 мАч для работы без обслуживания.
+
+Продукт сертифицирован BIS.
+
+Высокоэкономичный супер яркий светодиод 8,8 Вт 40 SMD.
+
+Порт для зарядки солнечной панели помогает заряжать его солнечной энергией, когда прямой источник питания недоступен.
+
+Встроенный крючок помогает повесить и легко переносить в любом месте.
+
+Потребляемая мощность: 8,8 Вт 15 часов зарядки, 2 часа резервного питания Емкость аккумулятора: 2800 мАч
+
+Настенный монтаж Источник питания: перезаряжаемый
+
+Требования к питанию: напряжение переменного тока 100-240 В ~ 50/60 Гц, ток переменного тока 0 1,5 А 1,2 Вт
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности фонаря">Зарядка для телефона</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+      <offer id="1752865019" available="true">
+        <url>https://aveon.net.ua/p1752865019-organajzer-dlya-kosmetiki.html</url>
+        <oldprice>248</oldprice>
+        <price>98</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4215159347_organajzer-dlya-kosmetiki.jpg</picture>
+        <picture>https://images.prom.ua/4215159355_organajzer-dlya-kosmetiki.jpg</picture>
+        <picture>https://images.prom.ua/4215159348_organajzer-dlya-kosmetiki.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Органайзер для косметики  7 ячеек для вертикального хранения</name>
+        <vendorCode>1752865019</vendorCode>
+        <description>Органайзер – отличное решение для хранения косметики. 
+
+Тщательно продуманная конструкция позволяет хранить помады, кисти, аппликаторы, палетки, тюбики разных размеров, а также бижутерию всегда под рукой.
+
+Органайзер имеет 7 ячеек для вертикального хранения, обеспечивая легкий доступ к каждой секции. 
+
+Высота изделия 6,0 см, размеры: 9,7*9,7 см. 
+
+Органайзер изготовлен из пластика, который безопасен для здоровья человека и обладает высокой износостойкостью и не требует особого ухода.
+
+Его прозрачные стены позволяют видеть содержимое.
+
+Органайзер позволяет сохранять косметику компактно и доступно к быстрому использованию, соблюдая аккуратность и гигиеничность их хранения. Универсальный дизайн дополнит интерьер любой ванной или туалетного столика.
+
+Характеристики:
+
+
+	Производитель: BeeHome Akay
+	Страна производитель Турция
+	Высота 6,0 см
+	Длина: 9,7 см
+	Ширина: 9,7 см
+	Материал: пластик
+	Цвет: прозрачный
+
+</description>
+        <param name="Высота" unit="см">6</param>
+        <param name="Ширина" unit="см">9.7</param>
+        <param name="Длина" unit="см">9.7</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="1754656133" available="true">
+        <url>https://aveon.net.ua/p1754656133-nastolnaya-podstavka-derzhatel.html</url>
+        <oldprice>248</oldprice>
+        <price>98</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4221006991_nastolnaya-podstavka-derzhatel.jpg</picture>
+        <picture>https://images.prom.ua/4221006988_nastolnaya-podstavka-derzhatel.jpg</picture>
+        <picture>https://images.prom.ua/4221006990_nastolnaya-podstavka-derzhatel.jpg</picture>
+        <picture>https://images.prom.ua/4221006981_nastolnaya-podstavka-derzhatel.jpg</picture>
+        <picture>https://images.prom.ua/4221006984_nastolnaya-podstavka-derzhatel.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Настольная подставка держатель для телефона планшета Folding desktop phone stand Розовая</name>
+        <vendor>Foldingbed</vendor>
+        <vendorCode>1754656133</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Универсальная подставка для телефона или планшета Folding desktop phone stend с диагональю 4.5-11 дюймов подходит для большенства моделей телефонов, смартфонов и планшета. 
+
+Благодаря возможности регулировки поставки, в держатель телефона планшета можно установить телефон или планшет абсолютно любого размера. Также можно отрегулировать в ходе эксплуатации угол наклона гаджета, и его расстояние от глаз. 
+
+Шарнирное крепление позволяет регулировать угол наклона настольная подставка держатель Folding desktop phone stend в диапазоне 120 градусов, для идеального угла обзора Вашего устройства.
+
+Телескопический механизм позволят увеличить высоту держателя на 4см. Снизу корпуса подставка для телефона имеет прорезь для кабеля зарядки телефона, таким образом вы можете поставить телефон на подставку, и при этом сразу заряжать его. 
+
+Благодаря таким качествам, наклоняться к настольная подставка-держатель смартфона не нужно, поскольку можно отрегулировать угол наклона держателя и занять комфортное положение, в котором шейный отдел позвоночника будет отдыхать. Также с помощью такого держателя можно удобно вести переговоры, предварительно настроив обзор камеры. 
+
+Универсальный держатель-подставка для телефона может использоваться дома, в офисе, а также будет полезный студентам во время учебы.
+
+Преимущество:
+
+Держатель телефона планшета совместим с любыми моделями телефонов и планшетов, поскольку его можно использовать с гаджетом с диагональю экрана вот 4.7 дюйма до 10 дюймов;
+
+Подходит для просмотра фильмов, ведения переговоров;
+
+Угол наклона экрана гаджета можно регулировать в диапазоне 120°.
+
+Держатель для планшета изготовлен из пластика;
+
+Место крепления гаджета покрыто силиконом, чтобы предотвратить скольжение и появление царапин.;
+
+Утяжеленное основание не дает возможности гаджету переворачиватся.
+
+Технические характеристики:
+
+
+	Тип товара: универсальный держатель для смартфона или планшета;
+	Подходит для телефонов и планшетов 4.5-11 дюймов;
+	Материал изготовления: пластик и силикон;
+	Возможность регулировки угла наклона: да;
+	Возможность регулировки высоты: да;
+	Складная конструкция: да;
+	Размер в сложенном виде: 110*66 мм.
+	Размер в разложенном виде: 159*110*66 мм.
+	Цвет: Розовый.
+
+</description>
+        <param name="Цвет">Розовый</param>
+        <param name="Крепление">Настольное</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1755687193" available="true">
+        <url>https://aveon.net.ua/p1755687193-fonarik-karmannyj-bailong.html</url>
+        <oldprice>315</oldprice>
+        <price>165</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224267466_fonarik-karmannyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4224267465_fonarik-karmannyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4224267467_fonarik-karmannyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4224267464_fonarik-karmannyj-bailong.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарик карманный Bailong BL-1501 ХРЕ+COB с встроенным аккумулятором Черный</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1755687193</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарик карманный Bailong BL-1501 ХРЕ+COB с встроенным аккумулятором - миниатюрный фонарик с ярким светом и тремя режимами свечения (XPE, COB, стробоскоп) в компактном, влагозащищенном и ударопрочном металлическом корпусе из алюминиевого сплава.
+
+Для большего удобства ручной фонарь имеет ремешок для фиксации на запястье.
+
+Заряжается с помощью USB кабеля.
+
+Он станет незаменимым другом на природе, прогулке, в лесу или на работе, также он станет отличным подарком Вашим близким, и, несомненно, замечательным приобретением для себя.
+
+Описание особенностей:
+
+
+	Толстый металлический корпус, что придаёт фонарю высокую прочность
+	Удобная кнопка включения
+	Аккумулятор встроенный, зарядка через USB порт
+	Наличие яркой COB панели в корпусе фонаря - превращающая фонарик в кемпинговый!
+
+
+Характеристики:
+
+
+	Мощность: 150 люмен
+	Дальность свечения: до 10 м
+	Фокусировка луча (zoom): Нет
+	Питание: встроенный аккумулятор
+	Зарядное устройство: USB порт
+	Корпус: анодированный алюминий
+	Количество режимов работы: 3 (XPE, COB, стробоскоп)
+	Длина: 87 мм.
+
+
+Комплектация:
+
+
+	Фонарь
+	Пластиковый кейс
+	Micro-usb кабель для зарядки фонаря.
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+        <param name="Цвет">Черный</param>
+      </offer>
+      <offer id="1755694209" available="true">
+        <url>https://aveon.net.ua/p1755694209-multifunktsionalnyj-fonar-hel.html</url>
+        <oldprice>870</oldprice>
+        <price>720</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224294109_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294111_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294112_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294110_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294114_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294113_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <picture>https://images.prom.ua/4224294929_multifunktsionalnyj-fonar-hel-t96.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Мультифункциональный фонарь HEL-T96 (LM+2хCOB белый и красный) + Powerbank + солнечная панель + microUSB</name>
+        <vendor>HEL</vendor>
+        <vendorCode>1755694209</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь HEL-T96 (LM+2хCOB белый и красный) + Powerbank + солнечная панель + microUSB
+
+Мультифункциональный портативный фонарь HEL-T96 с множеством режимов освещения и возможностью быть использованным как светильник, чтобы повешать в палатке или за его пределами, способный осветить тёмные уголки комнаты или любого другого окружения и будет верным напарником при походах, кемпинге или просто если остались где нибудь без света.
+
+Отличается от других фонарей, большим объёмом батареи, что позволяет ему работать очень длительное время, без потребности подзарядки. Также может пригодиться в экстренной ситуации как powerbank, чтобы подзарядить ваш мобильный телефон.
+
+7 режимов работы
+
+Огромным плюсом будет то, что этот фонарь можно заряжать от солнца, так как в нём встроена солнечная батарея. Данная модель фонаря имеет 7 режимов работы, которые можно переключать с помощью маленькой кнопки на рукояти фонаря. Семь режимов свечения:
+
+Основные: Яркий, тусклый, мерцание.
+
+Боковые: Яркий, тусклый, красный, красное мерцание.
+
+Рукоять фонаря удобно лежит в руке, и благодаря прорезиненному покрытию под пальцы, обеспечивает крепкий хват и надёжность сцепления с рукой.
+
+ 
+
+
+	Основные
+	Материал корпуса    Пластик
+	Тип лампы    Светодиодная
+	 Мощность лампы    10 Вт
+	 Дальность светового луча    1000 м
+	 Режимы работы фонаря    Максимальный, Минимальный, Мигающий, Режим SOS, Сберегающий
+	Тип питания      Аккумулятор
+	Тип заряда    От сети, Солнечные батареи, USB, micro USB
+	Время работы    500 час
+	Цвет     Бирюзовый
+	Тип диода    COB
+	Тип фонаря    Ручной
+
+
+Дополнительные характеристики
+
+
+	Упаковка    Картонная коробка
+	Длительность работы    16 часов
+	Емкость аккумулятора (mAh)    20000
+	Количество режимов свечения    7
+
+
+Комплектация
+
+
+	Фонарь 
+	Коробка
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1755703847" available="true">
+        <url>https://aveon.net.ua/p1755703847-kempingovyj-fonar-hel.html</url>
+        <oldprice>833</oldprice>
+        <price>683</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224330350_kempingovyj-fonar-hel-t93.jpg</picture>
+        <picture>https://images.prom.ua/4224330347_kempingovyj-fonar-hel-t93.jpg</picture>
+        <picture>https://images.prom.ua/4224330348_kempingovyj-fonar-hel-t93.jpg</picture>
+        <picture>https://images.prom.ua/4224330351_kempingovyj-fonar-hel-t93.jpg</picture>
+        <picture>https://images.prom.ua/4224330346_kempingovyj-fonar-hel-t93.jpg</picture>
+        <picture>https://images.prom.ua/4224330349_kempingovyj-fonar-hel-t93.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кемпинговый фонарь HEL-T93 (LM+COB белый и красный) + солнечная панель + Powerbank + microUSB</name>
+        <vendor>HEL</vendor>
+        <vendorCode>1755703847</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Кемпинговый фонарь HEL-T93 (LM+COB белый и красный) + солнечная панель + Powerbank + microUSB
+
+Мультифункциональный фонарь HEL-T93 с множеством режимов освещения и возможностью быть использован как светильник, чтобы освещать в палатке или за ее пределами, способен осветить темные уголки комнаты или любого другого окружения и будет верным напарником во время походов, кемпинга или просто если остались где-то. либо без света. 
+
+Отличается от других фонарей, большим объемом батареи, что позволяет ему работать очень длительное время, без необходимости подзарядки. Также может пригодиться в экстренной ситуации как powerbank, чтобы зарядить ваш мобильный телефон.
+
+Характеристики:
+
+
+	Ручной аккумуляторный фонарик с дополнительно СОВ белого и красного света. Может работать как Power bsnk.
+	Материал фонарика: пластик.
+	Источник света: 1шт. LED LM (белый дальний) + СОВ (белый и красный свет).
+	Количество режимов работы: 7 режимов (100% LM, 50% LM, стробоскоп LM, 100% COB белый, 50% СОВ красный, СОВ красный, мигание СОВ красный) + функция PowerBank.
+	Размеры: общие размеры с учетом ручки 195х93х125 мм.
+	Питание: Работает от встроенного литий-ионного аккумулятора. Зарядка производится через встроенный microUSB или солнечную панель. Есть функция PowerBank. На корпусе имеется светодиодная индикация остаточного заряда батареи.
+
+
+Комплектация:
+
+
+	Фонарик,
+	кабель microUSB,
+	ремешок на плечо.
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1755709051" available="true">
+        <url>https://aveon.net.ua/p1755709051-fonar-akkumulyatornyj-coba.html</url>
+        <oldprice>458</oldprice>
+        <price>308</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224347984_fonar-akkumulyatornyj-coba.jpg</picture>
+        <picture>https://images.prom.ua/4224337319_fonar-akkumulyatornyj-coba.jpg</picture>
+        <picture>https://images.prom.ua/4224337318_fonar-akkumulyatornyj-coba.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь аккумуляторный Coba CB-C60</name>
+        <vendorCode>1755709051</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Классический алюминиевый LED + 3xCOB ручной фонарик
+
+Легкий и удобный светодиодный фонарик, оснащенный двумя светодиодами: OSL и COB. Первый светит сфокусированным пучком света и идеально подходит для освещения отдаленных пространств. Вторая, боковая, светит более широким пучком света.
+
+ЛЕГКИЙ И ПРОЧНЫЙ!!!
+
+Корпус из алюминиевого пластика делает фонарь ударопрочным. Вес фонаря не превышает 150 г, его ручка имеет идеальный профиль, что делает его эргономичным. Даже при продолжительном использовании руки не чувствуют. Используется как в военных, армии, охотниках, так и дома. Идеально подходит для чтения, как мастерская или настольная лампа.
+
+ДОПОЛНИТЕЛЬНАЯ БЕЗОПАСНОСТЬ
+
+Переключатель расположен посередине корпуса, защищен резиновым колпачком – защитой от пыли и влаги. Дополнительно порт зарядки защищен резиновой крышкой.
+
+МОЩНОСТЬ
+
+Питается от встроенной батареи типа 18650. Заряжаемый с помощью идущего в комплекте USB-кабеля можно заряжать с помощью зарядного устройства для телефона, позволяющего заряжать его не только дома, но, например, в дороге.
+
+СВЕТОВОЙ ИНДИКАТОР ЗАРЯДА
+
+Фонарик использует светодиодный индикатор с подсветкой, информирующий пользователя о состоянии заряда аккумулятора.
+
+4 РЕЖИМЫ ОСВЕЩЕНИЯ:
+
+
+	Диод OSL – полный (100%)
+	Диод OSL – экономичный (50%)
+	OSL диод - строб
+	Боковой светодиод COB
+
+
+ТЕХНИЧЕСКИЕ ДАННЫЕ:
+
+
+	Диод: LED OSL 5W + LED 3xCOB
+	Макс. световой поток: 600 лм
+	Количество режимов: 4
+	Макс. время работы: 4 часа
+	Материал корпуса: алюминий
+	 Вес: 130 г.
+	 Диаметр головки: 55 мм
+	 Диаметр в самом узком месте: 30 мм
+	Длина: 165 мм
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1755716179" available="true">
+        <url>https://aveon.net.ua/p1755716179-fonar-ruchnoj-takticheskij.html</url>
+        <oldprice>495</oldprice>
+        <price>345</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224383593_fonar-ruchnoj-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4224380028_fonar-ruchnoj-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4224383591_fonar-ruchnoj-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4224380035_fonar-ruchnoj-takticheskij.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь ручной тактический Bailong BL-558-T6</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1755716179</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь ручной тактический Bailong BL-558-T6
+
+Недорогой тактический фонарик BL-558-T6, световой поток которого составляет 700 люмен,
+
+Дальность потока - 700 м.
+
+Идеальный фонарик для вечерних прогулок,BailongBL-558-T6 имеет не большие размеры, что идеально для ношения в сумке или в кармане. В основу света положен современный светодиод - T6. Питанием служит - 18650 - 1шт,а зарядка производится от USB.
+
+Основные характеристики
+
+
+	Светодиод(ы) T6
+	Фокусировка (Zoom) с фокусировкой
+	Количество режимов 3
+	Тип фокусировки Выдвижной механизм
+	Питание 18650 - 1шт
+	Тип зарядки USB
+
+
+Комплектация
+
+
+	Фонарь 
+	АКБ - 1 шт
+	USB Кабель 
+	Коробка
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">От сети</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип диода">T6</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1755720544" available="true">
+        <url>https://aveon.net.ua/p1755720544-fonarik-ruchnoj-akkumulyatornyj.html</url>
+        <oldprice>345</oldprice>
+        <price>195</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4224393056_fonarik-ruchnoj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4224393057_fonarik-ruchnoj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4224393055_fonarik-ruchnoj-akkumulyatornyj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарик ручной аккумуляторный Bailong BL-520 T6 + COB</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1755720544</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь ручной   Bailong BL-520  Многофункциональный, практичный ручной фонарик – это отличный выбор и прекрасный подарок для друга или близкого человека. Компактный, в то же время очень мощный фонарик, так как установлен  светодиод Т6. Дополнительный боковой светодиод СОВ  с рассеянным светом для ближнего освещения.  Корпус фонарика выполнен из анодированного алюминия, благодаря которому он легкий и очень прочный. Защищен от пыли, влаги и ударов. Благодаря рыхленным ободкам снижен риск выскальзывания из рук. Для удобства фонарик комплектуется зажимом.
+
+Фонарик оснащен оптическим зумом, что позноляет фокусировать луч света в зависимости от ваших потребностей.
+
+Весь товар новый, перед продажей проверяем.
+
+Описание:
+
+
+	Фонарик оснащен линзой, что позволяет фокусировать луч света.
+	Установлен мощный светодиод Т6
+	Дополнительно боковой светодиод СОВ
+	Источником питания является встроенный аккумулятор 18650 Li-Ion 3.7 В.
+	Зарядка производится от любого активного USB порта, либо адаптера 5 В с USB выходом.
+
+
+Характеристики:
+
+
+	Фонарь светодиодный Т6, СОВ
+	450 люмен
+	Дальность: 300 м
+	Влагозащищенный корпус из алюминиевого сплава
+	Размеры: длина 10.5 см, диаметр 3 см
+	4 режима свечения
+	Оптический зум
+	Источник питания: аккумулятор (18650)
+
+
+Комплектация:
+
+    фонарик Bailong BL-520
+
+    кабель зарядки USB-micro USB
+
+    коробка
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип диода">T6</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1755725818" available="true">
+        <url>https://aveon.net.ua/p1755725818-sokovyzhimalka-elektricheskaya-tsentrobezhnaya.html</url>
+        <oldprice>2370</oldprice>
+        <price>2220</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4224412768_sokovyzhimalka-elektricheskaya-tsentrobezhnaya.jpg</picture>
+        <picture>https://images.prom.ua/4224412770_sokovyzhimalka-elektricheskaya-tsentrobezhnaya.jpg</picture>
+        <picture>https://images.prom.ua/4224412769_sokovyzhimalka-elektricheskaya-tsentrobezhnaya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Соковыжималка электрическая центробежная Rainberg RB-631 1800W</name>
+        <vendor>Rainberg</vendor>
+        <vendorCode>1755725818</vendorCode>
+        <description>Описание Соковыжималка электрическая центробежная Rainberg RB-631 1800W
+
+Соковыжималка Rainberg RB - 631 изготовлена из нержавеющей стали и пластика, оснащена резервуаром для сока, легка в очистке, оснащена удобным для мытья фильтром. Мощность соковыжималки составляет 1800 Вт. Легко справляется с любыми фруктами и овощами.
+
+Свежевыжатый сок к завтраку
+
+Процесс приготовления сока в здоровом образе жизни играет не последнюю роль. Правильное питание - залог крепкого здоровья и хорошего самочувствия. Быстро приготовить качественный сок поможет надежная и не дорогая соковыжималка Rainberg. Современный эргономичный дизайн идеально подойдет для интерьера любой кухни. Удобная, надежная, экономичная соковыжималка Rainberg поможет вам сохранить все полезные качества свежевыжатого сока.
+
+Порция витамином для вашего организма
+
+Электрическая соковыжималка Rainberg поможет вам поддерживать здоровый образ жизни не только утром, но и в течение всего дня. Соковыжималка поможет извлечь сок из продуктов, без потери витаминов и полезных их свойств. В соковыжималке легко и просто регулировать мощность электродвигателя, благодаря двум скоростей можно подобрать оптимальный режим обработки необходимого продукта.
+
+Особенности соковыжималки Rainberg
+
+Режим Pulse разработан для нежных овощей и фруктов, например томатный сок, приготовленный на слабых оборотах, будет гораздо вкуснее. Для комфортной загрузки продуктов в соковыжималке специально увеличен до 65мм диаметр цилиндра приема овощей и фруктов. Считанные секунды понадобятся для приготовления 0,6 л (объем резервуара для сока) вкусного и полезного сока.
+
+Преимущества соковыжималки Rainberg
+
+Простота использования благодаря основным функциям и особенностям соковыжималки делают ее любимым помощником на кухне при приготовлении вкусных соков. Плавный запуск двигателя, защита от перегрузок увеличат срок эксплуатации соковыжималки. Функция реверс и импульсный режим помогут приготовить качественный сок. Индикатор сока, автоматический выброс мякоти облегчит работу на соковыжималке.
+
+Особенности:
+
+
+	Автоматический выброс мякоти;
+	Защита от перегрева;
+	Импульсный режим;
+	Реверс.
+
+
+Преимущества:
+
+
+	Широкая горловина позволяет обрабатывать целые, не резаные фрукты и овощи;
+	Прочный корпус из нержавеющей стали;
+	Простота в использовании и обслуживании.
+	Материал корпуса: пластик, нержавеющая сталь;
+	Мощность: 1800 Вт;
+	Количество скоростей : 2;
+	Фильтр: нержавеющая сталь;
+	Резервуар для мякоти: есть;
+	Емкость для сока: 1 л;
+	Объем резервуара для жмыха : 0,6 л;
+	Обработка целых фруктов: да.
+
+
+Комплектация:
+
+
+	Соковыжималка Rainberg RB-631;
+	Резервуар для мякоти;
+	Емкость для сока;
+	Инструкция;
+	Упаковка - коробка.
+
+</description>
+        <param name="Потребляемая мощность" unit="Вт">1800</param>
+        <param name="Тип управления">Механическое</param>
+        <param name="Тип прибора">Центробежная</param>
+        <param name="Объем резервуара для сока" unit="л">1</param>
+        <param name="Объем резервуара для мякоти" unit="л">0.6</param>
+        <param name="Количество скоростей">2</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1757279981" available="true">
+        <url>https://aveon.net.ua/p1757279981-akkumulyator-18650-ultrafire.html</url>
+        <oldprice>255</oldprice>
+        <price>105</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4229390483_akkumulyator-18650-ultrafire.jpg</picture>
+        <picture>https://images.prom.ua/4229390484_akkumulyator-18650-ultrafire.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумулятор 18650 UltraFire 3.7В 6800 mAh</name>
+        <vendor>UltraFire</vendor>
+        <vendorCode>1757279981</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Характеристики:
+
+
+	Производитель: UltraFire 
+	Тип элемента: 18650; 
+	емкость: 6800 mAh; 
+	Минимальная - 2,75V 
+	Номинальная - 3,7V
+	Максимальная - 4,2V
+	Вес: 40g±1g
+	Размер: 65.5 мм x 18.5 мм (диаметр) 
+	Аккумулятор 18650 UltraFire 3.7В 6800 mAh
+
+</description>
+      </offer>
+      <offer id="1757284010" available="true">
+        <url>https://aveon.net.ua/p1757284010-fonar-kempingovyj-akkumulyatornyj.html</url>
+        <oldprice>488</oldprice>
+        <price>338</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4229419555_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419556_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419560_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419557_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419558_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419561_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/4229419554_fonar-kempingovyj-akkumulyatornyj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь кемпинговый аккумуляторный G88 Переносная лампа фонарик с солнечной панелью</name>
+        <vendorCode>1757284010</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description> Данная лампа идеально подойдет всем любителям активного отдыха: отдыха на свежем воздухе – пикниках, туристам в походах, для освещения в палатке, рыбакам и др. или может использоваться просто в качестве источника резервного освещения в доме или в гараже.
+
+Фонарь имеет удобную ручку, с помощью которой можно как переносить, так и подвешивать его, в палатке, над столом и т.д.
+
+Также устройство имеет USB разъем (5В, 1А)
+
+Еще одной отличительной особенностью данной модели является возможность зарядки АКБ не только от сети 220 вольт, но и с помощью встроенной солнечной батареи.   
+
+
+	Встраиваемая поли силиконовая солнечная панель;
+	Быстрый заряд - 30 минут под солнцем даёт до 60 минут максимального свечения (6 часов под солнцем – цикл полной зарядки встроенных аккумуляторов);
+	6 сверх ярких экономичных светодиодов;
+	Встроенный мощный аккумулятор 1200 мА;
+	Автоматическое включение при открывании лампы;
+	Индикатор заряда;
+	Габариты: 12.5x8x8 см;
+
+Комплектация:
+
+
+	Фонарь;
+	Кабель зарядки от сети;
+	Коробка
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">Солнечные батареи|От сети</param>
+      </offer>
+      <offer id="1757676264" available="true">
+        <url>https://aveon.net.ua/p1757676264-svetodiodnyj-prozhektornyj-avarijnyj.html</url>
+        <oldprice>443</oldprice>
+        <price>293</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4230762531_svetodiodnyj-prozhektornyj-avarijnyj.jpg</picture>
+        <picture>https://images.prom.ua/4230762529_svetodiodnyj-prozhektornyj-avarijnyj.jpg</picture>
+        <picture>https://images.prom.ua/4230762530_svetodiodnyj-prozhektornyj-avarijnyj.jpg</picture>
+        <picture>https://images.prom.ua/4230762532_svetodiodnyj-prozhektornyj-avarijnyj.jpg</picture>
+        <picture>https://images.prom.ua/4230762533_svetodiodnyj-prozhektornyj-avarijnyj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Светодиодный прожекторный аварийный фонарь ZJ-1258 1000 люмен (5 режимов)</name>
+        <vendorCode>1757676264</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Светодиодный аварийный прожекторный фонарь ZJ-1258 1000 люмен (5 режимов) 
+
+Светодиодный прожекторный аварийный фонарь ZJ-1258 1000 люмен (5 режимов) 
+
+Светодиодный фонарик ZJ-1258 – это надежный и экономичный источник света. Модель выгодно отличается от аналогов своим компактным размером.
+
+Фонарь оснащен специальным крюком, позволяющим зафиксировать устройство у потолка, на стене или любом другом объекте. Специальный магнит, расположенный за прибором, позволяет надежно установить модель на металлических поверхностях.
+
+Светодиодный фонарик можно использовать при строительных и ремонтных работах, при ремонте автомобилей, в случае туристических поездок и т. д. Данная модель – это хорошее сочетание невысокой стоимости, функциональности и отличного качества.
+
+Технические характеристики:
+
+
+	Световой поток 1000  люмен
+	Радиус действия 300 метров
+	Изготовлен из  ABS, пластика.
+	Устойчивый  к царапинам 
+	Несколько режимов освещения
+	Заряжается через micro-usb кабель
+	Встроенный аккумулятор
+	Код груза: ZJ-1258
+	Тип диода: LED
+	Количество диодов: 70
+	Питание: встроенный аккумулятор
+	Корпус: пластик.
+	Страна-производитель: Китай
+
+
+Комплектация:
+
+
+	фонарь
+	Коробка
+	Кабель micro-usb
+
+</description>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">micro USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+      </offer>
+      <offer id="1757682631" available="true">
+        <url>https://aveon.net.ua/p1757682631-lampa-nastolnaya-svetodiodnaya.html</url>
+        <oldprice>548</oldprice>
+        <price>398</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017064</categoryId>
+        <picture>https://images.prom.ua/4231541649_lampa-nastolnaya-svetodiodnaya.jpg</picture>
+        <picture>https://images.prom.ua/4231541650_lampa-nastolnaya-svetodiodnaya.jpg</picture>
+        <picture>https://images.prom.ua/4231541651_lampa-nastolnaya-svetodiodnaya.jpg</picture>
+        <picture>https://images.prom.ua/4231541653_lampa-nastolnaya-svetodiodnaya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Лампа настольная светодиодная на аккумуляторе LED TABLE LAMP BL-6588</name>
+        <vendorCode>1757682631</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Особенность данной модели заключается в том, что лампа имеет дополнительное отделение для канцелярских принадлежностей. Теперь вам не придется загромождать стол пеналами, органайзерами или подставками.
+Характеристика:
+
+ 
+
+
+	Вид: Лампа
+	Цвет: Белый
+	Цвет свечения: Белый свет
+	Источник питания: Аккумулятор
+	Мощность максимальная: 3.6 Вт.
+	Аккумулятора хватает на 3-4 часа непрерывной работы в зависимости от режима освещения
+	Зарядка от micro USB
+	Количество LED: 16 шт.
+	Материал корпуса: пластик
+	В основе лампы есть подставка  ручек и др.;
+	Лампу можно крутить 
+
+</description>
+        <param name="Тип">Настольная лампа</param>
+        <param name="Цвет">Белый</param>
+        <param name="Цвет свечения">Нейтральный</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип крепления">На поверхность</param>
+        <param name="Тип лампы">Светодиодная</param>
+      </offer>
+      <offer id="1757686495" available="true">
+        <url>https://aveon.net.ua/p1757686495-ultrazvukovoj-otpugivatel-vreditelej.html</url>
+        <oldprice>282</oldprice>
+        <price>132</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/4230785663_ultrazvukovoj-otpugivatel-vreditelej.jpg</picture>
+        <picture>https://images.prom.ua/4230785660_ultrazvukovoj-otpugivatel-vreditelej.jpg</picture>
+        <picture>https://images.prom.ua/4230785662_ultrazvukovoj-otpugivatel-vreditelej.jpg</picture>
+        <picture>https://images.prom.ua/4230785659_ultrazvukovoj-otpugivatel-vreditelej.jpg</picture>
+        <picture>https://images.prom.ua/4230785661_ultrazvukovoj-otpugivatel-vreditelej.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ультразвуковой отпугиватель вредителей PEST REPELLING AID 1818</name>
+        <vendor>AIDA</vendor>
+        <vendorCode>1757686495</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Riddex Ультразвуковой и электромагнитный отпугиватель насекомых и грызунов
+
+Тараканы и мыши являются переносчиками серьезных болезней. С ними нужно бороться эффективными методами, чтобы избавиться как можно скорее.
+
+В борьбе с «гостями» поможет экологически безопасный прибор – ультразвуковой отпугиватель грызунов и насекомых.
+
+Работа устройства основана на технологии электромагнитных импульсов, передающихся через проводку в стенах вашего дома.
+
+
+
+Прибор помогает устранить таких насекомых и зверей, как:
+
+
+	тараканы,
+	мыши,
+	крысы.
+
+
+Данное устройство не требует дополнительного обслуживания.
+
+Достаточно включить отпугиватель к электрической розетке и он, создавая импульсы, будет отпугивать грызунов и насекомых 24 часа в сутки.
+
+Характеристики:
+
+
+	используемое напряжение: 90-230 В,
+	мощность электроприбора: 4 Вт,
+	рабочая температура: -30…+45С,
+	корпус: пластик,
+	размеры отпугивателя: 60х95 мм.
+	радиус действия: 200 м.кв.
+	вес: 150 г
+
+
+ 
+</description>
+      </offer>
+      <offer id="1757698742" available="true">
+        <url>https://aveon.net.ua/p1757698742-fonarik-zaryadkoj-usb.html</url>
+        <oldprice>308</oldprice>
+        <price>158</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4236674382_fonarik-s-zaryadkoj.jpg</picture>
+        <picture>https://images.prom.ua/4236674381_fonarik-s-zaryadkoj.jpg</picture>
+        <picture>https://images.prom.ua/4236674384_fonarik-s-zaryadkoj.jpg</picture>
+        <picture>https://images.prom.ua/4236674383_fonarik-s-zaryadkoj.jpg</picture>
+        <picture>https://images.prom.ua/4230826070_fonarik-s-zaryadkoj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарик с зарядкой USB HS-82202</name>
+        <vendorCode>1757698742</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description> Характеристики ручного фонарика с USB зарядка HS-82202
+
+
+	Количество диодов – 2;
+	Мощность - 1000 люмен 
+	Дальность свечения – 200 м;
+	Оптический зум – есть;
+	Способ зарядки – от USB;
+	Питание - встроенный аккумулятор;  
+	Корпус - анодированный алюминий.
+
+
+Комплектация:
+
+
+	Фонарь HS-82202
+	Кабель для зарядки;
+	Упаковка.
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">micro USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1757715948" available="true">
+        <url>https://aveon.net.ua/p1757715948-power-bank-kamry.html</url>
+        <oldprice>1470</oldprice>
+        <price>1320</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4230866128_power-bank-kamry.jpg</picture>
+        <picture>https://images.prom.ua/4230866126_power-bank-kamry.jpg</picture>
+        <picture>https://images.prom.ua/4230866127_power-bank-kamry.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Power Bank Kamry 30000 mAh K-300 с солнечной панелью и проводами</name>
+        <vendorCode>1757715948</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Корпус устройстваPower Bank Kamry 30000 mAh K-300 оригинал изготовлен из прочного пластика. На корпусе расположен дисплей, на котором отображается уровень заряда батареи. В данной модели 2 USB-порта и 2 разъема: Type-C, micro-USB . Также на корпусе устройства есть светодиодный фонарик, который включается двойным нажатием кнопки, расположенной сбоку. Помимо этого, в данном павербанке есть кабеля со всеми разъемами: Type-C, micro-USB и Lightning, что весьма удобно.
+
+
+
+Технические характеристики
+
+	Тип: Внешний аккумулятор для заряда портативных устройств
+	Заряжаемые устройства: смартфоны, телефоны, iPod, iPhone, планшеты и другие
+	Подключение: USB;
+	Емкость указанная на батареи, мАч: 30000; (заявлена производителем)
+	Зарядка: от USB; •Размеры:145х70х44 мм.
+
+
+
+Возможность одновременно заряжать два устройства!
+
+
+
+Повербанк автоматически заряжается при попадании на него солнечных лучей (с 0 до 100% за 50 часов).
+
+
+
+Характеристики 
+
+
+	Высокое качество сборки и материалов;
+	Индикация заряда
+	Простой, современный и модный дизайн, долговечность использования;
+	Удобство переноски и простота использования;
+	Несколько уровней защиты для безопасной зарядки;
+	Совместим со всеми устройствами – смартфонами, планшетами, PSP, плеерами MP3 и MP4, фото и видеокамерами и др;
+	Идеальный помощник в длительных поездках.
+
+
+
+В комплект входит:
+
+
+	Power Bank 30000;
+	USB-кабель,Type-C кабель, micro-USB кабель и Lightning кабель.
+	Упаковка
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">30000</param>
+        <param name="Тип">Универсальная солнечная батарея</param>
+        <param name="Состояние">Новое</param>
+        <param name="Набор переходников">Да</param>
+      </offer>
+      <offer id="1757737110" available="true">
+        <url>https://aveon.net.ua/p1757737110-zerkalo-kosmeticheskoe-vraschayuscheesya.html</url>
+        <oldprice>450</oldprice>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4230954208_zerkalo-kosmeticheskoe-vraschayuscheesya.jpg</picture>
+        <picture>https://images.prom.ua/4230954207_zerkalo-kosmeticheskoe-vraschayuscheesya.jpg</picture>
+        <picture>https://images.prom.ua/4230954205_zerkalo-kosmeticheskoe-vraschayuscheesya.jpg</picture>
+        <picture>https://images.prom.ua/4230954196_zerkalo-kosmeticheskoe-vraschayuscheesya.jpg</picture>
+        <picture>https://images.prom.ua/4230954206_zerkalo-kosmeticheskoe-vraschayuscheesya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Зеркало косметическое вращающееся на 360 градусов с 16 светодиодами и сенсорным экраном</name>
+        <vendorCode>1757737110</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Преимущества LED-зеркала Magic Makeup Mirror:
+
+
+
+широкая отражающая поверхность;
+
+регулируемое вращение на 360°;
+
+светодиодная подсветка для качественного макияжа;
+
+сенсорное управление подсветкой;
+
+подставка для косметики и украшений.
+
+Как пользоваться зеркалом:
+
+
+
+Чтобы включить, переведите переключатель на задней панели зеркала в положение On;
+
+Нажмите на круг в передней нижней части зеркала для включения подсветки;
+
+Нажмите и удерживайте круг, чтобы уменьшить интенсивность света;
+
+Нажмите круг снова, чтобы увеличить яркость света;
+
+Когда зеркало не используется, переместите переключатель на задней панели в положение Off.
+
+Характеристики
+
+
+	Материал: пластик, стекло;
+	Питание: батарейки AA (4 шт., не входят в комплект);
+	Количество светодиодов: 16 шт;
+	Размеры зеркала: 21.5 x 17 см;
+	Размеры подставки: 16 x 11.5 см;
+	Высота с подставкой: 27 см;
+
+</description>
+        <param name="Питание">Батарейки</param>
+        <param name="Тип зеркала">Универсальное</param>
+        <param name="Форма косметического зеркала">Прямоугольное</param>
+        <param name="Тип зеркальной поверхности">Обычная</param>
+      </offer>
+      <offer id="1757741734" available="true">
+        <url>https://aveon.net.ua/p1757741734-stajler-hair-styler.html</url>
+        <oldprice>1260</oldprice>
+        <price>1110</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4230967077_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967078_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967075_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967079_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967080_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967082_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967081_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967083_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967076_stajler-10-v.jpg</picture>
+        <picture>https://images.prom.ua/4230967084_stajler-10-v.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Стайлер 10 в 1 Hair Styler 87010 многофункциональный фен</name>
+        <vendorCode>1757741734</vendorCode>
+        <description>Стайлер для укладки 10в1 Hair Styler 87010
+
+Стайлер для различных типов волос с функциями придания объема, выпрямления, завивки и укладки волос Черный – это профессиональный фен с функциями придания объема, выпрямления, завивки и укладки волос.
+
+
+	Источник питания: 200-220 В переменного тока 50-60 Гц
+	220-240 У переменного тока 50-60 Гц (пожалуйста, выберите правильное напряжение)
+	Потребляемая мощность: высокая 850 Вт, низкая 400 Вт (127 В/240 В)
+	Высокая 630 Вт Низкая 300 Вт (110 В/220 В)
+	Температура воздушного потока: 110 градусов Цельсия (в высоком положении, при комнатной температуре 30 градусов Цельсия)
+	Длина шнура: 1,73 м
+	Аксессуар: мягкий чехол
+
+</description>
+        <param name="Потребляемая мощность" unit="Вт">650</param>
+        <param name="Цвет корпуса">Розовый</param>
+        <param name="Тип">Наборы для укладки</param>
+        <param name="Тип питания">Сеть 220 В</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1759483864" available="true">
+        <url>https://aveon.net.ua/p1759483864-kabel-pitaniya-dlya.html</url>
+        <oldprice>203</oldprice>
+        <price>53</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4237063777_kabel-pitaniya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4237063779_kabel-pitaniya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4237063778_kabel-pitaniya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4245742915_kabel-pitaniya-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4245742914_kabel-pitaniya-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кабель питания для роутера 5V от павербанка USB-DC / Шнур для вай фай роутера</name>
+        <vendorCode>1759483864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Провод питания для роутера выручит Вас, когда нет электричества, ведь роутер можно подключить им к павербанку и он снова будет раздавать интернет!
+
+Преимущества:
+
+
+	коннекторы усилены слоем металла;
+	используется совместно с USB-зарядками и блоками питания или с Power bank;
+	преобразователь напряжения можно легко питать от Power Bank практически любые устройства, например видеокамеру или wifi роутер;
+	помогает всегда оставаться с интернетом, даже когда дома нет света.Вас беспокоит, что вы не можете использовать Wi-Fi из-за периодических отключений электроэнергии? USB-кабель, который можно подключить к Wi-Fi-роутеру от повербанка. Универсальный кабель питания USB-DC для маршрутизатора, мини-вентилятор, динамиков,USB-разъем DC3,5 мм. Высокое качество, прочное использование. 5V USB к кабелю постоянного тока 5,5 * 2,5 мм. Схема IC, защита от перегрузки по току, перенапряжения, перегрузки, короткого замыкания.
+	Если у вас мощный повербанк с быстрой зарядкой и доступным вольтажом, то будет вытягивать роутер на 9V.
+
+
+Характеристики:
+
+
+	Тип: кабель для вай фай роутера / шнур для вай фай роутера;
+	Разьемы: USB 2.0 to DC 5.5мм x 2.1 мм;
+	Тип кабеля: USB - DC;
+	Напряжение: 5В;
+	Материал провода: медь;
+	Тип шнура: сетевой;
+	Цвет: черный;
+
+
+Комплектация:
+
+
+	Кабель питания для роутера вай фай
+	Упаковка
+
+</description>
+        <param name="Тип">Кабель</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет">Черный</param>
+      </offer>
+      <offer id="1759881710" available="true">
+        <url>https://aveon.net.ua/p1759881710-ruchnoj-fonar-prozhektor.html</url>
+        <oldprice>990</oldprice>
+        <price>840</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4239260160_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260155_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260158_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260159_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260153_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260154_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260157_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <picture>https://images.prom.ua/4239260156_ruchnoj-fonar-prozhektor-2v1.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ручной фонарь-прожектор 2в1 аккумуляторный 4000 мАч, 25 LED, Yajia YJ-2829TP / Мощный переносной фонарик</name>
+        <vendorCode>1759881710</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание:
+
+Ручной фонарь прожектор аккумуляторный Yajia YJ-2829TP Самый мощный поисковый фонарик Yajia YJ-2829 – это одна из моделей продающихся в своем классе фонарей. Фонарь оснащен встроенным аккумулятором и боковой световой панелью из 25 диодов.
+
+Для экономии заряда фонарь имеет два режима: 100% и 50% яркости. Мощный светодиод, в сочетании с большим рефлектором, дает сильный направленный луч, одновременно освещающий большой радиус вокруг.
+
+Так же благодаря боковой панели, оснащенной светодиодами, фонарь можно использовать как лампу. В комплекте с фонарем для удобства эксплуатации идет плечевой ремень.
+
+Характеристики:
+
+
+	Тип: кемпинговый фонарь/мощный фонарик для дома;
+	Материал: пластик;
+	Цвет корпуса: черный;
+	Питание: встроенный аккумулятор 6V, Li-ion 4000 mAh (заявлено производителем);
+	Прожектор LED Cree 5 Вт;
+	Влагозащищенный корпус изготовлен из ударопрочного пластика;
+	Количество режимов: 2 (яркий, экономный);
+	Индикация заряда аккумулятора;
+	Боковая панель: 25 LED;
+	Зарядка: от сети 220 В;
+	Длина фонаря: 22 см;
+	Диаметр корпуса: 12 см
+
+
+Комплектация:
+
+
+	Аккумуляторный переносной фонарь YJ-2829
+	Съемный ремень;
+	Коробка
+
+</description>
+        <param name="Вес" unit="г">1200</param>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Черный</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">От сети</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Ручной</param>
+      </offer>
+      <offer id="1760121261" available="true">
+        <url>https://aveon.net.ua/p1760121261-preobrazovatel-napryazheniya-12v.html</url>
+        <oldprice>2400</oldprice>
+        <price>2250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4239271456_preobrazovatel-napryazheniya-s.jpg</picture>
+        <picture>https://images.prom.ua/4239271457_preobrazovatel-napryazheniya-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Преобразователь напряжения с 12V на 220V (3500W)</name>
+        <vendorCode>1760121261</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Преобразователь напряжения ERYUAN MX-3500  – с 12В постоянного тока на 220В переменного напряжения (форма выходного сигнала-ступенчатая синусоида) предназначен для электропитания бытовых приборов мощностью до 3500 Ватт.
+
+
+
+При выборе преобразователя напряжения следует уделить внимание мощности прибора, который будет использоваться, так как преобразователь напряжения рассчитан на определенную нагрузку и в случае недостатка мощности просто не будет работать или не придет. И следует соблюдать последовательность подключения приборов: сначала подсоединяются к разъему прикуривателя или клемм аккумулятора (в зависимости от комплектации) преобразователь напряжения, затем в гнездо преобразователя подключается потребитель (в выключенном состоянии) и, только потом, включается преобразователя, а затем и сам потребитель.
+
+Технические характеристики ERYUAN:
+
+
+	Максимальная мощность: 3500 Вт
+	Номинальная мощность: 1800 Вт.
+	Выходное напряжение – 220±5% Вольт, частота 50 Гц
+	Напряжение внешней аккумуляторной батареи ― 12 Вольт (не входит в комплект поставки)
+	КПД – 85-90%
+	Светодиодный индикатор режима работы ― преобразование
+	Вентилятор принудительного охлаждения
+	Предупреждение о разряде аккумуляторной батареи ― 10.4-11.0 Вольт (звуковой сигнал)
+	Защита от разряда аккумуляторной батареи ― 9.7-10.3 Вольт (выключение)
+	Защита от короткого замыкания ― предохранитель
+	Подключение нагрузки ― одна розетка
+
+
+Комплектация:
+
+
+	инвертор 
+	комплект проводов для подключения от аккумулятора
+	фирменная упаковка.
+
+</description>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Номинальная мощность" unit="Вт">1800</param>
+        <param name="Частота" unit="Гц">50</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип рабочей величины">Мощность</param>
+        <param name="Форма выходного напряжения">Аппроксимированная синусоида</param>
+      </offer>
+      <offer id="1760133056" available="true">
+        <url>https://aveon.net.ua/p1760133056-preobrazovatel-smart-12v24v.html</url>
+        <oldprice>2610</oldprice>
+        <price>2460</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4239314060_preobrazovatel-smart-s.jpg</picture>
+        <picture>https://images.prom.ua/4239314059_preobrazovatel-smart-s.jpg</picture>
+        <picture>https://images.prom.ua/4239314058_preobrazovatel-smart-s.jpg</picture>
+        <picture>https://images.prom.ua/4239314057_preobrazovatel-smart-s.jpg</picture>
+        <picture>https://images.prom.ua/4239308534_preobrazovatel-smart-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Преобразователь SMART с 12V/24V на 220V ( 3000W ) с LCD дисплеем инвертор постоянного тока</name>
+        <vendor>Smart</vendor>
+        <vendorCode>1760133056</vendorCode>
+        <description>Преобразователь 3000W, преобразователь постоянного тока Прибор предназначен для преобразования электричества из 12V или 24в в 220V. Позволяет подключать нагрузку до 3000W. Подходит для подключения: видеокамера, видеорегистратор, навигатор, телефон, ноутбук, нетбук, активная акустика, различная аудио- и видеотехника, электробритва, зарядные устройства для планшетов и телефонов, освещение, вентиляторы, телевизоры и прочие электроприборы. Преобразователь оснащен автоматической системой охлаждения и защитой от перегрузок.
+
+Технические характеристики:
+
+
+	Пиковая 3000W; 220V+/-10%, 50Hz+/-2Hz;
+	Защита от низкого входного напряжения;
+	Температурная защита;
+	Защита от перегрузок;
+	LCD дисплей
+	работает с 12в и 24в
+
+</description>
+        <param name="Вес" unit="кг">1</param>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1760259276" available="true">
+        <url>https://aveon.net.ua/p1760259276-nochnik-proektor-detskij.html</url>
+        <oldprice>503</oldprice>
+        <price>353</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017064</categoryId>
+        <picture>https://images.prom.ua/4239586746_nochnik-proektor-detskij.jpg</picture>
+        <picture>https://images.prom.ua/4239586748_nochnik-proektor-detskij.jpg</picture>
+        <picture>https://images.prom.ua/4239586750_nochnik-proektor-detskij.jpg</picture>
+        <picture>https://images.prom.ua/4239586749_nochnik-proektor-detskij.jpg</picture>
+        <picture>https://images.prom.ua/4239586747_nochnik-proektor-detskij.jpg</picture>
+        <picture>https://images.prom.ua/4239586751_nochnik-proektor-detskij.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ночник Проектор детский с мелодией 6 тем/ Ночное звездное небо, детский светильник с музыкой</name>
+        <vendorCode>1760259276</vendorCode>
+        <description>Описание
+
+Музыкальный ночник-проектор с шестью меняющимися насадками для проекции: подводный мир, звездное небо, День рождения, космос, единороги, Новый год. Меняйте картинки в зависимости от предпочтений ребенка и такой ночник ему точно не наскучит. При желании можно убрать насадки для проекции и использовать как светильник с мягким светом.
+
+Работает ночник при постоянном включении в сеть с помощью кабеля USB (идет в комплекте) .
+
+Имеет режим вращения проекции. Для смены проекции необходимо снять крышку ночника и поменять насадки.
+
+
+
+Особенности:
+
+
+	Не создает неприятного скрежета при вращении проекции;
+	3 режима света: дневной, теплый и синий;
+	работает как от аккумулятора при полной зарядке от USB, так и при постоянном включении в сеть.
+	Размер ночника: 131х131х160
+
+
+Комплектация
+
+
+	Ночник; 6 сменных насадок с проекциями;
+	кабель USB,
+	инструкция
+
+
+ 
+</description>
+        <param name="Тип">Ночник</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1760369532" available="true">
+        <url>https://aveon.net.ua/p1760369532-kompaktnoe-zerkalo-podsvetkoj.html</url>
+        <oldprice>653</oldprice>
+        <price>503</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4240069424_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069425_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069415_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069418_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069421_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069419_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069422_kompaktnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4240069420_kompaktnoe-zerkalo-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Компактное зеркало с подсветкой для макияжа MCH Cosmetie Mirror 360 Rotation Angel с LED подсветкой для дома</name>
+        <vendorCode>1760369532</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Компактное зеркало с подсветкой для макияжа MCH Cosmetie Mirror 360 Rotation Angel с LED подсветкой для дома Белое (ul-8999)
+
+Зеркало с подсветкой для макияжа Cosmetie Mirror 360 Rotation Angel – необходимый атрибут каждой женщины вне зависимости от возраста и образа жизни.
+
+Зеркало для макияжа с LED-подсветкой - это отличный инструмент для нанесения макияжа и создания идеального мэйка. Яркие светодиоды обеспечивают равномерное освещение лица со всех сторон в любое время суток, что позволит вам равномерно нанести косметику, не допуская ошибок.
+
+Включить и выключить зеркало можно при помощи специальной сенсорной кнопки. Освещение работает за счет обычных батареек. Специальная подставка позволит разместить на ней различные косметические мелочи, например, губную помаду, пудру, тени для глаз или что-нибудь другое, а свободное вращение на 180° позволяет зафиксировать косметическое зеркало в удобном для вас положении.
+
+Зеркало для макияжа с LED подсветкой имеет изысканный, элегантный вид и украсит собой интерьер в доме.
+
+Преимущества:
+
+
+	широкая отражающая поверхность;
+	регулируемое вращение на 360°;
+	светодиодная подсветка для качественного макияжа;
+	сенсорное управление подсветкой;
+	подставка для косметики и украшений.
+
+
+Характеристики:
+
+
+	Масса: 532 г.
+	Материал: ABS пластик, стекло
+	Размер: 185х117х300 мм
+	Длина: 24 см
+	Ширина: 18 см
+	Питание: 4 АА батарейки
+
+</description>
+        <param name="Питание">Батарейки</param>
+        <param name="Высота" unit="мм">300</param>
+        <param name="Ширина" unit="мм">18</param>
+        <param name="Тип зеркала">Настольное</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="1760382428" available="true">
+        <url>https://aveon.net.ua/p1760382428-zerkalo-dlya-makiyazha.html</url>
+        <oldprice>488</oldprice>
+        <price>338</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4240098746_zerkalo-dlya-makiyazha.jpg</picture>
+        <picture>https://images.prom.ua/4240098747_zerkalo-dlya-makiyazha.jpg</picture>
+        <picture>https://images.prom.ua/4240098740_zerkalo-dlya-makiyazha.jpg</picture>
+        <picture>https://images.prom.ua/4240098741_zerkalo-dlya-makiyazha.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Зеркало для макияжа с LED подсветкой Cosmetie Mirror HH071 20LED DL133</name>
+        <vendorCode>1760382428</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Зеркало для макияжа с LED подсветкой Cosmetie Mirror HH071 
+
+ 
+
+LED зеркало с подсветкой для макияжа 20 cветодиодов предназначено для женщин, заботящихся о своей внешности. Оно помогает ухаживать за кожей и наносить макияж. Разработчики предусмотрели удобную и яркую подсветку, что позволяет особенно эффективно пользоваться зеркалом. Вне зависимости от того, какой макияж вы используете, в какое время его накладываете, вы будете выглядеть неотразимо.
+
+Регулировка наклона. Угол наклона зеркала легко регулируется на 180 градусов, Вы можете выбрать угол, при котором вам особенно удобно будет наносить макияж. Работает от 4х батареек АА (в комплекте нет батареек).20 светодиодные лампы для женщин складной зеркала для макияжа леди косметический рука затемнения с подсветкой косметическое зеркало.
+
+1. Увеличенное настольное зеркало-С 11 “H x 8” W данный комплект светодиодных ламп зеркало 30% больше, чем у большинства других прямоугольные зеркала на рынке.
+
+2. Ультра яркий свет-Это зеркало с подсветкой обеспечивает 4500K теплый и мягкий свет, который поможет вам достичь Безупречный макияж.
+
+3. Сенсорное управление-Уровень яркости можно регулировать с помощью сенсорной кнопкой на зеркало заднего вида, и он будет помнить ваши последние настройки света.
+
+4. Работающий от батареи-Приведенный в действие 4 совершенно новые батарейки типа АА, эти беспроводные Столешница зеркало может составлять 2-3 недели в том случае, если вы используете его в течение 30 минут каждый день.
+
+5. Отличная идея подарка - как незаменимая вещь в повседневной жизни, этим зеркальным чехлом-отличный подарок идеи для девочек, женщин, дочери или каких-либо других особых лично для вас.
+
+ 
+
+
+
+Характеристики:
+
+
+	Тип: универсальное
+	Вид: с увеличением
+	Особенности: наличие подсветки
+	возможность поворота
+	Форма: овальное
+	Крепление: на подставке
+	Материал
+	ПВХ
+	Размер: 265*169*122 мм
+	• Цвет СВЕТОДИОДА - Белый
+	Батарея - AA * 4 шт
+	Время работы от аккумулятора - более 15 часов
+
+</description>
+        <param name="Питание">Батарейки</param>
+        <param name="Тип зеркала">Настольное</param>
+        <param name="Форма косметического зеркала">Овальное</param>
+        <param name="Тип зеркальной поверхности">Увеличивающая</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="1760389341" available="true">
+        <url>https://aveon.net.ua/p1760389341-nastolnoe-zerkalo-dlya.html</url>
+        <oldprice>735</oldprice>
+        <price>585</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4240137766_nastolnoe-zerkalo-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4240137764_nastolnoe-zerkalo-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4240137763_nastolnoe-zerkalo-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4240137765_nastolnoe-zerkalo-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4240137767_nastolnoe-zerkalo-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Настольное зеркало для макияжа Large LED Mirror "My Foldaway Lighted Makeup Mirror"</name>
+        <vendor>Soft Touch</vendor>
+        <vendorCode>1760389341</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Настольное зеркало для макияжа Large LED Mirror "My Foldaway Lighted Makeup Mirror"
+
+Получите полную перспективу своей груди, шеи и подбородка с помощью зеркала для макияжа My Foldaway Lighted Makeup Mirror. Это портативное зеркало оснащено одним центральным зеркалом, обеспечивающим кристально чистое отражение без искажений, а боковые зеркала обеспечивают полную видимость.
+
+ 
+
+Особенности:
+
+
+	Прецизионное стекло обеспечивает кристально чистое отражение без искажений
+	Центральное зеркало имеет идеальный размер, чтобы максимально рассмотреть детали
+	Боковые зеркала меньшего размера обеспечивают полное покрытие
+	Получите полное представление о своей груди, шее и подбородке для точного ухода за кожей и ухода за ней
+	Остается в безопасности, когда вы складываете свое тщеславие
+	2-ваттное освещение создает теплую атмосферу
+	Односторонний с 5-кратным увеличением
+	Простой в использовании сенсор soft-touch для уменьшения яркости или переключения между 3 режимами о свещения: холодный белый, теплый белый и естественный
+
+	 
+
+
+ 
+
+Особенности:
+
+
+	не искажает отражение
+	складное с удобной рукояткой
+	имеет 3 отделения для хранения аксессуаров для красоты.
+
+
+Характеристики:
+
+
+	Имеет регулируемые светодиодные гало-фары
+	Требуется 4 батарейки AAA (не входят в комплект)
+	Материал: Пластик
+	Легкий портативный дизайн
+	Размеры: 20 см x 24,5 см x 7 см
+	Вес: 907 гр. 
+
+
+Комплектация:
+
+
+	Зеркало с подставкой с 3 отсеками
+	Упаковка - коробка
+	USB кабель
+	Батарейки не входят в комплект.
+
+</description>
+        <param name="Питание">Батарейки</param>
+        <param name="Тип зеркала">Настольное</param>
+        <param name="Форма косметического зеркала">Квадратное</param>
+        <param name="Тип зеркальной поверхности">Обычная</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="1760424692" available="true">
+        <url>https://aveon.net.ua/p1760424692-fitnes-braslet-uwatch.html</url>
+        <oldprice>443</oldprice>
+        <price>293</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4240278514_fitnes-braslet-uwatch-m7.jpg</picture>
+        <picture>https://images.prom.ua/4240278515_fitnes-braslet-uwatch-m7.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фитнес-браслет uWatch M7</name>
+        <vendor>UWatch</vendor>
+        <vendorCode>1760424692</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Фитнес-браслет uWatch M7 
+
+
+	Тип: Фитнес-браслет 
+	Разрешение дисплея:160 x 80 
+	Тип матрицы:TFT
+	Совместимые ОС:Android, iOS 
+	Емкость аккумулятора:90 мАч 
+	Размеры:255 x 18 x 12 мм 
+	Вес:18 гр
+
+</description>
+        <param name="Возрастная группа">Для взрослых</param>
+        <param name="Тип">Умные браслеты</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Тип дисплея">Цветной</param>
+        <param name="Состояние">Новое</param>
+        <param name="Совместимость с">Android|IOS</param>
+      </offer>
+      <offer id="1760429195" available="true">
+        <url>https://aveon.net.ua/p1760429195-zaryadnoe-ustrojstvo-0902.html</url>
+        <oldprice>555</oldprice>
+        <price>405</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240311160_zaryadnoe-ustrojstvo-ep-0902.jpg</picture>
+        <picture>https://images.prom.ua/4240311161_zaryadnoe-ustrojstvo-ep-0902.jpg</picture>
+        <picture>https://images.prom.ua/4240311162_zaryadnoe-ustrojstvo-ep-0902.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Зарядное устройство EP-0902 с солнечной панелью 5в1 6V 3W</name>
+        <vendor>EPI</vendor>
+        <vendorCode>1760429195</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Зарядное устройство EP-0902 с солнечной панелью 5в1 6V 3W подходит для зарядки любого мобильного телефона или устройства, заряжаемого от 5В, например, планшета, камеры, павербанка и т. д.
+
+С помощью многоканальной головки вы можете подключить кабель к порту USB. Панель не имеет встроенной батареи, она производит энергию от солнечного света.
+
+Использование: поместите панель в солнечное место. Отрегулируйте панель, чтобы максимизировать мощность (установите панель перпендикулярно солнечному свету под углом от 45° до 90°). Подключите солнечную панель к устройству с помощью кабеля USB. Солнечная энергия экологична и экономит энергию!
+
+Характеристики:
+
+
+	Мощность: 3Вт
+	  максимальное напряжение: 6 В;
+
+</description>
+      </offer>
+      <offer id="1760434509" available="true">
+        <url>https://aveon.net.ua/p1760434509-fonar-power-bank.html</url>
+        <oldprice>1800</oldprice>
+        <price>1650</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240337384_fonar-power-bank-ep-391bt.jpg</picture>
+        <picture>https://images.prom.ua/4240337379_fonar-power-bank-ep-391bt.jpg</picture>
+        <picture>https://images.prom.ua/4240337380_fonar-power-bank-ep-391bt.jpg</picture>
+        <picture>https://images.prom.ua/4240337383_fonar-power-bank-ep-391bt.jpg</picture>
+        <picture>https://images.prom.ua/4240337378_fonar-power-bank-ep-391bt.jpg</picture>
+        <picture>https://images.prom.ua/4240337377_fonar-power-bank-ep-391bt.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь-Power Bank EP-391bt радио-блютуз с солнечной панелью+лампочки 3шт</name>
+        <vendorCode>1760434509</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь-Power Bank-радио-блютуз с солнечной панелью+лампочки 3шт 
+
+Описание товара:
+
+Мини-система солнечной энергии Домашний генератор на солнечной энергии для внутреннего и наружного применения
+
+Цена по прейскуранту завода-изготовителя солнечная энергетическая система с резервным аккумулятором с аварийным освещением перезаряжаемый зарядный светильник светодиодные системы солнечной энергии для дома
+
+1. Номер детали: EP-391
+
+2. размер продукта: 140*60*185 мм
+
+3. Весь комплект, включая хост, 1 солнечную панель, 3 светодиодные лампы освещения, 1 зарядное устройство, 1 зарядный провод.
+
+4.Встроенная свинцово-кислотная батарея 6V 4AH, поликристаллическая солнечная панель 9V 3W, хорошее качество. этот предмет можно использовать дома для освещения или освещения кемпинга.
+
+5. Функция: солнечный источник питания, fm-радио, bluetooth-динамик, воспроизведение карт TF и USB, фонарик и т. д.
+
+ 
+
+Зарядка
+
+
+	заряжается от солнечной панели или зарядного устройства переменного тока
+
+
+Функция
+
+
+	USB-выход, светодиодная подсветка, фонарик, FM-радио, bluetooth-динамик, чтение карт TF и USB и т. д.
+
+
+Аксессуары:
+
+
+	1 шт. солнечная панель
+	3шт светодиодные лампы
+	зарядное устройство 1 шт.
+	1шт зарядный провод
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Черный</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности фонаря">Зарядка для телефона|Радио</param>
+        <param name="Тип заряда">Солнечные батареи|От сети</param>
+      </offer>
+      <offer id="1760439870" available="true">
+        <url>https://aveon.net.ua/p1760439870-fonar-power-bank.html</url>
+        <oldprice>945</oldprice>
+        <price>795</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240367020_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367017_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367022_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367025_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367032_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367028_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367026_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <picture>https://images.prom.ua/4240367023_fonar-power-bank-radio-blyutuz-2400mah.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь-Power Bank-радио-блютуз (2400mAh) с солнечной панелью EP-035</name>
+        <vendorCode>1760439870</vendorCode>
+        <description>Особенности: 
+
+
+	Многоразовый солнечный генератор может заряжаться солнечной энергией, является экологически чистым и энергосберегающим и может использоваться в любых солнечных местах.
+	Вы можете использовать встроенный аккумулятор большой емкости для легкой зарядки электронных продуктов, а также заряжать мобильные телефоны, MP3, MP4, цифровые камеры и другие электронные продукты.
+	Фонарь, светодиодный светильник, низкое энергопотребление, более высокая яркость, более прочный в использовании, драйвер интегральной схемы постоянного тока, хорошая стабильность.
+	Очень подходит для внутреннего освещения, наружного освещения, отключения электроэнергии, кемпинга, домашнего освещения и зон без электричества.
+	Оснащен функцией радио.
+
+
+Характеристики:
+
+
+	Материал: пластик
+	Входное напряжение: 220 В
+	Выход напряжение: 3/6V
+	Аварийный светильник рабочее время: от 10 до 12
+	Время работы светодиодных фонарей: 4 часа
+	Поддерживает солнечную энергию: Да
+	Освещение светодиодной лампы: Да
+	Частота: 50-60 Гц
+	Выходной ток: 3A
+	Солнечная панель: 6 В/2 Вт
+	Размер: 20.5 х 15 х 5 см.
+
+
+Комплектация:
+
+
+	Фонарь PowerBank EP-035
+	Кабель для зарядки
+	Инструкция
+	Заводская упаковка.
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Черный</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности фонаря">Зарядка для телефона</param>
+        <param name="Тип заряда">От сети|Солнечные батареи</param>
+      </offer>
+      <offer id="1760440359" available="true">
+        <url>https://aveon.net.ua/p1760440359-power-bank-20000.html</url>
+        <oldprice>1365</oldprice>
+        <price>1215</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240379500_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379495_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379509_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379502_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379504_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379516_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379493_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4240379520_power-bank-20000.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Power Bank 20000 mAh KP-25 (22,5W), | Повербанк | Портативная зарядка</name>
+        <vendor>Camry</vendor>
+        <vendorCode>1760440359</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Power Bank 20000 mAh KP-25 (22,5W), оригинал
+
+Power bank 20000mAh - стильный аксессуар, способный продлить время автономной работы вашего смартфона или планшета. Повербанк станет отличным помощником для тех, кто любит путешествовать, отдыхать на природе или использует свои мобильные девайсы на полную.
+
+
+
+Описание:
+
+Многие компании не уделяют особого внимания дизайну своих внешних аккумуляторов. Одним из исключений является Power Bank Kamry 20000 mAh KP-25 (22,5W), выполненный в элегантном и крепком пластиковом корпусе. В основе батареи лежат качественные батареи, благодаря чему удалось достичь высокого качества и длительного срока службы. Корпус PowerBank способен предотвратить механические повреждения при падении, а внутренняя многоуровневая система защиты сохранит от короткого замыкания, перенапряжения и полного разряда. На корпусе имеется индикация заряда. 
+
+ 
+
+
+
+ 
+
+ 
+
+Характеристики:
+
+
+	Тип: Внешний аккумулятор для зарядки портативных устройств
+	Заряжаются устройства: смартфоны, телефоны, iPod, iPhone, планшеты и другие
+	Подключение: USB;
+	Емкость указана на батарее, мА·ч: 20000; (заявленная производителем)
+	Зарядка: от USB;
+	Размеры: 92х50х60мм.
+
+</description>
+        <param name="Высота" unit="мм">50</param>
+        <param name="Ширина" unit="мм">60</param>
+        <param name="Длина" unit="мм">92</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности">Противоударный корпус|Индикатор уровня заряда</param>
+        <param name="Разъемы">USB|Type-C</param>
+      </offer>
+      <offer id="1760455917" available="true">
+        <url>https://aveon.net.ua/p1760455917-solnechnaya-lampochka-portativnoj.html</url>
+        <oldprice>428</oldprice>
+        <price>278</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4240413468_solnechnaya-lampochka-s.jpg</picture>
+        <picture>https://images.prom.ua/4240413461_solnechnaya-lampochka-s.jpg</picture>
+        <picture>https://images.prom.ua/4240413479_solnechnaya-lampochka-s.jpg</picture>
+        <picture>https://images.prom.ua/4240413477_solnechnaya-lampochka-s.jpg</picture>
+        <picture>https://images.prom.ua/4240413482_solnechnaya-lampochka-s.jpg</picture>
+        <picture>https://images.prom.ua/4240413480_solnechnaya-lampochka-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Солнечная лампочка с портативной аккумуляторной батареей для улицы CL-028MAX</name>
+        <vendor>CLM</vendor>
+        <vendorCode>1760455917</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Солнечная лампочка с уличным переносным аккумулятором CL-028MAX с крючком
+
+Если вы хотите провести ночь на природе, или вы любите путешествовать, вам обязательно понадобится светодиодный светильник Solar Light CL-028 MAX на солнечных батареях. Да и дома это будет не лишним, особенно если произойдет отключение или поломка электричества. в таких ситуациях светильник CL-028Max Solar станет вашим лучшим другом и на него можно положиться :)
+
+Светильник Solar Light CL-028 MAX имеет встроенный аккумулятор, который всегда можно подзарядить солнечной энергией. Такое устройство будет полезно всем любителям активного отдыха, не привыкшим сидеть в четырех стенах. Лампу можно использовать как в помещении, так и на улице. Вы можете выбрать один из двух режимов работы: экономичный и интенсивный.
+
+Саму солнечную лампу для удобства можно повесить на крючок. Маленькая и легкая лампа найдет свое место в сумке, рюкзаке или багажнике автомобиля. Зарядка лампы от солнечной батареи занимает 6-10 часов, в зависимости от силы солнечного света. Мощность солнечной батареи 6В.
+
+Если установить солнечную панель из комплекта на улице, то можно обеспечить себя автономным и ярким освещением. Он имеет высокоэффективную солнечную батарею, которая полностью заряжает фонарь при дневном свете, даже при отсутствии солнечного света. Лампа оснащена светодиодами высокой яркости.
+
+
+
+Для наилучшей работы лампу следует заряжать в течение примерно 24 часов перед первым использованием!
+
+ 
+
+Преимущества CL-028:
+
+
+	Компактность и портативность 
+	Обеспечивает сильное освещение
+	Простота в использовании
+	Имеет крючок для подвешивания
+	Прочный и безопасный
+	Вы можете заряжать небольшой фонарик от порта USB.
+
+
+Технические данные:
+
+
+	Размеры светильника: высота - 13 см, радиус - 8 см
+	. Размеры солнечной панели: 13х8,5 см .
+	Индикатор зарядки Фонарь
+	оснащен солнечной панелью 6В.
+	Материал: пластик
+
+
+Комплектация:
+
+
+	Один светильник с крючком.
+	Солнечная панель.
+	USB-кабель.
+	Коробка.
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности фонаря">Водонепроницаемый</param>
+        <param name="Тип заряда">Солнечные батареи|USB</param>
+      </offer>
+      <offer id="1760466685" available="true">
+        <url>https://aveon.net.ua/p1760466685-poverbank-led-lighting.html</url>
+        <oldprice>488</oldprice>
+        <price>338</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240467611_poverbank-led-lighting.jpg</picture>
+        <picture>https://images.prom.ua/4240467607_poverbank-led-lighting.jpg</picture>
+        <picture>https://images.prom.ua/4240467608_poverbank-led-lighting.jpg</picture>
+        <picture>https://images.prom.ua/4240467605_poverbank-led-lighting.jpg</picture>
+        <picture>https://images.prom.ua/4240467610_poverbank-led-lighting.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Повербанк LED Lighting Power Bank 20000 mAh Внешний аккумулятор</name>
+        <vendorCode>1760466685</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>
+
+Power Bank  20000 mAh – стильный аксессуар, способный продлить время автономной работы вашего смартфона или планшета. Power Bank станет отличным помощником для тех, кто любит путешествовать, отдыхать на природе или использует свои мобильные девайсы по полной.
+
+
+
+Особенности:
+
+
+	Высокое качество сборки и материалов
+	Цифровая индикация заряда
+	Сравнительно компактные размеры
+	Удобство переноски и простота использования
+	Несколько уровней защиты для безопасной зарядки
+	Фонарик
+	3 USB
+
+
+
+
+Характеристики:
+
+
+	Емкость, мА·час: 20000
+	Технология: Li-Ion
+	Зарядка: от USB
+	Разъемы: 3х USB, micro USB
+	Вход: 5В, 2.0 А (Макс.)
+	Выход: 5В, 2.1 А (Макс.)
+	Материал: ABS пластик
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+        <param name="Тип">Универсальная батарея</param>
+        <param name="Состояние">Новое</param>
+        <param name="Разъемы">USB|USBx2</param>
+      </offer>
+      <offer id="1760492012" available="true">
+        <url>https://aveon.net.ua/p1760492012-portativna-batareya-power.html</url>
+        <oldprice>488</oldprice>
+        <price>338</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4240510426_portativna-batareya-power.jpg</picture>
+        <picture>https://images.prom.ua/4240510058_portativna-batareya-power.jpg</picture>
+        <picture>https://images.prom.ua/4240510060_portativna-batareya-power.jpg</picture>
+        <picture>https://images.prom.ua/4240520146_portativna-batareya-power.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Портативна батарея Power Bank Mobile 20000</name>
+        <vendorCode>1760492012</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Характеристика
+
+
+
+
+	Емкость, мА·час: 20000
+	Технология: Li-Ion
+	Зарядка: от USB
+	Разъемы: 3х USB, micro USB
+	Вход: 5В, 2.0 А (Макс)
+	Выход: 5.0В, 2.1А (Макс)
+	Материал: ABS пластик
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+        <param name="Тип">Универсальная батарея</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности">Индикатор уровня заряда</param>
+      </offer>
+      <offer id="1761140457" available="true">
+        <url>https://aveon.net.ua/p1761140457-invertor-avto-preobrazovatel.html</url>
+        <oldprice>1620</oldprice>
+        <price>1470</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4242915189_invertor-avto-preobrazovatel.jpg</picture>
+        <picture>https://images.prom.ua/4242915183_invertor-avto-preobrazovatel.jpg</picture>
+        <picture>https://images.prom.ua/4242915184_invertor-avto-preobrazovatel.jpg</picture>
+        <picture>https://images.prom.ua/4242915187_invertor-avto-preobrazovatel.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Инвертор авто преобразователь напряжения 12-220в 1500вт и USB выходом 12V в 220V 1500W Power Inverter</name>
+        <vendorCode>1761140457</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Инвертор авто преобразователь напряжения 12-220в 1500вт и USB выходом 12V в 220V 1500W Power Inverter
+
+Авто инвертор преобразователь напряжения 12V-220V 1500W
+
+Автомобильный инвертор  преобразователь  1500W AC/DC 12V предназначен для преобразования электричества из 12В в 220В. Позволяет подключать нагрузку до 1500Вт. Корпус выполнен из алюминия, в задней части есть вентилятор для охлаждения прибора. Спереди расположены розетка, кнопка вкл/выкл, а также световые индикаторы режимов работы. Прибор можно подключать напрямую к клеммам аккумулятора при помощи зажимов.
+
+Область применения: в автомобиле, катере, солнечные и ветровые электрогенераторы, для аварийной работы и пр.
+
+Характеристики:
+
+
+	Допустимая мощность, Вт: до 1500 (пиковая)
+	Диапазон входного напряжения: 12V
+	Напряжение на выходе: 220V
+	Частота на выходе: 50±2%
+	Защита: от короткого замыкания, от перегруза, от высокого и низкого напряжения, от перегрева, от неправильной полярности
+	КПД: 90%
+	Температура окружающей среды: -10 - +50С
+	Страна-производитель: Китай
+
+
+Комплектация:
+
+
+	Инвертор
+	Комплект проводов для подключения от аккумулятора
+	Коробка
+	Инструкция
+
+</description>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Максимальная мощность" unit="Вт">1500</param>
+        <param name="Состояние">Новое</param>
+        <param name="КПД, не менее" unit="%">90</param>
+      </offer>
+      <offer id="1761143251" available="true">
+        <url>https://aveon.net.ua/p1761143251-fonar-nalobnyj-bailong.html</url>
+        <oldprice>282</oldprice>
+        <price>132</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4242946194_fonar-nalobnyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4242946191_fonar-nalobnyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4242946192_fonar-nalobnyj-bailong.jpg</picture>
+        <picture>https://images.prom.ua/4242946193_fonar-nalobnyj-bailong.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Фонарь налобный Bailong BL-872-XPE+COB магнит + microUSB (2 режима)</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1761143251</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Фонарь налобный Bailong BL-872-XPE+COB магнит + microUSB (2 режима)
+
+Этим фонарем Вы без труда осветите любое помещение или открытую местность.
+
+Корпус фонаря выполнен из ударопрочного пластика, что делает его лёгким и надёжным. Особенность данного покрытия в том, что оно защищает фонарь от влаги и пыли, а также делает его ударопрочным. Этому фонарю не страшны любые погодные условия: будьте уверены – он Вас не подведет!
+
+
+
+Благодаря своим маленьким размерам, очень удобен. Может использоваться как налобный фонарь и как ручной карманный, если отстегнуть налобную резинку с клипсой.
+
+Фонарь работает на литий-ионном аккумуляторе. Заряжать аккумулятор можно от любого стандартного зарядного устройства с разъемом micro USB.
+
+Характеристики:
+
+
+	 Световой поток 600 люмен
+	 магнит
+	 крепление на голову
+	 вращение на 180 градусов
+	 яркость регулируется плавно при удерживании кнопки питания
+	 Кол-во режимов 2
+	 Режимы (XPE; COB) - димпер на зажим
+	 Кнопка торцевая
+	 Материал корпуса Пластик
+	 Питание встроенный аккумулятор
+	 Зарядка от сети micro USB
+	 Габаритные размеры: 85х25х40мм
+
+
+Комплектация:
+
+
+	фонарь 872 (8101),
+	налобное крепление
+	шнур для зарядки USB - mirco USB
+
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип заряда">micro USB</param>
+        <param name="Тип лампы">Светодиодная</param>
+        <param name="Тип фонаря">Налобный</param>
+      </offer>
+      <offer id="1761168617" available="true">
+        <url>https://aveon.net.ua/p1761168617-svetodiodnaya-lampochka-shnurke.html</url>
+        <oldprice>255</oldprice>
+        <price>105</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4243019740_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019727_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019733_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019732_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019738_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019723_svetodiodnaya-lampochka-na.jpg</picture>
+        <picture>https://images.prom.ua/4243019726_svetodiodnaya-lampochka-na.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Светодиодная лампочка на шнурке 6088</name>
+        <vendorCode>1761168617</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>LED Фонарь-лампочка на 3 батарейки AAA на шнурке.
+
+Лампа на шнурке и на батарейках – это отличный способ быстро осветить необходимый участок в помещении или на улице.
+
+Также может использоваться в отсутствии электричества в таких как ваши дома и квартиры, а также в бомбоубежищах. Еще можно использовать эту лампу в качестве ночника или для декорирования интерьера. Лампа оснащена длинным шнурком, длиной в метр, что позволяет закреплять ее на удобной высоте. Чтобы включить или выключить светильник, достаточно потянуть за шнурок у основания плафона.
+
+Характеристики:
+
+
+	 тип: светодиодная лампочка на шнурке;
+	 размеры: 15,5 х 5,5 см;
+	 вес: 40 гр;
+	 питание: 3 батарейки типа ААА (в комплекте не входят)
+	 материал: АБС пластик, металл, светодиоды.
+	 свечение: холодный белый
+	 Длина шнурка: 110см
+	Диаметр: 5.5 мм
+	Длина: 155.0 мм
+	Материал корпуса: Пластик
+	Рабочее положение: Универсальное
+	Тип лампы: Светодиодная
+	Цвет светодиода:
+	Цвет свечения: Холодный белый
+
+</description>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Тип питания">Батарейки</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет">Белый</param>
+      </offer>
+      <offer id="1761237732" available="true">
+        <url>https://aveon.net.ua/p1761237732-invertor-preobrazovatel-220v.html</url>
+        <oldprice>1403</oldprice>
+        <price>1253</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4243321891_invertor-preobrazovatel-12-220v.jpg</picture>
+        <picture>https://images.prom.ua/4243321890_invertor-preobrazovatel-12-220v.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Инвертор (преобразователь) 12-220В 1000Вт DOXIN</name>
+        <vendor>Doxin</vendor>
+        <vendorCode>1761237732</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description><![CDATA[Преобразователь напряжения (инвертор) 1000W предназначен для преобразования постоянного напряжения автомобильной сети 12В в переменное напряжение 220В с частотой 50Гц. Таким образом, становится возможным подключать к сети автомобиля такие устройства как ноутбуки, телевизоры, DVD-плееры, музыкальные центры, осветительные лампы, вентиляторы кассовые аппараты, системы охранно-пожарной сигнализации (ОПС), видеонаблюдение и связь. питание чайников, различных осветительных приборов, электрического инструмента, бытовых приборов и многое другое. И следует соблюдать последовательность подключения приборов: сначала присоединяется к разъему прикуривателя или к клеммам аккумулятора (в зависимости от комплектации) инвертор напряжения, затем в гнездо инвертора присоединяется потребитель (в выключенном состоянии) и, только потом, включается инвертор, а затем и сам потребитель.
+
+Характеристика:
+
+
+	Мощность 1000 Вт;
+	Входное напряжение 12 Вольт (10.0 – 15.0 VDC, постоянный);
+	Выходное напряжение 220 Вольт (VAC, переменный);
+	Форма выходного сигнала – модифицированная синусоида;
+	Частота сигнала 50 Гц +/- 2 Гц
+	Коэффициент полезного действия &gt;85%.
+
+]]></description>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Максимальная мощность" unit="Вт">1000</param>
+        <param name="Состояние">Новое</param>
+        <param name="КПД, не менее" unit="%">85</param>
+      </offer>
+      <offer id="1761256847" available="true">
+        <url>https://aveon.net.ua/p1761256847-preobrazovatel-invertora-napryazheniya.html</url>
+        <oldprice>2303</oldprice>
+        <price>2153</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4243381746_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <picture>https://images.prom.ua/4243381747_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <picture>https://images.prom.ua/4243381744_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <picture>https://images.prom.ua/4243381745_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <picture>https://images.prom.ua/4243381748_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <picture>https://images.prom.ua/4243381742_preobrazovatel-invertora-napryazheniya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Преобразователь инвертора напряжения 2500 Вт Doxin 12/220 V / Автомобильный инвертор</name>
+        <vendor>Doxin</vendor>
+        <vendorCode>1761256847</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание:
+
+Автомобильный преобразователь 12/220 DOXIN, мощностью 2500 Вт – устройство, предназначенное для подключения и использования разнообразной бытовой техники, электроинструмента, ноутбука, телефона, различной видео- и аудиотехники, а также других электроприборов в условиях, где нет сетевых источников питания.
+
+К примеру, в путешествии на автомобиле, прогулки на катере, в гараже, на даче, в аварийных ситуациях
+
+В качестве источника напряжения ±12 В могут применяться аккумуляторы автомобиля, ветровые и солнечные генераторы.
+
+ 
+
+Характеристики :
+
+
+	Входное напряжение: 12V;
+	Напряжение: 220V;
+	Номинальная мощность: 2500W (заявленная производителем, реальная мощность будет значительно ниже);
+	Частота на выходе: 50Hz+/-2Hz;
+	Форма выходного сигнала ступенчатая аппроксимация синусоиды;
+	КПД 90%;
+	Размер: 270 х 100 х 54 мм;
+	Защита от короткого замыкания, перегрузки, высокого и низкого напряжения, перегрева.
+
+
+Комплектация :
+
+
+	Преобразователь напряжения Doxin 12/220 V;
+	Кабель + и – для подключения инвертора от аккумулятора;
+	Упаковка.
+
+</description>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Номинальная мощность" unit="Вт">2500</param>
+        <param name="Состояние">Новое</param>
+        <param name="КПД, не менее" unit="%">90</param>
+      </offer>
+      <offer id="1761276109" available="true">
+        <url>https://aveon.net.ua/p1761276109-organajzer-dlya-mochalok.html</url>
+        <oldprice>285</oldprice>
+        <price>135</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4243409754_organajzer-dlya-mochalok.jpg</picture>
+        <picture>https://images.prom.ua/4243409755_organajzer-dlya-mochalok.jpg</picture>
+        <picture>https://images.prom.ua/4243409756_organajzer-dlya-mochalok.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Органайзер для мочалок с мыльницей и дозатором Soap Pump Sponge Caddy SPSC30 PP</name>
+        <vendorCode>1761276109</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Дозатор для нажимного мыла с губкой Soap Pump Sponge Caddy 
+
+ 
+
+Диспенсер для посуды прост в использовании – откройте коробку, налейте туда мыло для посуды, закройте коробку и нажмите на нее. Емкость контейнера составляет 13 унций, так что вам не нужно часто его заправлять. Подходит для всех видов жидкого мыла.
+
+Компактный дизайн позволяет установить диспенсер в узком пространстве у стены за раковиной. Диспенсер легко наполняется и разбирается для мытья.
+
+- преимущество -
+
+
+	Широкий спектр применения – наиболее подходит для домов, школ, офисов, больниц, гостиниц, ресторанов, заводов, аэропортов, АЗС и т. д. идеально подходит для бизнеса и общественных мест;
+	Экономная дозировка;
+	Компактный дизайн – поместится за раковиной у стены;
+	Большая емкость.
+
+
+- Техническая характеристика -
+
+
+	Тип: диспенсер 
+	Материал: пластик;
+	Размер мочалки: 14*11 см.
+
+
+- комплектация -
+
+
+	Подставка-диспенсер для моющего средства в кухню.
+	Губка 
+
+</description>
+        <param name="Тип">Губка обычная</param>
+        <param name="Карман для мыла">Да</param>
+        <param name="Материал">Пластик</param>
+      </offer>
+      <offer id="1761295713" available="true">
+        <url>https://aveon.net.ua/p1761295713-elektrobritva-gemei-7720.html</url>
+        <oldprice>773</oldprice>
+        <price>623</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4243477090_elektrobritva-gemei-gm-7720.jpg</picture>
+        <picture>https://images.prom.ua/4243477089_elektrobritva-gemei-gm-7720.jpg</picture>
+        <picture>https://images.prom.ua/4243477092_elektrobritva-gemei-gm-7720.jpg</picture>
+        <picture>https://images.prom.ua/4243477091_elektrobritva-gemei-gm-7720.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Электробритва Gemei GM-7720</name>
+        <vendor>Gemei</vendor>
+        <vendorCode>1761295713</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Электробритва Gemei GM-7720
+
+Универсальный прибор, который станет незаменимым инструментом как домашнего, так и профессионального пользования.
+
+Особенности Gemei GM-7720:
+
+1. Электробритва выполнена в стильном дизайне, удобно лежит в руке , весьма компактна.
+
+2. Работает на аккумуляторе, полный заряд которого держит около 80 минут, заряжается 8 часов.
+
+3. Электробритва Gemei 7720 удобно брать с собой в дорогу так как аккумулятора на достаточно долгое время.
+
+Характеристика:
+
+
+	Тип: Электробритва
+	 Количество бритвенных головок: 3
+	 Подвижный бритвенный блок: НЕТ
+	 Плавающие бритвенные головки: Да
+	 Тип питания: Аккумулятор
+	 Время полной зарядки: 8 часа
+	 Время роботы от аккумулятора: 80 минут
+
+
+Комплектация:
+
+
+	 Электробритва
+	 Кабель для зарядки
+	 Щеточка
+	 Заводская упаковка 
+
+
+ 
+
+ 
+</description>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Количество бритвенных головок">3</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1761304379" available="true">
+        <url>https://aveon.net.ua/p1761304379-plastyr-dlya-pohudeniya.html</url>
+        <oldprice>245</oldprice>
+        <price>95</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4243536840_plastyr-dlya-pohudeniya.jpg</picture>
+        <picture>https://images.prom.ua/4243517804_plastyr-dlya-pohudeniya.jpg</picture>
+        <picture>https://images.prom.ua/4243517803_plastyr-dlya-pohudeniya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Пластырь для похудения Mymi Wonder Patch, Корея, 5 штук в наборе</name>
+        <vendor>Dr. Mymi</vendor>
+        <vendorCode>1761304379</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Пластырь для похудения Mymi Wonder Patch, Корея, 5 штук в наборе
+
+
+
+
+
+Описание
+
+Этот пластырь произвел фурор среди девушек Южной Кореи и потом стал известен за ее пределами. Инновационная технология трансдермальных пластырей. Не нужно пить таблетки и напитки для похудения. Можно доносить полезные действующие вещества через кожу, минуя печень и желудок. Он направлен на удаления жира с области живота.
+
+Пластырь для похудения содержит активные и запатентованные вещества: экстракт софорикозида, капсаицин, кофеин, экстракт зеленого чая, не содержит парабенов. Проникая в кожу, он разрушает и выводит жировые клетки, ускоряет обмен веществ и кровообращение в области живота, снимает застойные явления в области малого таза. А так же улучшает перистальтику кишечника.
+
+Пластырь имеет оттенок кожи и поэтому совсем не заметен под одеждой. Применяйте пластырь либо днем, либо на ночь.
+
+Уникальность этого инновационного средства заключается в следующем:
+
+
+	Действие основано на свойствах растительных экстрактов, витаминов и микроэлементов.
+	В 4 раза быстрее выводит из организма избыток жидкости, одновременно устраняя отеки.
+	Почти на 50% ускоряет теплообмен.
+	Гарантирует положительную динамику всего спустя 2 недели применения.
+	Регулярное использование дает ожидаемый результат в 100% случаев.
+
+
+ 
+
+Как применять пластырь для похудения?
+
+Помойте область живота с мылом, дайте высохнуть.
+
+Снимите со средней части пластыря пленку и приклейте на живот. Затем снимите с одной стороны и приклейте, а затем снимите со второй стороны и аккуратно приклейте. Делать это лучше стоя и перед зеркалом. Прижмите пластырь к телу и будьте аккуратны в течении 5 минут, пусть он как следует закрепиться на вашей коже. Наносить пластырь следует на 7-8 часов.
+
+При нанесении возможно ощущение жжения в области живота.
+
+После нанесения рекомендуется минимум в течении 2 часов не мыть живот, дайте активным веществам продолжить работу. Курс лечения рекомендуется не менее 4 недель.
+
+Применять желательно ежедневно!
+
+Противопоказания: беременность, период лактации, нарушение кожного покрова в бласти живота, тяжелые опухолевые заболевания в области живота.
+
+
+	В наборе - 5 шт.
+	Упаковка - коробка
+
+</description>
+      </offer>
+      <offer id="1761694660" available="true">
+        <url>https://aveon.net.ua/p1761694660-plenka-samoklejka-alyuminievaya.html</url>
+        <oldprice>420</oldprice>
+        <price>270</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/4244836516_plenka-samoklejka-alyuminievaya.jpg</picture>
+        <picture>https://images.prom.ua/4244836515_plenka-samoklejka-alyuminievaya.jpg</picture>
+        <picture>https://images.prom.ua/4244836514_plenka-samoklejka-alyuminievaya.jpg</picture>
+        <picture>https://images.prom.ua/4244836513_plenka-samoklejka-alyuminievaya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Пленка самоклейка алюминиевая 5 м Серая</name>
+        <vendor>China</vendor>
+        <vendorCode>1761694660</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Пленка самоклеющаяся алюминиевая 5 м Серая
+
+Самоклеящаяся фольга предназначена для защиты кухонной стены от капель воды, брызг жира. Серебристая поверхность выполняет декоративную функцию. На покрытие нанесен оригинальный узор 3D. Фольга легко очищается от обильных загрязнений.
+
+Также фольгу можно использовать для защиты газовой плиты, она Вам всегда содержать плиту в чистоте и порядке, предохраняя ее от загрязнений, а также уменьшит время для уборки. Еще одним из ее преимуществ является экономия потребления газа и значительно сокращает время приготовления пищи. Оптимально подобранные форма и размеры удобны и практичны в применении, подходят для любой модели газовой плиты.
+
+Характеристики
+
+
+	Материал: фольга
+	Размер: 5 м
+
+</description>
+      </offer>
+      <offer id="1762056692" available="true">
+        <url>https://aveon.net.ua/p1762056692-portativnaya-elektrostantsiya-300vt.html</url>
+        <oldprice>10125</oldprice>
+        <price>8625</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4245891950_portativnaya-elektrostantsiya-300vt.jpg</picture>
+        <picture>https://images.prom.ua/4245891951_portativnaya-elektrostantsiya-300vt.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Портативная электростанция 300Вт Wimpex WX300</name>
+        <vendor>Wimpex</vendor>
+        <vendorCode>1762056692</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Портативная электростанция Power Bank Wimpex WX300
+
+это портативная электростанция небольшого размера, но большая емкость (50000 мА·ч/185Втч), оборудованная чистой синусоидой переменного тока (пиковая мощность 300Вт) постоянного тока, Type-C, DC, USB тока. Эту станцию ​​можно использовать для зарядки большинства электронных устройств дома и на улице.
+
+
+	Батарея: тройная литий-ионная батарея
+	Емкость: 185Wh 14.8V/12.5Ah 50000mAh 3.7V
+	Вход постоянного тока: 12v-20v / 2A(Max 3A)
+	Выход переменного тока:300W / 230V / 50Hz
+	Выход постоянного тока:12V/6A
+	2xUSB:18W. 5V/3A. 9V/2A. 12V/1/5A
+	2xTypeC:27W:5V/3A. 9V/3A. 12V/2.25A
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">50000</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности">Индикатор уровня заряда|Быстрая зарядка|LED лампа</param>
+        <param name="Разъемы">USBx2|Type-C|DC|USB Type-A|Розетка AC 220В</param>
+      </offer>
+      <offer id="1762114499" available="true">
+        <url>https://aveon.net.ua/p1762114499-portativnaya-elektrostantsiya-poverbank.html</url>
+        <oldprice>12930</oldprice>
+        <price>11430</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4246091303_portativnaya-elektrostantsiya-poverbank.jpg</picture>
+        <picture>https://images.prom.ua/4246091304_portativnaya-elektrostantsiya-poverbank.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Портативная электростанция повербанк с розеткой 500 ВТ Wimpex WX-500</name>
+        <vendor>Wimpex</vendor>
+        <vendorCode>1762114499</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Портативная электростанция Power Bank Wimpex WX500
+
+это портативная электростанция небольшого размера, но большая емкость (64000 мА·ч/236Втч), оборудованная чистой синусоидой переменного тока (пиковая мощность 500Вт) постоянного тока, Type-C, DC, USB тока. Эту станцию ​​можно использовать для зарядки большинства электронных устройств дома и на улице.
+
+
+	Батарея: тройная литий-ионная батарея
+	Емкость: 236Wh 14.8V/16Ah 64000mAh 3.7V
+	Вход постоянного тока: 12v-20v / 2A(Max 5A)
+	Выход переменного тока:500W / 230V / 50Hz
+	4xDC Выход постоянного тока:12V/10A(120W)
+	2xUSB:10W 5V/2A
+	TypeC:100W:5V/3A. 9V/3A. 12V/3A. 12V/3A. 15V/3A, 20V/5A
+	Порт автомобильного зарядного устройства: 12V/10A(120W)
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Состояние">Новое</param>
+        <param name="Разъемы">USBx2|Type-C|DC|Розетка AC 220В</param>
+      </offer>
+      <offer id="1762661401" available="true">
+        <url>https://aveon.net.ua/p1762661401-akkumulyator-wimpex-18650.html</url>
+        <oldprice>375</oldprice>
+        <price>225</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4247989133_akkumulyator-wimpex-18650.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумулятор Wimpex 18650 5000 mAh 3.7 V</name>
+        <vendor>Wimpex</vendor>
+        <vendorCode>1762661401</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Аккумулятор Wimpex 18650 5000 mAh 3.7 V 
+
+
+	Аккумулятор Wimpex 18650 5000 mAh Li-ion.
+	Подходит для фонарей, складок для аккумуляторов ноутбука, для бытовых аккумуляторов в шуруповертах и ​​т.д.
+
+
+Характеристики аккумулятора:
+
+
+	 размер батареи: 18650 - 65×20 мм;
+	 емкость: 5000 mAh (заявлено производителем); 
+	 напряжение: 3.7 V;
+	 ресурс: До 1000 циклов;
+	 тип аккумулятора: Li-ion (литий-ионный);
+	 максимальное напряжение (полностью заряженное): 4.2 B±0.03 В;
+	 минимальное напряжение (полностью разряженное): 2.75 В;
+	 Стандартный ток заряда: 0.2 С*А (при t 0~+45 °C);
+	 Стандартный ток разряда: 0.2 С*А (при t -10~+60 °C).
+
+
+ 
+</description>
+      </offer>
+      <offer id="1762663881" available="true">
+        <url>https://aveon.net.ua/p1762663881-akkumulyator-vysokotokovyj-super.html</url>
+        <oldprice>300</oldprice>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4247978236_akkumulyator-vysokotokovyj-super.jpg</picture>
+        <picture>https://images.prom.ua/4247978237_akkumulyator-vysokotokovyj-super.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумулятор высокотоковый Super Power Li-Ion 18650 4000mAh</name>
+        <vendor>Power</vendor>
+        <vendorCode>1762663881</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Аккумулятор высокотоковый Super Power Li-Ion 18650 4000mAh
+
+Аккумулятор высокотоковый Super Power Li-Ion 18650  4000mAh
+
+Технические характеристики:
+
+
+	Номинальная емкость: 4000mAh
+	Номинальное напряжение: 3.7V
+	Напряжение заряда: 4,2 ± 0,05 В
+	Напряжение разряда: 2,75 ± 0,05 В
+	Стандартный ток зарядки: 0.5C (1500 мА)
+	Стандартный ток разряда: 0.5C (1500 мА)
+	Максимальный ток заряда 1С (T≥10 С)
+	Максимальный ток разряда: 5C (t≥0 С)
+	Рекомендуемая температура: при зарядке 0 ~ 45 С, при разрядке: -20 ~ 60 С
+	Сопротивление: 17 мОм
+	Размер: 65х18 мм
+
+	 
+
+</description>
+      </offer>
+      <offer id="1762675822" available="true">
+        <url>https://aveon.net.ua/p1762675822-akkumulyator-vysoko-tokovyj.html</url>
+        <oldprice>293</oldprice>
+        <price>143</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4247998598_akkumulyator-vysoko-tokovyj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумулятор высоко токовый  Li-Ion 18650 6000mAh Желтый</name>
+        <vendor>China</vendor>
+        <vendorCode>1762675822</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Аккумулятор высоко токовый  Li-Ion 18650 6000mAh
+
+Аккумулятор высоко токовый Super Power Li-Ion 18650  6000mAh
+
+Технические характеристики:
+
+
+	Номинальная емкость: 6000mAh
+	Номинальное напряжение: 3.7V
+	Напряжение заряда: 4,2 ± 0,05 В
+	Напряжение разряда: 2,75 ± 0,05 В
+	Стандартный ток зарядки: 0.5C (1500 мА)
+	Стандартный ток разряда: 0.5C (1500 мА)
+	Максимальный ток заряда 1С (T≥10 С)
+	Максимальный ток разряда: 5C (t≥0 С)
+	Рекомендуемая температура: при зарядке 0 ~ 45 С, при разрядке: -20 ~ 60 С
+
+	 
+
+</description>
+      </offer>
+      <offer id="1762824444" available="true">
+        <url>https://aveon.net.ua/p1762824444-preobrazovatel-napryazheniya-200.html</url>
+        <oldprice>1043</oldprice>
+        <price>893</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017035</categoryId>
+        <picture>https://images.prom.ua/4248342159_preobrazovatel-napryazheniya-12.jpg</picture>
+        <picture>https://images.prom.ua/4248342160_preobrazovatel-napryazheniya-12.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Преобразователь напряжения 12 В-200 В 500 W синусоида</name>
+        <vendorCode>1762824444</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description><![CDATA[Описание
+
+Преобразователь напряжения 12 В-200 В 500 W синусоида модифицирована 
+
+Преобразователь авто инвертор 12V-220V 500W постоянного тока в переменный ток 220В/50Гц можно использовать для зарядки и работы: ноутбуков, видеокамер, телефонов, аудио- и видеотехники и других электроприборов. Корпус изготовлен из алюминия, с тыльной стороны есть вентилятор для охлаждения.
+
+В передней части преобразователя 500W находятся: кнопка вкл./выкл., розетка.
+
+Преобразователь, возможно, подключите непосредственно к клеммам аккумулятора с помощью зажимов.
+
+Применяется преобразователь: в автомобиле, катере, солнечных и ветровых электрогенераторах, для аварийной работы.
+
+Характеристики: 
+
+
+	Частота на выходе: 50Hz+/-2Hz
+	Входное напряжение: 10.0-14.0VDC
+	Выходное напряжение: 220 В
+	Количество фаз: 1
+	Номинальная мощность ква: 0,25
+	Пусковая мощность ква: 0,3 - КПД: &gt; 90%
+	Степень защиты IP 90
+	Защита от погрузки
+	Защита от перегрева
+	Защита от повышенного и пониженного напряжения
+	Погрузка
+	Розетка
+	Форма выходного сигнала
+	Ступенчатая аппроксимация синусоиды синусоида модифицирована ·
+	Температура окружающей среды: 0...+40С
+	Охлаждение вентилятором 
+	Пиковая мощность: 500Вт 
+	Номинальная мощность: 200 –250 Вт ·
+	30 минутная максимальная мощность: 250Вт
+
+
+Комплектация: 
+
+
+	Инвертор 500W
+	 комплект проводов для подключения от аккумулятора (с крокодилами)
+
+]]></description>
+        <param name="Защита от перегрузок">Да</param>
+        <param name="Защита от перегрева">Да</param>
+        <param name="Максимальная мощность" unit="Вт">500</param>
+        <param name="Состояние">Новое</param>
+        <param name="КПД, не менее" unit="%">90</param>
+      </offer>
+      <offer id="1764171955" available="true">
+        <url>https://aveon.net.ua/p1764171955-buterbrodnitsa-multipekar-steinberg.html</url>
+        <oldprice>1448</oldprice>
+        <price>1298</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4253035731_buterbrodnitsa-multipekar-4.jpg</picture>
+        <picture>https://images.prom.ua/4253035735_buterbrodnitsa-multipekar-4.jpg</picture>
+        <picture>https://images.prom.ua/4253035720_buterbrodnitsa-multipekar-4.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Бутербродница мультипекарь 4 в 1 Steinberg ST-779 1200W сэндвичница гриль вафельница орешница для дома</name>
+        <vendor>Steinberg</vendor>
+        <vendorCode>1764171955</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Бутербродница мультипекарь 4 в 1 Steinberg ST-779 1200W
+
+Сэндвичница Steinberg 4в1 ST 779 1200W – это качественное устройство, которое позволит вам приготовить большое количество блюд.
+
+Оно сочетает в себе 4 кухонных прибора: мультигриль, орешницу, сэндвичницу и вафельницу. Это вы сможете сделать благодаря сменным формам, которые идут в комплекте.
+
+Следует заметить, что эта модель сэндвичницы выделяется долговечностью и качеством.
+
+Ведь создана она из высококачественного термопластика и нержавейки – верхняя крышка. Нержавейка не будет выгорать со временем, а термопластик отлично справится со всеми температурными нагрузками.
+
+
+
+Данная модель имеет 4 вида насадок:
+
+
+	 "Вафли гофре" – приготовление душистых вафель на десерт или на завтрак.
+	 "Сэндвичи" – приготовление тостерных бутербродов на завтрак. Во время приготовления они делятся на треугольные кусочки.
+	 "гриль" - ее ребристая поверхность создает аппетитный рисунок при жарке. Отлично подрумянит поверхность стейков, сосисок или филе курицы.
+	 "Орешница" – позволит насладиться отличным десертом и вспомнить детство.
+
+
+ 
+
+Характеристики:
+
+
+	 съемные формы для сэндвичей, вафель, гриля и орешков: Да;
+	 корпус: нержавеющая сталь;
+	 возможность охлаждения корпуса: Да;
+	 антипригарное покрытие: Да;
+	 ручка с теплоизоляцией: Да;
+	 контрольные лампы: 2;
+	 питание: 220-320 Ст.;
+	 размер насадок: 12х21,5 см;
+	 Мощность: 1200 В.
+
+
+ 
+
+Комплектация:
+
+
+	 сэндвичница;
+	 сменные насадки: 4 шт;
+	 инструкция.
+
+</description>
+        <param name="Потребляемая мощность" unit="Вт">1200</param>
+        <param name="Тип прибора">Бутербродница</param>
+        <param name="Терморегулятор">Да</param>
+        <param name="Индикатор готовности">Да</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1766068423" available="true">
+        <url>https://aveon.net.ua/p1766068423-power-bank-20000.html</url>
+        <oldprice>623</oldprice>
+        <price>473</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70180949</categoryId>
+        <picture>https://images.prom.ua/4260117548_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117546_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117545_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117549_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117553_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117551_power-bank-20000.jpg</picture>
+        <picture>https://images.prom.ua/4260117550_power-bank-20000.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Power Bank 20000 mAh (№5 808) с солнечной панелью и компасом</name>
+        <vendor>Solar</vendor>
+        <vendorCode>1766068423</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Power Bank 20000 mAh (№5 808) с солнечной панелью
+
+Power Bank 20000 – это надежное и универсальное устройство, обеспечивающее бесперебойную работу любого мобильного устройства планшета или гаджета. Очень мощный и надежный, гарантирующий полноценную зарядку планшета, смартфона, плеера, фотоаппарата, наушников или любой другой техники.
+
+Описание:
+
+Корпус устройства Power Bank 20000 mAh K-300 оригинал изготовлен из прочного пластика. Встроенный электронный контроллер не допускает повреждения батареи от перепадов напряжения. У устройства есть два универсальных порта usb. Кабель micro-USB входит в комплект портативного устройства. Также на корпусе устройства есть светодиодный фонарик, включающийся двойным нажатием кнопки сбоку. Кроме этого, в этом повербанке есть компас. Заряжается устройство как от сети так и солнечной энергии.
+
+ Характеристики:
+
+
+	Тип: Внешний аккумулятор для заряда портативных устройств
+	Зарядные устройства: смартфоны, телефоны, iPod, iPhone, планшеты и другие
+	Подключение: USB;
+	Емкость указана на батарее, мАч: 20000; (заявленная производителем)
+	Батарея: Li-pol;
+	Вход: 5V/2A;
+	Выход 2USB: 5V/2A;
+	Материал: Термопластичный огнестойкий ударопрочный пластик;
+	Дисплей: LED цифровой индикатор заряда;
+	Фонарик
+	Солнечная батарея
+
+</description>
+        <param name="Тип аккумулятора">Li-Ion</param>
+        <param name="Емкость аккумулятора" unit="мА/ч">20000</param>
+        <param name="Состояние">Новое</param>
+        <param name="Особенности">Фонарик</param>
+        <param name="Разъемы">USBx2|micro USB</param>
+      </offer>
+      <offer id="1766076519" available="true">
+        <url>https://aveon.net.ua/p1766076519-lcd-planshet-dlya.html</url>
+        <oldprice>375</oldprice>
+        <price>225</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017064</categoryId>
+        <picture>https://images.prom.ua/4260137735_lcd-planshet-dlya-risovaniya.jpg</picture>
+        <picture>https://images.prom.ua/4260137728_lcd-planshet-dlya-risovaniya.jpg</picture>
+        <picture>https://images.prom.ua/4260137726_lcd-planshet-dlya-risovaniya.jpg</picture>
+        <picture>https://images.prom.ua/4260137733_lcd-planshet-dlya-risovaniya.jpg</picture>
+        <picture>https://images.prom.ua/4260137731_lcd-planshet-dlya-risovaniya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>LCD-планшет для рисования 8,5" LCD Writing Tablet Green</name>
+        <vendorCode>1766076519</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Характеристики и описание
+
+
+	Планшет для рисования с ЖК-дисплеем 8.5 дюймов 
+	выполнена в современном и минималистическом стиле.
+	Оснащен только одной кнопкой – стереть, которая оформлена в виде корзины.
+	На обороте находится переключатель, позволяющий заблокировать функцию «стереть». 
+	Планшет оснащен специальной ручкой – стилусом. 
+	В ручке, как и в дощечке, есть небольшое отверстие, через него можно надеть ниточку и подвязать ручку к планшету. 
+	Внутри планшета встроена батарея со сроком службы 2 года.
+
+</description>
+        <param name="Тип">Наборы для обучения</param>
+        <param name="Пол">Унисекс</param>
+        <param name="Тип питания">Батарейки</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет">Зелёный</param>
+      </offer>
+      <offer id="1766951679" available="true">
+        <url>https://aveon.net.ua/p1766951679-nabor-kastryul-nerzhaveyuschej.html</url>
+        <oldprice>2423</oldprice>
+        <price>2273</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4263015981_nabor-kastryul-iz.jpg</picture>
+        <picture>https://images.prom.ua/4263015942_nabor-kastryul-iz.jpg</picture>
+        <picture>https://images.prom.ua/4263015943_nabor-kastryul-iz.jpg</picture>
+        <picture>https://images.prom.ua/4263015946_nabor-kastryul-iz.jpg</picture>
+        <picture>https://images.prom.ua/4263015947_nabor-kastryul-iz.jpg</picture>
+        <picture>https://images.prom.ua/4263015968_nabor-kastryul-iz.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Набор кастрюль из нержавеющей стали Grandhoff GR 3837 10 предметов Набор кухонных кастрюль</name>
+        <vendorCode>1766951679</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Набор кастрюль из нержавеющей стали Grandhoff GR 3837 10 предметов
+
+Описание:
+
+Набор кастрюль из нержавеющей стали GR-3837 обладают многослойным дном (5 слоёв), что обеспечивает превосходное распределение и сохранение тепла.
+
+Крышки выполнены из жаропрочного стекла с клапаном для отвода пара. Клепочная система крепления ручек не только долговечна, но и зарекомендовала себя тем, что ручки не нагреваются вместе с корпусом кастрюли.
+
+Внутри кастрюль мерная шкала.
+
+Набор посуды подходит для всех типов плит, включая индукционные.
+
+Прекрасный выбор кастрюль для Вашей кухни и свершений Ваших кулинарных шедевров.
+
+Преимущества:
+
+
+	Многослойное дно;
+	Подходят для всех видов плит;
+	Кастрюли выполнены из прочной, нержавеющей стали;
+	Стильный современный дизайн.
+
+
+Характеристики:
+
+
+	Материал: нержавеющая сталь;
+	Материал крышек: жаропрочное стекло;
+	Многослойное дно: 5 слоев;
+	Мерная шкала: есть;
+	Диаметр посуды: 16; 16 (ковш); 18; 20; 24 см;
+	Объём посуды: 2.1; 2.1 (ковш); 2.9; 3.9; 6.5 л.
+
+
+Комплектация:
+
+
+	Кастрюля со стеклянной крышкой: Ø 16, объём 2.1л.
+	Ковш со стеклянной крышкой: Ø 16, объём 2.1л.
+	Кастрюля со стеклянной крышкой: Ø 18, объём 2.9л.
+	Кастрюля со стеклянной крышкой: Ø 20, объём 3.9л.
+	Кастрюля со стеклянной крышкой: Ø 24, объём 6,5 л.
+	Упаковка.
+
+</description>
+        <param name="Внутреннее покрытие">нержавеющая сталь</param>
+        <param name="Мерная шкала">Да</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Тип">Набор кастрюль</param>
+        <param name="Тип дна">Многослойное</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1766965294" available="true">
+        <url>https://aveon.net.ua/p1766965294-nabor-kuhonnoj-posudy.html</url>
+        <oldprice>2970</oldprice>
+        <price>2820</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4263056556_nabor-kuhonnoj-posudy.jpg</picture>
+        <picture>https://images.prom.ua/4263056558_nabor-kuhonnoj-posudy.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Набор кухонной посуды Grandhoff GR-4720 на 12 предметов Хром</name>
+        <vendorCode>1766965294</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Набор кухонной посуды из нержавеющей стали на 12 предметов Grandhoff GR-4720 Хром
+
+Качество и вкус приготовленной пищи зависит не только от продуктов и мастерства повара. Большую роль играет посуда, в которой готовилась еда. Если продукты в процессе приготовления постоянно прилипают ко дну, пригорают и их необходимо все время перемешивать, добавлять много масла, а то и вовсе отдирать от дна и стенок, то блюдо приобретает неестественный вкус, аромат и структуру. Если Вы хотите питаться правильно, чтобы еда приносила максимум пользы Вашему организму, выбирайте хорошую посуду. Отличный вариант для семьи с любым уровнем изобилия – набор кухонной посуды с 9-слойным дном.
+
+В такой посуде еда не прилипает и не пригорает, готовится равномерно и в ней максимально сохраняются все полезные вещества, натуральный вкус и аромат. К тому же готовить в такой посуде одно удовольствие. Вы сэкономите время, силы и нервы. И не только в процессе приготовления.
+
+Посуда отлично моется как вручную, так и в посудомоечной машине. Ее особенность состоит в многослойной структуре. Девятислойное дно обеспечивает равномерное распределение полученного от плиты тепла и хорошо защищает пищу от пригорания. Набор подходит для приготовления разных видов блюд и в разном объеме. Все емкости оснащены удобными прозрачными крышками.
+
+Набор кухонной посуды с 9-слойным дном изготовлен из высококачественной нержавеющей стали. Она не окисляется, абсолютно экологически безопасна и гигиеническая. Сталь быстро нагревается и долго держит температуру, поэтому приготовленное блюдо будет долго оставаться горячим даже после того, как вы выключите плиту.
+
+Набор посуды с 9-слойным дном – мечта любой хозяйки. Он станет отличным приобретением для любой семьи или отличным подарком на день рождения, юбилей, свадьбу или годовщину свадьбы.
+
+Преимущества набора посуды:
+
+
+	 материал: высококачественная пищевая сталь 18/10;
+	 профессиональное 9-слойное дно равномерно распределяет и удерживает тепло, способствует быстрому нагреванию;
+	 кастрюля имеет удобную шкалу объемов жидкости на внутренней поверхности;
+	 кастрюля снабжена эргономичной крышкой из термостойкого стекла с пароотводом и специальным удерживающим металлическим ободком;
+	 удобные полые ручки из нержавеющей стали не нагреваются и имеют надежную, заклепочную крепь;
+	 строгий и элегантный дизайн определяет внешний вид кастрюли;
+	 подходит для использования на газовых/электрических/стеклокерамических и индукционных плитах;
+	 пригодна для мойки в посудомоечной машине;
+	 подарочная упаковка.
+
+
+Комплектация:
+
+
+	Ковш с термостойкой стеклянной крышкой 2 л.
+	Кастрюля с термостойкой стеклянной крышкой 2 л.
+	Кастрюля с термостойкой стеклянной крышкой 3 л.
+	Кастрюля с термостойкой стеклянной крышкой 4 л.
+	Кастрюля с термостойкой стеклянной крышкой 6,6л.
+	Сковорода с термостойкой стеклянной крышкой 3,4л.
+	Стеклянные термостойкие крышки
+	Упаковка.
+
+
+ 
+</description>
+        <param name="Внутреннее покрытие">нержавеющая сталь</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Тип">Набор кастрюль</param>
+        <param name="Тип дна">Многослойное</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1766977402" available="true">
+        <url>https://aveon.net.ua/p1766977402-ryukzak-podsumkami-litrov.html</url>
+        <oldprice>1380</oldprice>
+        <price>1230</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>64032704</categoryId>
+        <picture>https://images.prom.ua/4263089485_ryukzak-s-podsumkami.jpg</picture>
+        <picture>https://images.prom.ua/4263089482_ryukzak-s-podsumkami.jpg</picture>
+        <picture>https://images.prom.ua/4263089484_ryukzak-s-podsumkami.jpg</picture>
+        <picture>https://images.prom.ua/4263089486_ryukzak-s-podsumkami.jpg</picture>
+        <picture>https://images.prom.ua/4263089487_ryukzak-s-podsumkami.jpg</picture>
+        <picture>https://images.prom.ua/4263089483_ryukzak-s-podsumkami.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Рюкзак с подсумками на 55 литров RVL B08-пиксель Камуфляж</name>
+        <vendorCode>1766977402</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Рюкзак тактический с подсумками Eagle B08 - универсальная и очень популярная модель за счет своей функциональности. Благодаря навесным подсумкам рюкзак можно трансформировать под необходимые задачи и количество переносимых вещей. При ненадобности подсумки можно снять оставив только основной рюкзак.
+
+  Выполнен из высококачественных материалов. На внешней и боковых сторонах нашиты MOLLE-стропы для навески дополнительных подсумков или снаряжения.
+
+Имеет множество внутренних и внешних карманов на застёжках, мягкую спинку с вентиляционными ходами, компрессионные стяжки, а также мягкие плечевые ремни.
+
+  С помощью регулируемых ремней можно легко подогнать рюкзак под себя.
+
+  Съемные боковые сумки и сумка на поясе могут использоваться отдельно. Сумка в отдельном виде имеет свой собственный ремень через плечо или на пояс.
+
+Характеристики:
+
+
+	Материал: полиэстер Oxford 800D;
+	Подкладка: полиэстер с водонепроницаемым покрытием;
+	Отделения и карманы: 2 больших отделения на замке (в одном отдельный вертикальный карман, в другом сеточный карман), 2 боковых подсумки, 1 поясная сумка (с 4 карманами на замке);
+	Размер (ВхШхГ): 52 х 29 х 47 см;
+	Система Molle;
+	4 D-подобных кольца;
+	Компрессионные стяжки;
+	Поясной и грудной фастекс (ремень);
+	Объем: 55 литр;
+	Вес: 1.3 кг;
+	Цвет: пиксель.
+
+</description>
+        <param name="Объем" unit="л">55</param>
+        <param name="Материал">Оксфорд</param>
+      </offer>
+      <offer id="1766986037" available="true">
+        <url>https://aveon.net.ua/p1766986037-vakuumnyj-upakovschik-new.html</url>
+        <oldprice>668</oldprice>
+        <price>518</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4263150227_vakuumnyj-upakovschik-new.jpg</picture>
+        <picture>https://images.prom.ua/4263150252_vakuumnyj-upakovschik-new.jpg</picture>
+        <picture>https://images.prom.ua/4263150230_vakuumnyj-upakovschik-new.jpg</picture>
+        <picture>https://images.prom.ua/4263150231_vakuumnyj-upakovschik-new.jpg</picture>
+        <picture>https://images.prom.ua/4263150245_vakuumnyj-upakovschik-new.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Вакуумный упаковщик NEW Vacuum Sealer</name>
+        <vendor>Sealer</vendor>
+        <vendorCode>1766986037</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>
+	Вакууматор решает множество задач:
+	Сохранение свежести продуктов питания (фруктов, овощей, мяса, рыбы, ягод, зелени);
+	Оптимизация времени приготовления еды;
+	Экономия места для хранения в холодильнике;
+	Продление срока свежести уже готовой пищи;
+	Профилактика появления посторонних запахов в холодильнике;
+	Используя вакуумный упаковщик, запакованный продукт не будет поглощать другие ароматы.
+	Два режима работы
+	улучшенная версия имеет два режима работы:
+	Вакууматор+запайщик.
+	Конопатчик.
+
+
+Вакууматор можно применять не только для продуктов, но и для предметов личного пользования (паспорт, документы, средства личной гигиены). Вакуумный пакет сохранит Ваши вещи при любых погодных условиях, во время перелета и на отдыхе.
+
+Как пользоваться вакууматором?
+
+Данный девайс максимально прост в использовании. Достаточно уложить продукт или предмет в пакет для вакууматора, нагреть прибор, провести по краю пакета запайщиком, оставляя второй край пакета свободным. Работает вакуумный упаковщик от сети. Он достаточно компактен и не занимает много места на кухне. Его размеры всего 373*80*98 мм.
+
+Светодиодные индикаторы легко проведут вас через процесс вакуумной герметизации. Просто нажмите кнопку вакуума и уплотнения, чтобы удалить воздух.
+
+Важно!
+
+Используйте только специальные пакеты для вакууматоров.
+
+После включения вакууматора в сеть, подождите 30 сек и только после этого начинайте его использовать.
+
+Соблюдайте интервал в 1-2 мин между партиями вакуума.
+
+Не укладыйте мокрый конец пакета в вакуумную машину
+
+ 
+
+Основные характеристики:
+
+
+	Материал: пластик
+	Размер упаковщика: 373*80*98 мм;
+	Степень вакуума: -60 КПа;
+	Потребление: 90 Вт (среднее);
+	Питание: 220 В;
+	Вес: 0,42 кг;
+
+</description>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1766989147" available="true">
+        <url>https://aveon.net.ua/p1766989147-svetodiodnaya-rgb-lenta.html</url>
+        <oldprice>450</oldprice>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4263178532_svetodiodnaya-rgb-lenta.jpg</picture>
+        <picture>https://images.prom.ua/4263178531_svetodiodnaya-rgb-lenta.jpg</picture>
+        <picture>https://images.prom.ua/4263178530_svetodiodnaya-rgb-lenta.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Светодиодная RGB лента 5м 2835 RGB с контроллером и блоком питания</name>
+        <vendorCode>1766989147</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание:
+
+Легко режется на куски необходимой Вам длины. Места для резки помечены и имеют контакты для соединения коннектором или пайки проводов.
+
+C "нерабочей" стороны LED лента с пультом  имеет специальный клейкий слой. Просто удалите защитную пленку и "прилепите" ленту на чистую предварительно обезжиренную поверхность.
+
+Преимущества:
+
+
+	Эта светодиодная лента с пультом может гореть разными цветами и менять цвета при подключении через контроллер.
+	Высокая эффективность в использовании;
+	Ленту можно разрезать каждые 5 сантиметров (3 диода), при этом все отрезки будут работать;
+	Яркость и ясность цветопередачи.
+
+
+Характеристики:
+
+
+	Тип: лед лента с пультом / rgb лента с пультом
+	Длина: 5 м
+	Температура работы: -25 до +70 градус
+	Напряжение: 12 В
+	Вес: 0.18 кг
+	Яркость: 150 Люмен
+
+
+Комплектация:
+
+
+	Лента светодиодная с пультом 5 метров
+	RGB контроллер
+	Пульт управления с батарейкой CR2025
+	Блок питания 12V 2A 1шт
+	Адаптер 1шт
+	Схема подключения
+	Упаковка блистер
+
+</description>
+        <param name="Форма">Круглая</param>
+        <param name="Управление">Пульт ДУ</param>
+      </offer>
+      <offer id="1767552376" available="true">
+        <url>https://aveon.net.ua/p1767552376-kempingovaya-lampa-kryuchkom.html</url>
+        <oldprice>353</oldprice>
+        <price>203</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4264941680_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941681_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941683_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941679_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941685_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941682_kempingovaya-lampa-s.jpg</picture>
+        <picture>https://images.prom.ua/4264941684_kempingovaya-lampa-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кемпинговая лампа с крючком Bailong CL-V50</name>
+        <vendor>Bailong</vendor>
+        <vendorCode>1767552376</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Светодиодная лампа кемпинговая BAILONG CL-V50
+
+Особенности модели:
+
+
+	Подходит для походов, пикников, путешествий. Станет незаменимым помощником в гараже, амбаре или на даче.
+	Заряжается от любого блока питания 5V1A с помощью USB-microUSB кабеля.
+	Хромированный крючок
+	2 режима работы (100%, 50%)
+
+
+Технические характеристики:
+
+
+	Код товара: CL-V50
+	Мощность: 60 Вт
+	Тип диода: COB
+	Тип: Фонарь-лампа
+	Материал корпуса: Пластик
+	Назначение: Для кемпинга, отдыха, при аварийном выключении света и т.д.
+	Режимы работы: 100%, 50%
+	Цвет: Белый 
+	Страна регистрации бренда: Китай
+
+
+Комплектация:
+
+
+	Лампа
+	USB-шнур
+	Упаковки
+
+</description>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Тип питания">Аккумулятор</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Режимы работы фонаря">Средний|Интенсивный</param>
+        <param name="Тип заряда">USB</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
