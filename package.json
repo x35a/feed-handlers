@@ -11,6 +11,7 @@
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
         "aveopt": "node handlers/aveopt/aveopt.js",
+        "aveopt-update-last-feed": "node handlers/aveopt/aveopt.js --updateLastFeed",
         "save-aveopt-new-feed": "node handlers/aveopt/aveopt.js --saveNewFeedData"
     },
     "author": "",

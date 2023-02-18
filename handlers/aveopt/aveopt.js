@@ -13,48 +13,82 @@ const splitFeed = require('./split-feed')
 const saveNewFeedDataFlag = process.argv.find(
     (argv) => argv === '--saveNewFeedData'
 )
+const updateLastFeedFlag = process.argv.find(
+    (argv) => argv === '--updateLastFeed'
+)
 const saveNewFeedData = require('./save-new-feed-data')
 const replaceVendorCode = require('./replace-vendor-code')
+const findFeedsDiff = require('./find-feeds-diff')
+const updateLastFeed = require('./update-last-feed')
 
 const feedYMLlink =
     'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
 
 const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
+const lastFeedPath = './handlers/aveopt/products_feed.xml'
 
 ;(async () => {
-    const feedText = await fetchFeed(feedYMLlink)
+    const newFeedText = await fetchFeed(feedYMLlink)
+    const newFeedObject = await parser.parseStringPromise(newFeedText)
 
-    // console.log(`Reading ${previousFeedDataFilePath}`)
-    // const feedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
+    console.log(`Reading ${lastFeedPath}`)
+    const lastFeedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
+    const lastFeedObject = await parser.parseStringPromise(lastFeedText)
 
-    const feedObject = await parser.parseStringPromise(feedText)
     const previousFeedData = JSON.parse(
         fs.readFileSync(previousFeedDataFilePath)
     )
 
-    let offers = feedObject.yml_catalog.shop[0].offers[0].offer
+    let newFeedOffersObject = newFeedObject.yml_catalog.shop[0].offers[0].offer
+    newFeedOffersObject = removeOutOfStockProducts(newFeedOffersObject)
+    newFeedOffersObject = removeProductsByCategories(newFeedOffersObject)
 
-    offers = removeOutOfStockProducts(offers)
+    let lastFeedOffersObject =
+        lastFeedObject.yml_catalog.shop[0].offers[0].offer
+    lastFeedOffersObject = removeOutOfStockProducts(lastFeedOffersObject)
+    lastFeedOffersObject = removeProductsByCategories(lastFeedOffersObject)
 
-    offers = removeProductsByCategories(offers)
+    const [newOffersIDList, missedOffersIDList] = findFeedsDiff(
+        newFeedObject,
+        lastFeedObject,
+        newFeedOffersObject,
+        lastFeedOffersObject
+    )
 
-    offers = changePrices(offers)
+    const lastFeedObjectUpdated = updateLastFeed(
+        updateLastFeedFlag,
+        lastFeedPath,
+        newOffersIDList,
+        missedOffersIDList,
+        lastFeedObject,
+        lastFeedOffersObject
+    )
 
-    offers = replaceVendorCode(offers) // tilda considers vendorCode as product SKU for some reason then replace vendorCode to original offer id
+    newFeedOffersObject = changePrices(newFeedOffersObject)
+
+    newFeedOffersObject = replaceVendorCode(newFeedOffersObject) // tld considers vendorCode as product SKU, replace vendorCode to original offer id
 
     if (saveNewFeedDataFlag)
-        return saveNewFeedData(offers, feedObject, previousFeedDataFilePath)
+        return saveNewFeedData(
+            newFeedOffersObject,
+            newFeedObject,
+            previousFeedDataFilePath
+        )
 
     const [newProductsIdList, missedProductsIdList] = findNewOrMissedProducts(
-        offers,
-        feedObject,
+        newFeedOffersObject,
+        newFeedObject,
         previousFeedData,
         previousFeedDataFilePath
     )
 
-    saveNewOrMissedProducts(feedObject, newProductsIdList, missedProductsIdList)
+    saveNewOrMissedProducts(
+        newFeedObject,
+        newProductsIdList,
+        missedProductsIdList
+    )
 
-    const feeds = splitFeed(offers, feedObject)
+    const feeds = splitFeed(newFeedOffersObject, newFeedObject)
 
     // Build xml
     console.log(`Building xml files`)
@@ -63,5 +97,5 @@ const previousFeedDataFilePath = './handlers/aveopt/previousFeedData.json'
         fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
     })
 
-    console.log(`Median price ${findMedianPrice(offers)}`)
+    console.log(`Median price ${findMedianPrice(newFeedOffersObject)}`)
 })()
