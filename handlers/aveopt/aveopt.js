@@ -55,6 +55,8 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         lastFeedOffersObject
     )
 
+    // TODO SAVE DIFF RESULTS
+
     const lastFeedObjectUpdated = updateLastFeed(
         updateLastFeedFlag,
         lastFeedPath,

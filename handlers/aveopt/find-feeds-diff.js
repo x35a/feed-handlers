@@ -32,6 +32,22 @@ module.exports = (
     )
     console.log(`MISSED PRODUCTS ID\n${missedOffersIDList.join('\n')}\n`)
 
+    // Find price changes
+    const priceDiffDetails = []
+    const priceDiffList = newFeedOffersObject.filter((newFeedOffer) => {
+        return lastFeedOffersObject.find((lastFeedOffer) => {
+            const isDiff =
+                newFeedOffer.$.id === lastFeedOffer.$.id &&
+                newFeedOffer.price[0] !== lastFeedOffer.price[0]
+            if (isDiff)
+                priceDiffDetails.push(
+                    `ID: ${newFeedOffer.$.id} NEW PRICE: ${newFeedOffer.price[0]} OLD PRICE: ${lastFeedOffer.price[0]}`
+                )
+            return isDiff
+        })
+    })
+    console.log(`PRICE DIFF DETAILS\n${priceDiffDetails.join('\n')}\n`)
+
     console.log('DIFF END')
     return [newOffersIDList, missedOffersIDList]
 }
