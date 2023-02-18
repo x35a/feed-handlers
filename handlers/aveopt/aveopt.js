@@ -62,14 +62,26 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
 
     // TODO SAVE DIFF RESULTS
 
-    const lastFeedObjectUpdated = updateLastFeed(
-        updateLastFeedFlag,
-        lastFeedPath,
-        newOffersIDList,
-        missedOffersIDList,
-        lastFeedObject,
-        lastFeedOffersObject
-    )
+    if (
+        updateLastFeedFlag &&
+        (newOffersIDList.length || missedOffersIDList.length)
+    ) {
+        const lastFeedObjectUpdated = updateLastFeed(
+            lastFeedPath,
+            lastFeedObject,
+            lastFeedOffersObject
+        )
+        return
+    } else if (
+        updateLastFeedFlag &&
+        !newOffersIDList.length &&
+        !missedOffersIDList.length
+    ) {
+        console.log(
+            `UPDATE SKIPPED. There is no DIFF between New and Last feed.`
+        )
+        return
+    }
 
     newFeedOffersObject = changePrices(newFeedOffersObject)
 
