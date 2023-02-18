@@ -39,14 +39,13 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         fs.readFileSync(previousFeedDataFilePath)
     )
 
-    let newFeedOffersObject = newFeedObject.yml_catalog.shop[0].offers[0].offer
-    newFeedOffersObject = removeOutOfStockProducts(newFeedOffersObject)
-    newFeedOffersObject = removeProductsByCategories(newFeedOffersObject)
+    let newFeedOffers = newFeedObject.yml_catalog.shop[0].offers[0].offer
+    newFeedOffers = removeOutOfStockProducts(newFeedOffers)
+    newFeedOffers = removeProductsByCategories(newFeedOffers)
 
-    let lastFeedOffersObject =
-        lastFeedObject.yml_catalog.shop[0].offers[0].offer
-    lastFeedOffersObject = removeOutOfStockProducts(lastFeedOffersObject)
-    lastFeedOffersObject = removeProductsByCategories(lastFeedOffersObject)
+    let lastFeedOffers = lastFeedObject.yml_catalog.shop[0].offers[0].offer
+    lastFeedOffers = removeOutOfStockProducts(lastFeedOffers)
+    lastFeedOffers = removeProductsByCategories(lastFeedOffers)
 
     const [
         newOffersIDList,
@@ -56,8 +55,8 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
     ] = findFeedsDiff(
         newFeedObject,
         lastFeedObject,
-        newFeedOffersObject,
-        lastFeedOffersObject
+        newFeedOffers,
+        lastFeedOffers
     )
 
     // TODO SAVE DIFF RESULTS
@@ -69,7 +68,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         const lastFeedObjectUpdated = updateLastFeed(
             lastFeedPath,
             lastFeedObject,
-            lastFeedOffersObject
+            lastFeedOffers
         )
         return
     } else if (
@@ -83,19 +82,19 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         return
     }
 
-    newFeedOffersObject = changePrices(newFeedOffersObject)
+    newFeedOffers = changePrices(newFeedOffers)
 
-    newFeedOffersObject = replaceVendorCode(newFeedOffersObject) // tld considers vendorCode as product SKU, replace vendorCode to original offer id
+    newFeedOffers = replaceVendorCode(newFeedOffers) // tld considers vendorCode as product SKU, replace vendorCode to original offer id
 
     if (saveNewFeedDataFlag)
         return saveNewFeedData(
-            newFeedOffersObject,
+            newFeedOffers,
             newFeedObject,
             previousFeedDataFilePath
         )
 
     const [newProductsIdList, missedProductsIdList] = findNewOrMissedProducts(
-        newFeedOffersObject,
+        newFeedOffers,
         newFeedObject,
         previousFeedData,
         previousFeedDataFilePath
@@ -107,7 +106,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         missedProductsIdList
     )
 
-    const feeds = splitFeed(newFeedOffersObject, newFeedObject)
+    const feeds = splitFeed(newFeedOffers, newFeedObject)
 
     // Build xml
     console.log(`Building xml files`)
@@ -116,5 +115,5 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
     })
 
-    console.log(`Median price ${findMedianPrice(newFeedOffersObject)}`)
+    console.log(`Median price ${findMedianPrice(newFeedOffers)}`)
 })()
