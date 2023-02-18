@@ -48,7 +48,12 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
     lastFeedOffersObject = removeOutOfStockProducts(lastFeedOffersObject)
     lastFeedOffersObject = removeProductsByCategories(lastFeedOffersObject)
 
-    const [newOffersIDList, missedOffersIDList] = findFeedsDiff(
+    const [
+        newOffersIDList,
+        missedOffersIDList,
+        priceDiffOffersList,
+        priceDiffDetails
+    ] = findFeedsDiff(
         newFeedObject,
         lastFeedObject,
         newFeedOffersObject,

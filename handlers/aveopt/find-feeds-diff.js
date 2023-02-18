@@ -34,7 +34,7 @@ module.exports = (
 
     // Find price changes
     const priceDiffDetails = []
-    const priceDiffList = newFeedOffersObject.filter((newFeedOffer) => {
+    const priceDiffOffersList = newFeedOffersObject.filter((newFeedOffer) => {
         return lastFeedOffersObject.find((lastFeedOffer) => {
             const isDiff =
                 newFeedOffer.$.id === lastFeedOffer.$.id &&
@@ -49,5 +49,10 @@ module.exports = (
     console.log(`PRICE DIFF DETAILS\n${priceDiffDetails.join('\n')}\n`)
 
     console.log('DIFF END')
-    return [newOffersIDList, missedOffersIDList]
+    return [
+        newOffersIDList,
+        missedOffersIDList,
+        priceDiffOffersList,
+        priceDiffDetails
+    ]
 }
