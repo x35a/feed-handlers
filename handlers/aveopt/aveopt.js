@@ -20,6 +20,7 @@ const saveNewFeedData = require('./save-new-feed-data')
 const replaceVendorCode = require('./replace-vendor-code')
 const findFeedsDiff = require('./find-feeds-diff')
 const updateLastFeed = require('./update-last-feed')
+const saveDiffHistory = require('./save-diff-history')
 
 const feedYMLlink =
     'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
@@ -59,26 +60,25 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         lastFeedOffers
     )
 
-    // TODO SAVE DIFF RESULTS
-
     if (
         updateLastFeedFlag &&
         (newOffersIDList.length || missedOffersIDList.length)
     ) {
-        const lastFeedObjectUpdated = updateLastFeed(
-            lastFeedPath,
-            lastFeedObject,
-            lastFeedOffers
+        saveDiffHistory(
+            newFeedObject.yml_catalog.$.date,
+            lastFeedObject.yml_catalog.$.date,
+            newOffersIDList,
+            missedOffersIDList,
+            priceDiffDetails
         )
+        updateLastFeed(lastFeedPath, lastFeedObject, lastFeedOffers)
         return
     } else if (
         updateLastFeedFlag &&
         !newOffersIDList.length &&
         !missedOffersIDList.length
     ) {
-        console.log(
-            `UPDATE SKIPPED. There is no DIFF between New and Last feed.`
-        )
+        console.log(`NO DIFF FOUND between New and Last feed`)
         return
     }
 
