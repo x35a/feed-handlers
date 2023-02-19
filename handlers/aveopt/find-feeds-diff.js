@@ -1,20 +1,17 @@
-module.exports = (
-    newFeedObject,
-    lastFeedObject,
-    newFeedOffersObject,
-    lastFeedOffersObject
-) => {
-    console.log('DIFF START')
+const cloneDeep = require('lodash/cloneDeep')
 
+module.exports = (newFeedDate, lastFeedDate, newOffers, lastOffers) => {
     // Print feed dates
     console.log(
-        `Previous Feed Date: ${lastFeedObject.yml_catalog.$.date}\nNew Feed Date: ${newFeedObject.yml_catalog.$.date}\n`
+        `New Feed Date: ${newFeedDate}\nPrevious Feed Date: ${lastFeedDate}\n`
     )
 
-    const newFeedOffersIDList = newFeedOffersObject.map((offer) => offer.$.id)
-    const lastFeedOffersIDList = lastFeedOffersObject.map((offer) => offer.$.id)
+    const newFeedOffers = cloneDeep(newOffers)
+    const lastFeedOffers = cloneDeep(lastOffers)
+    const newFeedOffersIDList = newFeedOffers.map((offer) => offer.$.id)
+    const lastFeedOffersIDList = lastFeedOffers.map((offer) => offer.$.id)
 
-    // Find new products
+    // Find brand new products
     const newOffersIDList = newFeedOffersIDList.filter(
         (newOfferID) =>
             !lastFeedOffersIDList.find(
@@ -22,6 +19,11 @@ module.exports = (
             )
     )
     console.log(`NEW PRODUCTS ID\n${newOffersIDList.join('\n')}\n`)
+
+    // Copy brand new products
+    const brandNewOffers = newFeedOffers.filter((offer) =>
+        newOffersIDList.find((id) => offer.$.id === id)
+    )
 
     // Find missed products
     const missedOffersIDList = lastFeedOffersIDList.filter(
@@ -34,8 +36,8 @@ module.exports = (
 
     // Find price changes
     const priceDiffDetails = []
-    const priceDiffOffersList = newFeedOffersObject.filter((newFeedOffer) => {
-        return lastFeedOffersObject.find((lastFeedOffer) => {
+    const priceDiffOffers = newFeedOffers.filter((newFeedOffer) => {
+        return lastFeedOffers.find((lastFeedOffer) => {
             const isDiff =
                 newFeedOffer.$.id === lastFeedOffer.$.id &&
                 newFeedOffer.price[0] !== lastFeedOffer.price[0]
@@ -48,11 +50,8 @@ module.exports = (
     })
     console.log(`PRICE DIFF DETAILS\n${priceDiffDetails.join('\n')}\n`)
 
-    console.log('DIFF END')
-    return [
-        newOffersIDList,
-        missedOffersIDList,
-        priceDiffOffersList,
-        priceDiffDetails
-    ]
+    // Diff offers
+    const diffOffers = [...brandNewOffers, ...priceDiffOffers]
+
+    return [newOffersIDList, missedOffersIDList, priceDiffDetails, diffOffers]
 }
