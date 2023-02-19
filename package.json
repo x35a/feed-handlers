@@ -10,11 +10,9 @@
         "update-prices-yml": "node update-prices-yml.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
-        "aveopt": "node handlers/aveopt/aveopt.js",
-        "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed",
-        "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
         "aveopt-update-last-feed": "node handlers/aveopt/aveopt.js --updateLastFeed",
-        "save-aveopt-new-feed": "node handlers/aveopt/aveopt.js --saveNewFeedData"
+        "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
+        "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed"
     },
     "author": "",
     "license": "ISC",
