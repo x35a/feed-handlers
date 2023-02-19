@@ -14,9 +14,6 @@ const updateLastFeed = require('./update-last-feed')
 const saveDiffHistory = require('./save-diff-history')
 const diffFeedFlag = process.argv.find((argv) => argv === '--diffFeed')
 const splitFeedFlag = process.argv.find((argv) => argv === '--splitFeed')
-const updateLastFeedFlag = process.argv.find(
-    (argv) => argv === '--updateLastFeed'
-)
 const cloneDeep = require('lodash/cloneDeep')
 
 const feedYMLlink =
@@ -47,10 +44,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             lastFeedOffers
         )
 
-    if (
-        updateLastFeedFlag &&
-        (newOffersIDList.length || missedOffersIDList.length)
-    ) {
+    if (newOffersIDList.length || missedOffersIDList.length) {
         saveDiffHistory(
             newFeedObject.yml_catalog.$.date,
             lastFeedObject.yml_catalog.$.date,
@@ -59,13 +53,8 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             priceDiffDetails
         )
         updateLastFeed(lastFeedPath, newFeedObject, newFeedOffers)
-        return
-    } else if (
-        updateLastFeedFlag &&
-        !newOffersIDList.length &&
-        !missedOffersIDList.length
-    ) {
-        return console.log(`NO DIFF FOUND between New and Last feed`)
+    } else if (!newOffersIDList.length && !missedOffersIDList.length) {
+        console.log(`NO DIFF FOUND between New and Last feed`)
     }
 
     if (diffFeedFlag) {
@@ -77,7 +66,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         const feedDiffPath = './output/aveopt-feed-diff.xml'
         const xml = builder.buildObject(diffFeed)
         fs.writeFileSync(feedDiffPath, xml)
-        console.log(`SAVED in ${feedDiffPath}`)
+        console.log(`FEED DIFF SAVED in ${feedDiffPath}`)
     }
 
     if (splitFeedFlag) {
@@ -89,7 +78,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             const xml = builder.buildObject(feed)
             fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
         })
-        console.log(`SAVED in ./output/aveopt-feed-chunk-.xml`)
+        console.log(`FEED CHUNKS SAVED in ./output/aveopt-feed-chunk-.xml`)
     }
 
     console.log(`Median price ${findMedianPrice(newFeedOffers)}`)

@@ -10,7 +10,6 @@
         "update-prices-yml": "node update-prices-yml.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
-        "aveopt-update-last-feed": "node handlers/aveopt/aveopt.js --updateLastFeed",
         "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
         "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed"
     },
