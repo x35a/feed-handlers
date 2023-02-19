@@ -42,7 +42,10 @@ module.exports = (
                 priceDiffDetails
             )
         )
-        fs.writeFileSync(diffHistoryPath, JSON.stringify(diffHistoryList))
+        fs.writeFileSync(
+            diffHistoryPath,
+            JSON.stringify(diffHistoryList.reverse())
+        )
         console.log(
             `DIFF SAVED in ${diffHistoryPath}\nDELETE MISSED PRODUCTS IN TLD`
         )
