@@ -25,21 +25,20 @@ const feedYMLlink =
 const lastFeedPath = './handlers/aveopt/products_feed.xml'
 
 ;(async () => {
+    // Get New Feed
     const newFeedText = await fetchFeed(feedYMLlink)
     const newFeedObject = await parser.parseStringPromise(newFeedText)
-
-    console.log(`Reading ${lastFeedPath}\n`)
-    const lastFeedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
-    const lastFeedObject = await parser.parseStringPromise(lastFeedText)
-
     let newFeedOffers = newFeedObject.yml_catalog.shop[0].offers[0].offer
     newFeedOffers = removeOutOfStockProducts(newFeedOffers)
     newFeedOffers = removeProductsByCategories(newFeedOffers)
 
+    // Get Last Feed
+    console.log(`Reading ${lastFeedPath}\n`)
+    const lastFeedText = fs.readFileSync('./handlers/aveopt/products_feed.xml')
+    const lastFeedObject = await parser.parseStringPromise(lastFeedText)
     let lastFeedOffers = lastFeedObject.yml_catalog.shop[0].offers[0].offer
-    lastFeedOffers = removeOutOfStockProducts(lastFeedOffers)
-    lastFeedOffers = removeProductsByCategories(lastFeedOffers)
 
+    // Find Diff
     let [newOffersIDList, missedOffersIDList, priceDiffDetails, diffOffers] =
         findFeedsDiff(
             newFeedObject.yml_catalog.$.date,
@@ -59,7 +58,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             missedOffersIDList,
             priceDiffDetails
         )
-        updateLastFeed(lastFeedPath, lastFeedObject, lastFeedOffers)
+        updateLastFeed(lastFeedPath, newFeedObject, newFeedOffers)
         return
     } else if (
         updateLastFeedFlag &&
@@ -75,9 +74,10 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         const diffFeed = cloneDeep(newFeedObject)
         diffFeed.yml_catalog.shop[0].offers[0].offer = diffOffers
         // Build xml
-        console.log(`Building xml file`)
+        const feedDiffPath = './output/aveopt-feed-diff.xml'
         const xml = builder.buildObject(diffFeed)
-        fs.writeFileSync(`./output/aveopt-feed-diff.xml`, xml)
+        fs.writeFileSync(feedDiffPath, xml)
+        console.log(`SAVED in ${feedDiffPath}`)
     }
 
     if (splitFeedFlag) {
@@ -85,11 +85,11 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         newFeedOffers = replaceVendorCode(newFeedOffers) // tld considers vendorCode as product SKU, replace vendorCode to original offer id
         const feeds = splitFeed(newFeedOffers, newFeedObject)
         // Build xml
-        console.log(`Building xml files`)
         feeds.forEach((feed, index) => {
             const xml = builder.buildObject(feed)
             fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
         })
+        console.log(`SAVED in ./output/aveopt-feed-chunk-.xml`)
     }
 
     console.log(`Median price ${findMedianPrice(newFeedOffers)}`)
