@@ -8,7 +8,7 @@ const {
     stopCategories,
     priceLowerBoundry
 } = require('./ad-filter')
-const { merchant } = require('../../common/path')
+const { merchant } = require('../../common/feeds-path')
 const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
 
 // In Google Merchant Setting
