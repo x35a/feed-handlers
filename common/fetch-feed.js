@@ -1,5 +1,5 @@
-module.exports = async (feedYMLlink) => {
-    let response = await fetch(feedYMLlink)
+module.exports = async (fileLink) => {
+    let response = await fetch(fileLink)
     console.log('Start feed fetching...')
 
     if (response.ok) {
