@@ -7,7 +7,6 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "find products with missed category": "node common/find-products-with-missed-category.js",
         "find id duplicates": "node common/find-id-duplicates.js",
-        "update-prices-yml": "node update-prices-yml.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
         "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
