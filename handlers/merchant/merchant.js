@@ -8,7 +8,8 @@ const {
     stopCategories,
     priceLowerBoundry,
     violationOfGooglePoliciesIDList,
-    tooLongDescription
+    tooLongDescription,
+    excessiveCapitalizationIDList
 } = require('./ad-filter')
 const { merchant } = require('../../common/feeds-path')
 const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
@@ -51,6 +52,10 @@ const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
                 product.description = tooLongDescription.truncate(
                     product.description
                 )
+
+            // Fix Title Excessive Capitalization
+            if (excessiveCapitalizationIDList.includes(product.id))
+                product.title = product.title.toLowerCase()
 
             // Exclude from Ad by ID
             if (excludeIDList.includes(product.id)) {

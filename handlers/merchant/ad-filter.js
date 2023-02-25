@@ -32,5 +32,11 @@ module.exports = {
         truncate(text) {
             return `${text.slice(0, 300)}...`
         }
-    }
+    },
+
+    excessiveCapitalizationIDList: [
+        '747513344761',
+        '965828636571',
+        '641289309261'
+    ]
 }
