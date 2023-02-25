@@ -6,7 +6,8 @@ const {
     excludeIDList,
     stopWords,
     stopCategories,
-    priceLowerBoundry
+    priceLowerBoundry,
+    violationOfGooglePoliciesIDList
 } = require('./ad-filter')
 const { merchant } = require('../../common/feeds-path')
 const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
@@ -40,6 +41,9 @@ const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
                 adProducts.push(product)
                 return
             }
+
+            // Skip Violation IDs
+            if (violationOfGooglePoliciesIDList.includes(product.id)) return
 
             // Exclude from Ad by ID
             if (excludeIDList.includes(product.id)) {
