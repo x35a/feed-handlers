@@ -25,5 +25,12 @@ module.exports = {
         '339490653051',
         '737347491661',
         '525627747981'
-    ]
+    ],
+
+    tooLongDescription: {
+        IDList: ['153514378861', '157312445711', '286391067601'],
+        truncate(text) {
+            return `${text.slice(0, 300)}...`
+        }
+    }
 }

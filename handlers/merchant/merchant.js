@@ -7,7 +7,8 @@ const {
     stopWords,
     stopCategories,
     priceLowerBoundry,
-    violationOfGooglePoliciesIDList
+    violationOfGooglePoliciesIDList,
+    tooLongDescription
 } = require('./ad-filter')
 const { merchant } = require('../../common/feeds-path')
 const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
@@ -44,6 +45,12 @@ const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
 
             // Skip Violation IDs
             if (violationOfGooglePoliciesIDList.includes(product.id)) return
+
+            // Truncate too long Description
+            if (tooLongDescription.IDList.includes(product.id))
+                product.description = tooLongDescription.truncate(
+                    product.description
+                )
 
             // Exclude from Ad by ID
             if (excludeIDList.includes(product.id)) {
