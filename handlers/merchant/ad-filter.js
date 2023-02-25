@@ -9,7 +9,13 @@ module.exports = {
         '807024382141',
         '116144529091',
         '859724509061',
-        '104609093451'
+        '104609093451',
+        '517492549551', // Violation of Google policies
+        '102471993071', // Violation of Google policies
+        '981767622631', // Violation of Google policies
+        '339490653051', // Violation of Google policies
+        '737347491661', // Violation of Google policies
+        '525627747981' // Violation of Google policies
     ],
 
     stopWords: ['Milka', 'Nutella', 'Pringles', 'Ice Cool'],
