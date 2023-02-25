@@ -44,7 +44,11 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             lastFeedOffers
         )
 
-    if (newOffersIDList.length || missedOffersIDList.length) {
+    if (
+        newOffersIDList.length ||
+        missedOffersIDList.length ||
+        priceDiffDetails.length
+    ) {
         saveDiffHistory(
             newFeedObject.yml_catalog.$.date,
             lastFeedObject.yml_catalog.$.date,
@@ -53,11 +57,22 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             priceDiffDetails
         )
         updateLastFeed(lastFeedPath, newFeedObject, newFeedOffers)
-    } else if (!newOffersIDList.length && !missedOffersIDList.length) {
-        console.log(`NO DIFF FOUND between New and Last feed`)
+    } else if (
+        !newOffersIDList.length &&
+        !missedOffersIDList.length &&
+        !priceDiffDetails.length
+    ) {
+        console.log(`NO DIFF FOUND`)
     }
 
     if (diffFeedFlag) {
+        if (
+            !newOffersIDList.length &&
+            !missedOffersIDList.length &&
+            !priceDiffDetails.length
+        )
+            return console.log(`NO DIFF FOUND`)
+
         diffOffers = changePrices(diffOffers)
         diffOffers = replaceVendorCode(diffOffers)
         const diffFeed = cloneDeep(newFeedObject)
