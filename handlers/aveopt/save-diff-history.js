@@ -51,27 +51,11 @@ module.exports = (
     if (!diffHistoryList.length)
         return updateDiffFile(
             diffHistoryPath,
-            diffHistoryList,
+            [],
             newOffersIDList,
             missedOffersIDList,
             priceDiffDetails
         )
-
-    const lastDiffObject = diffHistoryList[diffHistoryList.length - 1]
-    const lastDiffStr = [
-        ...lastDiffObject.newOffers,
-        ...lastDiffObject.missedOffers,
-        ...lastDiffObject.priceDiff
-    ].join('')
-
-    const newDiffStr = [
-        ...newOffersIDList,
-        ...missedOffersIDList,
-        ...priceDiffDetails
-    ].join('')
-
-    if (lastDiffStr === newDiffStr)
-        return console.log(`DIFF IS UP TO DATE in ${diffHistoryPath}`)
 
     updateDiffFile(
         diffHistoryPath,
