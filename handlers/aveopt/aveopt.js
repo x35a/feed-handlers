@@ -81,7 +81,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
         const feedDiffPath = './output/aveopt-feed-diff.xml'
         const xml = builder.buildObject(diffFeed)
         fs.writeFileSync(feedDiffPath, xml)
-        console.log(`FEED DIFF SAVED in ${feedDiffPath}`)
+        console.log(`FEED SAVED in ${feedDiffPath}`)
     }
 
     if (splitFeedFlag) {
@@ -93,7 +93,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
             const xml = builder.buildObject(feed)
             fs.writeFileSync(`./output/aveopt-feed-chunk-${index}.xml`, xml)
         })
-        console.log(`FEED CHUNKS SAVED in ./output/aveopt-feed-chunk-.xml`)
+        console.log(`FEED SAVED in ./output/aveopt-feed-chunk-.xml`)
     }
 
     console.log(`Median price ${findMedianPrice(newFeedOffers)}`)
