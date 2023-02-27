@@ -11,6 +11,7 @@
         "find missed images": "node common/find-missed-images.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
+        "merchant": "node handlers/merchant/merchant.js",
         "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
         "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed"
     },
