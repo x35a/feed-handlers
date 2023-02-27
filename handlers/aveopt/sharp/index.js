@@ -3,11 +3,16 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const sharp = require('sharp')
 const feedPath = './handlers/aveopt/products_feed.xml'
-const imagesFolderName = 'images'
+const imagesRootFolderPath = `${__dirname}/images`
 
 const noImgProductsID = ['']
 
 ;(async () => {
+    if (!fs.existsSync(imagesRootFolderPath)) {
+        fs.mkdirSync(imagesRootFolderPath)
+        console.log('Created /images folder\n')
+    }
+
     console.log(`Reading ${feedPath}\n`)
     const feedText = fs.readFileSync(feedPath)
     const feedObject = await parser.parseStringPromise(feedText)
@@ -17,7 +22,7 @@ const noImgProductsID = ['']
     noImgProductsID.forEach((noImgProductID) => {
         const offer = feedOffers.find((offer) => offer.$.id === noImgProductID)
         if (!offer) return
-        const folderPath = `${__dirname}/${imagesFolderName}/${offer.$.id}`
+        const folderPath = `${imagesRootFolderPath}/${offer.$.id}`
         noImgProducts.push({
             id: offer.$.id,
             pictures: [...offer.picture],
