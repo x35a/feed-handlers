@@ -15,15 +15,13 @@ const saveDiffHistory = require('./save-diff-history')
 const diffFeedFlag = process.argv.find((argv) => argv === '--diffFeed')
 const splitFeedFlag = process.argv.find((argv) => argv === '--splitFeed')
 const cloneDeep = require('lodash/cloneDeep')
-
-const feedYMLlink =
-    'https://aveon.net.ua/products_feed.xml?hash_tag=7b71fadcc4a12f03cf26a304da032fba&sales_notes=&product_ids=&label_ids=&exclude_fields=&html_description=0&yandex_cpa=&process_presence_sure=&languages=ru&group_ids='
+const { aveoptYMLLink } = require('../../common/const')
 
 const lastFeedPath = './handlers/aveopt/products_feed.xml'
 
 ;(async () => {
     // Get New Feed
-    const newFeedText = await fetchFeed(feedYMLlink)
+    const newFeedText = await fetchFeed(aveoptYMLLink)
     const newFeedObject = await parser.parseStringPromise(newFeedText)
     let newFeedOffers = newFeedObject.yml_catalog.shop[0].offers[0].offer
     newFeedOffers = removeOutOfStockProducts(newFeedOffers)

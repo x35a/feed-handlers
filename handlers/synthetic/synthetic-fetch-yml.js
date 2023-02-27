@@ -9,11 +9,10 @@ const outputFilePath = path.synthetic.output
 const excludeList = require('./exclude')
 const vendor_name = 'Smart Food Shop'
 const feedDone = 'synthetic-feed.yml done'
-const feedYMLlink =
-    'https://smartfood.org.ua/tstore/yml/96283d7854beada45245c1187fac3dd2.yml'
+const { tldYMLLink } = require('../../common/const')
 
 ;(async () => {
-    let response = await fetch(feedYMLlink)
+    let response = await fetch(tldYMLLink)
 
     if (response.ok) {
         // Get .yml

@@ -12,14 +12,14 @@ const {
     excessiveCapitalizationIDList
 } = require('./ad-filter')
 const { merchant } = require('../../common/feeds-path')
-const feedFb = 'https://smartfood.org.ua/feed-fb.csv'
+const { tldCSVLink } = require('../../common/const')
 
 // In Google Merchant Setting
 // Set Delimiter: Tab
 // Uncheck 'Use quoted fields' checkbox
 
 ;(async () => {
-    let response = await fetch(feedFb)
+    let response = await fetch(tldCSVLink)
 
     // if HTTP status in range 200-299
     if (response.ok) {

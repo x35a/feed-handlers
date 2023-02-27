@@ -7,12 +7,10 @@ const excludeList = require('./exclude')
 
 const path = require('../../common/feeds-path')
 const outputFilePath = path.prom.output
-
-const feedYMLlink =
-    'https://smartfood.org.ua/tstore/yml/96283d7854beada45245c1187fac3dd2.yml'
+const { tldYMLLink } = require('../../common/const')
 
 ;(async () => {
-    let response = await fetch(feedYMLlink)
+    let response = await fetch(tldYMLLink)
 
     if (response.ok) {
         // Get .yml

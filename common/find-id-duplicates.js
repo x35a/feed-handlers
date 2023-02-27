@@ -1,13 +1,9 @@
-const fs = require('fs')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
-const builder = new xml2js.Builder({ cdata: true })
-
-const feedYMLlink =
-    'https://smartfood.org.ua/tstore/yml/96283d7854beada45245c1187fac3dd2.yml'
+const { tldYMLLink } = require('./const')
 
 ;(async () => {
-    let response = await fetch(feedYMLlink)
+    let response = await fetch(tldYMLLink)
 
     if (response.ok) {
         // Get .yml
