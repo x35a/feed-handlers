@@ -5,7 +5,7 @@ const sharp = require('sharp')
 const feedPath = './handlers/aveopt/products_feed.xml'
 const imagesFolderName = 'images'
 
-const noImgProductsID = ['1549232726', '1630150467']
+const noImgProductsID = ['']
 
 ;(async () => {
     console.log(`Reading ${feedPath}\n`)
