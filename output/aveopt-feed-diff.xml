@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-02-25 16:11">
+<yml_catalog date="2023-02-27 14:25">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -49,1601 +49,663 @@
       <category id="108118382">Женская обувь</category>
     </categories>
     <offers>
-      <offer id="905112762" available="true">
-        <url>https://aveon.net.ua/p905112762-power-bank-powerbank.html</url>
-        <oldprice>663</oldprice>
-        <price>363</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70180949</categoryId>
-        <picture>https://images.prom.ua/1853485518_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485519_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485520_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485521_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485522_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485523_power-bank-powerbank.jpg</picture>
-        <picture>https://images.prom.ua/1853485524_power-bank-powerbank.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Power Bank powerbank 50000 mAh Solar LED | Повер Банк LED | Портативное зарядное устройство | Пауэр Солар</name>
-        <vendorCode>905112762</vendorCode>
-        <description><![CDATA[Power Bank 50000 с солнечной батареей - внешний аккумулятор, надежный источник питания, который станет хорошим другом для путешественников, деловых и активных людей. Говорите по телефону, слушайте музыку, играйте, фотографируйте и снимайте больше с помощью Power Bank 50000. 
-
-Solar 50000mAh Power Bank выручит в критической ситуации и значительно продлить время автономной работы ваших любимых девайсов: смартфонов, плееров, планшетов, фотоаппаратов и прочих устройств. Специальные индикаторы, размещенные на лицевой панели, оповестят об оставшемся уровне заряда.
-
-
-
-Портативный аккумулятор 50000 - это уникальное устройство, которое позволит вашему телефону или планшету работать дольше. Power Bank не займет много места в рюкзаке или сумке, а его наличие позволит подзарядить смартфон в любом удобном месте.
-
-
-
-На батарее есть яркий LED диод. Корпус Power Bank хорошо защищен от падения. Так же есть защита от попадания влаги, но погружать полностью в воду не рекомендуется.
-
-В режиме резервного аккумулятора Вы можете накопить заряд от сети, а после подзарядить плеер или мобильный телефон. В комплекте с зарядным устройством поставляются кабель зарядки USB-microUSB. На портативном зарядном устройстве имеется два разъема USB для зарядки техники и разъем miniUSB для зарядки самого Power Bank, разъемы надежно закрываются резиновыми крышками и не боятся попадания влаги.
-
- 
-
-Универсальное устройство работающее от сети, ПК и энергии солнца. Это зарядное устройство с 50000 mAh для Iphone, планшетных ПК и USB устройств на 500 циклов подзарядки в течение срока службы батареи.
-
-Устройство имеет индикатор, который отображает точный процент питания. Двойной USB DC 5 В/1a выход для зарядки мобильных телефонов, SB DC 5 В/2.1a Выход заряда для планшета. Ультра высокая эффективность преобразования (&gt; 75%). Время полной зарядки аккумулятора (переменного тока): 7-8 часов. ABS + PC дизайн корпуса обеспечивает эффект анти-царапин и анти-отпечатков пальцев.
-
- 
-
-Характеристики:
-
-Выходное напряжение: DC 5 В
-
-2 порт Выходной ток: 1000mA/2000mA макс
-
-Входное напряжение/ток: 5.0 В/1000mA
-
-Солнечные фотоэлектрические панели: 5.5 В 300mA 1.5 Вт
-
-USB кабель для зарядки: 1 шт
-
-Размер: 132 * 76 * 21 мм
-
-Вес: около 202 г
-
- 
-
- 
-
- 
-]]></description>
-      </offer>
-      <offer id="968479237" available="true">
-        <url>https://aveon.net.ua/p968479237-samaya-bolshaya-jbl.html</url>
-        <oldprice>1169</oldprice>
-        <price>1019</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70180736</categoryId>
-        <picture>https://images.prom.ua/1853500105_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500106_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500107_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500108_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500109_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500110_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500111_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500112_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500113_samaya-bolshaya-jbl.jpg</picture>
-        <picture>https://images.prom.ua/1853500114_samaya-bolshaya-jbl.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Самая БОЛЬШАЯ JBL Xtreme BIG EXTREME мощная портативная блютуз колонка</name>
-        <vendorCode>968479237</vendorCode>
-        <description>Самая БОЛЬШАЯ JBL Xtreme BIG EXTREME мощная портативная блютуз колонка!
-
-
-
-Представляем Вашему вниманию одну из лучших беспроводных портативных колонок JBL XTREME BIG (28 см). 
-
-Самый мощный звук и бас! Внешний вид привлечет любое внимание!
-
-
-
-У нас каждая колонка проверена и протестирована!
-
-В случае возникновения каких-либо проблемных вопросов возврат денег и оплату транспортных перевозок берем на себя.
-
-
-
-JBL XTREME большая - самая мощная акустика в линейке JBL, размер колонки оригинальный, не Xtreme mini.
-
-JBL XTREME – это полнофункциональный портативный Bluetooth-динамик, который легко воспроизводит потрясающе мощный стереозвук через четыре активных преобразователя и два видимых излучателя низких частот JBL.
-
-JBL XTREME оснащен емким перезаряжаемый литий-ионный аккумулятором на 10 000 мА*ч, обеспечивающим до 8 -10 часов автономной работы, и двойным USB-выходом для зарядки, поэтому ваша музыка будет звучать, а устройства – работать так долго, сколько вам нужно.
-
-Корпус JBL XTREME изготовлен из прорезиненного пластика с тканевой обшивкой, которая успешно защищает от брызг и дождя.
-
-JBL XTREME оснащен спикерфоном с функциями шумоподавления и эхокомпенсации для четкой конференц-связи, а функция JBL Connect позволяет объединять в беспроводную сеть несколько колонок, поддерживающих эту функцию, и таким образом усиливать акустические ощущения от прослушивания.
-ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ В УКРАИНЕ JBL XTREME BIG (28 см)!!! Качество класса ААА. Незаменимая вещь на любой вечеринке или отдыхе на природе. Также в наличии имеются Charge 2, 3, 4, Flip 3, 4, Xtreme Mini (23 см), Boombox (Big 28, 34 см, Mini), Pulse 3, 5.
-
-
-
-Колонка JBL XTREME SUPERBASS 
-
-• Чистый и мощный звук
-
-• Батарея 10000 mAh
-
-• Время прослушивания до 8-10 часов
-
-• Герметический корпус с защитой от воды
-
-• Подключение с помощью Bluetooth к любому устройству, включая планшеты и телефоны.
-
-• Возможность сопряжения 2-х колонок
-
-• FM радио
-
-• Воспроизведение с флешки USB, microSD
-
-
-
-ХАРАКТЕРИСТИКИ
-
-• Номинальная мощность: 2*20 Вт с двойным усилением
-
-• Коэффициент "сигнал-шум" 80 дб 
-
-• Питание: от батарей, от USB.
-
-• Время работы: до 10 часов.
-
-• Функции: встроенный микрофон.
-
-• Бас: 2 пассивных излучателя.
-
-
-
-ГАБАРИТЫ:
-
-• Ш*В*Г 283*126*122
-
-• вес 2112 грамм
-
-
-
-Комплектация: 
-
-• акустическая система JBL XTREME;
-
-• кабель Micro-USB;
-
-• кабель AUX;
-
-• ремень для ношения через плечо.</description>
-        <param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
-        <param name="Состояние">Новое</param>
-        <param name="Формат акустики">Стерео</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Поддерживаемые карты памяти">microSD</param>
-        <param name="Суммарная мощность звука" unit="Вт">6</param>
-        <param name="Особенности">Зарядка плеера/смартфона|FM-приемник</param>
-        <param name="Цвет корпуса" unit="">На выбор</param>
-      </offer>
-      <offer id="1038921486" available="true">
-        <url>https://aveon.net.ua/p1038921486-kamera-video-nablyudenie.html</url>
-        <oldprice>2925</oldprice>
-        <price>1425</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018536</categoryId>
-        <picture>https://images.prom.ua/1970674779_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970689773_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970674780_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970689774_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970689775_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970689776_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970689781_ip-kamera-video-nablyudenie.jpg</picture>
-        <picture>https://images.prom.ua/1970674778_ip-kamera-video-nablyudenie.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>IP Камера видео-наблюдение IP 163E, WI-FI камера, онлайн поворотная, ночное видение</name>
-        <vendor>IP</vendor>
-        <vendorCode>1038921486</vendorCode>
-        <description>IP-Камера это еще один способ уберечь себя от непрошеных гостей. Используя данный девайс вы сможете с любой точки мира наблюдать за своим имуществом онлайн. Все что от вас нужно - это постоянный интернет и скачанное приложение на ваше мобильное устройство . Камеры с углом обзора 360 с помощью поворотного механизма.
-
-Особенности:
-
-
-	инфракрасный светодиод, который позволяет снимать ночью на расстоянии до 10 метров
-	благодаря приложению Mi Home для смартфонов на платформах как Android, так и iOS, и соединению Wi-Fi вы можете преодолеть расстояние и увидеть, что происходит у вас дома
-	имеет широкоугольный объектив 
-	в комплекте микрофон и динамик
-	облачное хранение (вы можете использовать карту памяти до 64 Гб или воспользоваться непосредственно записью в облачное хранение) 
-	дистанционное управление поворотом по двум осям
-
-
-Технические характеристики:
-
-
-	Тип: IP- камера видеонаблюдения
-	Тип корпуса: купольная камера
-	Исполнение: поворотная
-	Инфракрасный датчик: есть
-	Угол обзора: 90°
-	Мощность: 5 Вт
-	Расстояние: 10 м
-	Аудио: микрофон и динамик
-	Разрешение: 720P HD
-	Дополнительно: датчик движения, сигнализация
-
-
-Комплектация:
-
-
-	Камера IP;
-	Кронштейн;
-	Адаптер и шнур для подключения;
-	Инструкция;
-	Упаковка. 
-
-</description>
-        <param name="Кронштейн в комплекте">Да</param>
-        <param name="Изображение картинки" unit="">Цветная</param>
-        <param name="Режим съемки &quot;День/ночь&quot;" unit="">True</param>
-        <param name="Тип матрицы" unit="">CMOS</param>
-        <param name="Наличие ИК-подсветки&#x9;" unit="">Да</param>
-        <param name="Дальность ИК-подсветки&#x9;" unit="">25 м</param>
-      </offer>
-      <offer id="1174843503" available="true">
-        <url>https://aveon.net.ua/p1174843503-robot-pylesos-akkumulyatornyj.html</url>
-        <oldprice>600</oldprice>
-        <price>450</price>
+      <offer id="798560087" available="true">
+        <url>https://aveon.net.ua/p798560087-skladnoj-stolik-podstavka.html</url>
+        <oldprice>645</oldprice>
+        <price>495</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017053</categoryId>
-        <picture>https://images.prom.ua/2362783118_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783150_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783156_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783155_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783117_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783123_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783131_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783145_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783149_robot-pylesos-akkumulyatornyj.jpg</picture>
-        <picture>https://images.prom.ua/2362783154_robot-pylesos-akkumulyatornyj.jpg</picture>
+        <picture>https://images.prom.ua/1853481029_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481030_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481031_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481032_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481033_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481034_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481035_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481036_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481037_skladnoj-stolik-podstavka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1853481038_skladnoj-stolik-podstavka-dlya.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Робот Пылесос аккумуляторный умный Ximei Smart Robot на аккумуляторе 18650 заряд от USB</name>
-        <vendorCode>1174843503</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Умный Робот пылесос XIMEI Smart Robot, 1500 Вт
+        <name>Складной столик-подставка для ноутбука с кулером E-Table LD09</name>
+        <vendorCode>798560087</vendorCode>
+        <country_of_origin>Южная Корея</country_of_origin>
+        <description>Складной столик-подставка для ноутбука с кулером E-Table LD09
+Оригинальный, комфортный и многофункциональный столик, его можно использовать как подставку для книги, подставку для ноутбука, преподнести завтрак в постель, а во время путешествий и командировок он вообще необходим, как рабочий столик.
 
-Робот-пылесос способен производить уборку дома без Вашей помощи.
 
-Все, что нужно для начала работы, это включить интеллектуальный прибор и запустить Пылесос автоматически подстраивается под любое напольное покрытие, будь то кафельная плитка, паркет, линолеум
-
-Наличие «Виртуальной стены» поможет сделать уборку более безопасной.
-
-Достаточно поставить датчик в нужном месте и пылесос не пересечет границу убираемого помещения.
-
-Единственное, что Вам нужно сделать, это высыпать мусор из контейнера-пыле сборника.
-
-Данный представитель роботизированной бытовой техники способен на многое:
-
-
-	Убирает вдвое большую территорию за один цикл благодаря увеличенному объему мусоросборника на одинаковой мощности;
-	Является универсальным устройством, благодаря которому участие человека в процессе уборки дома сводится к минимуму: робот-пылесос XIMEI соберет весь мусор
-	Максимально эффективно очищает до 150-ти квадратов поверхности за один раз. При чем роботу все равно на каком полу работать, будь то ламинат, паркетная доска, линолеум либо длинноворсовый ковер
-
-
-Характеристики:
-
-Тип оборудования: робот пылесос
-
-Марка: Ximei
-
-Диаметр/толщина: 23 см / 6 см
-
-Напряжение: 6В
-
-Турбо щетка: есть
-
-Материал производства: пластик
-
-Срок автономной работы: 2 часа
-
-Объем пылесборника: 0,6 - 1 л
-
-Шумность: не более 50 дБ
-
-Объем аккумуляторной батареи: 1200 мАч
-
-Страна-изготовитель: Китай
-
-Комплектация:
-
-Робот пылесос Ximei smart robot 14+
-
-USB зарядка
-
-Инструкция 
-
-Упаковка: коробка
-</description>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Тип аккумулятора">Li-Ion</param>
-        <param name="Тип">Робот</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1247484595" available="true">
-        <url>https://aveon.net.ua/p1247484595-umnye-smart-chasy.html</url>
-        <oldprice>660</oldprice>
-        <price>465</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018536</categoryId>
-        <picture>https://images.prom.ua/2579969286_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969262_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969261_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969278_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969250_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969276_umnye-smart-chasy-telefon.jpg</picture>
-        <picture>https://images.prom.ua/2579969283_umnye-smart-chasy-telefon.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Умные Смарт часы-телефон Smart Watch X6</name>
-        <vendorCode>1247484595</vendorCode>
-        <description>Смарт часы Х6 обладают рядом неоспоримых достоинств, выгодно отличающих их от аналогов. Аккумуляторная батарея увеличенной емкости, позволяет использовать гаджет смарт вотч X6 до двух дней в активном режиме и семи – в режиме ожидания, без дополнительной подзарядки. Форма корпуса в виде изогнутой кривой, позволяет удобно разместить девайс на руке пользователя, а наличие нескольких видов циферблата, дает возможность выбрать его в соответствии с личными предпочтениями обладателя этой модели. Отличительными чертами данной модели смарт часов, являются: Стильный дизайн, несомненно притягивающий взоры окружающих. Чувствительный сенсорный экран. Современные комплектующие последнего поколения. Наличие большого количества дополнительных функций. К тому же, часы Smart Watch X6 подойдут для руки любого размера.Мощный процессор обеспечивает быстродействие часов, а качество воспроизведения фото и музыкальных файлов, гарантирует сенсорный экран с высокой степенью разрешения. Корпус прочный, выполнен из сплава металлов, защищает от влаги и механических повреждений. Ремешок выполнен из гипераллергенного силикона также черного цвета. Наличие Bluetooth позволяет синхронизировать часы Smart Watch X6 со смартфоном, что значительно расширяет их возможности. Для работы с внешним устройством используется приложение BT Notification Наличие СИМ карты, превращает умные часы в полноценный телефон, обладающий всеми, ему присущими функциями (прием вызовов и совершение звонков и СМС сообщений). Большое количество различных основных и дополнительных функций позволяет использовать SmartWatch Х6 в различных жизненных ситуациях (контроль сна и активности, напоминание и счетчик калорий). Наличие камеры позволяет делать снимки, а функция anti-lost обеспечит сохранность умных часов, подав сигнал на сопряженный с ними смартфон, в случае удаления гаджета на расстояние более 10,0 метров от пользователя. Работая с синхронизированным телефоном, можно управлять его камерой.</description>
-        <param name="Тип">Умные часы</param>
-        <param name="Совместимость с">IOS|Android</param>
-        <param name="Состояние">Новое</param>
-        <param name="Цвет" unit="">На выбор</param>
-      </offer>
-      <offer id="1294600828" available="true">
-        <url>https://aveon.net.ua/p1294600828-nochnik-silikonovyj-panda.html</url>
-        <oldprice>728</oldprice>
-        <price>578</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017053</categoryId>
-        <picture>https://images.prom.ua/2729622236_nochnik-silikonovyj-panda.jpg</picture>
-        <picture>https://images.prom.ua/2729622216_nochnik-silikonovyj-panda.jpg</picture>
-        <picture>https://images.prom.ua/2729622229_nochnik-silikonovyj-panda.jpg</picture>
-        <picture>https://images.prom.ua/2729622235_nochnik-silikonovyj-panda.jpg</picture>
-        <picture>https://images.prom.ua/2729622238_nochnik-silikonovyj-panda.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Ночник силиконовый Панда LOSSO LJC-142-А (открытые глаза)</name>
-        <vendorCode>1294600828</vendorCode>
-        <description>Силиконовый светильник "Панда" –  оригинальный ночник, который сможет украсить не только детскую спальню, но и замечательно впишется в интерьер любой комнаты. Мягким, приглушенным светом лампа в виде китайского мишки панды окутает детскую комнату волшебным приятным светом, подарив детям море радости и чувство защищенности. С таким чудесным светящимся другом и сказочным персонажем ребенку будет совсем не страшно засыпать ночью.
-
-Лампа ночник Панда разработана специально для тактильного "общения" с силиконовым животным. Его можно взять в руки, помять, прислонить к телу, принести в кровать и просто поставить рядом. И это не просто силиконовый ночник, это - замечательная игрушка для ребенка, с которой он может не расставаться и днем, и ночью. Через пару дней они станут неразлучными друзьями, а родители будут наслаждаться тишиной вечернего времяпровождения и только выключать мишку после того, как ребенок спокойно уснет.
-
-Панда Losso - это светодиодный ночник со всеми цветами радуги. Этот милый сенсорный ночник имеет 2 режима работы. Нажав кнопку включения с нижней стороны, светильник начнет светится тёплым белым светом. При легком хлопке по макушке Панды, он начнет изменять цвет по кругу каждые 3 секунды и будет работать в таком режиме до следующего хлопка. Второй хлопок фиксирует цвет - Панда будет светится в одном свете до следующего - третьего хлопка. Последний - выключит лампу. А дальше все сначала.
-
-Лед ночник Панда имеет ряд преимуществ:
-
-
-	свет не имеет бликов и не слепит глаза;
-	приятный мягкий свет абсолютно не мешает сну;
-	лампа - не нагревается - малыш не обожжется;
-	ночник мягкий и приятный на ощупь;
-	имеет встроенную батарею и заряжается от USB;
-	абсолютно безопасен для здоровья;
-	плафон изготовлен из гипоаллергенного силикона;
-	не имеет запаха
-
-
-Силиконовый светильник Панда поставляется в двух вариантах: с открытыми и закрытыми глазами. Выберите тот, который будет по душе Вам и Вашему ребенку.
-
-Детский мягкий ночник Панда имеет встроенную батарею, емкостью 1200 мАч, которая способна длительное время поддерживать свечение лампы. Зарядить батарею можно через USB кабель, который идет в комплекте с ночником.
-
-Характеристики:
-
-
-	Цвет:  белый
-	Размер:   106*112*136 мм
-	Материал:   Силикон, Пластик
-	Напряжение: 5В, 1000мА
-	Мощность: 1,5 Вт
-	Емкость батареи: 1200 мАч (модель 8650)
-	Вес: 300 г
-
-</description>
-        <param name="Состояние">Новое</param>
-        <param name="Тип" unit="">Светильник</param>
-        <param name="Цвет" unit="">Несколько режимов</param>
-      </offer>
-      <offer id="1332513579" available="true">
-        <url>https://aveon.net.ua/p1332513579-vozdushnyj-stajler-dlya.html</url>
-        <oldprice>1155</oldprice>
-        <price>1005</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018536</categoryId>
-        <picture>https://images.prom.ua/2851317538_vozdushnyj-stajler-dlya.jpg</picture>
-        <picture>https://images.prom.ua/2851319864_vozdushnyj-stajler-dlya.jpg</picture>
-        <picture>https://images.prom.ua/2851319863_vozdushnyj-stajler-dlya.jpg</picture>
-        <picture>https://images.prom.ua/2851317539_vozdushnyj-stajler-dlya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Воздушный стайлер для волос 7 в 1 Gemei GM4836</name>
-        <vendorCode>1332513579</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Воздушный стайлер для волос 7 в 1 Gemei GM4836
-
-Великолепный комплексный уход за Вашими волосами - это 7 в 1 стайлер для волос Gemei GM 4836! Вы сможете моделировать различные прически благодаря 9 насадкам к воздушному стайлеру. Такой прибор подойдет как опытному парикмахеру, так и для домашнего использования. 
-
-Стайлер похож на плойку, но имеет 9 насадок:: концентратор, насадка для объема, расческа для выпрямления, щипцы для завивки, утюжок, конусная насадка и три круглых расчески. Вы сможете делать крупные и мелкие, горизонтальные и спиральные локоны, ретро-локоны, а также придавать дополнительный объем. Если у вас нет времени для укладки, на этот случай предусмотрены специальные насадки для кудрявых или вьющихся волос, которые обеспечивают их быстрое распутывание и выпрямление. Немаловажной дополнительной функцией есть ионизация, которая препятствует «намагничиванию» волос и придает дополнительный блеск.
-
-Воздушный стайлер для волос 7 в 1 Gemei GM 4836 — это незаменимый прибор, который должен присутствовать в инвентаре каждой девушки и женщины.
-
-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ
-
-
-	Производитель: Gemei;
-	Модель: GM 4836;
-	Тип: набор для укладки;
-	Мощность:1200 ВТ
-	Защита от перегрева: да;
-	Количество скоростей: 2;
-	Температурный режим: 3;
-	Тип питания: сеть 220 В;
-	Насадки: 6 шт.;
-
-
-Комплект:
-
-Концентратор 9,5 - 3,6 см
-
-Подъемник для объема 12,5 - 6 см
-
-Расческа для выпрямления 14,8 - 5 см
-
-Две круглых расчески для больших кудрей 17,5 - 4,5 см, для маленьких 18 - 2,5 см
-
-Щипцы для завивки 20,3 - 2 см
-</description>
-        <param name="Терморегулятор">Да</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1457663380" available="true">
-        <url>https://aveon.net.ua/p1457663380-uvlazhnitel-vozduha-ultrazvukovoj.html</url>
-        <oldprice>389</oldprice>
-        <price>239</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017053</categoryId>
-        <picture>https://images.prom.ua/3262309393_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <picture>https://images.prom.ua/3262309397_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <picture>https://images.prom.ua/3262309394_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <picture>https://images.prom.ua/3262309398_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <picture>https://images.prom.ua/3262309396_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <picture>https://images.prom.ua/3262309395_uvlazhnitel-vozduha-ultrazvukovoj.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Увлажнитель воздуха ультразвуковой Humidifier EL-544-23</name>
-        <vendorCode>1457663380</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Ультразвуковой увлажнитель воздуха Humidifier - просто необходимая вещь в каждом доме, где есть ребенок, он поможет создать оптимальный микроклимат и обеспечит необходимую влажность в помещении, а разноцветная подсветка создаст приятную и комфортную атмосферу и поможет ребенку быстрее заснуть. Особенно в отопительный сезон, когда воздух в доме сухой.
-
-Одним из неоспоримым плюсов данного увлажнителя воздуха является наличие на верхней части девайса стандартного Usb входа, который закрыт стильной силиконовой заглушкой. Через него можно подзаряжать гаджеты или подключить любое Usb устройство.
-
-Если вы хотите, чтобы вас всегда сопровождал приятный аромат- то увлажнитель Humidifier для Вас!
-
-Увлажнитель можно использовать:
-
-- Как дома, так и находясь на работе в офисе, торговом центре, где всегда сухой воздух и нашей коже и легким не хватает увлажнения.
-
-- В машине он будет увлажнять воздух в салоне автомобиля а, при добавлении эфирных масел, может использоваться для ароматерапии. Главный плюс такой ароматизации, то что она натуральна и полезна для нашего организма.
-
-- Можно использовать в отопительный период во время сна, в качестве персонального увлажнителя.
-
-- В вечернее и ночное время может служить ночником благодаря приятной подсветке.
-
-- В период болезни детей, им нужен влажный и чистый воздух - увлажнитель вам поможет в этом - поставьте увлажнитель на тумбочку возле кроватки ребёнка или в изголовье.
-
-Увлажнитель воздуха Humidifier – отличный выбор в сегменте портативных мини-увлажнителей воздуха и ароматизаторов с лаконичным дизайном и достойным функционалом. 
-
- 
-
-Комплектация: увлажнитель, кабель, упаковка.
-</description>
-        <param name="Применение прибора">Для дома, квартиры</param>
-        <param name="Тип управления">Сенсорное</param>
-        <param name="Тип">Увлажнитель</param>
-        <param name="Состояние">Новое</param>
-        <param name="Ночной режим работы">Да</param>
-        <param name="Автоотключение при отсутствии воды">Да</param>
-        <param name="Тип питания">Сеть 220 В</param>
-        <param name="Подсветка">Да</param>
-        <param name="Материал корпуса">Пластик</param>
-      </offer>
-      <offer id="1522562776" available="true">
-        <url>https://aveon.net.ua/p1522562776-letayuschij-shar-spinner.html</url>
-        <oldprice>435</oldprice>
-        <price>285</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/3473679660_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473679662_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473679659_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473680352_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473680336_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473680348_letayuschij-shar-spinner.jpg</picture>
-        <picture>https://images.prom.ua/3473680365_letayuschij-shar-spinner.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Летающий шар спиннер светящийся FlyNova pro Gyrosphere Игрушка мяч бумеранг для ребёнка</name>
-        <vendorCode>1522562776</vendorCode>
-        <description>Летающий шар - это очень увлекательная и инновационная игрушка для всех возрастов, которая подарит море впечатлений и настоящее удовольствие не только ребенку, но и взрослому. 
-
-Особенности и преимущества: 
-
-
-	Игрушка развивает быстроту реакции, ловкость и внимание, а также координацию движений вашего ребенка.
-	Два винта — шестилопастный и трехлопастный, вращающийся в противоположном направлении относительно основного.
-	По внутренней части натянута лента с яркими RGB светодиодами. Во время работы шар переливается разными цветами и выглядит очень красиво.
-	Заряда аккумулятора хватает примерно до 10 минут работы.
-	Заряжается шар 25-30 мин.
-	Материал сферической оболочки достаточно гибкий и упругий, благодаря чему, шару не страшны падения.
-
-
-Функции:
-
-
-	Запускается шар встряхиванием его рукой.
-	Наклонив летающий шар назад и слегка вверх, бросьте его, и он волшебным образом вернется в вашу руку, как бумеранг.
-	Наклонив летающий шар вперёд, бросьте его и он полетит прямо.
-	Держа шар ровно, подбросьте его вверх, шар взлетит и плавно опустится.
-	Запустив шар и положив его на ладонь, и он может левитировать в руке.
-	Чтобы остановить шар, необходимо его перевернуть и встряхнуть.
-
-
-Характеристики:
-
-
-	Заряд от USB шнура;
-	Время зарядки: около 25 минут;
-	Продолжительность работы: до 10 минут;
-	Диаметр шара: 95 мм;
-	Вес: 27 г;
-	Вес упаковки: 170 г;
-	Размер упаковки: 100х100х100 мм.
-
-
-Комплектация:
-
-
-	Летающий шар;
-	Фирменная упаковка;
-	USB-кабель;
-	 Руководство пользователя.
-
-</description>
-      </offer>
-      <offer id="1547468671" available="true">
-        <url>https://aveon.net.ua/p1547468671-minidinamik-bluetooth-kms.html</url>
-        <oldprice>555</oldprice>
-        <price>405</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70180736</categoryId>
-        <picture>https://images.prom.ua/3553497181_minidinamik-bluetooth-kms-k12.jpg</picture>
-        <picture>https://images.prom.ua/3553497180_minidinamik-bluetooth-kms-k12.jpg</picture>
-        <picture>https://images.prom.ua/3553497182_minidinamik-bluetooth-kms-k12.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Минидинамик Bluetooth KMS-K12</name>
-        <vendor>Kimiso</vendor>
-        <vendorCode>1547468671</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>
-
-Цветной RGB светодиодный светильник
-
-
-
-Поочередно излучают разноцветные огоньки, что привлекательно в темное время суток. Усиливают атмосферу просмотра при прослушивании музыки или просмотре фильмов и игр.
-
-
-
-Двойной будильник
-
-
-
-Можно установить одновременно два будильника, на разное время, что подходит для вашего графика. По вашему выбору включите звуковой сигнал или радио.
-
-
-
-Hi-fi стерео
-
-
-
-Встроенный динамик 3 Вт полного диапазона с басовой диафрагмой, технология DSP приносит удивительную четкость и качество звучания, позволяют наслаждаться всеми деталями музыки.
-
-
-
-Светодиодный автоматический сенсорный экран
-
-
-
-При движении в пределах 4 метров перед колонкой, экран автоматически включится. Выключение автоматическое через 10 секунд.
-
-
-
-Длительное время работы в режиме ожидания
-
-
-
-Встроенный аккумулятор высокой емкости 2000 мАч, поддержка воспроизведения музыки до 18 часов.
-
-
-
-Блютуз 5,0
-
-
-
-Встроенный чип Bluetooth 5,0, Автоматическое сопряжение при включении, расстояние подключения более 10 метров,
-
-
-
-Совместим со всеми устройствами bluetooth.
-
-
-
-Компактный размер
-
-
-
-Колонка маленькая, не занимает много места, удобна для транспортировки.
-
-
-
-FM радио
-
-
-
-Встроенная функция FM-радио позволяет выбирать из широкого спектра бесплатных станций для прослушивания музыки, новостей, ток-шоу и т. д.
-
-
-
-
-
-
-
-Громкая связь
-
-
-
-Вы можете легко принять вызов в доме или офисе, в любом месте во время подключения к вашему смартфону.
-
-
-
-Поддержка SD/TF карт
-
-
-
-Поддержка TF-карты plug and play, поддержка до 32G.
-
-
-
-Простое управление кнопками
-
-
-
-Вы можете нажать кнопки для включения/выключения, воспроизведения/паузы, переключения режима, пропуска песен, регулировки громкости и т. д.
-
-
-
-Параметры:
-
-
-
-Версия Bluetooth: 5,0
-
-Встроенное напряжение: 3,7 в
-
-Частотный диапазон: 150 Гц-20 кГц
-
-Режим воспроизведения: Bluetooth, AUX, TF-карты, FM
-
-Размер: 85*85 мм
-
-Отношение сигнал-шум: ≥ 90 дБ
-
-Емкость аккумулятора: 2000 мАч
-
-Напряжение зарядки: 5 В/500 мА
-
-Время воспроизведения: 12-18 ч
-
-
-
-Комплектация:
-
-
-
-1 X Bluetooth-колонка
-
-1 X USB-кабель для зарядки
-
-1 X Инструкция по эксплуатации</description>
-        <param name="Интерфейсы">USB|jack 3.5 мм</param>
-        <param name="Тип питания">Аккумулятор|USB-порт</param>
-        <param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
-        <param name="Поддерживаемые карты памяти">TF Card</param>
-        <param name="Особенности">FM-приемник</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1626010180" available="true">
-        <url>https://aveon.net.ua/p1626010180-akkumulyatornaya-mashinka-trimer.html</url>
-        <oldprice>771</oldprice>
-        <price>621</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/3811626996_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627139_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627138_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627141_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627140_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627184_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627183_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627162_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627185_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <picture>https://images.prom.ua/3811627188_akkumulyatornaya-mashinka-trimer.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Аккумуляторная машинка тример для стрижки 3 насадки керамические лезвия USB стрижка VGR V-090</name>
-        <vendor>VGR</vendor>
-        <vendorCode>1626010180</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Триммер для волос VGR V-090 USB
-
-Машинка для стрижки волос VGR-090 является незаменимым инструментом в работе мастеров моделирования стрижек. Она предназначена для профессионального использования в парикмахерских, салонах красоты, барбершопах и разрешена к применению в домашних условиях. Машинка для стрижки волос VGR-090 отличается прочным корпусом, устойчивым к воздействию вибрации, низким уровнем шума, стильным дизайном, плавным ходом острых лезвий, удобством и длительным сроком эксплуатации.
-
-Характеристики:
-
-- Бренд: VGR
-
-- Номер модели: V-090
-
-- Электропитание: 100-240 В 50/60 Гц
-
-- Материал лезвия: Керамика 
-
-- Насадки: 3
-
-Комплектация:
-
-- Машинка для волос
-
-- 3 насадки
-
-- Адаптер зарядки
-
-- Чистящая щетка, масло
-
-- Инструкция по эксплуатации
-</description>
-        <param name="Тип прибора">Универсальная машинка для стрижки</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Количество насадок">3</param>
-        <param name="Регулировка длины">Сменные насадки</param>
-        <param name="Состояние">Новое</param>
-        <param name="Триммер для окантовки ">Да</param>
-      </offer>
-      <offer id="1636501051" available="true">
-        <url>https://aveon.net.ua/p1636501051-professionalnyj-fen-dlya.html</url>
-        <oldprice>548</oldprice>
-        <price>398</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/3845369181_professionalnyj-fen-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3845369338_professionalnyj-fen-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3845369351_professionalnyj-fen-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3845369337_professionalnyj-fen-dlya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Профессиональный фен для волос Mozer MZ-5920</name>
-        <vendor>Mozer</vendor>
-        <vendorCode>1636501051</vendorCode>
-        <description>Профессиональный фен для волос Mozer MZ-5920
-
-Moser MZ-5920 5000вт - профессиональный фен от известного бренда Moser. Мощный мотор производителен и долговечен. Скорость выдува оптимально подойдет для 
-
-использования дома и в салоне, а так же подарит возможность для выполнения любых видов укладки и экспериментов. Корпус компактный. Есть защита мотора. Поток воздуха регулируемый - 2 скорости. Нагрев воздуха в 3 режимах. В комплекте насадка концентратор. Петля для подвешивания. Шнур длиной 1.5 м является достаточным и комфортным для работы.
-
-Характеристики:
-
-
-	Производитель: Mozer
-	Модель: MZ-5920
-	Вид: фен для волос
-	Тип питания: Сеть 220 В
-	Мощность: 5000W        
-	Кол-во температурных режимов: 3      
-	Количество скоростей: 2           
-	Защита от перегрева: Есть
-	Режим холодного воздуха: да
-	Петля для подвешивания: да
-	Длина шнура: 1,5 м
-
-
-Комплектация
-
-
-	Фен Mozer
-	Насадка концентратор
-	Коробка 
-
-</description>
-        <param name="Количество режимов работы">2</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Количество температурных режимов">3</param>
-        <param name="Холодный обдув">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Защита от перегрева">Да</param>
-        <param name="Петелька для подвешивания">Да</param>
-        <param name="Длина сетевого шнура" unit="м">1.5</param>
-        <param name="Тип">Фен</param>
-      </offer>
-      <offer id="1654269914" available="true">
-        <url>https://aveon.net.ua/p1654269914-detskij-kovrik-dlya.html</url>
-        <oldprice>623</oldprice>
-        <price>473</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/3903431487_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431744_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431743_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431745_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431746_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431742_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431747_detskij-kovrik-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3903431751_detskij-kovrik-dlya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Детский коврик для рисования водой Aqua Magic Mat развивающий акваковрик с водными маркерами AVK</name>
-        <vendor>Aqua Magic</vendor>
-        <vendorCode>1654269914</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Детский коврик для рисования водой Aqua Magic Mat развивающий акваковрик с водными маркерами
-
-Все дети любят рисовать. Родители тоже любят, когда их дети рисуют, но только когда рисунки наблюдаются в предназначенных для этого местах, а не на обоях, дверях, одежде или в другом непотребном месте.
-
-Как избежать большинства неприятностей, связанных с детским рисованием? Один из способов – купить коврик для рисования водой.
-
-Ведь фломастер рисует водой и даже если родители не досмотрят и ребенок попытается порисовать им в другом месте, то водичка высохнет и не оставит следа – польза на лицо.
-
-Освоить уникальную технику рисования водой поможет коврик для рисования.
-
-Наберите в маркер обычную водичку и приступайте к творчеству!
-
-Прикасаясь маркером к коврику, остаются цветные следы.
-
-Спустя 4-7 минут рисунок высыхает и исчезает.
-
-Набор поможет малышу развивать его творческий потенциал!
-
-Размер коврика 90х60 см.
-
-В комплекте также 2 ручки. 4 вида в ассортименте. Коврик не токсичный, без чернил. По мере высыхания воды, цвет рисунка становится бледнее. Игрушка удобна тем, что малыш не будет пачкать свои ручки и всё вокруг красками.
-
-При контакте с жидкостью на коврике, волшебным образом, проявится созданный разноцветный рисунок. А после того, как поверхность просохнет, изображение исчезнет не оставляя за собой следов. Также рисуя специальным маркером с фонариком, ребенок будет наслаждаться ярким, светящимся рисунок. Изображение начинают затухать через 5 минут. Дожидаться пока рисунок исчезнет полностью нет необходимости - следующую картину можно рисовать поверх прежней!
-
- 
-
-Комплектация:
-
-
-	
-	Коврик;
-	
-	
-	Водный фломастер;
-	
-	
-	Маркер излучающий свет;
-	
-	
-	2 листа мягких трафаретов;
-	
-	
-	3 оттиска;
-	
-	
-	Мягкий валик с нанесенной печатью;
-	
-	
-	Резервуар для воды;
-	
-	
-	Книжечка с примерами.
-	
-
-</description>
-        <param name="Тип">Игровой коврик</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1668280930" available="true">
-        <url>https://aveon.net.ua/p1668280930-trimer-dlya-borody.html</url>
-        <oldprice>989</oldprice>
-        <price>839</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/3950652953_trimer-dlya-borody.jpg</picture>
-        <picture>https://images.prom.ua/3950653049_trimer-dlya-borody.jpg</picture>
-        <picture>https://images.prom.ua/3950653060_trimer-dlya-borody.jpg</picture>
-        <picture>https://images.prom.ua/3950653053_trimer-dlya-borody.jpg</picture>
-        <picture>https://images.prom.ua/3950653050_trimer-dlya-borody.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Тример для бороды Rozia HQ 300, тример для окантовки, машинка для стрижки, тример для усов</name>
-        <vendor>ROZIA</vendor>
-        <vendorCode>1668280930</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Тример для бороды и окантовки Rozia HQ 300.
-
-Современные мода и стиль трактуют свои правила! Много мужчин носят бороду и усы и стремятся придавать им безупречную форму. Данное устройство призвано сделать уход за бородой и усами легким и удобным! Для того чтобы подравнять усы и бороду теперь хватит всего нескольких плавных движений, не требующих каких либо усилий!
-
-Данная модель отличается от конкурентов стильным дизайном и совершенством исполнения. Металлический корпус придает вес, тример идеально лежит в руке и очень удобен в использовании. Емкий и качественный аккумулятор позволит не беспокоится о зарядке перед каждым использованием. Так же этот тример имеет необычный набор насадок - 1 мм; 2 мм; 3 мм; 4,5 мм; 6 мм. С таким набором насадок можно данный тример использовать для ухода не только за бородой, но и для стрижки головы.
-
-Очень классный и качественный тример за относительно небольшие деньги! Это явный топ представитель линейки тримеров от Rozia.
-
-Особенности:
-
-
-	
-	Триммер для стильных стрижек с идеальной окантовкой, стрижки бороды и усов;
-	
-	
-	Корпус триммера металлический;
-	
-	
-	Эффективная острая режущая головка, прочная и острая, для точной стрижки. Значительно повышает эффективность бритья;
-	
-	
-	Кнопочный переключатель;
-	
-	
-	Доступно для работы в течение 120 минут после полной зарядки.
-	
-
-
-
-
-Характеристики:
-
-
-	
-	Тип: триммер;
-	
-	
-	Размер триммера 15 см;
-	
-	
-	Мощность 5Вт;
-	
-	
-	Машинка аккумуляторная;
-	
-	
-	Время зарядки - 1.5 ч;
-	
-	
-	Время работы после зарядки примерно 120 мин;
-	
-	
-	Корпус: металлический;
-	
-
-
-
-
-Комплектация:
-
-* Триммер
-
-* Насадки 5 шт.
-
-* USB шнур для зарядки
-
-* Щетка
-
-* Масло
-
-* Расческа
-
-* Заводская упаковка
-</description>
-        <param name="Вес" unit="кг">0.3</param>
-        <param name="Тип элементов питания">Li-Ion</param>
-        <param name="Индикатор заряда элементов питания">Да</param>
-        <param name="Время заряда аккумулятора" unit="час">3</param>
-        <param name="Время работы от аккумулятора" unit="мин">120</param>
-        <param name="Керамическое покрытие">Нет</param>
-        <param name="Насадка для стрижки бороды и усов">Да</param>
-        <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
-        <param name="Количество насадок">5</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Количество установок длины">6</param>
-        <param name="Регулировка длины">Сменные насадки</param>
-        <param name="Минимальная длина стрижки" unit="мм">0.1</param>
-        <param name="Максимальная длина стрижки" unit="мм">6</param>
-        <param name="Состояние">Новое</param>
-        <param name="Триммер для окантовки ">Да</param>
-      </offer>
-      <offer id="1672176249" available="true">
-        <url>https://aveon.net.ua/p1672176249-silikonovyj-detskij-nochnik.html</url>
-        <oldprice>660</oldprice>
-        <price>510</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017053</categoryId>
-        <picture>https://images.prom.ua/3963334937_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334938_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334939_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334940_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334941_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334942_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334943_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334944_silikonovyj-detskij-nochnik.jpg</picture>
-        <picture>https://images.prom.ua/3963334945_silikonovyj-detskij-nochnik.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Силиконовый детский ночник "Котик" 7 режимов</name>
-        <vendorCode>1672176249</vendorCode>
-        <description>Преимущества:
-
-Ночник изготовлен из качественного материала
-Имеет 7 режимов свечения
-Приятный на ощупь
-Оригинальный подарок для ребёнка. 
-
-
-Описание:
-Компактный LED светильник ночник в виде милого Котика, удобно использовать как настольный светильник и ночник для комнаты. Невероятно мягкий материал и красивый теплый свет свечения ночника можно оценить с первого включения и прикосновения к нему.
-LED ночник – Лампа Котик имеет двойной режим света: теплый белый режим освещения и 7-цветной режим. Самое интересное в этом светильнике то, что она реагирует на прикосновение и тем самым меняет свой цвет. Купить ночник в спальню вы можете прямо сейчас у нас на сайте по скидке!
-
-Характеристики:
-
-Тип: лампа ночник
-Цвет: белый
-Количество режимов: 7
-Питание: от батареек
-Работает до 15 часов использование после полной зарядки
-
-Комплектация:
-
-1 шт.- светодиодный ночник- лампа Котик. 
-1 шт. - инструкция (на английском языке)
-Упаковка
-</description>
-        <param name="Состояние">Новое</param>
-        <param name="Тип">Ночник</param>
-        <param name="Цвет">Белый</param>
-      </offer>
-      <offer id="1684647623" available="true">
-        <url>https://aveon.net.ua/p1684647623-trimmer-vgr-070.html</url>
-        <oldprice>681</oldprice>
-        <price>531</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/4003134471_trimmer-vgr-v-070.jpg</picture>
-        <picture>https://images.prom.ua/4003134559_trimmer-vgr-v-070.jpg</picture>
-        <picture>https://images.prom.ua/4003134560_trimmer-vgr-v-070.jpg</picture>
-        <picture>https://images.prom.ua/4003134570_trimmer-vgr-v-070.jpg</picture>
-        <picture>https://images.prom.ua/4003134583_trimmer-vgr-v-070.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Триммер VGR V-070</name>
-        <vendor>VGR</vendor>
-        <vendorCode>1684647623</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание
-
-Машина создана для мужчин, которые ценят необычную точность стрижек.Выберите это для себя и позаботьтесь о своем идеальном внешнем виде!
-
-Для профессионального использования в парикмахерских и дома.5 сменных насадок: 1, 2,3, 4 и 5 мм
-
-Led дисплей: показывает уровень зарядки и турбо режим
-
-Прочное острое лезвие из нержавеющей стали
-
-Ширина ножа 40 мм
-
-Тихий и долговечный двигатель
-
-Плавная кнопка включения
-
-Эргономичный корпус
-
-Зарядка на 2 час, может работать непрерывно на 120 минут
-
-Объем аккумулятора 600mAh
-
-Легко чистить
-
-Мощность: 3 Вт
-
-В комплекте:
-
-машинка для стрижки волос
-
-5 гребешковых насадок,
-
-масло для консервирования,
-
-руководство пользователя
-
-Технические характеристики:
-
-Головка Лезвие из нержавеющей стали
-
-Гладкий срез
-
-5 насадок для регулировки длины 1мм, 2мм, 3мм, 4мм, 5мм
-
-Ширина резки: 40 мм
-
-Мощный роторный двигатель (высокая эффективность, длительный срок службы) мощностью 3 Вт
-
-Эргономичный корпус
-
-USB кабель
-
-Комплектация
-
-
-	машинка для стрижки волос
-	5 гребешковых насадок
-	масло для консервирования
-	руководство пользователя
-
-</description>
-        <param name="Тип прибора">Универсальная машинка для стрижки</param>
-        <param name="Количество насадок">5</param>
-        <param name="Минимальная длина стрижки" unit="мм">1</param>
-        <param name="Максимальная длина стрижки" unit="мм">5</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип питания">Аккумулятор</param>
-      </offer>
-      <offer id="1685734708" available="true">
-        <url>https://aveon.net.ua/p1685734708-blender-crownberg-7331.html</url>
-        <oldprice>1380</oldprice>
-        <price>1230</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018858</categoryId>
-        <picture>https://images.prom.ua/4006561963_blender-crownberg-cb-7331.jpg</picture>
-        <picture>https://images.prom.ua/4006561961_blender-crownberg-cb-7331.jpg</picture>
-        <picture>https://images.prom.ua/4006561954_blender-crownberg-cb-7331.jpg</picture>
-        <picture>https://images.prom.ua/4006561962_blender-crownberg-cb-7331.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Блендер Crownberg Cb-7331 1000 Вт Стационарный</name>
-        <vendor>CROWNBERG</vendor>
-        <vendorCode>1685734708</vendorCode>
-        <description>Универсальный стационарный блендер с насадкой кофемолка, позволяет смешивать и перемалывать любые продукты, в том числе и кофейные зерна. Острые ножи выполнены из высококачественной нержавеющей стали. Чаша с ручкой и мерной шкалой сделана из стекла и имеет объём 1800 мл. Имеет 2 скоростных режима. Импульсный режим работы. Мощность 1000 Вт. Легко моется и чистится. 
-
-Преимущества:
-
-
-	Импульсный режим работы;
-	Защитный блокировочный механизм;
-	Мотор с защитой от перегрева;
-	Ножи из нержавеющей стали;
-	Насадка для измельчения.
-
-
-Характеристики :
-
- 
-
-
-	Мощность: 1000 Вт;
-	Номинальное напряжение: 220-230 В;
-	Номинальная частота: 50 Гц;
-	Емкость кувшина: 1.8 л;
-	2 скоростных режима работы.
-
-</description>
-        <param name="Потребляемая мощность" unit="Вт">1000</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Тип блендера">Стационарный</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1685859169" available="true">
-        <url>https://aveon.net.ua/p1685859169-elektro-utka-trek.html</url>
-        <oldprice>405</oldprice>
-        <price>255</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/4006883571_elektro-utka-trek.jpg</picture>
-        <picture>https://images.prom.ua/4006883775_elektro-utka-trek.jpg</picture>
-        <picture>https://images.prom.ua/4006883774_elektro-utka-trek.jpg</picture>
-        <picture>https://images.prom.ua/4006883776_elektro-utka-trek.jpg</picture>
-        <picture>https://images.prom.ua/4006883778_elektro-utka-trek.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Электро утка, трек, горка, игрушки для мальчиков и девочек, утки, игрушка для подъема по лестнице</name>
-        <vendorCode>1685859169</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Характеристики:
-
-
-	Название: электрическая игрушка для альпинизма и лестницы
-	Материал: АБС-пластик
-
-
-Характеристики:
-
-
-	светильник и музыка
-	Размеры: 25,5*14 см/10,04*5,51 дюймов
-	Вес: около 300 г
-
-
-Комплект:
-
-
-	маленькие желтые уточки
-	3 предмета в комплекте из горки трек
-	Трек база
-	Арки доски карточки 
-
-
- 
-</description>
-        <param name="Материал">Пластик</param>
-        <param name="Пол">Унисекс</param>
-        <param name="Цвет">Желтый</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1691328068" available="true">
-        <url>https://aveon.net.ua/p1691328068-pover-bank-smart.html</url>
-        <oldprice>518</oldprice>
-        <price>368</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70180949</categoryId>
-        <picture>https://images.prom.ua/4025329636_pover-bank-smart.jpg</picture>
-        <picture>https://images.prom.ua/4025329724_pover-bank-smart.jpg</picture>
-        <picture>https://images.prom.ua/4025329731_pover-bank-smart.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Повер банк Smart Tech 50000 mAh. Power Bank</name>
-        <vendorCode>1691328068</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Технические характеристики •
-
-Тип: Внешний аккумулятор для заряда портативных устройств
-
-Заряжаемые устройства: смартфоны, телефоны, iPod, iPhone, планшеты и другие
-
-Подключение: USB
-
-Емкость, mAh: 50000 
-
-Технология: Li-Ion
-
-Зарядка: от USB
-
-Выход1: DC 5.0В, 1 А (Макс)
-
-Выход2: DC 5.0В, 2 А (Макс)
-
-Выход3: DC 5.0В, 2.1 А (Макс)
-
-Вход: DC 5В, 1 А (Макс)
-
-
-
-• Подробная информация •
-
-Power Bank Smart Tech 50000 - внешний аккумулятор, надежный источник питания, который станет хорошим другом для путешественников, деловых и активных людей. Говорите по телефону, слушайте музыку, играйте, фотографируйте и снимайте больше с помощью Power Bank Smart Tech 50000 . 
-
-Виробник Китай. Даний продукт є копією. Портативный аккумулятор Smart Tech 50000mAh это уникальное устройство, которое позволит вашему телефону или планшету работать дольше. Power Bank очень компактен, не займет много места в рюкзаке или сумке, а его наличие позволит подзарядить смартфон в любом удобном месте. Также Power Bank Smart Tech 50000mAh отличает лаконичный и стильный дизайн. Корпус выполнен из прочного пластика. На торце размещен разъем для зарядки самого аккумулятора и LED фонарик, а сбоку на корпусе размещены три USB разъема для зарядки от него других устройств. Также на корпусе имеются индикатор степени зарядки внешнего аккумулятора и кнопка включения. 
-
-• Комплектация •
-
-Power Bank
-
-Micro USB кабель
-
-Заводская упаковка
-</description>
-        <param name="Тип аккумулятора">Li-Ion</param>
-        <param name="Емкость аккумулятора" unit="мА/ч">50000</param>
-        <param name="Цвет корпуса">Коричневый</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1707263952" available="true">
-        <url>https://aveon.net.ua/p1707263952-blender-pogruzhnoj-chashej.html</url>
-        <oldprice>1425</oldprice>
-        <price>1275</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018858</categoryId>
-        <picture>https://images.prom.ua/4073283388_blender-pogruzhnoj-s.jpg</picture>
-        <picture>https://images.prom.ua/4073283383_blender-pogruzhnoj-s.jpg</picture>
-        <picture>https://images.prom.ua/4073283385_blender-pogruzhnoj-s.jpg</picture>
-        <picture>https://images.prom.ua/4073283384_blender-pogruzhnoj-s.jpg</picture>
-        <picture>https://images.prom.ua/4073283561_blender-pogruzhnoj-s.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Блендер погружной с чашей 3в1 TEXET 03THB миниизмельчитель и венчик для взбивания, 3 насадки, 450 Вт</name>
-        <vendor>TeXet</vendor>
-        <vendorCode>1707263952</vendorCode>
-        <description>Очень сложно представить современную кухню без блендера. Этот помощник гарантирует ускоренный и комфортный процесс приготовления пищи. Он используется для смешивания соусов, детского питания, майонеза, измельчения лука, мяса, фруктов и овощей, смешивания коктейлей, рубки льда.
-
-В комплект представленной модели входит насадка венчик, насадка блендер и насадка измельчитель, моторная часть. Венчик, режущая часть измельчителя и погружная часть блендера изготовлены из высококачественной нержавеющей стали, переходники изготовлены из пластика.
-
-Блендер погружной измельчитель TEXET  мгновенно смешивает и измельчает ваши полезные ингредиенты как можно быстрее, превращая их в полезные и вкусные блюда, приготовленные в вашем доме.
-
-Достоинства:
-
-
-	Имеет сменные лезвия, которые используются для взбивания сливок, яиц, соусов и т.д.
-	Ножка из нержавеющей стали с защитой от разбрызгивания.
-	Оборудован мощным двигателем 450 Вт, поддерживающим работу с твердыми ингредиентами.
-	Уникальная форма корпуса без борозд на поверхности обеспечивает лёгкость очистки.
-
-
-Характеристики:
-
-
-	Материал корпуса: пластик
-	Материал погружной части: нержавеющая сталь.
-	Мощность: 450 Вт
-	Количество насадок: 3
-	Питание: 220-240V 50/60Hz
-
-
-Комплектация:
-
-
-	Блендер TEXET;
-	Насадка 3шт.;
-	Стакан 1шт;
-	Инструкция;
-	Заводская упаковка.
-
-</description>
-        <param name="Потребляемая мощность" unit="Вт">800</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1716502586" available="true">
-        <url>https://aveon.net.ua/p1716502586-mashinka-dlya-strizhki.html</url>
-        <oldprice>1065</oldprice>
-        <price>915</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/4102729546_mashinka-dlya-strizhki.jpg</picture>
-        <picture>https://images.prom.ua/4102729519_mashinka-dlya-strizhki.jpg</picture>
-        <picture>https://images.prom.ua/4102729521_mashinka-dlya-strizhki.jpg</picture>
-        <picture>https://images.prom.ua/4102729533_mashinka-dlya-strizhki.jpg</picture>
-        <picture>https://images.prom.ua/4102729539_mashinka-dlya-strizhki.jpg</picture>
-        <picture>https://images.prom.ua/4102729544_mashinka-dlya-strizhki.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Машинка для стрижки волос 5в1 VGR V-102 триммер для бороды и усов</name>
-        <vendor>VGR</vendor>
-        <vendorCode>1716502586</vendorCode>
-        <description>Машинка для стрижки волос 5в1 VGR V-102 триммер для бороды и усов
-
-Машинка для стрижки волос VGR V-102 триммер для бороды и усов – выполнена в стильном камуфляжном дизайне из высококачественных материалов. Машинка для стрижки волос очень проста в использовании, в комплекте есть все необходимые насадки для идеальной стрижки.
-
-Профессиональная машинка для стрижки волос VGR V-102 отличается легкостью и компактностью, практически не чувствуется в руке. Работает от аккумулятора, что позволяет комфортно перемещаться при работе, не сковывая и не ограничивая движения. Заряжается очень быстро и зарядки хватает примерно на два часа работы, что очень удобно для работы мастера-парикмахера, когда нужно принять много людей.
-
-
-
-Быстросъемный ножевой блок, изготовленный из нержавеющей стали, гарантирует длительный срок службы изделия. Вы с легкостью сможете очистить или заменить нож при необходимости. Высококачественная сталь позволяет выполнять точные работы максимально близко к коже.
-
-В комплектации щеточка для чистки и специальное масло для ножей. Рекомендуется периодически смазывать лезвия для качественной работы машины. После нанесения масла необходимо, чтобы машинка поработала несколько секунд для равномерного распределения смазки на поверхности.
-
-Характеристики:
-
-
-	Длительная работа
-	Ножи из нержавеющей стали
-	Индикатор зарядки аккумулятора
-	Аккумулятор: литиевая батарея 600 mAh
-	Дисплей
-	Быстрая зарядка
-	Время зарядки: 2 часа
-	Время работы: 150 минут
-	Ширина лезвия: 40 мм
-	Работа: без шнура
-	Малый вес и габариты
-	Легко ложится даже в небольшую ладонь
-	Долговечный и высокопроизводительный
-	Минимальная высота среза 0.1 мм
-	Работает от сети 100 – 240 В
-	Мощность 3Вт
-	Размер: 15,7*4,6*4,4 см
-
-
-Комплектация:
-
-
-	Машинка для стрижки волос VGR V-102;
-	гребневые насадки-5 шт (3мм, 6мм, 9мм, 12мм);
-	Узкий триммер 1 шт;
-	Триммер для носа 1 шт;
-	Дизайнерский триммер 1 шт;
-	Насадка для стрижки волос 1шт;
-	Голызна головка 1 шт;
-	Масло
-	USB кабель
-	Щеточка для чистки
-	Коробка.
-
-</description>
-        <param name="Щеточка для чистки">Да</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Количество установок длины">5</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1717637592" available="true">
-        <url>https://aveon.net.ua/p1717637592-professionalnaya-mashinka-dlya.html</url>
-        <oldprice>608</oldprice>
-        <price>458</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/4106393583_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393576_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393577_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393579_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393580_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393582_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393584_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393585_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393581_professionalnaya-mashinka-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106393578_professionalnaya-mashinka-dlya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Профессиональная машинка для стрижки волос 8 насадок VGR V-120 Pro Черный + Ножницы</name>
-        <vendor>VGR</vendor>
-        <vendorCode>1717637592</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание Профессиональная машинка для стрижки волос 8 насадок VGR V-120 Pro Черный + Ножницы
-
-Профессиональная машинка для стрижки волос 8 насадок VGR V-120 Pro Черный + Ножницы
-
-Машинка триммер VGR V 120 сочетает в себе машинку для стрижки волос и бороды со сменными насадками (от 3 до 20 мм). Используя сам триммер без насадки, вы сможете создать ровные контуры стрижки, подбрить баки или начисто выбрить шею.
-
-Кроме того, его можно использовать для удаления нежелательных волос на теле. Эргономичный, легкий и компактный дизайн позволяет с легкостью владеть инструментом даже новичку.
-
-Главным преимуществом данной модели есть наличие насадок - 3, 6, 9, 12, 16, 20 мм, а также насадки с правым и левым уклоном для удобного моделирования бороды.
-
-В комплекте есть расческа, щеточка для очистки и масло для лезвий.
 
 ОСОБЕННОСТИ:
 
 
-	Со сменными насадками возможно придать идеальную форму бороде и усам;
-	Оборудована лезвиями из нержавеющей стали, гарантирующими аккуратный ровный срез она аккуратно срезает волоски, не оставляя каких-либо следов на чувствительной коже;
-	Она функциональна и проста в управлении;
-	Машинка работает от сети;
-	Петелька для подвешивания плойки;
-	Имеет стильный дизайн;
-	Удобно ложится в руке и имеет лёгкий вес;
-	Идеальный помощник в командировках.
+
+- Монитор расположен достаточно высоко, при длительной работе не затекает шея. 
+
+- Легко работать с клавиатурой. 
+
+- Нет проблем с вентиляцией компьютера, так как в нем встроены 2 вентилятора, которые работают от ноутбука через USB вход. 
+
+- Также продумана нерегулируемая подставка под мышку, что очень удобно – мышка находится в горизонтальном положении. 
+
+- В сложенном виде столик очень компактный, легко можно найти место для его хранения.
+
+- Стол изготовлен из пластика с платформой для мышки
+
+- Ножки стола изготовлены из пластика с металлическим ядром
+
+- Поставляется с двумя USB вентиляторами и одним универсальным USB кабелем, может использоваться как кулер
+
+- Вы можете использовать USB кабель для вставки любого USB порта, вентилятор может работать
+
+- Широкое применение: может использоваться не только в качестве охлаждения, но также как портативный стол, стол для чтения или рисования дома и в школе, в офисе и в машине, также в дороге во время путешествий.
+
+- Легко раскладывается, буквально за несколько секунд
+
 
 
 ХАРАКТЕРИСТИКИ:
 
 
 
+- Супер тонкий (толщина всего 36 мм)
 
+- Очень легкий, не гнущийся и крепкий, максимальная нагрузка 25 кг
 
-	Модель: VGR V 120;
-	Тип: Машинка для стрижки;
-	Тип питания: от сети 220 Вт;
-	Габариты (ДхШхГ): 18,5 x 6,8 x 5,2 см;
-	Режущие лезвия из керамики высокой точностью;
-	Тип чистки: сухая;
-	Регулировка длины: сменные насадки;
-	Количество сменных насадок: 8 (3, 6, 9, 12, 16, 20 мм, с правым уклоном, с левым уклоном)
-	Установка длины стрижки: от 3 до 20 мм;
-	Петелька для подвешивания плойки;
-	Вес: 0,43 кг;
-	Длина шнура: 1.8 м.:
-	Цвет: черный.
+- Раскладывается на столе, на полу, в кровати, на диване или на ногах, легко использовать
+
+- Идеально подходит для ноутбуков с размером экрана 15'‘ и ниже, однако вполне помещается 17» ноутбук
+
+- Размер стола в сложенном виде: 278 х 316 х 36 мм
+
+- Размер стола в разложенном виде: 556 х 316 х 18
+
+- Максимальная высота ножек : 27 см
+
+- Цвет стола: Черно-белый
+
 
 
 КОМПЛЕКТАЦИЯ:
 
 
 
+- стол-подставка для ноутбука;
 
+- упаковочная коробка;
 
+- кабель питания USB;
 
-
-
-	Машинка для стрижки волос VGR V-120
-	8 насадок
-	Ножницы
-	Расческа
-	Щетка для чистки
-	Масло
-	Инструкция
-	Заводская упаковка.
-
-</description>
-        <param name="Тип прибора">Универсальная машинка для стрижки</param>
-        <param name="Количество насадок">7</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Количество установок длины">7</param>
-        <param name="Регулировка длины">Сменные насадки</param>
+- инструкция.</description>
+        <param name="Тип">Подставка</param>
+        <param name="Тип охлаждения">Активный</param>
         <param name="Состояние">Новое</param>
+        <param name="Цвет" unit="">Черно белый</param>
       </offer>
-      <offer id="1717651271" available="true">
-        <url>https://aveon.net.ua/p1717651271-mashinka-vgr-007.html</url>
-        <oldprice>608</oldprice>
-        <price>458</price>
+      <offer id="1221372577" available="true">
+        <url>https://aveon.net.ua/p1221372577-nabor-trubchatyh-espanderov.html</url>
+        <oldprice>465</oldprice>
+        <price>315</price>
         <currencyId>UAH</currencyId>
-        <categoryId>30014688</categoryId>
-        <picture>https://images.prom.ua/4106453696_mashinka-vgr-007-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106453694_mashinka-vgr-007-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106453693_mashinka-vgr-007-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106453695_mashinka-vgr-007-dlya.jpg</picture>
-        <picture>https://images.prom.ua/4106453692_mashinka-vgr-007-dlya.jpg</picture>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/2499841124_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841118_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841119_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841121_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841120_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841125_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841123_nabor-trubchatyh-espanderov.jpg</picture>
+        <picture>https://images.prom.ua/2499841122_nabor-trubchatyh-espanderov.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Машинка VGR-007 для стрижки волос и бороды аккумуляторная беспроводная профессиональная с 3 насадками 5W</name>
-        <vendor>VGR</vendor>
-        <vendorCode>1717651271</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание Машинка для стрижки волос и бороды аккумуляторная беспроводная профессиональная с 3 насадками VGR 5W Черная (V-007)
+        <name>Набор трубчатых эспандеров для фитнеса 5 штук / Многофункциональный комплект + Чехол</name>
+        <vendorCode>1221372577</vendorCode>
+        <description>Набор трубчатых эспандеров, эспандер многофункциональный для спорта с петлями Качество
 
-Машинка для стрижки волос и бороды аккумуляторная беспроводная профессиональная с 3 насадками VGR 5W Черная (V-007) - Подравнивайте, брейте, детализируйте и очерчивайте волосы с помощью беспроводной машинки VGR.
+Пять цветных трубчатых эспандеров из латекса профессионального качества для тренажерного зала можно использовать по отдельности или сложить в любой комбинации, максимально эквивалентно 45 кг.
 
-Поставляется с тремя сменными насадками для стрижки на 1 мм, 2 мм, 3 мм.
+Широкое применение
+
+
+	Идеально подходит для наращивания мышечной массы, похудения и т. Д.
+	Набор изготовлен из качественных материалов, а внимание к деталям и безопасности превышает рыночные стандарты.
+	Применяются в разминке перед тренировкой, так же растяжкой, чтоб снять напряжение с мышц после силовых нагрузок.
+	Силовую резину можно использовать для более эффективных подтягиваний на турнике и отжиманий на брусьях.
+
+
+Включает в себя:
+
+
+	5 эспандеров: Черный = 13,5 кг; Зеленый = 11 кг; Синий =  9 кг; Красный = 7 кг; Желтый = 5 кг
+	2 ручки из пены
+	2 бретельки
+	1 дверной анкер
+	1 сумка
+
+
+Длина ризинки 110 см
+
+Правила ухода за трубчатыми эспандерами:
+
+
+	Не мочите эспандеры водой, протирайте слегка влажной тряпкой по мере загрязнения.
+	Ручки и ремни можно протирать влажной тряпочкой с мылом. Машинная стирка противопоказана.
+	Не растягивайте эспандер более чем в два с половиной раза. Большее растягивание не означает более сильное сопротивление.
+	Не используйте эспандеры на шершавых, металлических и плохо обработанных поверхностях. Латекс имеет свойство рваться из-за повреждения его поверхности.
+	Не оставляйте эспандеры под прямыми солнечными лучами на длительное хранение. Избегайте экстремально низких температур и чрезмерной влаги. Таким образом, Вы сохраните эластичность резины.
+
+
+ 
+</description>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1281000823" available="true">
+        <url>https://aveon.net.ua/p1281000823-massazhyor-dlya-myshts.html</url>
+        <oldprice>930</oldprice>
+        <price>780</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/2686369008_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369004_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369003_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369007_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369005_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369009_massazhyor-dlya-myshts.jpg</picture>
+        <picture>https://images.prom.ua/2686369011_massazhyor-dlya-myshts.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Массажёр для мышц Fascial Gun HF-280 (W-08) Вибромассажер для мышц</name>
+        <vendor>Dolphin</vendor>
+        <vendorCode>1281000823</vendorCode>
+        <description>Массажер Fascial Gun HF-280 оснащен четырьмя различными формами массажных головок, чтобы помочь пользователям расслабить различные части тела.
+
+С помощью массажёра Fascial Gun HF-280 можно активизировать мышцы, стимулировать кровоток, значительно сократить время восстановления мышц, снять боль и расслабиться с головы до ног.
+
+Тип массажа: 
+
+
+	Легкий массаж 
+	Расслабляющий массаж
+	Вибро массаж
+	Сильный массаж 
+
+
+Массажер Fascial Gun HF-280 имеет сильный шумоподавляющий двигатель, систему вентиляции с несколькими вентиляционными отверстиями,  высокую производительность
 
 Характеристики:
 
 
-	Мощность: 5 Вт
-	Ширина ножа: 40 мм
-	Время работы от аккумулятора: 120 минут
-	Время полной зарядки: 1.5 часа
-	Емкость аккумулятора: 500 мАч
-	Размеры: 15 х 3.7 х 3 см
+	Тип: Массажный пистолет
+	Материал: ABS
+	Входное напряжение: 110-240; 20-50Hz
+	Тип питания: адаптер от сети 220В
+	6 режимов интенсивности массажа
+	ручная регулировка силы вибрации 
+	4 насадки
+	Размер: 22 * 21,8 см * 5
+	Вес: 1,5 кг.
 
 
 Комплектация:
 
 
-	Машинка для стрижки VGR
-	Насадки - 3 шт.
-	Масло для ножей
-	Щеточка для очистки
-	Кабель USB для зарядки
-	Инструкция
-	Заводская упаковка
+	массажёр;
+	адаптер на 220 V;
+	насадки 4 шт;
+	упаковочная коробка;
+	инструкция.
 
 </description>
-        <param name="Тип прибора">Универсальная машинка для стрижки</param>
-        <param name="Количество насадок">3</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Количество установок длины">3</param>
-        <param name="Регулировка длины">Сменные насадки</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="1728874696" available="true">
-        <url>https://aveon.net.ua/p1728874696-poverbank-led-lighting.html</url>
-        <oldprice>1125</oldprice>
-        <price>975</price>
+      <offer id="1401062460" available="true">
+        <url>https://aveon.net.ua/p1401062460-ekonomitel-vody-water.html</url>
+        <oldprice>236</oldprice>
+        <price>86</price>
         <currencyId>UAH</currencyId>
-        <categoryId>70180949</categoryId>
-        <picture>https://images.prom.ua/4142316633_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317088_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317090_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317089_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317093_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317092_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317094_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317096_poverbank-led-lighting.jpg</picture>
-        <picture>https://images.prom.ua/4142317097_poverbank-led-lighting.jpg</picture>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/3072293373_ekonomitel-vody-water.jpg</picture>
+        <picture>https://images.prom.ua/3072293321_ekonomitel-vody-water.jpg</picture>
+        <picture>https://images.prom.ua/3072293322_ekonomitel-vody-water.jpg</picture>
+        <picture>https://images.prom.ua/3072293332_ekonomitel-vody-water.jpg</picture>
+        <picture>https://images.prom.ua/3072293333_ekonomitel-vody-water.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Повербанк LED Lighting Power Bank X9 20000 mAh Внешний аккумулятор Портативная зарядка</name>
-        <vendorCode>1728874696</vendorCode>
+        <name>Экономитель воды Water Saver NEW 360 градусов, насадка на кран (аэратор), водосберегающая насадка</name>
+        <vendorCode>1401062460</vendorCode>
+        <description>Water Saver NEW 360 - это относительно новый способ сэкономить расход воды до 60%. В чем же секрет такого, казалось бы, на первый взгляд примитивного устройства? Всё дело в том, что составляющие водосберегающей насадки Water Saver NEW 360 , позволяют беспроблемно ограничивать поток воды, не снижая при этом интенсивность струи.
+
+Насадка работает в 3 режимах:
+
+
+	 в первом режиме поток воды разделяется на множество мелких струек;
+	 во втором - уменьшается вдвое, но за счет строения фильтра, увеличивается напор;
+	в третьем - это мягкий, комфортный режим без брызг воды.
+
+
+Так как насадки-аэраторы прокручиваются по кругу, пользоваться водой будет совершенно удобно.
+
+
+
+ 
+
+Можно смело сказать, что теперь экономное потребление воды стало реальностью. Заинтересовать вас сможет экономитель воды. Насадка для водопроводных кранов и душевых распылителей сконструирована таким образом, что достигнута главная цель – сократить расход воды при помощи добавления в воду воздуха.
+
+Принцип работы основан на том, чтобы смешать поток воды с воздухом внутри самого смесителя. В итоге: при той же мощности потока достигается нужный результат, не открывая кран на полную мощность, так как вода частично замещается пузырьками воздуха. В результате такого «обогащения» струи волы воздухом, она становится мягкой и более воздушной.
+
+Прибор для экономного расхода воды Water Saver значительно улучшает ее качество. Купив экономитель воды - насадка на кран, вы можете долгое время экономить расходы по оплате воды на 40-60%. Подтверждают это и работники ЖКХ. Забудьте о заоблачных тарифах на воду. Установка занимает несколько минут и не требует определенных навыков и особых знаний.
+
+Water Saver NEW 360 - это относительно новый способ сэкономить расход воды до 60%. В чем же секрет такого, казалось бы, на первый взгляд примитивного устройства? Всё дело в том, что составляющие водосберегающей насадки Water Saver NEW 360 , позволяют беспроблемно ограничивать поток воды, не снижая при этом интенсивность струи.
+
+Насадка работает в 3 режимах. В первом режиме поток воды разделяется на множество мелких струек, во втором - уменьшается вдвое, но за счет строения фильтра, увеличивается напор, во третьем - это мягкий, комфортный режим без брызг воды.
+
+
+
+Так как насадки-аэраторы прокручиваются по кругу, пользоваться водой будет совершенно удобно.
+
+Материал: изготовлен из нетоксичных АБС, силикона и нержавеющей стали, обладающего хорошей гибкостью, кислотные и износостойкие.
+
+С помощью диапазона: этот кран разбрызгиватель может быть 360 градусов легко поворачивается, чистая Кухня Раковины не имеет мертвых кончиков.
+
+Регулируемый: три типа выходной воды, может в соответствии с вашими потребностями регулировать регулятор tap.
+
+Выход воды: это мягкий комфорт jet, без брызг воды.
+
+Монтаж: легко устанавливается.
+
+Подходит для использования в кухне, ванной комнате.
+
+Снижает затраты на энергию и использование воды более чем на 50%.
+
+Параметры:
+
+Материал: ABS
+
+Цвет: белый
+
+Размер товара: 22*53*85 мм
+
+3 положения распыления воды
+
+
+	
+		
+			Дополнительные характеристики
+			 
+		
+		
+			Материал
+			Пластик
+		
+		
+			Особенности
+			экономит расход воды до 60%
+		
+		
+			Использование для горячей воды
+			да
+		
+		
+			Подключение к водопроводу
+			да
+		
+		
+			Использование для холодной воды
+			да
+		
+		
+			Количество режимов работы
+			3 режима
+		
+		
+			угол поворота насадки
+			360 градусов
+		
+	
+
+
+ 
+</description>
+      </offer>
+      <offer id="1503667785" available="true">
+        <url>https://aveon.net.ua/p1503667785-akkumulyatornyj-shurupovyort-12v.html</url>
+        <oldprice>1740</oldprice>
+        <price>1590</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/3421002275_akkumulyatornyj-shurupovyort-12v.jpg</picture>
+        <picture>https://images.prom.ua/3421002274_akkumulyatornyj-shurupovyort-12v.jpg</picture>
+        <picture>https://images.prom.ua/3421002271_akkumulyatornyj-shurupovyort-12v.jpg</picture>
+        <picture>https://images.prom.ua/3421002273_akkumulyatornyj-shurupovyort-12v.jpg</picture>
+        <picture>https://images.prom.ua/3421002272_akkumulyatornyj-shurupovyort-12v.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Аккумуляторный шуруповёрт 12V с набором DF330DWE, набор бит и запасной аккумулятор</name>
+        <vendor>Makita</vendor>
+        <vendorCode>1503667785</vendorCode>
+        <description>Аккумуляторный шуруповёрт 12V с набором Makita DF330DWE, набор бит и запасной аккумулятор
+
+Шуруповерт Makita предназначен для закручивания и выкручивания шурупов в древесину, пластмассу и другие материалы. Этот инструмент обладает 17 режимами вращения, включая режим «реверс», что дает фору многим аналогичным . Также, следует отметить возможность активации LED-подсветки, что поможет решать многие задачи в трудных местах и при достаточно плохом освещении. Шуруповерт хорош в своем деле. Скорость вращение высокая. А все это возможно благодаря мощному электродвигателю, который питается от емкого аккумулятора.
+
+ОСОБЕННОСТИ:
+
+
+	Новый шуруповёрт Makita с технологией LXT
+	Увеличение общего срока службы на 430%
+	2-х скоростной планетарный редуктор с металлическими шестернями
+	Установка 18-ти ступеней крутящего момента, электронная регулировка числа оборотов и тормоз двигателя
+	4-х полюсной легкий и компактный двигатель постоянного тока
+	Автоматическая фиксация шпинделя
+	Вес аккумулятора уменьшен на 40%
+
+
+ 
+
+
+
+ 
+
+Вместе с основным аккумулятором, в комплекте идет также и второй. Это позволит использовать устройство в два раза дольше, просто чередуя между собой два аккумулятора. В комплекте идет импульсное зарядное устройство для батарей, работающее от сети 220 В.
+
+Этот легкий аккумуляторный инструмент имеет реверс. Механический редуктор на металлических шестернях работает на двух скоростях. Здесь можно работать в двух режимах. Первый – это режим от нуля до 350 оборотов в минуту, который позволяет работать с максимальным крутящим моментом в качестве шуруповерта, а также применяется для сверления, которое требует больших усилий. Второй режим – от нуля до 1300 оборотов в минуту. Его применяют для того, чтобы сверлить тонкие отверстия, причем здесь приложение большой силы абсолютно не требуется. 
+
+ 
+
+Если нужно в течение продолжительного время работать с дрелью-шуруповертом Makita DF330DWE, применяется блокиратор включателя. Благодаря наличию десяти миллиметрового патрона с системой фиксации шпинделя рабочую оснастку можно быстро сменить. 
+
+ 
+
+
+
+ 
+
+КОМПЛЕКТАЦИЯ:
+
+
+	Шуруповерт Makita DF330DWE
+	Два литий-ионных аккумулятора 12V/2.0Ah
+	Зарядное устройство
+	Набор бит, сверл, насадок, гибкий вал (меняется в зависимости от поставки)
+	Пластиковый кейс
+
+
+ХАРАКТЕРИСТИКИ:
+
+
+	Мощность: - 12В
+	Число оборотов: - 0-350/1300 об/мин
+	Усилие затягивание (крутящий момент), макс: - 24 Nm
+	Диаметр сверления: - дерево - 20 мм, сталь -10 мм
+	Сверлильный патрон: - 0,8-10 мм
+	Число позиций регулировки крутящего момента: - 18+1
+	Аккумулятор (литий-ионный): - 12V/2.0Ah
+	Время зарядки: - 1 час
+	Вес: - 1,0 кг
+	Размер кейса - 35х29х10 (см)
+	LED подсветка: - есть
+
+</description>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1659830294" available="true">
+        <url>https://aveon.net.ua/p1659830294-shurupovert-makita-550.html</url>
+        <oldprice>2190</oldprice>
+        <price>2040</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/3922157983_shurupovert-makita-550.jpg</picture>
+        <picture>https://images.prom.ua/3922157981_shurupovert-makita-550.jpg</picture>
+        <picture>https://images.prom.ua/3922157985_shurupovert-makita-550.jpg</picture>
+        <picture>https://images.prom.ua/3922157982_shurupovert-makita-550.jpg</picture>
+        <picture>https://images.prom.ua/3922157984_shurupovert-makita-550.jpg</picture>
+        <picture>https://images.prom.ua/3922158390_shurupovert-makita-550.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Шуруповерт Makita 550 DWE (24V, 5.0AH) с набором инструментов, запасной аккумулятор</name>
+        <vendor>Makita</vendor>
+        <vendorCode>1659830294</vendorCode>
+        <description>Данный шуруповерт Makita считается одним из лучших на рынке электроинструментов. Его основное преимущество – идеальное сочетание цены и качества. В нашем интернет-магазине вы сможете обзавестись им по самой низкой цене!
+
+Литиевый шуруповерт Makita 550DWE имеет мощный двигатель, а также революционную технологию clever discharge (умная разрядка). Технология расходует заряд аккумулятора экономно что в свою очередь дает возможность работать дольше на 25% по сравнению с аналогичными шуруповертами.
+
+
+
+Шуруповерт Makita 550DWE предназначен для закручивания и выкручивания шурупов в древесину, пластмассу и другие материалы. В комплект входит два аккумулятора по 24V.
+
+Этот инструмент обладает 18 режимами вращения, включая режим «реверс», что дает фору многим аналогичным . Также, следует отметить возможность активации LED-подсветки, что поможет решать многие задачи в трудных местах и при достаточно плохом освещении.
+
+
+
+Зарядка батареи производится в течение одного часа, а возможность регулировки оборотов от 0-1500/0-3500 об/мин., позволяет подбирать нужную частоту для особенных условий.
+
+ 
+
+ХАРАКТЕРИСТИКИ:
+
+
+	Мощность: - 24В
+	Число оборотов: - 0-1500/3500 об/мин
+	Усилие затягивание (крутящий момент), макс: - 24 Nm
+	Диаметр сверления: - дерево - 20 мм, сталь -10 мм
+	Сверлильный патрон: - 0,8-10 мм
+	Число позиций регулировки крутящего момента: - 18+1
+	Аккумулятор (литий-ионный): - 24V/5.0Ah
+	Время зарядки: - 1-2 час
+	Вес: - 1,125 кг
+	Размер кейса - 29х25х9 (см)
+	LED подсветка: - есть
+
+
+КОМПЛЕКТАЦИЯ:
+
+
+	Шуруповерт Makita 550 DWE
+	Два литий-ионных аккумулятора 24V/5.0Ah
+	Зарядное устройство
+	Набор бит, сверл, насадок, гибкий вал 
+	Пластиковый кейс
+	 Инструкция
+
+</description>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1689564840" available="true">
+        <url>https://aveon.net.ua/p1689564840-silikonovyj-shpatel-skrebok.html</url>
+        <oldprice>270</oldprice>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/4019052187_silikonovyj-shpatel-i.jpg</picture>
+        <picture>https://images.prom.ua/4019052194_silikonovyj-shpatel-i.jpg</picture>
+        <picture>https://images.prom.ua/4019052196_silikonovyj-shpatel-i.jpg</picture>
+        <picture>https://images.prom.ua/4019052192_silikonovyj-shpatel-i.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Силиконовый шпатель и скребок Silicon Towel Scrapper</name>
+        <vendor>КИТ</vendor>
+        <vendorCode>1689564840</vendorCode>
         <country_of_origin>Китай</country_of_origin>
-        <description>Повербанк LED Lighting Power Bank X9 20000 mAh
+        <description>Силиконовый шпатель и скребок SILICON TOWEL SCRAPPER
+
+Предназначен для любого края, угла, соединения от 0 до 28 мм.
+
+Очень практичный шпатель для формования, затирки, силикона, акрила, суставов, смолы.
+
+Благодаря данному набору без хлопот получиться обеспечить профессиональный вид.
 
 
 
-Повербанк LED Lighting Power Bank X9 20000 mAh
+ 
 
-Power Bank X9 20000 mAh – стильный аксессуар, способный продлить время автономной работы вашего смартфона или планшета. Power Bank станет отличным помощником для тех, кто любит путешествовать, отдыхать на природе или использует свои мобильные девайсы по полной.
+
+
+
+
+ 
+
+Возможно использовать на шероховатых поверхностях.
+
+Шпатель отделан уголками с разным углом наклона, что позволяет выбрать подходящий наконечник для работы.
+
+Резак позволяет резать лишний силикон.
+
+Набор изготовлен из полипропилена. Он не царапает поверхность, на которой находится кремний, теперь вы можете предотвратить любые свободные края силикона, которые ловят влагу.
+
+Домашний угловой скребок с насадками предназначен для удаления старого силикона или герметика, остатков клея и нанесения нового шва.
+
+
+
+ 
+
+
+
+
+
+ 
+
+Преимущества:
+
+
+	В комплекте имеются насадки для поверхностей разной формы.
+	Инструмент сократит расходы герметика и малярной ленты, поможет сделать работу быстро и без лишних усилий.
+	Подойдет для углов, стен, полов, стекла, плитки, металла и прочих поверхностей. Это надежный помощник в любом доме.
+	Аккуратно: швы будут выглядеть профессионально.
+	Просто: скребок поможет справиться с работой быстро и самостоятельно.
+	Широкого применения: когда инструмент есть у вас под рукой, ему найдется применение и в ванной, и в кухне, при работе с плиткой и уплотнении окон.
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Характеристики:
+
+
+	Вид: строительный скребок для обработки швов;
+	Размер: 19 × 2,8 см;
+	Материал: пластик;
+	Класс: инструменты для строительства;
+	Действие: предназначен для удаления/ нанесения силикона или герметика на любых поверхностях.
+
+
+ 
+
+ 
+</description>
+      </offer>
+      <offer id="1776347726" available="true">
+        <url>https://aveon.net.ua/p1776347726-trojnoe-zerkalo-led.html</url>
+        <oldprice>840</oldprice>
+        <price>690</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4292412384_trojnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4292412382_trojnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4292412383_trojnoe-zerkalo-s.jpg</picture>
+        <picture>https://images.prom.ua/4292412381_trojnoe-zerkalo-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Тройное зеркало с LED подсветкой и подставкой для косметики, органайзер для косметики</name>
+        <vendor>MIRROR</vendor>
+        <vendorCode>1776347726</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Тройное зеркало с LED подсветкой  и подставкой для косметики - это отличный инструмент для нанесения макияжа и создания идеального мэйкап.
+
+22 светодиода обеспечивают равномерное освещение лица со всех сторон в любое время суток, что позволит вам равномерно нанести косметику, не допуская ошибок.
+
+Включить и выключить зеркало можно при помощи специальной сенсорной кнопки. Освещение работает за счет обычных батареек (AAA в комплект не входят).
+
+Специальная подставка для косметики состоит 14 ячеек  позволит разместить на ней различные косметические мелочи, например, губную помаду, пудру, тени для глаз или что-нибудь другое, а свободное вращение на 180° позволяет зафиксировать косметическое зеркало в удобном для вас положении.
+
+В комплекте:
+
+
+	Зеркало тройное
+	Подставка для косметики 14 ячеек (8 ячеек для помад, консилеров, тушей,  USB  шнур
+	оригинальная упаковка
+	Материал зеркала - ABC пластик
+	Материал подставки - акрил
+
+
+ 
+
+Размеры
+
+
+	высота -30см
+	глубина -15см
+	ширина 19.5см
+	Вес 1020
+
+</description>
+        <param name="Питание">Батарейки</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип зеркала">Настольное</param>
+        <param name="Форма косметического зеркала">Прямоугольное</param>
+        <param name="Тип зеркальной поверхности">Обычная</param>
+      </offer>
+      <offer id="1776441521" available="true">
+        <url>https://aveon.net.ua/p1776441521-shejnyj-bandazh-podogrevom.html</url>
+        <oldprice>555</oldprice>
+        <price>405</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4292689430_shejnyj-bandazh-s.jpg</picture>
+        <picture>https://images.prom.ua/4292689438_shejnyj-bandazh-s.jpg</picture>
+        <picture>https://images.prom.ua/4292689440_shejnyj-bandazh-s.jpg</picture>
+        <picture>https://images.prom.ua/4292689442_shejnyj-bandazh-s.jpg</picture>
+        <picture>https://images.prom.ua/4292689441_shejnyj-bandazh-s.jpg</picture>
+        <picture>https://images.prom.ua/4292689439_shejnyj-bandazh-s.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Шейный бандаж с подогревом, шейный пояс с подогревом, облегчение боли в мышцах шеи, тепловая компрессионная</name>
+        <vendorCode>1776441521</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Шейный бандаж  представляет собой повязку на шею с липучкой.
+
+Эффективный бандаж позаботиться о вашем здоровье, зафиксирует шейно-позвоночную область.
+
+Регулярное ношение повязки позволяет избавиться от болезненных ощущений и предупредить развитие ряда заболеваний.
+
+ОСОБЕННОСТИ:
+
+
+	
+	 улучшает кровообращение
+	
+	
+	 снимает мышечную усталость
+	
+	
+	 повышает метаболизм активированных клеток
+	
+	
+	 эффективно бороться с болями в шее
+	
+	
+	 безопасна для пользователей, не доставляет дискомфорта
+	
+	
+	 повязка просто и быстро фиксируется
+	
+	
+	 легкость при использовании
+	
+	
+	 бандаж с мягкой фиксацией
+	
+	
+	 не броский дизайн, позволяющий носить повязку на улице или на работе
+	
+	
+	 гипоаллергенный материал
+	
+
 
  
 
@@ -1651,386 +713,406 @@ Power Bank X9 20000 mAh – стильный аксессуар, способн�
 
  
 
- 
+Способ применения:
+
+Потепление и даже ощущение жжения может возникать уже при 3-5 минутном воздействии. Однако время применения изделия стоит оценивать исходя из индивидуальных особенностей организма.
+
+Длительность первых сеансов стоит ограничить 3-5 минутами 2 раза в день.
+
+Через неделю время процедур можно увеличить до 5-7 минут так же 2 раза в день.
+
+И поддерживать время процедуры в течение 3 месяцев.
+
+Затем, после перерыва в 1 месяц, можно повторить курс, соблюдая то же время воздействия.
+
+При хорошей переносимости шейную повязку допустимо использовать по 10 минут 2 раза в день в течение 3 месяцев.
 
  
+</description>
+        <param name="Тип управления">Ручное</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1776446348" available="true">
+        <url>https://aveon.net.ua/p1776446348-portativnyj-filtr-dlya.html</url>
+        <oldprice>780</oldprice>
+        <price>630</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4292759652_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759648_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759649_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759650_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759653_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759654_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759656_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759655_portativnyj-filtr-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4292759651_portativnyj-filtr-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Портативный фильтр для воды Mini Filter</name>
+        <vendor>Mini</vendor>
+        <vendorCode>1776446348</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Miniwell L630 – фильтр для воды, который защитит вас от вредоносных бактерий в походных условиях. Он никоим образом не отяготит багаж, поскольку такую вещь можно просто закрепить на бутылке. Особенность фильтра в том, что он почти не влияет на привкус воды в итоге.
+
+Miniwell L630 не только сделает активный отдых комфортней, но и всегда сможет помочь в непредвиденной ситуации.  На упаковке обозначено, что приспособление и фильтрует воду от ненужных примесей, и не пропускает вирусы и бактерии-возбудители серьёзных заболеваний. Фильтр рассчитан на качественную обработку 2000 литров воды.
+
+
+
+Характеристики:
+
+
+
+•    модель L630
+
+•    Фильтрационный размер пор 0,1 микрон
+
+•    Размер 36 * 140мм
+
+•    вес 40g
+
+•    Материал: УФ Мембрана, АБС (Сорт пищи)
+
+•    Оптимальный температурный диапазон от 0 ° в-40 ° C
+
+•    Фильтрационная емкость 2000 литров
+
+•    Расход воды 600 мл / мин
+
+•    Срок годности 5 лет</description>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1776452652" available="true">
+        <url>https://aveon.net.ua/p1776452652-vechnaya-spichka-make.html</url>
+        <oldprice>225</oldprice>
+        <price>75</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4292777678_vechnaya-spichka-make.jpg</picture>
+        <picture>https://images.prom.ua/4292773686_vechnaya-spichka-make.jpg</picture>
+        <picture>https://images.prom.ua/4292773695_vechnaya-spichka-make.jpg</picture>
+        <picture>https://images.prom.ua/4292773698_vechnaya-spichka-make.jpg</picture>
+        <picture>https://images.prom.ua/4292773690_vechnaya-spichka-make.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Вечная спичка Make Fire, огниво, зажигалка, бензиновая</name>
+        <vendorCode>1776452652</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Характеристики и описание
+
+Вечная спичка Make Fire, огниво, зажигалка, бензиновая  
+
+- работает по принципу зажигалки и спичек одновременно, но более оригинальна и универсальна. Вечная спичка выполнена в виде брелка, что позволит вам всегда иметь под рукой источник огня. Резиновое кольцо на резьбе спички не допускает испарения горючего из корпуса и проникновения влаги внутрь. Вечная спичка (Огниво цилиндр) с легкостью замещает около 20 блоков спичек. Кремень служит достаточно долго, а горючее можно периодически подливать.
+
+Если Вечная спичка (Огниво цилиндр) попадет под дождь или упадет в воду — нет повода для беспокойства — протрите его сухой тряпкой, рукавом, вытрите об штаны, и огниво снова в порядке. Легкое и компактное приспособление для разведения костра на открытом воздухе. Бензиновая зажигалка Make Fire позволяет разжечь огонь при сильном ветре или в дождливую погоду. Требуется всего несколько капель бензина, чтобы зажигалка надежно служила Вам длительное время.
+
+ 
+</description>
+        <adult>true</adult>
+        <param name="Тип спичек">Туристические</param>
+        <param name="Материал упаковки">Металл</param>
+      </offer>
+      <offer id="1776467222" available="true">
+        <url>https://aveon.net.ua/p1776467222-zaschitnye-nakolenniki-nalokotniki.html</url>
+        <oldprice>593</oldprice>
+        <price>443</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4292797674_zaschitnye-nakolenniki-i.jpg</picture>
+        <picture>https://images.prom.ua/4292797675_zaschitnye-nakolenniki-i.jpg</picture>
+        <picture>https://images.prom.ua/4292797677_zaschitnye-nakolenniki-i.jpg</picture>
+        <picture>https://images.prom.ua/4292797678_zaschitnye-nakolenniki-i.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Защитные наколенники и налокотники из ударопрочного пластика тактические камуфляж</name>
+        <vendorCode>1776467222</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Преимущества:
+
+
+	Легко надеваются и снимаются;
+	Изготовлены из качественного материала;
+	Долговечны;
+	Универсальное использование;
+	Размер регулируется;
+	Можно использовать как мотозащиту;
+
+
+ 
+
+Описание:
+
+ Данный защитный комплект состоит из двух наколенников и двух налокотников. Изготовлены из твёрдого пластика, который надежно защитит Вас от травм. Внутренняя поверхность изделия изготовлена из мягкого поролона, что обеспечит комфортную посадку на руки и ноги.
+
+Данный комплект защиты легко одевается и надежно держится за счёт широких лямок и двух замков «липучек». Легкие и компактные тактические наколенники. Наколенник/налокотник защитный имеет подкладку из мембранной ткани COOLMAX создает дополнительный вентиляционный эффект. 
+
+ 
+
+Характеристики:
+
+
+	Тип: мотозащита / наколенник защитный
+	Размеры:
+	налокотники - 16,5 см х 14 см + максимальная ( в растянутом состоянии) длинна ремня 40 см;
+	наколенники - 19,5 см х 17 см + максимальная (в растянутом состоянии) длинна ремня 50 см;
+	Материал: 100% нейлон;
+	Сезоны года: всесезонный;
+	Специальная обработка влагозащитная обработка;
+	Цвет: камуфляж
+
+</description>
+        <param name="Возрастная группа">Для взрослых</param>
+        <param name="Состояние">Новое</param>
+        <param name="Жесткость">Мягкая</param>
+      </offer>
+      <offer id="1776495330" available="true">
+        <url>https://aveon.net.ua/p1776495330-nabor-takticheskoj-zaschity.html</url>
+        <oldprice>593</oldprice>
+        <price>443</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4292887894_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887898_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887896_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887889_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887903_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887899_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887907_nabor-takticheskoj-zaschity.jpg</picture>
+        <picture>https://images.prom.ua/4292887906_nabor-takticheskoj-zaschity.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Набор тактической защиты налокотники и наколенники тактические черный</name>
+        <vendorCode>1776495330</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Преимущества:
+
+
+	Легко надеваются и снимаются;
+	Изготовлены из качественного материала;
+	Долговечны;
+	Универсальное использование;
+	Размер регулируется;
+	Можно использовать как мотозащиту;
+
+
+ 
+
+Описание:
+
+ Данный защитный комплект состоит из двух наколенников и двух налокотников. Изготовлены из твёрдого пластика, который надежно защитит Вас от травм. Внутренняя поверхность изделия изготовлена из мягкого поролона, что обеспечит комфортную посадку на руки и ноги.
+
+Данный комплект защиты легко одевается и надежно держится за счёт широких лямок и двух замков «липучек». Легкие и компактные тактические наколенники. Наколенник/налокотник защитный имеет подкладку из мембранной ткани COOLMAX создает дополнительный вентиляционный эффект. 
+
+ 
+
+Характеристики:
+
+
+	Тип: мотозащита / наколенник защитный
+	Размеры:
+	налокотники - 16,5 см х 14 см + максимальная ( в растянутом состоянии) длинна ремня 40 см;
+	наколенники - 19,5 см х 17 см + максимальная (в растянутом состоянии) длинна ремня 50 см;
+	Материал: 100% нейлон;
+	Сезоны года: всесезонный;
+	Специальная обработка влагозащитная обработка;
+	Цвет: черный
+
+</description>
+        <param name="Пол">Унисекс</param>
+        <param name="Цвет">Черный</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1776502134" available="true">
+        <url>https://aveon.net.ua/p1776502134-dozhdevik-takticheskij-poncho.html</url>
+        <oldprice>593</oldprice>
+        <price>443</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4293074679_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072692_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072691_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072693_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072694_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072697_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072696_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072698_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293072695_dozhdevik-takticheskij-poncho.jpg</picture>
+        <picture>https://images.prom.ua/4293076733_dozhdevik-takticheskij-poncho.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Дождевик тактический пончо дождевик тент 3в1 плащ накидка от дождя Зелёный</name>
+        <vendorCode>1776502134</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Дождевик тактический военный пончо армейский Военный плащ накидка от дождя
+
+Качественный плащ-пончо, изготовленный из прочной военной ткани со специальной пропиткой, вода не проникает и не намокает. Можно использовать в качестве палатки.
+
+Размер универсальный. Унисекс.
+
+Дождевик очень удобен и качественный, дождевик изготовлен в Украине, качество 100%. Для удобства в комплете крепкий чехол с фиксатором.
+
+Характеристика:
+
+
+	дождевик – пончо, конструкция позволяет сделать палатку или навес.
+	ткань прочная и водонепроницаемая (специальная пропитка)
+	тканевые фиксаторы по бокам на дождевике.
+	Качественный крепкий чехол.
+	Изготовлен в Украине, высокое качество.
+
+
+
+
+
+
+
+
+
+
+
+ 
+</description>
+        <param name="Цвет">Зелёный</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1776508934" available="true">
+        <url>https://aveon.net.ua/p1776508934-dozhdevik-poncho-takticheskij.html</url>
+        <oldprice>593</oldprice>
+        <price>443</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4293080109_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080111_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080112_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080108_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080114_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080110_dozhdevik-poncho-takticheskij.jpg</picture>
+        <picture>https://images.prom.ua/4293080113_dozhdevik-poncho-takticheskij.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Дождевик пончо тактический пончо тент дождевик 3в1 камуфляж</name>
+        <vendorCode>1776508934</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Надежный и качественный дождевик-пончо, сделанный из сверхпрочной водонепроницаемой ткани. Дождевик можно использовать как палатку (дождевик оснащен специальной фурнитурой, чтобы быстро сделать палатку!)
+
+Чехол пришитый к дождевику, чтобы не потерять.
+
+Места швов обработаны резиновой подкладкой для герметичности!
+
+Характеристика:
+
+
+	качественная прочная ткань, водонепроницаемая.
+	дождевик палатка, продуманный дождевик, который быстро превращается в прочную и надежную палатку.
+	чехол с фиксатором в комплекте.
+	Подходит под любое телосложение, регулируется.
+	не сковывает движения, быстро одевается.
+	качество 100%, выполненное по стандартам.
+	Протестированный и надежный дождевик
+
+
+Многофункциональное изделие, которое может служить влаго-ветрозащитной накидкой от непогоды, тентом или палаткой, как временное укрытие от солнца и дождя или покрывалом на землю, а так же мягкой подушкой под голову сложенное в чехол. Отлично защищает от дождя, и не заменим в маскировке.
+</description>
+        <param name="Цвет">Камуфляж</param>
+        <param name="Вид изделия">Пончо</param>
+        <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="1546617746" available="true">
+        <url>https://aveon.net.ua/p1546617746-stellazh-dlya-hraneniya.html</url>
+        <oldprice>675</oldprice>
+        <price>525</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017053</categoryId>
+        <picture>https://images.prom.ua/3550623952_stellazh-dlya-hraneniya.jpg</picture>
+        <picture>https://images.prom.ua/3550623923_stellazh-dlya-hraneniya.jpg</picture>
+        <picture>https://images.prom.ua/3550624272_stellazh-dlya-hraneniya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Стеллаж для хранения над стиральной машиной 152х65х25</name>
+        <vendorCode>1546617746</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Стеллаж для хранения над стиральной машиной New storage rack 152х65х25 см
+
+Чтобы сэкономить место в туалете или ванной комнате используют каждый сантиметр свободного пространства. В большом помещении для туалетов и ванных комнат можно установить тумбочку или шкаф. Там, где нет места для габаритных предметов, можно ограничиться полками над унитазом. Посмотрите наверх и увидите зря пропадающее место над унитазом или стиральной машиной. А почему бы не пристроить здесь несколько полок? Оказывается, эту идею давно подхватили производители и представили нам этажерку-стеллаж для ванных комнат.
 
 Особенности:
 
 
-	Высокое качество сборки и материалов
-	Цифровая индикация заряда
-	Сравнительно компактные размеры
-	Удобство переноски и простота использования
-	Несколько уровней защиты для безопасной зарядки
-	Фонарик
-	3 USB
-
-
-
-
-
-
- 
-
- 
-
- 
-
-Характеристики:
-
-
-	Емкость, мА·час: 20000
-	Технология: Li-Ion
-	Зарядка: от USB
-	Разъемы: 3х USB, micro USB
-	Вход: 5В, 2.0 А (Макс)
-	Выход: 5.0В, 2.1А (Макс)
-	Материал: ABS пластик
-
-</description>
-        <param name="Тип аккумулятора">Li-Ion</param>
-        <param name="Емкость аккумулятора" unit="мА/ч">20000</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Тип">Универсальная батарея</param>
-        <param name="Выходное напряжение" unit="В">5</param>
-        <param name="Состояние">Новое</param>
-        <param name="Особенности">Фонарик|Индикатор уровня заряда</param>
-      </offer>
-      <offer id="1733284760" available="true">
-        <url>https://aveon.net.ua/p1733284760-fonar-lampa-solnechnoj.html</url>
-        <oldprice>443</oldprice>
-        <price>293</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70181491</categoryId>
-        <picture>https://images.prom.ua/4155058284_fonar-lampa-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4155058277_fonar-lampa-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4155058283_fonar-lampa-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4155058310_fonar-lampa-s-solnechnoj.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Фонарь-лампа с солнечной панелью EP-020</name>
-        <vendorCode>1733284760</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Характеристики и описание
-
-Фонарь-лампа с солнечной панелью EP-020
-
-Информация о товаре:
-
-
-	Размер: 82*82*137 мм
-	Емкость аккумулятора: оливково-кислотный аккумулятор емкостью 900 мАч.
-	Солнечная панель: 6 В 1 Вт
-	Материал корпуса: пластик
-	Режим переключения: ручной
-	Время освещения: 15 час
-	Количество светодиодов: 20 шт., высокое качество 5730SMD
-	1 шт. 6 В 1 Вт солнечная панель с кабелем 3 м
-	USB-зарядка
-	Крючок для удобства подвешивания
-	Зарядное отверстие
-	Зарядка солнечной панели
-
-
- 
-
-
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-
-
-
- 
-
- 
-
- 
-</description>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип заряда">Солнечные батареи</param>
-        <param name="Цвет">Оливковый</param>
-      </offer>
-      <offer id="1739856872" available="true">
-        <url>https://aveon.net.ua/p1739856872-solnechnaya-zaryadnaya-stantsiya.html</url>
-        <oldprice>1455</oldprice>
-        <price>1305</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70181491</categoryId>
-        <picture>https://images.prom.ua/4175379949_solnechnaya-zaryadnaya-stantsiya.jpg</picture>
-        <picture>https://images.prom.ua/4175379950_solnechnaya-zaryadnaya-stantsiya.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Солнечная зарядная станция + LED фонарь Junai JA-2007 с лампочками + Power Bank</name>
-        <vendor>JunAi</vendor>
-        <vendorCode>1739856872</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Солнечная зарядная станция + LED фонарь Junai JA-2007 с лампочками + Power Bank
-
-Представляем многофункциональную систему JunAi JA-2007 набор включает в себя солнечную панель, аккумулятор 5000 мАч, фонарик, динамик с Bluetooth и FM радио, 2 светодиодные лампы, кабель для зарядки различных гаджетов и наплечный ремень. Система допускает несколько вариантов освещения, встроенный фонарик спереди и лампу сбоку.
-
-Также в комплект входят 2 светодиодные лампы с кабелями. Лампы имеют отдельные переключатели, что позволяет настраивать их в соответствии с потребностями. При одновременном использовании ламп заряда батареи хватает на 10 часов.  В системе предусмотрена возможность зарядки разных типов мобильных устройств – телефонов GSM, планшетов, ноутбуков, i-Pod, MP3, GPS и др. 
-
-Батарею можно заряжать двумя способами – от сети 220 В или от солнечной батареи. Предусмотрен индикатор уровня заряда аккумулятора, а также светодиодная аварийная лампа. Устройство широко применяется на охоте и рыбалке, в походах, кемпингах, для оборудования дач, караванов и палаток, т.е. в качестве дополнительного возобновляемого источника энергии в разных ситуациях.
-
+	прочная конструкция имеет длительный срок службы
+	подходит для небольших комнат
+	легко собрать
+	современный дизайн, красивый внешний вид
 
 
 Характеристики:
 
 
-	Аккумуляторная осветительная станция с солнечной панелью и дополнительными выносными лампочками
-	Материал фонарика: пластик.
-	Источник света: Cree XHP 30 + COB панель + 2шт. выносные лампы.
-	Количество режимов работы: 3 режима (100% P30, 1000% COB, 50% COB) + функция PowerBank+ можно подключить к четырем выносным лампам (2шт. в комплекте).
-	Размеры: общие размеры с учетом ручки 168х145х67 мм.
-	Питание: Работает от встроенного литий-ионного аккумулятора. Зарядка происходит через USB-кабель или солнечную панель. Есть функция PowerBank. .
-
-
-Комплектация: 
-
-
-	Станция,
-	кабель-разветвитель, 2шт.
-	выносная лампа,
-	выносная солнечная панель.
-
-
-Если устройство не используется в течение длительного времени, заряжайте аккумулятор каждые 3 месяца в течение 13 часов. В противном случае срок службы батареи сократится.
-
-Рекомендации:
-
-Для увеличения производительности устройства рекомендуем:
-
-
-	Бережно храните солнечную панель, старайтесь не повредить покрытие. 
-	Протирайте солнечную панель, чтобы удалить пыль.
-	Направляйте солнечную панель прямо на солнце. 
-	Полностью зарядите устройство перед первым использованием от сети 220 вольт (от солнца первая зарядка рекомендуется один день под ярким солнцем 24 часа)
-
-
+	Материал: нержавеющая сталь
+	Размеры в собранном виде: 152х65х25 см
+	Количество полок: 2
 
 </description>
-        <param name="Тип питания">Аккумулятор</param>
+        <param name="Форма полки">прямая</param>
+        <param name="Форма этажерки">прямая</param>
+        <param name="Тип установки">Напольная</param>
+        <param name="Количество ярусов (полок)">2</param>
+        <param name="Возможность регулировки полок по высоте">Да</param>
+        <param name="Количество ножек" unit="шт.">2</param>
+        <param name="Настенный крепеж">Нет</param>
         <param name="Состояние">Новое</param>
-        <param name="Особенности фонаря">Зарядка для телефона</param>
+        <param name="Ширина" unit="мм">650</param>
+        <param name="Глубина" unit="мм">250</param>
+        <param name="Высота" unit="мм">1520</param>
       </offer>
-      <offer id="1741646999" available="true">
-        <url>https://aveon.net.ua/p1741646999-poverbank-solnechnoj-panelyu.html</url>
-        <oldprice>675</oldprice>
-        <price>525</price>
+      <offer id="1604970696" available="true">
+        <url>https://aveon.net.ua/p1604970696-mnogofunktsionalnaya-terka-ovoscherezka.html</url>
+        <oldprice>510</oldprice>
+        <price>360</price>
         <currencyId>UAH</currencyId>
-        <categoryId>70180949</categoryId>
-        <picture>https://images.prom.ua/4181714417_poverbank-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4181714386_poverbank-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4181699196_poverbank-s-solnechnoj.jpg</picture>
-        <picture>https://images.prom.ua/4181699198_poverbank-s-solnechnoj.jpg</picture>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/3741336310_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
+        <picture>https://images.prom.ua/3741336566_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
+        <picture>https://images.prom.ua/3741336567_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
+        <picture>https://images.prom.ua/3741336564_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
+        <picture>https://images.prom.ua/3741336565_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
+        <picture>https://images.prom.ua/3741336561_mnogofunktsionalnaya-terka-ovoscherezka.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Повербанк с солнечной панелью (power bank) 50000mAh (2400mAh) Boro JS-5</name>
-        <vendor>Boro</vendor>
-        <vendorCode>1741646999</vendorCode>
+        <name>Многофункциональная терка овощерезка с контейнером Mandoline Slice 11 в 1 Шинковка HSM-50166</name>
+        <vendorCode>1604970696</vendorCode>
         <country_of_origin>Китай</country_of_origin>
-        <description>Портативный аккумулятор (power bank) 50000mAh (2400mAh) Boro JS-5 
+        <description>Ручная овощерезка Mandoline Slice 11 в 1 
+ 
 
-Внешний аккумулятор отличается стильным дизайном, высокой емкостью батареи и подключением нескольких устройств.
+Любой хозяйке известно, сколько времени тратится на обработку продуктов: очистку, нарезку, шинковку, натирание. После такой подготовки сил и, главное, желания, на сотворение кулинарных шедевров не остается. Универсальная овощерезка Mandoline Slice- это многофункциональный слайсер и нарезной станок с которой кухонная рутина становится разнообразнее.
 
-Батарея высокой емкости имеет относительно небольшие габариты и стильный дизайн, широкую область применения, долговечность, высокую экономичность.
+Нарезать кубиками или на ломтики, нашинковать соломкой или натереть, разрезать на части ― позволяет одно приспособление. Простое и практичное. Универсальная овощерезка способна стать заменой кухонному комбайну, неуклюжему, громоздкому и дорогому. Овощерезка Mandoline Slice выполнит практически все его функции.
 
-Имеются 4 индикатора (100, 75, 50, 25%), что показывает уровень заряда батареи. Подойдет для зарядки любых портативных устройств.
+ 
 
-Имеет защиту от чрезмерной зарядки, защиту от короткого замыкания, защиту от чрезмерной разрядки.
+ 
 
-Power bank можно использовать в повседневной жизни, на отпуске и не только. Благодаря большой емкости и 2 интерфейсным портам он может заряжать несколько устройств одновременно.
+ 
 
-В комплекте идет кабель для подзарядки. Поддерживает быструю зарядку.
+Преимущества и комплектация:
 
-С одной стороны корпуса есть солнечная панель как альтернативная форма зарядки, с маленьким компасом, а с другой – LED фонарь. В торце есть пластиковая петля.
+ 
 
+Компактная, занимает минимум места на кухнеПрибор подходит для нарезки овощей и фруктовОстрые как бритва ножи из нержавеющей стали справляются и с твердой кожурой, и с крепкими овощами, и с сочными фруктамиОсобая конструкция лезвий обеспечивает идеальный вид нарезанных продуктовОвощерезка абсолютно безопасна при использовании, ведь прикасаться пальцами к лезвиям нет необходимости.Современный аксессуар заменяет собой терку, резак и ломтерезкуОвощерезкаПищевой контейнер с функцией слива4 Сменные насадкиРазделочная доскаТеркаКухонный ножФруктовый резак
 
-	Тип : Универсальная батарея
-	Тип аккумулятора : Li-Ion
-	Входное напряжение: 5 В/2А
-	Выходное напряжение: 5 В/2А
-	Емкость аккумулятора: 50000mAh (2400mAh)
-	Зарядка батареи : От USB, солнечная панель
-	Материал корпуса: Пластик
-	Набор переходников: Нет
-	Особенности : компас, Индикатор уровня заряда
-	Разъемы : micro USB, USBx2
+ 
 
+ 
 </description>
-        <param name="Тип аккумулятора">Li-Ion</param>
-        <param name="Емкость аккумулятора" unit="мА/ч">50000</param>
-        <param name="Тип">Универсальная батарея</param>
-        <param name="Состояние">Новое</param>
-        <param name="Зарядка батареи">От USB|От солнечной энергия</param>
-      </offer>
-      <offer id="1742337664" available="true">
-        <url>https://aveon.net.ua/p1742337664-lampa-nastolnaya-gibkoj.html</url>
-        <oldprice>495</oldprice>
-        <price>345</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/4183271917_lampa-nastolnaya-na.jpg</picture>
-        <picture>https://images.prom.ua/4183271915_lampa-nastolnaya-na.jpg</picture>
-        <picture>https://images.prom.ua/4183271914_lampa-nastolnaya-na.jpg</picture>
-        <picture>https://images.prom.ua/4183271916_lampa-nastolnaya-na.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Лампа настольная на гибкой ножке с органайзером и подставкой телефона Quite Light Pig с точилкой розовый</name>
-        <vendorCode>1742337664</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Pig с точилкой карандашей, питание от USB Розовая
-
-Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Pig с точилкой карандашей, питание от USB Розовая
-
-Настольная гибкая лама многофункциональная, изготовленная из матового ABS пластика. Оснащена настольная лампа встроенной точилкой для карандашей, которая имеет подсветку в режиме ночника. Питание лампы происходит через кабель micro USB-USB. Так же вы можете установить на подставку свой смартфон для просмотра видео либо канцелярские принадлежности.
-
-На корпусе имеются органайзер для ручек и других небольших предметов, отсек-подставка для телефона. Так же, милый дизайн, который впишется в любой интерьер. В комплект входит micro-USB и USB шнур.
-
-Характеристики:
-
-
-	Материал: ABS пластик;
-	Тип лампы: Светодиодная
-	Управление: переключатель на задней стороне корпуса
-	Кнопка включения на корпусе: Есть;
-	Питание: USB
-	Зарядка: вход micro USB
-	Вес : 160 грамм.
-
-
-Комплектация:
-
-
-	Лампа LED;
-	Кабель питания USB-micro USB;
-	Фирменная коробка.
-
-</description>
-        <param name="Тип">Настольная лампа</param>
-        <param name="Цвет">Розовый</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип крепления">На поверхность</param>
-        <param name="Тип лампы">Светодиодная</param>
-      </offer>
-      <offer id="1742342542" available="true">
-        <url>https://aveon.net.ua/p1742342542-lampa-nastolnaya-organajzerom.html</url>
-        <oldprice>495</oldprice>
-        <price>345</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/4183286186_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183286185_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183286187_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183286189_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183286188_lampa-nastolnaya-s.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Лампа настольная с органайзером для ручек и подставкой телефона Quite Light Snail с точилкой Синий</name>
-        <vendorCode>1742342542</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Snail с точилкой карандашей, питание от USB Синяя
-
-Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Snail с точилкой карандашей, питание от USB Синяя
-
-Настольная гибкая лама многофункциональная, изготовленная из матового ABS пластика. Оснащена настольная лампа встроенной точилкой для карандашей, которая имеет подсветку в режиме ночника. Питание лампы происходит через кабель micro USB-USB. Так же вы можете установить на подставку свой смартфон для просмотра видео либо канцелярские принадлежности.
-
-На корпусе имеются органайзер для ручек и других небольших предметов, отсек-подставка для телефона. Так же, милый дизайн, который впишется в любой интерьер. В комплект входит micro-USB и USB шнур.
-
-Характеристики:
-
-
-	Материал: ABS пластик;
-	Тип лампы: Светодиодная
-	Управление: переключатель на задней стороне корпуса
-	Кнопка включения на корпусе: Есть;
-	Питание: USB
-	Зарядка: вход micro USB
-	Вес : 160 грамм.
-
-
-Комплектация:
-
-
-	Лампа LED;
-	Кабель питания USB-micro USB;
-	Фирменная коробка.
-
-</description>
-        <param name="Материал каркаса">пластик</param>
-        <param name="Тип">Настольная лампа</param>
-        <param name="Цвет">Синий</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип крепления">На поверхность</param>
-        <param name="Тип лампы">Светодиодная</param>
-      </offer>
-      <offer id="1742344802" available="true">
-        <url>https://aveon.net.ua/p1742344802-lampa-nastolnaya-tochilkoj.html</url>
-        <oldprice>495</oldprice>
-        <price>345</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017064</categoryId>
-        <picture>https://images.prom.ua/4183298238_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183298239_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183298235_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183298236_lampa-nastolnaya-s.jpg</picture>
-        <picture>https://images.prom.ua/4183298234_lampa-nastolnaya-s.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Лампа настольная с точилкой  органайзером для ручек и подставкой телефона Зеленый</name>
-        <vendorCode>1742344802</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Rabbit с точилкой карандашей, питание от USB Зеленая
-
-Лампа настольная на гибкой ножке с органайзером для ручек и подставкой телефона Quite Light Rabbit с точилкой карандашей, питание от USB Зеленая
-
-Настольная гибкая лама многофункциональная, изготовленная из матового ABS пластика. Оснащена настольная лампа встроенной точилкой для карандашей, которая имеет подсветку в режиме ночника. Питание лампы происходит через кабель micro USB-USB. Так же вы можете установить на подставку свой смартфон для просмотра видео либо канцелярские принадлежности.
-
-На корпусе имеются органайзер для ручек и других небольших предметов, отсек-подставка для телефона. Так же, милый дизайн, который впишется в любой интерьер. В комплект входит micro-USB и USB шнур.
-
-Характеристики:
-
-
-	Материал: ABS пластик;
-	Тип лампы: Светодиодная
-	Управление: переключатель на задней стороне корпуса
-	Кнопка включения на корпусе: Есть;
-	Питание: USB
-	Зарядка: вход micro USB
-	Вес : 160 грамм.
-
-
-Комплектация:
-
-
-	Лампа LED;
-	Кабель питания USB-micro USB;
-	Фирменная коробка.
-
-</description>
-        <param name="Материал каркаса">пластик</param>
-        <param name="Тип">Настольная лампа</param>
-        <param name="Цвет">Зелёный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип крепления">На поверхность</param>
-        <param name="Тип лампы">Светодиодная</param>
+        <param name="Количество трущих/режущих поверхностей">Более 6</param>
+        <param name="Наличие контейнера (поддона)">Есть</param>
+        <param name="Материал">Нержавеющая сталь</param>
+        <param name="Тип">Шинковка</param>
       </offer>
       <offer id="1744062137" available="true">
         <url>https://aveon.net.ua/p1744062137-komplekt-makita-drel.html</url>
-        <oldprice>3135</oldprice>
-        <price>2985</price>
+        <oldprice>3060</oldprice>
+        <price>2910</price>
         <currencyId>UAH</currencyId>
         <categoryId>30018536</categoryId>
         <picture>https://images.prom.ua/4188272722_komplekt-makita-3.jpg</picture>
@@ -2097,173 +1179,6 @@ Power bank можно использовать в повседневной жи�
 Тщательно продуманная для длительной работы конструкция, высокие технические параметры и вполне приемлемая стоимость – вот на что в первую очередь стоит обратить внимание в модели УШМ Makita 9558HN. Предлагаемый электроинструмент оснащается 840-Вт двигателем, который характеризуется длительным сроком службы благодаря надежной защите от пыли и повышенных температур и позволяет развивать скорость рабочего диска 125 мм до 11000 об/мин. Среди дополнительных опций в Makita 9558HN предусмотрены функция блокировки кнопки включения и фиксатор шпинделя, призванный обеспечить быструю смену режущего элемента. Главными особенностями дополнительной рукоятки являются возможность установки в двух местах, с правой и с левой руки, и значительное снижение уровня вибрации.
 </description>
         <param name="Потребляемая мощность" unit="Вт">750</param>
-      </offer>
-      <offer id="1746416797" available="true">
-        <url>https://aveon.net.ua/p1746416797-nastolnaya-skladnaya-lampa.html</url>
-        <oldprice>555</oldprice>
-        <price>405</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70181491</categoryId>
-        <picture>https://images.prom.ua/4194980862_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980908_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980915_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980909_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980905_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980912_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980906_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980910_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980907_nastolnaya-skladnaya-lampa.jpg</picture>
-        <picture>https://images.prom.ua/4194980911_nastolnaya-skladnaya-lampa.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Настольная складная лампа 24 LED, YT-666, Белая, Зеленая, Синяя / Настольный светодиодный светильник</name>
-        <vendorCode>1746416797</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Описание:
-
-Современная лед лампа с аккумулятором из 24 энергосберегающих светодиодов последнего поколения предназначена для освещения Вашего рабочего места за компьютерным или письменным столом. Лампа имеет два режима работы: экономный и полный, включение и переключение режимов работы лампы осуществляется перемещением кнопки, которая находится на правой панели лампы.
-
-Настольная лампа LED 666 достаточно легкая и в сложенном виде имеет не большие габариты и является мобильным устройством, её можно складывать и носить на небольшой сумке. Встроенный аккумулятор лампы позволяет легко перемещать её на рабочем столе. 
-
-
-
-Характеристики:
-
-
-	Тип: лед лампа на аккумуляторе / настольная лампа на аккумуляторе
-	24 светодиода
-	2 режима свечения
-	Встроенный аккумулятор позволяет использовать фонарь до 10 часов непрерывной работы(аккумуляторная батарея 800 мАч)
-	Низкое энергопотребление
-	Время зарядки 3 часов
-	Батарея выдерживает до 500 раз заряда и разряда
-	Регулируемый угол освещения
-	Работает от сети и аккумулятора
-
-
-Комплектация:
-
-
-	Светильник настольный YT-666
-	USB кабель
-	Упаковка
-
-</description>
-        <param name="Тип">Настольная лампа</param>
-        <param name="Цвет">Белый</param>
-        <param name="Тип выключателя">Кнопка на каркасе/корпусе</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип лампы">Светодиодная</param>
-      </offer>
-      <offer id="1753101628" available="true">
-        <url>https://aveon.net.ua/p1753101628-moschnyj-fonar-prozhektor.html</url>
-        <oldprice>990</oldprice>
-        <price>840</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>70181491</categoryId>
-        <picture>https://images.prom.ua/4215886277_moschnyj-fonar-prozhektor-perenosnoj.jpg</picture>
-        <picture>https://images.prom.ua/4215886278_moschnyj-fonar-prozhektor-perenosnoj.jpg</picture>
-        <picture>https://images.prom.ua/4215886280_moschnyj-fonar-prozhektor-perenosnoj.jpg</picture>
-        <picture>https://images.prom.ua/4215886283_moschnyj-fonar-prozhektor-perenosnoj.jpg</picture>
-        <picture>https://images.prom.ua/4215886281_moschnyj-fonar-prozhektor-perenosnoj.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Мощный фонарь-прожектор переносной LED Yajia YJ-2886 Black ручной</name>
-        <vendorCode>1753101628</vendorCode>
-        <description>Фонарь может использоваться практически везде: в быту, во время активного отдыха или выполнения различных работ, на рыбалке и охоте.
-
-Для удобства фонарь оснащен ремнем для ношения на плече.
-
- 
-
-Характеристики:
-
-
-	Корпус: пластик
-	Источник света: 5W+22SMD-LED
-	Количество режимов работы: 3 (высокий, средний, боковая панель)
-	Источник питания: встроенный аккумулятор 5500 mAh
-	Зарядка аккумулятора от сети 220V
-	Дополнительные функции: USB power bank
-	Размеры: комплект с коробкой – 20*15*11см, l=19,5см, d=10 см
-	Вес: комплект с коробкой – 1050г, фонарик – 920г
-
-
- 
-
-Комплектация:
-
-
-	фонарь YJ-2886
-	зарядное устройство от сети 220V
-	ремень
-	коробка
-
-</description>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип заряда">От сети</param>
-        <param name="Тип лампы">Светодиодная</param>
-        <param name="Тип фонаря">Ручной</param>
-        <param name="Цвет">Черный</param>
-      </offer>
-      <offer id="1761704098" available="true">
-        <url>https://aveon.net.ua/p1761704098-shvabra-vedrom-otzhimom.html</url>
-        <oldprice>660</oldprice>
-        <price>510</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30017053</categoryId>
-        <picture>https://images.prom.ua/4244888683_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888687_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888686_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888679_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888682_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888685_shvabra-s-vedrom.jpg</picture>
-        <picture>https://images.prom.ua/4244888684_shvabra-s-vedrom.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Швабра с ведром и отжимом| Швабра с отжимом и ведром лентяйка YT-200</name>
-        <vendorCode>1761704098</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>ОПИСАНИЕ
-
-Швабра с ведром Scratch Cleaning Easy Mop с автоматическим Швабра с отжимом ведром комплект Scratch Cleaning Easy Mop с автоматическим отжимом и складной ручкой Мытье полов вызывает у Вас раздражение и нежелание убирать? Комплект для уборки EasyMop – простое решение для всех бытовых проблем. Никаких разводов и лишней воды. Идеально чистый пол в считанные минуты. Чтобы добраться до труднодоступных участков, можно двигать мебель.
-
-
-
-Ведро оснащено системой полоскания и отжима, позволяет полностью удалять грязь из насадок.
-
-Антибактериальная сушка в вертикальном положении избавит вас от вредных бактерий. Благодаря ведру со специальной крышкой вы с легкостью вымоете и выжмете тряпку, не прикасаясь к ней руками и не снимая ее со швабры.
-
-
-	В комплект входят две насадки швабры из микрофибры.
-	Комфортная конструкция.
-	Благодаря продуманной конструкции и компактным размерам комплект займет минимум места, но только обычная швабра!
-	Ручка с регулируемой длиной состоит из нескольких частей, которые легко собрать и разобрать. В разобранном состоянии швабра занимает меньше места.
-	Инструмент выполнен из металла и прочного пластика и прослужит вам долго. для уборки в тяжелодоступных местах.
-	Подвижная головка швабры позволит вымыть пол под кроватью, шкафом или во втором труднодоступном месте.
-	Отлично подходит для линолеума, деревянных полов, ламинатов, полов из плитки и других поверхностей.
-
-
-
-
-
-
-Характерисктика:
-
-
-	система отжима самоочищающееся ведро
-	Легко проходит под мебелью.
-	Хорошо удаляет шерсть животных и волосы. Воспользоваться комплектом для уборки EasyMop очень просто
-	Характеристики : Размеры ведра: 370х210х180 мм
-	Объем ведра 8 литров Материал ручки и ведра металл, пластик ABS.
-
-</description>
-        <param name="Тип ручки">разборная</param>
-        <param name="Основное назначение">Универсальное</param>
-        <param name="Комплектация ведром">Есть (с отжимом)</param>
-        <param name="Наличие механизма отжима">Есть</param>
-        <param name="Тип">Ручка</param>
       </offer>
     </offers>
   </shop>
