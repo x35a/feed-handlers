@@ -5,8 +5,9 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
+        "find ID duplicates": "node common/find-id-duplicates.js",
         "find products with missed category": "node common/find-products-with-missed-category.js",
-        "find id duplicates": "node common/find-id-duplicates.js",
+        "find missed images": "node common/find-missed-images.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
         "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
