@@ -8,6 +8,7 @@ const fetchFeed = require('./fetch-feed')
 const { tldYMLLink } = require('./const')
 
 ;(async () => {
+    console.log('FIND PRODUCTS WITH MISSED CATEGORY')
     const feedText = await fetchFeed(tldYMLLink)
     const feedObject = await parser.parseStringPromise(feedText)
     const offers = feedObject.yml_catalog.shop[0].offers[0].offer

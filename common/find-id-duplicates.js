@@ -3,6 +3,8 @@ const parser = new xml2js.Parser()
 const { tldYMLLink } = require('./const')
 
 ;(async () => {
+    console.log('FIND ID DUPLICATES')
+
     let response = await fetch(tldYMLLink)
 
     if (response.ok) {

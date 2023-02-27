@@ -4,16 +4,12 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test products": "node common/find-id-duplicates.js & node common/find-products-with-missed-category.js & node common/find-missed-images.js",
         "backup feeds": "node backup/backup-feeds.js",
-        "find ID duplicates": "node common/find-id-duplicates.js",
-        "find products with missed category": "node common/find-products-with-missed-category.js",
-        "find missed images": "node common/find-missed-images.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
-        "merchant": "node handlers/merchant/merchant.js",
-        "aveopt-get-feed-chunks": "node handlers/aveopt/aveopt.js --splitFeed",
-        "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed"
+        "aveopt-get-feed-diff": "node handlers/aveopt/aveopt.js --diffFeed",
+        "merchant": "node handlers/merchant/merchant.js"
     },
     "author": "",
     "license": "ISC",
