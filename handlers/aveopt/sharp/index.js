@@ -5,7 +5,7 @@ const sharp = require('sharp')
 const feedPath = './handlers/aveopt/products_feed.xml'
 const imagesRootFolderPath = `${__dirname}/images`
 
-const noImgProductsID = ['1713782761', '1721553914', '1744931706', '1771646236']
+const noImgProductsID = ['', '']
 
 ;(async () => {
     if (!fs.existsSync(imagesRootFolderPath)) {
