@@ -21,7 +21,9 @@ const { tldYMLLink } = require('../../common/const')
 
         // Remove products
         const filtered_offers = offers.filter(
-            (offer) => !excludeList.includes(offer['$'].id)
+            (offer) =>
+                !excludeList.includes(offer['$'].id) &&
+                !excludeList.includes(offer.vendorCode[0]) // remove aveopt products
         )
         result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 
