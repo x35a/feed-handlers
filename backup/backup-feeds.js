@@ -10,10 +10,10 @@ const { tldYMLLink, tldCSVLink, aveoptYMLLink } = require('../common/const')
     }
 
     await fetchNSave(tldYMLLink, './backup/tstore.xml', 'Tld YML Saved')
-    await fetchNSave(tldCSVLink, './backup/feed-fb.csv', 'Tld CSV Saved')
     await fetchNSave(
         aveoptYMLLink,
         './backup/products_feed.xml',
         'Aveopt YML Saved'
     )
+    await fetchNSave(tldCSVLink, './backup/feed-fb.csv', 'Tld CSV Saved')
 })()
