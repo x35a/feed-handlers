@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-03-13 21:09">
+<yml_catalog date="2023-03-14 19:06">
   <shop>
     <name>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</name>
     <company>Интернет-магазин "AVEON" - товары для всей семьи! Самые низкие цены!</company>
@@ -49,113 +49,370 @@
       <category id="108118382">Женская обувь</category>
     </categories>
     <offers>
-      <offer id="1572419833" available="true">
-        <url>https://aveon.net.ua/p1572419833-molding-lenta-dlya.html</url>
-        <oldprice>276</oldprice>
-        <price>126</price>
+      <offer id="1016561318" available="true">
+        <url>https://aveon.net.ua/p1016561318-avtomobilnyj-derzhatel-sensornyj.html</url>
+        <oldprice>473</oldprice>
+        <price>323</price>
         <currencyId>UAH</currencyId>
         <categoryId>30017035</categoryId>
-        <picture>https://images.prom.ua/3635131154_molding-lenta-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3635131153_molding-lenta-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3635131156_molding-lenta-dlya.jpg</picture>
+        <picture>https://images.prom.ua/1911646578_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646587_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646576_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646579_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646580_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646582_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646581_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646584_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646585_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
+        <picture>https://images.prom.ua/1911646586_avtomobilnyj-derzhatel-sensornyj.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Молдинг лента для защиты кузова, порогов, багажника карбон. Ширина молдинга 7см</name>
-        <vendorCode>1572419833</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Характеристики и описание
+        <name>Автомобильный держатель сенсорный с функцией беспроводной зарядки Penguin Smart Sensor S5</name>
+        <vendor>Penguin Smart Sensor S5</vendor>
+        <vendorCode>1016561318</vendorCode>
+        <description>Penguin Smart Sensor S5 - сенсорный автомобильный держатель с функцией беспроводной зарядки предназначен для удобного использования смартфона в автомобиле. Держатель крепится на решетку воздуховода. Благодаря шарнирному креплению вы можете развернуть держатель под удобным для вас углом и даже перевести его в горизонтальное положение. Встроенная беспроводная зарядка оперативно пополнить аккумулятор  смартфона до 10Вт, в зависимости от модели. Умная система предотвратит перегрев и перезарядку устройства, а также убережет от скачков напряжения. Зарядное поле распространяется на 8мм, благодаря чему можно заряжать смартфон даже в чехле.
 
-Цена указана за 1м
-
-Универсальный молдинг , лента самоклеющаяся
-
-Ширина молдинга 7см ( 70мм). Толщина 2 мм.
-
-Можно заказать любой размер.
-
-Стильный способ тюнинга вашего авто;
-
-Плотный и долговечный материал;
-
-Объемный глянцевый рисунок;
-
-Дополнительная защита от царапин и сколов.
-
-Молдинг это не просто декорирующий элемент. В данном случае это прекрасный способ скрыть любые дефекты автомобиля, будь то царапины на краске, микровмятины или трещины
-
-Отлично подойдет для отделки не только кузова но и салона, порогов, обшивки дверей и других элементов авто. Лента очень хорошо гнется во всех плоскостях, не боится солнца, воды и мороза
-</description>
-        <param name="Ширина">7</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="1639635956" available="true">
-        <url>https://aveon.net.ua/p1639635956-buterbrodnitsa-steinberg-780.html</url>
-        <oldprice>1568</oldprice>
-        <price>1418</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>30018858</categoryId>
-        <picture>https://images.prom.ua/3855718409_buterbrodnitsa-4-v.jpg</picture>
-        <picture>https://images.prom.ua/3855718560_buterbrodnitsa-4-v.jpg</picture>
-        <picture>https://images.prom.ua/3855718566_buterbrodnitsa-4-v.jpg</picture>
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Бутербродница 4 в 1 Steinberg ST-780 1200 Вт сендвичница гриль вафельница орешница для дома</name>
-        <vendor>Steinberg</vendor>
-        <vendorCode>1639635956</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Сендвичница Steinberg 4в1 ST 780 1200W – это качественное устройство, которое позволит вам приготовить большое количество блюд.
-
-Оно соединяет в себе 4 кухонных прибора: мультигриль, орешницу, сендвичницу и вафельницу. Это вы сможете сделать благодаря сменным формам, которые идут в комплекте.
-
-Стоит заметить, что эта модель сендвичницы выделяется долговечностью и качественностью.
-
-Ведь создана она из высококачественного термопластика и нержавейки – верхняя крышка. Нержавейка не будет выгорать со временем, а термопластик отлично справиться со всеми температурными нагрузками.
-
-Даная модель имеет 4 вида насадок:
+Преимущества Penguin S5:
 
 
-	 "Вафли гофре" - приготовление ароматных вафель на десерт или на завтрак.
-	 "Сэндвичи" - приготовление тостерных бутербродов на завтрак. Во время приготовления они разделяться на треугольные кусочки.
-	 "Гриль" - ее ребристая поверхность создает аппетитный рисунок при жарке. Отлично подрумянит поверхность стейков, сосисок или филе курицы.
-	 "Орешница" - позволит насладится отличным десертом и вспомнить детство.
+	Уникальный дизайн. По-настоящему стильный держатель для смартфона с функцией беспроводной зарядки станет отличным дополнением к интерьеру вашего авто. Обтекаемые линии и футуристичный дизайн вкупе с компактностью и функциональностью придутся по вкусу автолюбителям.
+	Умный держатель. Специальный сенсор, установленный в корпус держателя самостоятельно раздвигает ручки перед вашим смартфоном , а после надежно захватывает. Эта функция позволит вам не отвлекаться от дороги и не тратить время на установку телефона в держатель.
+
+
+Особенности:
+
+
+	Магнитная фиксация
+	Возможность поворачивать смартфон в разных направлениях
+	Крепеж рассчитан на смартфоны диагональю от 4 до 6.5
+	Два скоростных инфракрасных датчика и сенсорное управление
+	Беспроводная зарядка
 
 
 Характеристики:
 
 
-	 Съемные формы для сендвичей, вафель, гриля и орешков: Да;
-	 Корпус: нержавеющая сталь;
-	 Возможность охлаждения корпуса: Да;
-	 Антипригарное покрытие: Да;
-	 Ручка с теплоизоляцией: Да;
-	 Контрольные лампы: 2;
-	 Питание: 220-320 В.;
-	 Размер насадок: 12х21,5 см;
-	 Мощность: 1200 Вт.
+	мощность 10 Вт
+	вход 5В 2А , 9В  1,6А
+	дистанция беспроводной зарядки: 8мм
+	стандарт Qi (беспроводная зарядка)
+	ИК сенсор
+	Вход Type-C
+	Материал: поликарбонат, АБС пластик
+	Цвет: черный 
+	Вес: 272 г
 
 
-Комплектация:
+Внимание! Держатель Penguin Smart Sensor S5 заряжает только те смартфоны, которые поддерживают функцию беспроводной зарядки. Для того, чтобы узнать поддерживает ли ваш телефон беспроводную зарядку необходимо перейти на официальный сайт его разработчиков. Во вкладке Products вы увидите список всех зарегистрированных моделей с беспроводной зарядкой.
+
+Если вы хотите узнать более подробную информацию по данному товару - звоните, пишите, спрашивайте! Мы всегда с радостью готовы ответить на все Ваши вопросы
+</description>
+        <param name="Держатель/подставка для">Телефона</param>
+        <param name="Тип держателя">Универсальный</param>
+        <param name="Автомобильное крепление">Да</param>
+        <param name="Материал">Пластик</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет">Черный</param>
+      </offer>
+      <offer id="1789559099" available="true">
+        <url>https://aveon.net.ua/p1789559099-bluetooth-adapter-dlya.html</url>
+        <oldprice>375</oldprice>
+        <price>225</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018536</categoryId>
+        <picture>https://images.prom.ua/4332403871_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <picture>https://images.prom.ua/4332403901_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <picture>https://images.prom.ua/4332403902_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <picture>https://images.prom.ua/4332403890_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <picture>https://images.prom.ua/4332403905_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <picture>https://images.prom.ua/4332403904_bluetooth-adapter-dlya-peredachi.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Bluetooth-адаптер для передачи звука B09 Audio Receiver</name>
+        <vendor>ARC Wireless</vendor>
+        <vendorCode>1789559099</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Bluetooth-адаптер для передачи звука B09 Audio Receiver 
 
 
-	Сендвичница
-	Сменные насадки: 4 шт
-	Инструкция.
+
+    Адаптер оборудован разъемом 3.5 и Bluetooth-чипом версии 4.2. С помощью разъема 3.5 в гаджете можно подключать классические проводные наушники, а с помощью Bluetooth ресивера синхронизируется со смартфоном. Следовательно, пользователь сможет наслаждаться музыкой через свои 3.5 наушники, даже если на его смартфоне нет этого разъема. Радиус действия Bluetooth Audio Receiver составляет около 10 метров. Гаджет оборудован встроенной батареей, емкости которой хватает примерно на 4-5 часов автономной работы устройства (в режиме воспроизведения музыки). Также адаптер B09 можно использовать в автомобиле при подключении к старой автомагнитоле через разъем AUX. 
+
+
+
+    Для активации Bluetooth Audio Receiver не требуется специальное приложение, устройство синхронизируется со смартфоном через Bluetooth с помощью нажатия соответствующей кнопки на корпусе гаджета. Ресивер можно закреплять на одежде с помощью специальной защелки на его корпусе. Это особенно порадует тех, кому нравится слушать музыку во время занятий спортом или прогулок. Не хотите менять свои любимые 3.5-наушники, но вместе с тем хотите слушать музыку? Без проблем, просто приобретите Bluetooth Audio Receiver и проблема будет решена!
+
 
 </description>
-        <param name="Потребляемая мощность" unit="Вт">1200</param>
-        <param name="Количество выпеченных изделий">4</param>
-        <param name="Антипригарное покрытие формы">Да</param>
-        <param name="Индикатор готовности">Да</param>
-        <param name="Индикатор нагрева">Да</param>
+        <param name="Цвет">Черный</param>
         <param name="Состояние">Новое</param>
-        <param name="Сменные формы">Да</param>
-        <param name="Защита от перегрева">Да</param>
-        <param name="Ненагревающиеся ручки">Да</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Термоизолированный корпус">Да</param>
-        <param name="Система блокировки ручек">Да</param>
-        <param name="Сменные формы для приготовления вафель">Да</param>
-        <param name="Сменные формы для гриля">Да</param>
+        <param name="Радиус действия вне помещения">до 10  м</param>
+      </offer>
+      <offer id="1790173280" available="true">
+        <url>https://aveon.net.ua/p1790173280-kempingovyj-svetodiodnyj-fonar.html</url>
+        <oldprice>503</oldprice>
+        <price>353</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>70181491</categoryId>
+        <picture>https://images.prom.ua/4334461653_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461680_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461662_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461677_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461681_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461689_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461685_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461696_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461686_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <picture>https://images.prom.ua/4334461682_kempingovyj-svetodiodnyj-fonar.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Кемпинговый светодиодный фонарь трансформер 3 в 1 с функцией powerbank SHAYING</name>
+        <vendor>Cattara</vendor>
+        <vendorCode>1790173280</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Многофункциональный кемпинговый фонарь SHAYING SY-798 для использования в походных условиях и не только.
+
+Идеальный вариант автономного освещения для походов, «дикого» отдыха в палатках, рыбалки, пикников, может употребляться и на даче, и в частном доме, и даже в квартире в качестве резервного источника света. Можно использовать, как настольную лампу
+
+Кроме того от устройства можно заряжать мобильный телефон или другие устройства.
+
+ 
+
+Характеристики:
+
+
+	Материал: ABS пластик
+	Цвет: черный с зеленым
+	Вес: 230 г
+	Положение : три варианта режима освещения
+	Функция: освещение, ночная езда, аварийный, кемпинг, домашний фонарь, сигнальная лампа, банк аварийного питания
+	Источник питания: встроенная 18650 литиевая батарея
+	Срок службы батареи: 5-8 часов
+	Напряжение: 3.7 В-4.2 В
+	Зарядка: USB-5V-1A (универсальный интерфейс USB)
+	Яркие светодиоды, технология LED
+	Диод лампы: OSRAM
+	Передний свет - 3W LED
+	Внутренний свет - 10xSMD LED
+	3 режима:
+	Один режим работы основного света (100%)
+	Два режима работы внутреннего света (100% - 30%)
+	Дальность луча: до 800м.
+	Яркость:500 люмен
+	Водонепроницаемый: IPX45
+	Размер: 15 * 8,5 см
+
+</description>
+        <param name="Время заряда аккумулятора" unit="час">7</param>
+        <param name="Особенности фонаря">Зарядка для телефона</param>
+        <param name="Состояние">Новое</param>
+        <param name="Материал корпуса">Пластик</param>
+        <param name="Время работы" unit="час">6</param>
+        <param name="Тип ламп">Светодиодная</param>
+        <param name="Тип питания">Аккумулятор</param>
+      </offer>
+      <offer id="1790390931" available="true">
+        <url>https://aveon.net.ua/p1790390931-nabor-nozhej-rainberg.html</url>
+        <oldprice>750</oldprice>
+        <price>600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30018858</categoryId>
+        <picture>https://images.prom.ua/4335224725_nabor-nozhej-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4335224733_nabor-nozhej-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4335224754_nabor-nozhej-rainberg.jpg</picture>
+        <picture>https://images.prom.ua/4335224755_nabor-nozhej-rainberg.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Набор ножей Rainberg RB-8806 на 8 предметов с ножницами + подставка Черный</name>
+        <vendor>Rainberg</vendor>
+        <vendorCode>1790390931</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Описание Набор ножей Rainberg RB-8806 на 8 предметов с ножницами + подставка Черный 
+
+Набор ножей с подставкой - полезный предмет для вашей кухни. Он включает в себя все необходимые виды ножей, ножницы и мусат. Все предметы изготовлены из качественной нержавеющей стали. Рукоятки ножей, сделаны из нержавеющей стали и бакелита. Вращающаяся подставка изготовлена из нержавеющей стали и акрила.
+
+
+	Нож-топорик с широким лезвием предназначен для разрезания мяса.
+	Универсальный нож нарезает овощи, фрукты, сыр и другие продукты.
+	Многофункциональный поварской нож используется для нарезки и обработки мяса и рыбы.
+	Овощной нож для нарезки и чистки имеет небольшое лезвие.
+	Кухонные ножницы нужны для разрезания птицы и рыбы, нарезки зелени.
+	Мусат - инструмент для редактирования лезвия ножа. Для восстановления режущей кромки нужно провести лезвием вдоль мусата.
+	Удобная акриловая подставка надежно и компактно сохраняет ножи. Все ножи можно мыть в посудомоечной машине. После мытья их нужно тщательно высушить.
+
+</description>
+        <param name="Материал">Нержавеющая сталь</param>
+      </offer>
+      <offer id="1790406668" available="true">
+        <url>https://aveon.net.ua/p1790406668-parfyumirovannyj-krem-dlya.html</url>
+        <oldprice>270</oldprice>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4335287565_parfyumirovannyj-krem-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4335287648_parfyumirovannyj-krem-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4335287647_parfyumirovannyj-krem-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Парфюмированный крем для тела и бальзам для губ HOLLYSKIN</name>
+        <vendor>HOLLYSKIN</vendor>
+        <vendorCode>1790406668</vendorCode>
+        <description>Парфюмированный крем для тела Pink chocolate 30 ml.
+
+Способ применения
+
+
+	Нанести крем на чистое тело или руки нежными массирующими движениями
+
+
+Бальзам для губ Cola lip balm 7 ml.
+
+Способ применения
+
+
+	Небольшое количество бальзама распределите на поверхности губ
+
+</description>
+        <param name="Тип кожи">Все типы кожи</param>
+        <param name="Тип средства">Бальзам</param>
+      </offer>
+      <offer id="1790419055" available="true">
+        <url>https://aveon.net.ua/p1790419055-ochischayuschij-muss-penka.html</url>
+        <oldprice>375</oldprice>
+        <price>225</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4335337464_ochischayuschij-muss-penka-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4335337465_ochischayuschij-muss-penka-dlya.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Очищающий мусс-пенка для умывания с аминокислотами LUOFMISS Sakura Amino Acid Mousse Cleanser</name>
+        <vendor>Luofmiss</vendor>
+        <vendorCode>1790419055</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Очищающий мусс-пенка для умывания с аминокислотами LUOFMISS Sakura Amino Acid Mousse Cleanser
+
+ 
+
+Очищающий мусс-пенка для умывания  с аминокислотами  Sakura  делает кожу гладкой и нежной.
+
+Пенка для глубокого очищения кожи с аминокислотами, помогает эффективно удалять омертвевшие клетки кожи, макияж и другие загрязнения.  Пенка глубоко очищает поры, сужая их, насыщает кожу влагой после каждого применения. Улучшает кровообращение и микроциркуляцию, возвращая здоровый цвет лица.                                                                                                       
+
+Преимущества использования аминокислот: увлажняют кожу, восстанавливают защитный барьер кожи, способствуют регенерации тканей, улучшают состояние сухой кожи, обеспечивают антиоксидантную защиту. Залог красивой и здоровой кожи - это правильный ежедневный уход каждое утро и вечер.      
+
+
+
+Способ применения:
+
+1. Умойте лицо теплой водой.
+
+2. Нажмите спрей до появления пены.
+
+3. Умойте лицо теплой водой, чтобы на лице не оставалась пенка.
+</description>
+      </offer>
+      <offer id="1790429081" available="true">
+        <url>https://aveon.net.ua/p1790429081-duhi-zhenskie-moschino.html</url>
+        <oldprice>600</oldprice>
+        <price>450</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30014688</categoryId>
+        <picture>https://images.prom.ua/4335364265_duhi-zhenskie-moschino.jpg</picture>
+        <picture>https://images.prom.ua/4335364262_duhi-zhenskie-moschino.jpg</picture>
+        <picture>https://images.prom.ua/4335364263_duhi-zhenskie-moschino.jpg</picture>
+        <picture>https://images.prom.ua/4335364266_duhi-zhenskie-moschino.jpg</picture>
+        <picture>https://images.prom.ua/4335364267_duhi-zhenskie-moschino.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Духи женские Moschino FUNNY 100 ml цветочный фруктовый нежный</name>
+        <vendorCode>1790429081</vendorCode>
+        <description>Гениальный художник-парфюмер Moschino сочинил новую картину под названием Funny. На белой глади полотна художник изобразил бесконтрольное веселье, искреннюю, ослепительную улыбку и поднятые, настоящие чувства. Он украсил полотно ярко-фруктовой акварелью и посвятил его молодой, веселой, грациозной леди. Верхняя часть ароматической композиции вдохновляет сочный и сладкий запах спелого апельсина, смешанного с красной смородиной. Пикантная искорка розового перца венчает входящий аккорд. В «сердце» творения вас ждет тепло зеленого чая и жасмина, переплетенных с несколькими красочными лепестками пиона. Кульминация парфюмерного творения обещает быть незабываемой и крепкой. В вашем сердце появляется яркий свет настоящих чувств, очаровывающий кедровым деревом и мягким мхом.
+
+
+	Тип аромата: цветочные, фруктовые
+	Начальная нота: Апельсин, Розовый перец, Красная смородина
+	Нота сердца: Жасмин, Зеленый чай, Пион
+	Конечная нота: янтарь, Кедровое дерево, Мох
+
+
+ 
+</description>
+        <param name="Вид парфюмерной продукции">Духи</param>
+        <param name="Начальная нота">Апельсин|Розовый перец|Красная смородина</param>
+        <param name="Конечная нота">Янтарь|Кедр|Мох</param>
+      </offer>
+      <offer id="1790830027" available="true">
+        <url>https://aveon.net.ua/p1790830027-dush-turisticheskij-camp.html</url>
+        <oldprice>480</oldprice>
+        <price>330</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>30017047</categoryId>
+        <picture>https://images.prom.ua/4336754440_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754428_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754427_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754426_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754430_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754431_dush-turisticheskij-camp.jpg</picture>
+        <picture>https://images.prom.ua/4336754433_dush-turisticheskij-camp.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Душ туристический Camp Shower производный переносной дачный на 20 л</name>
+        <vendorCode>1790830027</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Производный/дачный душ Camp Shower 20 литров
+
+Отдых на природе вдали от цивилизации помогает нам расслабиться, снять накопившиеся городской жизнью стрессы, пополнить силы и достичь душевного равновесия. Но нам так трудно даже на несколько дней отказаться от привычных благ цивилизации, особенно гигиенических процедур. Каждый, кто хоть раз в жизни отдыхал «дикарем», знает, что неприятное в таком отдыхе – это то, что нет возможности нормально вымыться. Но решить эту проблему сейчас достаточно просто. В нашем интернет магазине появился дорожный душ Camp Shower, благодаря которому вы всегда сможете освежиться, даже находясь в сотнях километров от цивилизации.
+
+Конструкция производного душа
+
+Душ для похода состоит из пластиковой емкости объемом 20 литров и распылителя струи. Количество воды равного 20 литрам хватит на 10 минут непрерывной работы. Если использовать воду экономно, то помыться может не один, а несколько человек.
+
+
+
+Емкость оборудована надежной ручкой, за которую ее можно подвесить на обычную ветку или сук на дереве.
+
+
+
+Походный душ «готов» к любым «приключениям». Он изготовлен из прочного материала и имеет надежные швы, поэтому не расползется и не проколется где-нибудь в лесу, когда потребуется. В сложенном виде изделие свободно помещается в любую сумку или пакет, а весит оно всего 250 г, поэтому не утяжелит ваш фафельф, даже если вы берете его в длительный пеший поход.
+
+Удобство использования дорожного душа
+
+Кемпинговый душ позволит соблюдать гигиенические процедуры ежедневно без наличия электричества и водопровода. Он пригодится вам:
+
+
+	при выезде на природу за город;
+	в длительном путешествии;
+	во время отдыха «дикарем»;
+	на даче.
+
+
+ 
+
+Для того чтоб искупаться, просто нужно заполнить резервуар водой и поместить его на нужную высоту. Если вы любите теплую воду, то подвесьте дачный душ на солнечном месте, потом до принятия процедуры. Резервуар специально сделан в темном цвете для лучшего прогревания от солнца.
+
+Характеристики:
+
+
+	Максимальная температура воды: 50°C;
+	Материал: крепкий ПВХ;
+	Размеры: 41x60 см;
+	Объем: 20 л;
+	Вес: 250 г. ​​​​​​​
+
+
+Комплектация :
+
+
+	Емкость для воды;
+	Шланг с распылителем воды (66 см);
+	Шнур с крюком для подвешивания;
+	Пластиковая трубка жесткости для распылителя;
+
+</description>
+        <param name="Особенности душа">Ножной</param>
+        <param name="Объем" unit="л">20</param>
+        <param name="Состояние">Новое</param>
+        <param name="Материал">ПВХ</param>
       </offer>
     </offers>
   </shop>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-03-13T22:16:03+03:00">
+<yml_catalog date="2023-03-14T20:34:16+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -3357,7 +3357,7 @@ Costa D'Oro ЭКСТРА - оливковое масло высшего каче
         <picture>https://static.tildacdn.com/tild6265-6339-4864-a361-666166363636/kokos_kub.png</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-851728370841-kokos-tsukati-kubik-1kg</url>
         <count>9999</count>
-        <price>482.00</price>
+        <price>499.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
@@ -9245,7 +9245,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild3439-3835-4464-a435-363832653266/0a0b5dd30662576b70b4.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-393628140931-tsukati-miks-kubiki?editionuid=999024166131</url>
         <count>9999</count>
-        <price>278.00</price>
+        <price>285.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
@@ -11372,7 +11372,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild3262-3131-4437-a633-376363343838/markov-po-karejski.jpg</picture>
         <url>https://smartfood.org.ua/pickles/tproduct/320931048-959808752761-morkovka-po-koreiski?editionuid=264094372061</url>
         <count>9999</count>
-        <price>89.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>152485699881</categoryId>
         <weight>1</weight>
@@ -11392,7 +11392,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild3262-3131-4437-a633-376363343838/markov-po-karejski.jpg</picture>
         <url>https://smartfood.org.ua/pickles/tproduct/320931048-959808752761-morkovka-po-koreiski?editionuid=410936749441</url>
         <count>9999</count>
-        <price>249.00</price>
+        <price>269.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>152485699881</categoryId>
         <weight>3</weight>
@@ -14634,7 +14634,7 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <picture>https://static.tildacdn.com/tild3638-3835-4535-a333-393065313761/rahat-lukum-kubiki-m.jpg</picture>
         <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-706935611991-rahat-lukum-kubik-miks15kg</url>
         <count>9999</count>
-        <price>225.00</price>
+        <price>349.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>287161144321</categoryId>
         <weight>1.5</weight>
@@ -16839,6 +16839,25 @@ Mozartkugeln от Reichsgraf Edelmarzipan – это манящие своим �
         <categoryId>444943533321</categoryId>
         <weight>0.3</weight>
         <param name="Производитель">Австрия</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="537619236861" available="true">
+        <name>Кубики сыра в оливковом масле Milbona 375г</name>
+        <vendor>Milbona</vendor>
+        <vendorCode>537619</vendorCode>
+        <description><![CDATA[
+
+Кубики сыра в оливковом масле Milbona в оливковом масле с зеленью 375гр. из Германии
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3131-6165-4130-b762-386237626633/129003_1.jpg</picture>
+        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-537619236861-kubiki-sira-v-olivkovom-masle-milbona-37</url>
+        <count>9999</count>
+        <price>249.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>443169019671</categoryId>
+        <weight>0.375</weight>
+        <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
       <offer id="500136598861" available="true">
@@ -20910,7 +20929,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3063-6666-4038-b064-613861386435/images644x461.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-620967501221-tsukati-miks-kubiki-melkie-1-kg</url>
         <count>9999</count>
-        <price>229.00</price>
+        <price>249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
@@ -21324,7 +21343,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6338-6231-4164-b534-656264336365/perchiki-mini-farshi.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-115658895121-perets-cherri-farshirovannii-sirom-yunus</url>
         <count>9999</count>
-        <price>145.00</price>
+        <price>165.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.29</weight>
@@ -21344,7 +21363,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6536-6338-4565-b233-653061356264/3143440852_w300_h300.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-827858262821-perets-zheltii-farshirovannii-sirom-yunu</url>
         <count>9999</count>
-        <price>149.00</price>
+        <price>165.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.29</weight>
@@ -21364,7 +21383,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6539-3437-4636-b165-616463376231/177902634.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-515306940501-olivki-farshirovannie-sirom-yunus-290g</url>
         <count>9999</count>
-        <price>149.00</price>
+        <price>165.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.19</weight>
@@ -21384,7 +21403,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6639-3138-4430-b133-636134313961/177902633.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-543669760051-maslini-farshirovannie-sirom-yunus-290g</url>
         <count>9999</count>
-        <price>145.00</price>
+        <price>165.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.29</weight>
@@ -26834,6 +26853,82 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <weight>0.2</weight>
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
+      </offer>
+      <offer id="992557105741" available="true">
+        <name>Посыпка кондитерская для пасхи 1кг.</name>
+        <vendor>Украса</vendor>
+        <vendorCode>992557</vendorCode>
+        <description><![CDATA[
+
+Сахарная декоративная посыпка - это сладкое кондитерское украшение для декорирования различных кондитерских изделий - тортов, пирожных, печенья, желе, мороженого и других всевозможных десертов.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6139-3864-4662-b338-653733303861/66414089.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-992557105741-posipka-konditerskaya-dlya-pashi-1kg</url>
+        <count>9999</count>
+        <price>139.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>1</weight>
+        <quantity>100</quantity>
+        <param name="Дистриб'ютор">Smart Food Shop</param>
+      </offer>
+      <offer id="580702518781" available="true">
+        <name>Посыпка кондитерская для пасхи 1кг.</name>
+        <vendor>Украса</vendor>
+        <vendorCode>518781</vendorCode>
+        <description><![CDATA[
+
+Сахарная декоративная посыпка - это сладкое кондитерское украшение для декорирования различных кондитерских изделий - тортов, пирожных, печенья, желе, мороженого и других всевозможных десертов.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6466-3132-4266-a230-663366353361/38189989.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-580702518781-posipka-konditerskaya-dlya-pashi-1kg</url>
+        <count>9999</count>
+        <price>139.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>1</weight>
+        <quantity>100</quantity>
+        <param name="Дистриб'ютор">Smart Food Shop</param>
+      </offer>
+      <offer id="662781215451" available="true">
+        <name>Посыпка кондитерская для пасхи 1кг.</name>
+        <vendor>Украса</vendor>
+        <vendorCode>215451</vendorCode>
+        <description><![CDATA[
+
+Сахарная декоративная посыпка - это сладкое кондитерское украшение для декорирования различных кондитерских изделий - тортов, пирожных, печенья, желе, мороженого и других всевозможных десертов.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6137-3935-4633-b331-386230643466/25709959.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-662781215451-posipka-konditerskaya-dlya-pashi-1kg</url>
+        <count>9999</count>
+        <price>139.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>1</weight>
+        <quantity>100</quantity>
+        <param name="Дистриб'ютор">Smart Food Shop</param>
+      </offer>
+      <offer id="100608413441" available="true">
+        <name>Посыпка кондитерская для пасхи 1кг.</name>
+        <vendor>Украса</vendor>
+        <vendorCode>413441</vendorCode>
+        <description><![CDATA[
+
+Сахарная декоративная посыпка - это сладкое кондитерское украшение для декорирования различных кондитерских изделий - тортов, пирожных, печенья, желе, мороженого и других всевозможных десертов.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6266-3438-4536-a533-303239383132/88162931.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-100608413441-posipka-konditerskaya-dlya-pashi-1kg</url>
+        <count>9999</count>
+        <price>139.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>1</weight>
+        <quantity>100</quantity>
+        <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
     </offers>
   </shop>
