@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-03-14T20:34:16+03:00">
+<yml_catalog date="2023-03-17T02:49:02+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -653,7 +653,7 @@
         <picture>https://static.tildacdn.com/tild6135-6637-4335-a333-336333636263/yadro_kedra-500x500.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-603659820731-kedrovii-oreh-ochischennii?editionuid=307797719391</url>
         <count>9999</count>
-        <price>1245.00</price>
+        <price>879.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -673,7 +673,7 @@
         <picture>https://static.tildacdn.com/tild6135-6637-4335-a333-336333636263/yadro_kedra-500x500.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-603659820731-kedrovii-oreh-ochischennii?editionuid=317305176871</url>
         <count>9999</count>
-        <price>2399.00</price>
+        <price>1849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -9254,6 +9254,46 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
+      <offer id="938805637441" group_id="442054103841" available="true">
+        <name>Памело сушеное (цукат) - 500г</name>
+        <vendorCode>938805</vendorCode>
+        <description><![CDATA[
+
+<br />Цитрусовый фрукт помело известен высоким содержанием необходимых минералов. Калий, кальций, фосфор, магний, натрий, железо запустит внутренние обменные процессы в организме.<br /><br />Полезные свойства:<br /> <ul> <li> помогает организму восполнить недостачу витаминов в зимнее время </li> <li> способствует кроветворению, улучшает кровоток, нормализует давление, очищает сосуды </li> <li> благодаря высокому содержанию калия улучшает работу сердца, препятствует инфарктам </li> <li> активизирует работу мозга, тонизирует и бодрит, улучшает работоспособность в целом </li> <li> укрепляет нервы, помогает бороться с бессонницей, снижает тревожность и раздражительность </li> <li> повышает иммунитет, создает профилактику вирусам и простудам </li> <li> улучшает обмен веществ, способствует очищению организма и здоровому похудению </li></ul>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3962-6139-4634-b632-373164643038/sushenyj-polza-i-vre.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-442054103841-pamelo-sushenoe-tsukat?editionuid=938805637441</url>
+        <count>9999</count>
+        <price>199.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Таиланд</param>
+        <param name="Фасовка">500г</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="112281173401" group_id="442054103841" available="true">
+        <name>Памело сушеное (цукат) - 1кг</name>
+        <vendorCode>112281</vendorCode>
+        <description><![CDATA[
+
+<br />Цитрусовый фрукт помело известен высоким содержанием необходимых минералов. Калий, кальций, фосфор, магний, натрий, железо запустит внутренние обменные процессы в организме.<br /><br />Полезные свойства:<br /> <ul> <li> помогает организму восполнить недостачу витаминов в зимнее время </li> <li> способствует кроветворению, улучшает кровоток, нормализует давление, очищает сосуды </li> <li> благодаря высокому содержанию калия улучшает работу сердца, препятствует инфарктам </li> <li> активизирует работу мозга, тонизирует и бодрит, улучшает работоспособность в целом </li> <li> укрепляет нервы, помогает бороться с бессонницей, снижает тревожность и раздражительность </li> <li> повышает иммунитет, создает профилактику вирусам и простудам </li> <li> улучшает обмен веществ, способствует очищению организма и здоровому похудению </li></ul>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3962-6139-4634-b632-373164643038/sushenyj-polza-i-vre.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-442054103841-pamelo-sushenoe-tsukat?editionuid=112281173401</url>
+        <count>9999</count>
+        <price>375.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Таиланд</param>
+        <param name="Фасовка">1кг</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
       <offer id="500982612261" group_id="691827317631" available="true">
         <name>Яблоко зелёное вяленое/сушеное, цукат - 1кг</name>
         <vendorCode>500982</vendorCode>
@@ -9432,46 +9472,6 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="574902565971" group_id="373269184061" available="true">
-        <name>Миндаль в скорлупе - 1кг</name>
-        <vendorCode>574902</vendorCode>
-        <description><![CDATA[
-
-Миндаль — орех, польза которого при регулярном употреблении заключается в: выводе из почек песка и желчи; стабилизации функционирования жизненно важного органа — печени; очистке крови. <br /><br /> Миндаль также обладает такими полезными свойствами, как: <br /><br /> <ul> <li> улучшение мозговых функций; </li> <li> помощь в борьбе с бессонницей; </li> <li> укрепление иммунной системы; </li> <li> обеспечение бодрости и силы; </li> <li> облегчение тяжелого состояния при бронхиальной астме, а также пневмонии. </li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3162-3565-4062-a262-333832613438/mindaly-v-skorlupe-s.jpeg</picture>
-        <url>https://smartfood.org.ua/nuts/tproduct/320926945-373269184061-mindal-v-skorlupe?editionuid=574902565971</url>
-        <count>9999</count>
-        <price>572.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>866426313361</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Узбекистан</param>
-        <param name="Фасовка">1кг</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="938208816061" group_id="373269184061" available="true">
-        <name>Миндаль в скорлупе - 500г</name>
-        <vendorCode>938208</vendorCode>
-        <description><![CDATA[
-
-Миндаль — орех, польза которого при регулярном употреблении заключается в: выводе из почек песка и желчи; стабилизации функционирования жизненно важного органа — печени; очистке крови. <br /><br /> Миндаль также обладает такими полезными свойствами, как: <br /><br /> <ul> <li> улучшение мозговых функций; </li> <li> помощь в борьбе с бессонницей; </li> <li> укрепление иммунной системы; </li> <li> обеспечение бодрости и силы; </li> <li> облегчение тяжелого состояния при бронхиальной астме, а также пневмонии. </li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3162-3565-4062-a262-333832613438/mindaly-v-skorlupe-s.jpeg</picture>
-        <url>https://smartfood.org.ua/nuts/tproduct/320926945-373269184061-mindal-v-skorlupe?editionuid=938208816061</url>
-        <count>9999</count>
-        <price>290.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>866426313361</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Узбекистан</param>
-        <param name="Фасовка">500г</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
       <offer id="943474816661" available="true">
         <name>Чай с лесными фруктами Loyd Forest Fruit 20 пирамидок Польша</name>
         <vendor>Loyd</vendor>
@@ -9492,6 +9492,29 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <param name="Форма">в пирамидках</param>
         <param name="Упаковка">Пачка</param>
         <param name="Количество в упаковке">20 шт.</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="966454801121" available="true">
+        <name>Чай черный Remsey Earl Grey strong (крепкий) Польша 75 пакетиков 131г</name>
+        <vendor>Remsey</vendor>
+        <vendorCode>966454</vendorCode>
+        <description><![CDATA[
+
+Чай Ramsey черный крепкий с бергамотом, 75 пакетиков с ярлычками, отличного по своим вкусовым качествам и настоящего насыщенного ароматом чая, упакованы в стильной с завлекающим оформлением коробке. Ароматный, слегка пряный чай с бергамотом отличается особенным, изысканным и нежным вкусом, помогает снимать усталость, избавиться от стресса и от последствий напряжения. 131,25 грамма отборнейшего чая, выращеного на плантациях Кении и Шри Ланки, составляет 100 % смесей чайных листьев<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3939-6266-4365-b831-316231343064/remseyerg-280x280.jpg</picture>
+        <url>https://smartfood.org.ua/tea/tproduct/320929632-966454801121-chai-chernii-remsey-earl-grey-strong-kre</url>
+        <count>9999</count>
+        <price>116.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>516822319031</categoryId>
+        <weight>0.131</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Форма">В пакетиках</param>
+        <param name="Упаковка">Пачка</param>
+        <param name="Тип">Черный чай</param>
+        <param name="Количество в упаковке">75 шт.</param>
         <quantity>100</quantity>
       </offer>
       <offer id="399593222601" available="true">
@@ -11166,6 +11189,25 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
+      <offer id="824721124141" available="true">
+        <name>Крем-сыр Philadelphia Milka 175г</name>
+        <vendor>Philadelphia</vendor>
+        <vendorCode>824721</vendorCode>
+        <description><![CDATA[
+
+Сыр мягкий Филадельфия Milka<br /> Крем сыр популярный на рынке из-за своего премиум качества. <br />Упаковки по 175 грамм отличный объем для домашней кухни на несколько дней.<br /> Используют для приготовления бутербродов или сэндвичей, а также для приготовления многих блюд.<br />Если вы хотите попробовать очень легкий крем-сыр с невероятным вкусом, тогда этот товар точно вам понравится. Добавление в него шоколада придало ему особую вкусовую палитру. <br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3161-6631-4336-a163-623339313865/2991372325_w700_h500.jpg</picture>
+        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-824721124141-krem-sir-philadelphia-milka-175g</url>
+        <count>9999</count>
+        <price>108.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>443169019671</categoryId>
+        <weight>0.175</weight>
+        <param name="Производитель">Польша</param>
+        <quantity>100</quantity>
+      </offer>
       <offer id="646227535041" available="true">
         <name>Арахисовая паста Peanut Butter Crunchy Gina 350г</name>
         <vendor>Gina</vendor>
@@ -11240,6 +11282,44 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-657585106061-sous-madero-sos-hamburger-410g</url>
         <count>9999</count>
         <price>79.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441079117491</categoryId>
+        <weight>0.41</weight>
+        <param name="Производитель">Польша</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="524613933341" available="true">
+        <name>Соус Madero SOS 1000 WYSP 410г</name>
+        <vendor>Madero</vendor>
+        <vendorCode>524613</vendorCode>
+        <description><![CDATA[
+
+Соус Madero 1000 WYSP выпущен в Польше. Этот соус идеален для рыбных блюд и морепродуктов. <br />Он сделан на основе маложирного майонеза, томата, паприки и ненавязчивых специй. Не содержит химических консервантов, пигментов и отдушек. В 100 г соуса находится всего 271 ккал (1122 кДж), а одна порция в 15 г состоит всего из 41 ккал (163 кДж). <br /> 100 г продукта: 0,7 г белков, 25 г жиров, 11 г углеводов.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6264-6332-4162-b164-333337356661/2148879738_sous-made.jpg</picture>
+        <url>https://smartfood.org.ua/sauces/tproduct/320928537-524613933341-sous-madero-sos-1000-wysp-410g</url>
+        <count>9999</count>
+        <price>75.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441079117491</categoryId>
+        <weight>0.41</weight>
+        <param name="Производитель">Польша</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="476193685321" available="true">
+        <name>Соус салатный Madero Цезарь 410г</name>
+        <vendor>Madero</vendor>
+        <vendorCode>476194</vendorCode>
+        <description><![CDATA[
+
+Соус Салатный Цезарь Madero Sos Cezar —#nbsp;Изысканный классический вкус и легкая текстура. С соусом Цезарь вы сможете приготовить шедевр мировой кухни без лишних усилий.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6434-3664-4238-b161-653131366333/sous-salatnyj-cezar-.jpg</picture>
+        <url>https://smartfood.org.ua/sauces/tproduct/320928537-476193685321-sous-salatnii-madero-tsezar-410g</url>
+        <count>9999</count>
+        <price>75.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.41</weight>
@@ -14828,7 +14908,7 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <picture>https://static.tildacdn.com/tild3463-3535-4263-b039-373236656636/3323989785_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-189491768351-persik-sushenii-vyalenii-tsukat-bez-saha</url>
         <count>9999</count>
-        <price>220.00</price>
+        <price>249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>0.5</weight>
@@ -15515,7 +15595,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild6262-3432-4463-a166-376331623432/403.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-740595760131-semga-sushenayavyalenaya-snek-k-pivu-05k</url>
         <count>9999</count>
-        <price>649.00</price>
+        <price>449.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -15766,7 +15846,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild6330-6437-4461-a630-333036633632/2989046416_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-125353934401-spinka-treski-vyalenaya-sushenaya-snek-k</url>
         <count>9999</count>
-        <price>787.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -16775,7 +16855,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild6439-6461-4062-b434-366134393431/mango-lomtikami-v-le.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-979438427391-mango-lomtikami-v-legkom-sirope-mampk-42</url>
         <count>9999</count>
-        <price>90.00</price>
+        <price>89.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.425</weight>
@@ -16795,7 +16875,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3162-6365-4563-a539-396431663839/177875641.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-267045725831-persik-polovinkami-v-legkom-sirope-mampk</url>
         <count>9999</count>
-        <price>94.00</price>
+        <price>115.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.85</weight>
@@ -16985,7 +17065,7 @@ Mozartkugeln от Reichsgraf Edelmarzipan – это манящие своим �
         <picture>https://static.tildacdn.com/tild6663-6563-4630-b030-613038303533/6041706806.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-378578738981-utinoe-myaso-po-pekinski-vyalenoe-myasni?editionuid=999585993601</url>
         <count>9999</count>
-        <price>871.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17005,7 +17085,7 @@ Mozartkugeln от Reichsgraf Edelmarzipan – это манящие своим �
         <picture>https://static.tildacdn.com/tild6663-6563-4630-b030-613038303533/6041706806.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-378578738981-utinoe-myaso-po-pekinski-vyalenoe-myasni?editionuid=914508892271</url>
         <count>9999</count>
-        <price>440.00</price>
+        <price>429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -17025,7 +17105,7 @@ Mozartkugeln от Reichsgraf Edelmarzipan – это манящие своим �
         <picture>https://static.tildacdn.com/tild3930-3737-4735-a134-383133643832/tm4VSBNp4trXk4XU66xa.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-426162677571-putassu-soleno-sushenaya-1kg</url>
         <count>9999</count>
-        <price>892.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17044,7 +17124,7 @@ Mozartkugeln от Reichsgraf Edelmarzipan – это манящие своим �
         <picture>https://static.tildacdn.com/tild3139-6233-4632-a631-386631383639/00869996n_1_600x600.png</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-122608389781-putassu-s-pertsem-soleno-sushenaya-1kg</url>
         <count>9999</count>
-        <price>892.00</price>
+        <price>875.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -18653,6 +18733,44 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
+      <offer id="747644231321" available="true">
+        <name>Соус салатный ТМ Madero Salatkowy (горчично-огуречный) 410г</name>
+        <vendor>Madero</vendor>
+        <vendorCode>747644</vendorCode>
+        <description><![CDATA[
+
+Соус Салатный Madero Sos Salatkowy 410g&nbsp;—&nbsp;изготовлен по традиционному тосканскому рецепту с добавлением высококачественного растительного масла и приправленный специями и ароматными травами – орегано, тимьяном, базиликом, горчицы и огурца!<br /><br />Дополните свои блюда оригинальным соусами Madero! Madero подходит к жареному мясу и рыбе, а также приготовленным на гриле блюдам и к многому другому. Он обогатит вкус и придаст сочность каждому блюду. Ваша семья по достоинству оценит добавление этого великолепного соуса к традиционной пище.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6130-3436-4438-b836-393066643035/sous-salatnyj-madero.jpg</picture>
+        <url>https://smartfood.org.ua/sauces/tproduct/320928537-747644231321-sous-salatnii-tm-madero-salatkowy-gorchi</url>
+        <count>9999</count>
+        <price>75.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441079117491</categoryId>
+        <weight>0.41</weight>
+        <param name="Производитель">Польша</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="718834870011" available="true">
+        <name>Соус Салатный Madero Sos Sezamowy (Сезамовый) 380 г</name>
+        <vendor>Madero</vendor>
+        <vendorCode>718834</vendorCode>
+        <description><![CDATA[
+
+Соус Салатный Madero Sos Sezamowy 410g&nbsp;—&nbsp;Кунжутный соус. Один из лучший вкусов Madero. Содержит настоящие семена, и имеет интригующий сладко-горький привкус.<br /><br />Дополните свои блюда оригинальным соусами Madero! Madero подходит к жареному мясу и рыбе, а также приготовленным на гриле блюдам и к многому другому. Он обогатит вкус и придаст сочность каждому блюду. Ваша семья по достоинству оценит добавление этого великолепного соуса к традиционной пище.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6265-3138-4131-b465-333162613937/sous-salatnyj-madero.jpg</picture>
+        <url>https://smartfood.org.ua/sauces/tproduct/320928537-718834870011-sous-salatnii-madero-sos-sezamowy-sezamo</url>
+        <count>9999</count>
+        <price>75.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441079117491</categoryId>
+        <weight>0.38</weight>
+        <param name="Производитель">Польша</param>
+        <quantity>100</quantity>
+      </offer>
       <offer id="627459195661" available="true">
         <name>Кетчуп Madero Pikantny (Пикантный) 560г</name>
         <vendor>Madero</vendor>
@@ -19234,7 +19352,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3933-6639-4462-b735-326236656231/Semena-Chia-Chernoe-.jpg</picture>
         <url>https://smartfood.org.ua/flour-cereals/tproduct/320929810-414495483881-semena-chia-chernie-1-kg</url>
         <count>9999</count>
-        <price>269.00</price>
+        <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>188559425471</categoryId>
         <weight>1</weight>
@@ -19253,7 +19371,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild6461-3430-4263-b561-356130656461/semena-chia-beliye.jpg</picture>
         <url>https://smartfood.org.ua/flour-cereals/tproduct/320929810-508657344151-semena-chia-belie-1-kg</url>
         <count>9999</count>
-        <price>239.00</price>
+        <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>188559425471</categoryId>
         <weight>1</weight>
@@ -19976,7 +20094,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild6138-3961-4333-b235-313236656566/500x500D182D180D0B5D.jpeg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-978016173171-treska-vyalenaya-polosi-sushenaya-snek-k</url>
         <count>9999</count>
-        <price>709.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -19995,7 +20113,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild6337-6430-4833-b362-643339656565/0609201904__nazvanij.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-911906675901-treska-vyalenaya-po-shanhaiski-sushenaya</url>
         <count>9999</count>
-        <price>787.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -20138,46 +20256,6 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
         <param name="Производитель">Австралия</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="117856611401" group_id="767057727791" available="true">
-        <name>Орех Пекан не очищенный в скорлупе - 500г.</name>
-        <vendor>Amanti</vendor>
-        <vendorCode>767058</vendorCode>
-        <description><![CDATA[
-
-Орех Пекан#nbsp;—#nbsp;родиной этого ореха является Северная Америка. Известны такие его названия как Кария иллинойская или Гикори пекан. В данное время это растение произрастает также в Средней Азии, на Кавказе, в Украине (в Крыму) и в Австралии. Орех пекан своей цилиндрической формой напоминает маслины, а очищенный от скорлупы плод ореха схож на ближайшего «родственника» - грецкий орех, при этом перегородки внутри скорлупы практически отсутствуют.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6338-6631-4337-b734-656439666635/pekan-neochishhenyj.jpg</picture>
-        <url>https://smartfood.org.ua/nuts/tproduct/320926945-767057727791-oreh-pekan-ne-ochischennii-v-skorlupe?editionuid=117856611401</url>
-        <count>9999</count>
-        <price>413.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>866426313361</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Австралия</param>
-        <param name="Фасовка">500г.</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="854608255161" group_id="767057727791" available="true">
-        <name>Орех Пекан не очищенный в скорлупе - 1кг.</name>
-        <vendor>Amanti</vendor>
-        <vendorCode>767059</vendorCode>
-        <description><![CDATA[
-
-Орех Пекан#nbsp;—#nbsp;родиной этого ореха является Северная Америка. Известны такие его названия как Кария иллинойская или Гикори пекан. В данное время это растение произрастает также в Средней Азии, на Кавказе, в Украине (в Крыму) и в Австралии. Орех пекан своей цилиндрической формой напоминает маслины, а очищенный от скорлупы плод ореха схож на ближайшего «родственника» - грецкий орех, при этом перегородки внутри скорлупы практически отсутствуют.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6338-6631-4337-b734-656439666635/pekan-neochishhenyj.jpg</picture>
-        <url>https://smartfood.org.ua/nuts/tproduct/320926945-767057727791-oreh-pekan-ne-ochischennii-v-skorlupe?editionuid=854608255161</url>
-        <count>9999</count>
-        <price>825.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>866426313361</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Австралия</param>
-        <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
       <offer id="307630019221" available="true">
@@ -21198,6 +21276,26 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
+      <offer id="217411465571" available="true">
+        <name>Кленовый Сироп Maribel Organic Syrop органический 189 мл.</name>
+        <vendorCode>217411</vendorCode>
+        <description><![CDATA[
+
+Maribel Bio Organic Syrop Klonowy&nbsp;-&nbsp;это натуральный&nbsp;сироп из Канады, который готовится путем выпаривания кленового сока без добавления загустителей.&nbsp;<br />Кленовый сироп&nbsp;- это прекрасная альтернатива меду, он гипоаллергенен&nbsp;и не теряет своих свойств при термообработке. Что делает его идеальным для приготовления различных блюд.&nbsp;<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3864-3339-4164-a265-383230623531/klenovyj-sirop-marib.jpg</picture>
+        <url>https://smartfood.org.ua/drinks/tproduct/320930595-217411465571-klenovii-sirop-maribel-organic-syrop-org</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>635698216721</categoryId>
+        <weight>0.189</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Упаковка">Стеклянная бутылка</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
       <offer id="807149008571" available="true">
         <name>Пахлава Cарма с волосским орехом и фисташкой Amanti 1кг.​​</name>
         <vendor>Amanti</vendor>
@@ -21530,6 +21628,48 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <param name="Фасовка">1кг</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="817010134021" group_id="272548240061" available="true">
+        <name>Сыр Сметанковый безлактозный ТМ Sierpc 50% - 500г</name>
+        <vendor>Sierpc</vendor>
+        <vendorCode>2725482</vendorCode>
+        <description><![CDATA[
+
+Сыр твёрдый Sierpc Ser Smietankowy – твердый сыр из коровьего молока с превосходным сливочным вкусом. У оригинального сыра бледно-желтый цвет и пластичная нежная, благородная текстура.<br />Достаточно жирный сыр, квадратной формы, идеально доходит для канапе и в качестве нарезки.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3065-3735-4338-b561-393762396265/41464.jpg</picture>
+        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-272548240061-sir-smetankovii-bezlaktoznii-tm-sierpc-5?editionuid=817010134021</url>
+        <count>9999</count>
+        <price>195.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>443169019671</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Упаковка">Вакуумный пакет</param>
+        <param name="Фасовка">500г</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="980875245501" group_id="272548240061" available="true">
+        <name>Сыр Сметанковый безлактозный ТМ Sierpc 50% - 1кг.</name>
+        <vendor>Sierpc</vendor>
+        <vendorCode>2725481</vendorCode>
+        <description><![CDATA[
+
+Сыр твёрдый Sierpc Ser Smietankowy – твердый сыр из коровьего молока с превосходным сливочным вкусом. У оригинального сыра бледно-желтый цвет и пластичная нежная, благородная текстура.<br />Достаточно жирный сыр, квадратной формы, идеально доходит для канапе и в качестве нарезки.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3065-3735-4338-b561-393762396265/41464.jpg</picture>
+        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-272548240061-sir-smetankovii-bezlaktoznii-tm-sierpc-5?editionuid=980875245501</url>
+        <count>9999</count>
+        <price>399.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>443169019671</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Упаковка">Вакуумный пакет</param>
+        <param name="Фасовка">1кг.</param>
+        <quantity>100</quantity>
       </offer>
       <offer id="865806800591" available="true">
         <name>Чай развесной черный среднелистовой Английский завтрак 1кг.</name>
@@ -23356,7 +23496,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3730-6165-4964-b535-336537646162/2231539391_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-883231208971-palochki-iz-ikri-mintaya-sushenievyaleni?editionuid=449355848631</url>
         <count>9999</count>
-        <price>1039.00</price>
+        <price>1099.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -23376,7 +23516,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3730-6165-4964-b535-336537646162/2231539391_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-883231208971-palochki-iz-ikri-mintaya-sushenievyaleni?editionuid=821593817411</url>
         <count>9999</count>
-        <price>524.00</price>
+        <price>555.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -23396,7 +23536,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3436-3436-4936-b232-356262376164/igra-plotvy-500-g.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-821058803611-ikra-plotvi-sushenayavyalenaya-snek-k-pi?editionuid=462640016651</url>
         <count>9999</count>
-        <price>1228.00</price>
+        <price>1189.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -23416,7 +23556,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3436-3436-4936-b232-356262376164/igra-plotvy-500-g.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-821058803611-ikra-plotvi-sushenayavyalenaya-snek-k-pi?editionuid=724506278941</url>
         <count>9999</count>
-        <price>619.00</price>
+        <price>599.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -23456,7 +23596,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3862-3338-4232-b038-336138643632/item_164_1607365029_.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-301940664231-ikra-sudaka-sushenayavyalenaya-snek-k-pi?editionuid=270743966661</url>
         <count>9999</count>
-        <price>650.00</price>
+        <price>639.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -25569,7 +25709,7 @@ Pralines от известного производителя Maitre Truffout �
         <picture>https://static.tildacdn.com/tild3938-3835-4339-a332-633933336139/2102007_162213070671.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-453813145241-karpachini-iz-govyadini-500g</url>
         <count>9999</count>
-        <price>499.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -26929,6 +27069,46 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <weight>1</weight>
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
+      </offer>
+      <offer id="791145150541" group_id="598197697961" available="true">
+        <name>Икра толстолоба сушеная/вяленая, снек к пиву - 1кг.</name>
+        <vendorCode>697961</vendorCode>
+        <description><![CDATA[
+
+Икра плотвы вяленая, в вакуумной упаковке по 500грамм, хорошо подсушена, слабосоленая.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6365-6564-4739-b861-373837613430/28285124.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-598197697961-ikra-tolstoloba-sushenayavyalenaya-snek?editionuid=791145150541</url>
+        <count>9999</count>
+        <price>1189.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">1кг.</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="656899318921" group_id="598197697961" available="true">
+        <name>Икра толстолоба сушеная/вяленая, снек к пиву - 500г</name>
+        <vendorCode>697962</vendorCode>
+        <description><![CDATA[
+
+Икра плотвы вяленая, в вакуумной упаковке по 500грамм, хорошо подсушена, слабосоленая.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6365-6564-4739-b861-373837613430/28285124.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-598197697961-ikra-tolstoloba-sushenayavyalenaya-snek?editionuid=656899318921</url>
+        <count>9999</count>
+        <price>599.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">500г</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
       </offer>
     </offers>
   </shop>
