@@ -5,6 +5,7 @@ const { tldYMLLink, tldCSVLink, aveoptYMLLink } = require('../common/const')
 ;(async () => {
     const fetchNSave = async (link, path, msg) => {
         const file = await fetchFeed(link)
+        if (!file) return `Fetching Error ${link}`
         fs.writeFileSync(path, file)
         console.log(msg)
     }

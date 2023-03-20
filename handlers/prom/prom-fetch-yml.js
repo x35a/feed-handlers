@@ -13,6 +13,7 @@ const { tldYMLLink } = require('../../common/const')
 ;(async () => {
     // Get yml
     const text = await fetchFeed(tldYMLLink)
+    if (!text) return `Fetching Error ${tldYMLLink}`
 
     // Parse yml
     parser.parseString(text, function (err, result) {

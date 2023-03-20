@@ -22,6 +22,7 @@ const lastFeedPath = './handlers/aveopt/products_feed.xml'
 ;(async () => {
     // Get New Feed
     const newFeedText = await fetchFeed(aveoptYMLLink)
+    if (!newFeedText) return `Fetching Error ${aveoptYMLLink}`
     const newFeedObject = await parser.parseStringPromise(newFeedText)
     let newFeedOffers = newFeedObject.yml_catalog.shop[0].offers[0].offer
     newFeedOffers = removeOutOfStockProducts(newFeedOffers)

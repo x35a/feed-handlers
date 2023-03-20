@@ -22,6 +22,7 @@ const fetchFeed = require('../../common/fetch-feed')
 ;(async () => {
     // Get csv
     const text = await fetchFeed(tldCSVLink)
+    if (!text) return `Fetching Error ${tldCSVLink}`
 
     // Parse .csv data
     const productsList = parse(text, {
