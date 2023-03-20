@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-03-20T04:51:04+03:00">
+<yml_catalog date="2023-03-21T00:19:01+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -181,26 +181,6 @@
         <weight>0.5</weight>
         <param name="Производитель">Индия</param>
         <param name="Фасовка">500г</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="410214732571" group_id="131415586551" available="true">
-        <name>Тыквенная семечка Премиум - 1кг</name>
-        <vendorCode>410214</vendorCode>
-        <description><![CDATA[
-
-По содержанию цинка тыквенные семечки в тройке лидеров: всего 30 гр семян восполняют до 70% суточной потребности в этом микроэлементе. Так как семечки насыщенны на 30-50% тыквенным маслом, их часто употребляют люди, придерживающиеся вегетарианства или во время поста, как замену животным жирам. Тыквенные семечки давали ослабленным людям в качестве общеукрепляющего средства.<br /><br /> Калорийность на 100 грамм 542 кКал<br />Белки 25<br />Жиры 45<br />Углеводы 14
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3035-3235-4238-b466-353861373963/6149264624.jpg</picture>
-        <url>https://smartfood.org.ua/seeds/tproduct/320930816-131415586551-tikvennaya-semechka-premium?editionuid=410214732571</url>
-        <count>9999</count>
-        <price>349.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>426550774261</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
-        <param name="Фасовка">1кг</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
@@ -1191,27 +1171,6 @@ Pipe Rigate идеально сочетается с соусами из ово�
         <weight>0.5</weight>
         <param name="Производитель">Италия</param>
         <param name="Форма">Рожки</param>
-        <param name="Упаковка">Пачка</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="942916006731" available="true">
-        <name>Макароны с томатом и шпинатом Dalla Costa «Happy Pasta Sex» 500г</name>
-        <vendor>Dalla Costa</vendor>
-        <vendorCode>942916</vendorCode>
-        <description><![CDATA[
-
-«Happy Sex Pasta» с добавлением томатов и шпината от Dalla Costa — это настоящие итальянские макароны с неповторимым вкусом для тех, кто любит разнообразие и оригинальность)<br />Удивите своих близких и знакомых!!!
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6664-6465-4135-a637-363062383337/makarony-dalla-costa.jpg</picture>
-        <url>https://smartfood.org.ua/pasta/tproduct/320928224-942916006731-makaroni-s-tomatom-i-shpinatom-dalla-cos</url>
-        <count>9999</count>
-        <price>119.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>910272790511</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Форма">Фигурки</param>
         <param name="Упаковка">Пачка</param>
         <quantity>100</quantity>
       </offer>
@@ -14125,26 +14084,6 @@ Madero Sos Steak house - Cлегка пикантный соус. Он идеа�
         <param name="Упаковка">Стеклянная банка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="288635117131" available="true">
-        <name>Майонез HELLMANNS ORIGINAL 625г</name>
-        <vendor>Hellmanns</vendor>
-        <vendorCode>288635</vendorCode>
-        <description><![CDATA[
-
-Майонез Хеллманс Оригинал – изготовлен на яичных желтках, в нем отсутствуют вредные консерванты. попробуй и сразу оцени его неповторимый вкус. <br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6666-6539-4132-b961-306131333835/1653088981_w640_h640.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-288635117131-maionez-hellmanns-original-625g</url>
-        <count>9999</count>
-        <price>149.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.625</weight>
-        <param name="Производитель">Словакия</param>
-        <param name="Упаковка">Стеклянная банка</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="195805528991" available="true">
         <name>Майонез БЕЗ ГЛЮТЕНА Madero Wyborny 400г</name>
         <vendor>Madero</vendor>
@@ -24347,6 +24286,27 @@ Panettone Santangelo замечательная традиционная ита�
         <categoryId>443169019671</categoryId>
         <weight>0.5</weight>
         <param name="Производитель">Франция</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="396798918781" available="true">
+        <name>Оливковое масло Piesse Fruttato Leggero Dolce Extra 1л.</name>
+        <vendor>Piesse</vendor>
+        <vendorCode>396798</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Деликатное оливковое масло премиум класса с легким фруктовым ароматом.</p><p style="text-align: left;">Отличительная черта этого масла - это обертка в фольгу. Масла премиум сегмента заливают не только в темную бутылку, но и в обязательном порядке обертывают в светозащитный материал, в данном случае фольгу. Это на 100% защищает масло от попадания солнечного света и гарантирует исключительное качество, тот вкус и аромат, которого и добивался производитель.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6130-6461-4133-a533-386638643732/olio-piesse-dolce1.png</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-396798918781-olivkovoe-maslo-piesse-fruttato-leggero</url>
+        <count>9999</count>
+        <price>472.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Италия</param>
+        <param name="Упаковка">Стеклянная бутылка</param>
+        <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
       <offer id="574941746341" available="true">
