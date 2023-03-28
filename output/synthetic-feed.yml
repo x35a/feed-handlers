@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-03-27T19:13:08+03:00">
+<yml_catalog date="2023-03-28T13:24:05+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -25835,63 +25835,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Сорт">Высший</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="602452916511" available="true">
-        <name>Свеча парафиновая, время горения 72 часа, 3дня, Bispol Ognik</name>
-        <vendor>Bispol</vendor>
-        <vendorCode>916511</vendorCode>
-        <description><![CDATA[
-
-Свеча парафиновая Bispol Ognik, в пластиковом корпусе, время горения 72 часа.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6332-4533-a139-633038356337/58441624.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-602452916511-svecha-parafinovaya-vremya-goreniya-72-c</url>
-        <count>9999</count>
-        <price>65.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.15</weight>
-        <param name="Производитель">Польша</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="630090046341" available="true">
-        <name>Свеча парафиновая, время горения 96 часов, 4 дня, Bispol Ognik</name>
-        <vendor>Bispol</vendor>
-        <vendorCode>946341</vendorCode>
-        <description><![CDATA[
-
-Свеча парафиновая Bispol Ognik, в пластиковом корпусе, время горения 96 часов.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6332-4533-a139-633038356337/58441624.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-630090046341-svecha-parafinovaya-vremya-goreniya-96-c</url>
-        <count>9999</count>
-        <price>75.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.2</weight>
-        <param name="Производитель">Польша</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="190593135091" available="true">
-        <name>Свеча парафиновая, время горения 48 часов, 2 дня, Bispol Ognik</name>
-        <vendor>Bispol</vendor>
-        <vendorCode>135091</vendorCode>
-        <description><![CDATA[
-
-Свеча парафиновая Bispol Ognik, в пластиковом корпусе, время горения 48 часов
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6332-4533-a139-633038356337/58441624.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-190593135091-svecha-parafinovaya-vremya-goreniya-48-c</url>
-        <count>9999</count>
-        <price>55.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.15</weight>
-        <param name="Производитель">Польша</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="699552442551" available="true">
         <name>Икра красная ТМ Санта Бремор лососевая, имитация 500г.</name>
         <vendor>Санта Бремор</vendor>
@@ -25949,62 +25892,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="850550835561" available="true">
-        <name>Свеча парафиновая, время горения 120 часов, 5 дней, Bispol Ognik</name>
-        <vendor>Bispol</vendor>
-        <vendorCode>835561</vendorCode>
-        <description><![CDATA[
-
-Свеча парафиновая Bispol Ognik, в пластиковом корпусе, время горения 120 часов.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6332-4533-a139-633038356337/58441624.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-850550835561-svecha-parafinovaya-vremya-goreniya-120</url>
-        <count>9999</count>
-        <price>90.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.2</weight>
-        <param name="Производитель">Польша</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="537367564891" available="true">
-        <name>Портативная газовая плита Сушеф с переходником ТМ СИЛА</name>
-        <vendor>Сила</vendor>
-        <vendorCode>537367</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Одноконфорочная портативная газовая плита Сушеф ТМ Сила. Работает от одного цангового газового баллона, содержащегося внутри плиты или через переходник от большого баллона. Переходник в комплекте.</p><br /><p style="text-align: left;">Особенности:</p><p style="text-align: left;">экономический расход газа</p><p style="text-align: left;">цельнолитая горелка</p><p style="text-align: left;">легко очищаемый поддон</p><p style="text-align: left;">четыре системы безопасности</p><p style="text-align: left;">стандартный газовый баллончик</p><p style="text-align: left;">удобна при транспортировке</p><p style="text-align: left;">Характеристики:</p><br /><p style="text-align: left;">Размеры: 343х275х85 мм</p><p style="text-align: left;">Вес: 1.95 кг</p><p style="text-align: left;">Мощность: 2200W</p><p style="text-align: left;">Расход газа: 160г/час</p><p style="text-align: left;">Упаковка: пластиковый кейс</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3134-3839-4263-b566-653037316337/90604180.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-537367564891-portativnaya-gazovaya-plita-sushef-s-per</url>
-        <count>9999</count>
-        <price>2499.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
-      <offer id="444048231961" available="true">
-        <name>Газовая горелка (плита) с защитой от ветра KOVAR К-203 2200 Вт</name>
-        <vendor>KOVAR</vendor>
-        <vendorCode>231961</vendorCode>
-        <description><![CDATA[
-
-Газовая плита портативная Kovar K-203 с защитой от ветра.<br />Разгорается в считанные секунды и в разы сокращает время закипания воды.#nbsp;<br />Дает отличную тепловую эффективность.<br /><br /><ul><li>Портативная и легкая</li><li>Складной дизайн</li><li>Ветрозащита - лепестки из нержавеющей стали</li><li>Пьезоэлектрическое керамическое зажигание.</li><li>Работает от цангового баллона 220 г</li><li>Вид газа – Бутан / Пропан</li><li>С регулятором мощности пламени</li><li>Защита от утечки газа</li><li>Защита от неправильной установки баллона</li><li>Температура до +500°C</li><li>Расход газа – 95 грамм/час</li><li>Мощность – 2200 Вт</li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3839-3832-4435-b639-323534353035/85867964.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-444048231961-gazovaya-gorelka-plita-s-zaschitoi-ot-ve</url>
-        <count>9999</count>
-        <price>599.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.5</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
       <offer id="890296181211" available="true">
         <name>Конфеты Ferrero Rocher 200 г.</name>
         <vendor>Ferrero Rocher</vendor>
@@ -26041,44 +25928,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <categoryId>466871267201</categoryId>
         <weight>0.5</weight>
         <param name="Производитель">Украина</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="822801270651" available="true">
-        <name>Светодиодный LED налобный фонарь (1200 мАч 350 люмен)</name>
-        <vendor>Pristar</vendor>
-        <vendorCode>822801</vendorCode>
-        <description><![CDATA[
-
-Светодиодный налобный фонарь Pristar с полным обзором на 230°, питание от светодиодов премиум-класса, которые обеспечивают световой поток 350 люмен для максимального освещения, широкое освещение без перемещения головы в нужную зону освещения.#nbsp;<br />Для управления фонарем можно воспользоваться традиционным переключателем или сенсорным – для включения или выключения требуется движение любого предмета на расстоянии до 10 см от фонаря.<br />Высококачественный литий-ионный аккумулятор емкостью 1200 мАч с возможностью подключения USB-C.#nbsp;Всепогодный гибкий корпус светодиода имеет вход USB-C.<br />Время работы в самом ярком режиме 2,5 часа и 6 часов при яркости 40%<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6665-3737-4232-b563-643061613833/66592836.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-822801270651-svetodiodnii-led-nalobnii-fonar-1200-mac</url>
-        <count>9999</count>
-        <price>799.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.2</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
-      <offer id="965046532191" available="true">
-        <name>Свеча парафиновая, время горения 144 часа, 6 дней, Bispol Ognik</name>
-        <vendor>Bispol</vendor>
-        <vendorCode>532191</vendorCode>
-        <description><![CDATA[
-
-Свеча парафиновая Bispol Ognik, в пластиковом корпусе, время горения 144 часа.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6332-4533-a139-633038356337/58441624.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-965046532191-svecha-parafinovaya-vremya-goreniya-144</url>
-        <count>9999</count>
-        <price>115.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.25</weight>
-        <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
       <offer id="846925184231" available="true">
@@ -26390,82 +26239,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <weight>0.125</weight>
         <param name="Производитель">Австрия</param>
         <quantity>100</quantity>
-      </offer>
-      <offer id="228624683641" available="true">
-        <name>Павербанк Baseus Adaman Metal 20000 mAh 22,5 W</name>
-        <vendor>Baseus</vendor>
-        <vendorCode>683641</vendorCode>
-        <description><![CDATA[
-
-Внешний аккумулятор Baseus Adaman Metal Digital Display Power Bank 22.5W с функцией быстрой зарядки PPAD000101 – это портативная батарея, которая поможет подзарядить ваш смартфон или планшет, если вы окажетесь вдали от розетки. Благодаря компактному размеру её удобно брать с собой в поездки и использовать по мере необходимости.<br />Характеристики: <br />Тип аккумулятора: Литий-полимерный; Емкость аккумулятора: 20000 мА*ч 3.7V 74Wh; <br />Номинальная емкость: 12000 мА*ч (5.1V — 3.7А); <br />Максимальный ток: 3.7 А; <br />Два порта Micro-USB и USB-C для собственной зарядки; <br />Поддержка зарядки малым током; <br />Два порта USB-A для одновременной зарядки двух устройств; <br />Функции зарядки: QC быстрая зарядка 22,5W; <br />Входной интерфейс: Micro-USB, USB-C; <br />Выходной интерфейс: 2 х USB-A; <br />Параметры входа:Micro-USB:5V/2A, 9V/2A USB-C: 5V-3.6A; 9V-2.1A; 12V-1.5A; Параметры выхода:USB-A: 5.1V — 2.4А, 9V — 2A (MAX), 12V- 1.5А (MAX); При работе двух портов USB-A: 5.1V — 3.6А;
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3562-3939-4234-a638-323562346430/72079812.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-228624683641-paverbank-baseus-adaman-metal-20000-mah</url>
-        <count>9999</count>
-        <price>1599.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.44</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
-      <offer id="203371369951" available="true">
-        <name>Павербанк Baseus Bipow Digital Display 20000mAh 20W</name>
-        <vendor>Baseus</vendor>
-        <vendorCode>369951</vendorCode>
-        <description><![CDATA[
-
-Павербанк#nbsp;Baseus#nbsp;Bipow#nbsp;Digital#nbsp;Display#nbsp;20000mAh 20W 3A с технологией QC3.0+PD3.0#nbsp;- это компактный, элегантный, инновационный и многофункциональный блок питания с большой емкостью#nbsp;20000 mah, изготовленный из#nbsp;высококачественных материалов.<br />Внешний аккумулятор#nbsp;Baseus#nbsp;Bipow#nbsp;Digital#nbsp;Display#nbsp;20000mAh 20W 3A с технологией QC3.0+PD3.0#nbsp;оснащен#nbsp;4 портами.#nbsp;2 разъема#nbsp;можно использовать для#nbsp;зарядки Павербанка#nbsp;(micro USB, USB Type-C PD) и#nbsp;3 для мобильных устройств#nbsp;(2 х USB QC 3.0, USB Type-C PD 3.0).#nbsp;<br />Разъем#nbsp;USB#nbsp;Type-C#nbsp;можно использовать для зарядки#nbsp;смартфона, планшета или#nbsp;колонки, а также для зарядки самого аккумулятора. Такое наличие портов даст возможность подключить для зарядки до#nbsp;3 гаджетов одновременно.<br />Данный Павербанк#nbsp;Baseus#nbsp;поддерживает современные#nbsp;стандарты быстрой зарядки#nbsp;–#nbsp;Quick#nbsp;Charge#nbsp;3.0,#nbsp;Power#nbsp;Delivery#nbsp;3.0 (Apple), PD2.0, FCP/SCP (Huawei), AFC (Samsung),#nbsp;благодаря которым процесс#nbsp;восстановления заряда#nbsp;Ваших аксессуаров#nbsp;ускоряется в несколько раз.<br />C помощью технологии#nbsp;Power#nbsp;Delivery#nbsp;3.0 18W,#nbsp;iPhone#nbsp;11,#nbsp;iPhone#nbsp;12#nbsp;восполняет заряд на#nbsp;50 процентов#nbsp;всего за#nbsp;полчаса.#nbsp;Обратите внимание, что для этого вам понадобится кабель с поддержкой#nbsp;PD. И с помощью технологии#nbsp;SCP 22.5W,#nbsp;HUAWEI P30#nbsp;восполняет заряд на#nbsp;60 процентов#nbsp;тоже всего за#nbsp;полчаса. Также, порт Type-C поддерживает новый стандарт технологии быстрой зарядки -#nbsp;9V/2.22A#nbsp;мощностью#nbsp;20W#nbsp;для быстрой зарядки#nbsp;iPhone#nbsp;12.<br />Полная#nbsp;перезарядка#nbsp;самого Павер банка#nbsp;Baseus#nbsp;Bipow#nbsp;Digital#nbsp;Display#nbsp;20000mAh 20W 3A с технологией QC3.0+PD3.0#nbsp;происходит всего#nbsp;за приблизительно 6-7 часов#nbsp;при использовании зарядного адаптера с поддержкой#nbsp;Quick#nbsp;Charge#nbsp;3.0 и мощностью не менее 18W#nbsp;и использования разъёма#nbsp;USB#nbsp;Type-C PD.<br />Характеристики:<br /><ul><li>Бренд:#nbsp;Baseus</li><li>Цвет:#nbsp;Черный</li><li>Материал:#nbsp;Поликарбонат + ABS пластик</li><li>Сертификация качества:#nbsp;RoHS, CE, FCC, КНР</li><li>Комплектация:#nbsp;Павербанк,#nbsp;кабель USB to micro USB</li><li>Тип батареи:#nbsp;Литий-полимерный</li><li>Емкость аккумулятора:#nbsp;20000mAh 3.7V 74Wh</li><li>Мощность:#nbsp;Вход: Micro Input: 5В/2А, 9В/2А (18W)</li><li>Мощность:#nbsp;Вход: Type-C Input: 5В/2А, 9В/2А (18W)</li><li>Мощность:#nbsp;Выход USB1/USB2: 5В/2А, 9В/2А, 12V/1.5A (18W)</li><li>Мощность:#nbsp;Выход USB Type-C: 5V/3A, 9V/2.22A, 12V/1.5A (20W)</li><li>Мощность:#nbsp;Выход USB1+USB2+Type-C: 5V/3A Max</li><li>Стандарт быстрой зарядки:#nbsp;QC 3.0, PD 3.0, QC 2.0, PD 2.0, FCP, AFC</li><li>Размеры:#nbsp;153*69*30 мм</li><li>Вес:#nbsp;452 гр</li><li>Гарантия:#nbsp;6 месяцев</li></ul>Упаковка<br /><ul><li>Размеры:#nbsp;160*90*37 мм</li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3066-3661-4364-b465-613637303039/64567188.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-203371369951-paverbank-baseus-bipow-digital-display-2</url>
-        <count>9999</count>
-        <price>1549.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.44</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
-      <offer id="977330353831" available="true">
-        <name>Павербанк Baseus Bipow Digital Display 20000mAh 15W</name>
-        <vendor>Baseus</vendor>
-        <vendorCode>353831</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Компактный и прежде всего эффективен – он полезен, когда требуется дополнительная энергия. Предназначен для работы с самыми популярными устройствами с питанием USB/USB-C, такими как планшеты, iPhone и телефоны Android.</p><br /><p style="text-align: left;">Поддерживает быструю зарядку по стандарту Power Delivery 15 Вт. С его помощью мы можем заряжать до 3 разных устройств одновременно!</p><br /><p style="text-align: left;">Чипсет управления регулирует ток устройства и предохраняет его от повреждений. 7 уровней защиты – от перезаряда, разряда, перенапряжения, перегрева, перегрузки тока, короткого замыкания и электромагнитного поля, он обеспечивает полную защиту как аксессуара, так и телефона.</p><br /><p style="text-align: left;">Параметры:</p><p style="text-align: left;">Емкость аккумулятора: 20 000 мАч / 3,7 В 111 Вт год</p><p style="text-align: left;">Тип аккумулятора – Li-Polymer</p><p style="text-align: left;">Микро: 5 В/2 А</p><p style="text-align: left;">Тип-C: 5 В/3 А</p><p style="text-align: left;">USB1/USB2: 5 В/3 А</p><p style="text-align: left;">Тип-C: 5 В/3 А</p><p style="text-align: left;">USB+Type-C: 5 В/3 А макс.</p><p style="text-align: left;">Размер изделия: 153 x 68,8 x 41,7 мм</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3930-3432-4866-a438-653731323661/79562350.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-977330353831-paverbank-baseus-bipow-digital-display-2</url>
-        <count>9999</count>
-        <price>1499.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.42</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
-      </offer>
-      <offer id="377208289091" available="true">
-        <name>Павербанк Baseus Adaman Metal 10000 mAh 22,5 W</name>
-        <vendor>Baseus</vendor>
-        <vendorCode>289091</vendorCode>
-        <description><![CDATA[
-
-Внешний аккумулятор Baseus Adaman Metal Digital Display Power Bank 10000mAh 22.5W с функцией быстрой зарядки – это портативная батарея, которая поможет подзарядить ваш смартфон или планшет, если вы окажетесь вдали от розетки. Благодаря компактному размеру её удобно брать с собой в поездки и использовать по мере необходимости.<br />Характеристики: <br />Тип аккумулятора: Литий-полимерный; Емкость аккумулятора: 10000 мА*ч 3.7V 74Wh; <br /><br />Максимальный ток: 3.7 А; <br />Два порта Micro-USB и USB-C для собственной зарядки; <br />Поддержка зарядки малым током; <br />Два порта USB-A для одновременной зарядки двух устройств; <br />Функции зарядки: QC быстрая зарядка 22,5W; <br />Входной интерфейс: Micro-USB, USB-C; <br />Выходной интерфейс: 2 х USB-A; <br />Параметры входа:Micro-USB:5V/2A, 9V/2A USB-C: 5V-3.6A; 9V-2.1A; 12V-1.5A; Параметры выхода:USB-A: 5.1V — 2.4А, 9V — 2A (MAX), 12V- 1.5А (MAX); При работе двух портов USB-A: 5.1V — 3.6А;
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6262-6537-4036-b266-353337373132/29645151.jpg</picture>
-        <url>https://smartfood.org.ua/household/tproduct/508865546-377208289091-paverbank-baseus-adaman-metal-10000-mah</url>
-        <count>9999</count>
-        <price>1299.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>223682564701</categoryId>
-        <weight>0.44</weight>
-        <quantity>100</quantity>
-        <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
       <offer id="209401211211" available="true">
         <name>Упаковка пива светлого Budweiser Budvar SV 4% 24шт.X0.5л.</name>
