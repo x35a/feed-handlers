@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-04-08T15:08:33+03:00">
+<yml_catalog date="2023-04-09T12:15:23+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -18252,24 +18252,6 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Производитель">Польша</param>
         <param name="Упаковка">Вакуумный пакет</param>
       </offer>
-      <offer id="463936568341" available="true">
-        <name>Рис бурый нешлифованный 1кг.</name>
-        <vendorCode>584419</vendorCode>
-        <description><![CDATA[
-
-Рис бурый - имеет приятный тонкий жасминовый аромат. Растет этот рис в таких странах, как Таиланд, Вьетнам, Камбоджу, и считается основой национальной тайской кухни. Он очень полезным поскольку имеет много витаминов и микроэлементов, не содержит глютена.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6338-6534-4164-a330-356665376131/ris-buryj-neshlifova.jpg</picture>
-        <url>https://smartfood.org.ua/flour-cereals/tproduct/320929810-463936568341-ris-burii-neshlifovannii-1kg</url>
-        <count>9999</count>
-        <price>105.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>188559425471</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Вьетнам</param>
-        <param name="Упаковка">Пакет</param>
-      </offer>
       <offer id="893874509781" available="true">
         <name>Колбаски "Чоризо" сушеные, снек к пиву 1кг.</name>
         <vendorCode>893874</vendorCode>
@@ -19641,23 +19623,6 @@ Davidoff Cafe Rich Aroma - это восхитительное сочетани�
         <param name="Производитель">Алжир</param>
         <param name="Фасовка">Коробка</param>
       </offer>
-      <offer id="431405918091" available="true">
-        <name>Нерафинированное ароматное подсолнечное масло «Домашнее» 1л.</name>
-        <vendorCode>918091</vendorCode>
-        <description><![CDATA[
-
-Нерафинированное ароматное подсолнечное масло «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом. Идеально подходит для приготовления традиционных русских блюд, салатов, выпечки и холодных закусок.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6635-6438-4464-a635-636238643166/U1fb4759c764e4c7e8b0.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-431405918091-nerafinirovannoe-aromatnoe-podsolnechnoe</url>
-        <count>9999</count>
-        <price>105.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>320586217181</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
-      </offer>
       <offer id="887027594211" available="true">
         <name>Сыр в слайсах Гауда Gouda "Wloszczowa" 1кг.</name>
         <vendorCode>887027</vendorCode>
@@ -19712,23 +19677,6 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <param name="Упаковка">Пакет</param>
         <param name="Форма выпуска">Зерновой</param>
-      </offer>
-      <offer id="355586451391" available="true">
-        <name>Нерафинированное масло из жареных семечек «Домашнее» 1л.</name>
-        <vendorCode>355586</vendorCode>
-        <description><![CDATA[
-
-Нерафинированное ароматное подсолнечное масло#nbsp;из жареных семечек «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6465-3934-4634-a264-613965393230/maslo-slivochnoe-400.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-355586451391-nerafinirovannoe-maslo-iz-zharenih-semec</url>
-        <count>9999</count>
-        <price>105.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>320586217181</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
       </offer>
       <offer id="199765160571" available="true">
         <name>Кофе в зернах Tuskani 50% арабика 50% робуста 1кг.</name>
