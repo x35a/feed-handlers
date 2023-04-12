@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-04-11T20:59:34+03:00">
+<yml_catalog date="2023-04-12T15:22:20+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -21013,46 +21013,6 @@ Mare Aperto Tonno Olio di Oliva -#nbsp;тунец в оливковом масл
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="918158270691" available="true">
-        <name>Панеттоне с кремом тирамису Santagelo PANETTONE 908г</name>
-        <vendor>Santagelo</vendor>
-        <vendorCode>918158</vendorCode>
-        <description><![CDATA[
-
-Panettone Santangelo замечательная традиционная итальянская выпечка, мягкий, воздушный, кекс. Этот кекс имеет нежнейшую воздушную текстуру,#nbsp;внутри которого вкуснейший шоколадный крем. Создан по классическому итальянскому рецепту. Panettone Santangeloстанет идеальным дополнением к праздничному столу или вариантом подарка для родных и близких.Создан по классическому итальянскому рецепту: на основе итальянской муки Манитоба.#nbsp;Прекрасный вариант украшения праздничного стола, а также изысканного подарка для родных и близких.<br />Праздничный формат упаковки: картонная коробочка с удобной ручкой. Купить праздничный панеттоне#nbsp;Santangelo верное решение. Вы получите удовольствие сами и доставите его своим близким.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3066-6237-4666-a561-646633663837/IMG_3771.jpg</picture>
-        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-918158270691-panettone-s-kremom-tiramisu-santagelo-pa</url>
-        <count>9999</count>
-        <price>379.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>300028999651</categoryId>
-        <weight>0.908</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Тип">Фасованные</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="296620873421" available="true">
-        <name>Панеттоне с лимоном Santagelo PANETTONE 908г</name>
-        <vendor>Santagelo</vendor>
-        <vendorCode>296620</vendorCode>
-        <description><![CDATA[
-
-Panettone Santangelo замечательная традиционная итальянская выпечка, мягкий, воздушный, кекс. Этот кекс имеет нежнейшую воздушную текстуру,#nbsp;внутри которого вкуснейший шоколадный крем. Создан по классическому итальянскому рецепту. Panettone Santangeloстанет идеальным дополнением к праздничному столу или вариантом подарка для родных и близких.Создан по классическому итальянскому рецепту: на основе итальянской муки Манитоба.#nbsp;Прекрасный вариант украшения праздничного стола, а также изысканного подарка для родных и близких.<br />Праздничный формат упаковки: картонная коробочка с удобной ручкой. Купить праздничный панеттоне#nbsp;Santangelo верное решение. Вы получите удовольствие сами и доставите его своим близким.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3734-6533-4136-b333-386166663261/IMG_3770.jpg</picture>
-        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-296620873421-panettone-s-limonom-santagelo-panettone</url>
-        <count>9999</count>
-        <price>379.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>300028999651</categoryId>
-        <weight>0.908</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Тип">Фасованные</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="293010862611" group_id="606832539761" available="true">
         <name>Куриное мясо вяленое, сушеное по дижонски (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>606831</vendorCode>
@@ -23386,26 +23346,6 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="177097590641" available="true">
-        <name>Панеттоне с шоколадом Santagelo PANETTONE 908г</name>
-        <vendor>Santagelo</vendor>
-        <vendorCode>590641</vendorCode>
-        <description><![CDATA[
-
-Panettone Santangelo замечательная традиционная итальянская выпечка, мягкий, воздушный, кекс. Этот кекс имеет нежнейшую воздушную текстуру,#nbsp;внутри которого вкуснейший шоколадный крем. Создан по классическому итальянскому рецепту. Panettone Santangeloстанет идеальным дополнением к праздничному столу или вариантом подарка для родных и близких.Создан по классическому итальянскому рецепту: на основе итальянской муки Манитоба.#nbsp;Прекрасный вариант украшения праздничного стола, а также изысканного подарка для родных и близких.<br />Праздничный формат упаковки: картонная коробочка с удобной ручкой. Купить праздничный панеттоне#nbsp;Santangelo верное решение. Вы получите удовольствие сами и доставите его своим близким.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6664-6532-4964-a635-396434333464/96241880.jpg</picture>
-        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-177097590641-panettone-s-shokoladom-santagelo-panetto</url>
-        <count>9999</count>
-        <price>379.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>300028999651</categoryId>
-        <weight>0.908</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Тип">Фасованные</param>
-        <quantity>100</quantity>
       </offer>
       <offer id="337239600611" group_id="708453110701" available="true">
         <name>Сырный продукт Желтый с дырками Zolty z Dziurami ТМ Mlekovita - 500г</name>
