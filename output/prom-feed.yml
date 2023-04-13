@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-04-12T15:22:20+03:00">
+<yml_catalog date="2023-04-13T22:04:08+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -93,7 +93,7 @@
         <picture>https://static.tildacdn.com/tild6639-3564-4362-a161-316437343962/778648289_w640_h640_.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-426602872841-keshyu-zharenii?editionuid=965640103851</url>
         <count>9999</count>
-        <price>549.00</price>
+        <price>519.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -111,7 +111,7 @@
         <picture>https://static.tildacdn.com/tild6639-3564-4362-a161-316437343962/778648289_w640_h640_.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-426602872841-keshyu-zharenii?editionuid=376121938161</url>
         <count>9999</count>
-        <price>279.00</price>
+        <price>265.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -129,7 +129,7 @@
         <picture>https://static.tildacdn.com/tild3334-6632-4438-b261-333262653561/66d0a523af5890003bb6.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-107777128241-nut-turetskii-goroh?editionuid=114154157311</url>
         <count>9999</count>
-        <price>115.00</price>
+        <price>119.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -165,7 +165,7 @@
         <picture>https://static.tildacdn.com/tild3537-3037-4434-b761-383134323463/fistashkasiraya4.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-425982809521-fistashki-solenie-iran?editionuid=223846647611</url>
         <count>9999</count>
-        <price>304.00</price>
+        <price>315.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -183,7 +183,7 @@
         <picture>https://static.tildacdn.com/tild3537-3037-4434-b761-383134323463/fistashkasiraya4.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-425982809521-fistashki-solenie-iran?editionuid=312246584961</url>
         <count>9999</count>
-        <price>604.00</price>
+        <price>615.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -326,7 +326,7 @@
         <picture>https://static.tildacdn.com/tild6434-6666-4661-a234-663937626463/orekh-keshyu-syroj.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-801224298091-keshyu-siroi?editionuid=507790635231</url>
         <count>9999</count>
-        <price>314.00</price>
+        <price>259.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -344,7 +344,7 @@
         <picture>https://static.tildacdn.com/tild6434-6666-4661-a234-663937626463/orekh-keshyu-syroj.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-801224298091-keshyu-siroi?editionuid=606332687271</url>
         <count>9999</count>
-        <price>615.00</price>
+        <price>505.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -362,7 +362,7 @@
         <picture>https://static.tildacdn.com/tild3530-3235-4465-b836-363234616562/4063245.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-645054319621-mindal-karamel?editionuid=801272361351</url>
         <count>9999</count>
-        <price>604.00</price>
+        <price>449.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -380,7 +380,7 @@
         <picture>https://static.tildacdn.com/tild3530-3235-4465-b836-363234616562/4063245.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-645054319621-mindal-karamel?editionuid=540090743391</url>
         <count>9999</count>
-        <price>307.00</price>
+        <price>235.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -415,7 +415,7 @@
         <picture>https://static.tildacdn.com/tild3838-6534-4332-a634-343539356663/b3b172877c8f1458eb9d.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-847979017411-brazilskii-oreh?editionuid=934500066131</url>
         <count>9999</count>
-        <price>449.00</price>
+        <price>319.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -433,7 +433,7 @@
         <picture>https://static.tildacdn.com/tild3838-6534-4332-a634-343539356663/b3b172877c8f1458eb9d.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-847979017411-brazilskii-oreh?editionuid=684566827211</url>
         <count>9999</count>
-        <price>895.00</price>
+        <price>619.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -487,7 +487,7 @@
         <picture>https://static.tildacdn.com/tild6465-3963-4833-b034-363337636562/147581736215890.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-615054843341-mindal-zharenii-zolotoi?editionuid=451308466661</url>
         <count>9999</count>
-        <price>604.00</price>
+        <price>449.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -505,7 +505,7 @@
         <picture>https://static.tildacdn.com/tild6465-3963-4833-b034-363337636562/147581736215890.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-615054843341-mindal-zharenii-zolotoi?editionuid=439022151071</url>
         <count>9999</count>
-        <price>307.00</price>
+        <price>235.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -523,7 +523,7 @@
         <picture>https://static.tildacdn.com/tild3139-3232-4261-b139-623166333933/large_D0B0D180D0B0D1.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-473562956981-arahis-siroi?editionuid=659013285201</url>
         <count>9999</count>
-        <price>193.00</price>
+        <price>175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -541,7 +541,7 @@
         <picture>https://static.tildacdn.com/tild3139-3232-4261-b139-623166333933/large_D0B0D180D0B0D1.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-473562956981-arahis-siroi?editionuid=787800090731</url>
         <count>9999</count>
-        <price>98.00</price>
+        <price>95.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -595,7 +595,7 @@
         <picture>https://static.tildacdn.com/tild3530-3764-4730-a537-653666323834/funduk-zhar.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-978775001961-funduk-zharenii?editionuid=940229229131</url>
         <count>9999</count>
-        <price>604.00</price>
+        <price>429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -613,7 +613,7 @@
         <picture>https://static.tildacdn.com/tild3530-3764-4730-a537-653666323834/funduk-zhar.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-978775001961-funduk-zharenii?editionuid=136023674061</url>
         <count>9999</count>
-        <price>307.00</price>
+        <price>225.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -667,7 +667,7 @@
         <picture>https://static.tildacdn.com/tild3036-3131-4162-b261-636338306131/3985_big.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-401227579941-mindal-zolotoi-siroi?editionuid=816361512621</url>
         <count>9999</count>
-        <price>604.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -685,7 +685,7 @@
         <picture>https://static.tildacdn.com/tild3036-3131-4162-b261-636338306131/3985_big.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-401227579941-mindal-zolotoi-siroi?editionuid=534955585421</url>
         <count>9999</count>
-        <price>307.00</price>
+        <price>219.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -6709,7 +6709,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild3432-6437-4035-b230-323864376438/1916970.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-142111583301-orehovii-miks?editionuid=224632649131</url>
         <count>9999</count>
-        <price>659.00</price>
+        <price>549.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -6727,7 +6727,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild3432-6437-4035-b230-323864376438/1916970.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-142111583301-orehovii-miks?editionuid=254302418451</url>
         <count>9999</count>
-        <price>336.00</price>
+        <price>269.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -9323,7 +9323,7 @@ Przyprawa Uniwersalna - удачно скомбинированая смесь �
         <picture>https://static.tildacdn.com/tild3337-3061-4164-a261-623532656265/5496655.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-691492877201-fistashki-s-solyu-alesto-pistazien-250g</url>
         <count>9999</count>
-        <price>226.00</price>
+        <price>205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.25</weight>
@@ -9340,7 +9340,7 @@ Przyprawa Uniwersalna - удачно скомбинированая смесь �
         <picture>https://static.tildacdn.com/tild3938-3962-4232-b161-336565356335/2088070640_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-141327160441-fistashki-s-solyu-alesto-pistazien-500g</url>
         <count>9999</count>
-        <price>369.00</price>
+        <price>375.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -10706,23 +10706,6 @@ Inproba Chilli Sauce остро-сладкий соус с кусочками п
         <url>https://smartfood.org.ua/drinks/tproduct/320930595-640366304071-nektar-mandarinovii-finnest-kinnu-mandar</url>
         <count>9999</count>
         <price>238.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>635698216721</categoryId>
-        <weight>2</weight>
-        <param name="Производитель">Великобритания</param>
-      </offer>
-      <offer id="871264996351" available="true">
-        <name>Нектар из розовой гуавы Finnest Pink Guava "Regal Siprus" 2000 мл.</name>
-        <vendorCode>871264</vendorCode>
-        <description><![CDATA[
-
-<br /> Отведайте неповторимый сладкий нектар Pink Guava. Изготовлен из 15 розовых гуав, это лучший выбор для семейных встреч и вечеринок. Удобная 2-литровая бутылка. <br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3163-6332-4536-b464-383065356536/5027738012483.jpg</picture>
-        <url>https://smartfood.org.ua/drinks/tproduct/320930595-871264996351-nektar-iz-rozovoi-guavi-finnest-pink-gua</url>
-        <count>9999</count>
-        <price>234.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>635698216721</categoryId>
         <weight>2</weight>
@@ -12921,7 +12904,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3130-3636-4331-b934-613863653632/arahis.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-435037050841-arahis-solenii-snek-zakuska-k-pivu-1kg</url>
         <count>9999</count>
-        <price>220.00</price>
+        <price>219.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -12972,7 +12955,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3633-3539-4435-b939-643737643365/24-Funduk-zharenyjj-.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-329014786261-funduk-zharenii-solenii-snek-zakuska-k-p</url>
         <count>9999</count>
-        <price>629.00</price>
+        <price>549.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -13254,7 +13237,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3561-3235-4439-b233-643738343435/2885664514_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-234586263371-fistashki-bez-soli-alesto-pistazien-250</url>
         <count>9999</count>
-        <price>289.00</price>
+        <price>249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.25</weight>
@@ -15501,7 +15484,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild6365-3636-4866-a565-663035613733/fistashki-iran-novye.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-691469723791-fistashki-iranskie-akbari-1111-brothers</url>
         <count>9999</count>
-        <price>377.00</price>
+        <price>365.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -17099,7 +17082,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6336-3737-4163-a438-336531323363/1671115633_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-744034251521-arahis-zharennii?editionuid=555836956801</url>
         <count>9999</count>
-        <price>164.00</price>
+        <price>175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -17117,7 +17100,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6336-3737-4163-a438-336531323363/1671115633_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-744034251521-arahis-zharennii?editionuid=439511409501</url>
         <count>9999</count>
-        <price>86.00</price>
+        <price>95.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -17135,7 +17118,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3237-3536-4966-b837-613662633637/43b3047791564cc63b4a.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-505765438501-fistashka-ochischennaya-solenaya?editionuid=762381182801</url>
         <count>9999</count>
-        <price>683.00</price>
+        <price>775.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -17153,7 +17136,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3237-3536-4966-b837-613662633637/43b3047791564cc63b4a.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-505765438501-fistashka-ochischennaya-solenaya?editionuid=799992310231</url>
         <count>9999</count>
-        <price>1322.00</price>
+        <price>1499.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17364,7 +17347,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3831-3234-4238-b431-313235396564/full________________.png</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-578435296951-arahis-siroi-blanshirovannii-ochischenni?editionuid=505146363291</url>
         <count>9999</count>
-        <price>208.00</price>
+        <price>175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -17382,29 +17365,12 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3831-3234-4238-b431-313235396564/full________________.png</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-578435296951-arahis-siroi-blanshirovannii-ochischenni?editionuid=285846923941</url>
         <count>9999</count>
-        <price>109.00</price>
+        <price>95.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
         <param name="Производитель">Узбекистан</param>
         <param name="Фасовка">500г</param>
-      </offer>
-      <offer id="327592413491" available="true">
-        <name>Гуава сушеная натуральная King без сахара 500г</name>
-        <vendorCode>327592</vendorCode>
-        <description><![CDATA[
-
-Гуава является мощнейшим источников витамина C, сильнейшего антиоксиданта. Также в Гуеве высокое содержание витамина A отвечающего в том числе за состояние кожи, волос, ногтей, K, B, кальция, железа, магния, цинка, меди и некоторых других минералов<br />Гуава способствует укреплению иммунитета, поднятию тонуса, обладает бактерицидными, антисептическими, вяжущими свойствами<br />Сушеная Гуава – питательный, полезный продукт, которым можно удивить гостей!
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3635-3564-4365-b562-653333353535/Soft-dried-Guava-zip.png</picture>
-        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-327592413491-guava-sushenaya-naturalnaya-king-bez-sah</url>
-        <count>9999</count>
-        <price>314.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>456028571861</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Вьетнам</param>
       </offer>
       <offer id="809795049611" available="true">
         <name>Кофе в зернах J.J.Darboven Cafe Intencion Crema Aromatico 1кг.</name>
@@ -18073,25 +18039,6 @@ HPA Extra Virgin - это фермерское органическое олив
         <weight>1</weight>
         <param name="Производитель">Украина</param>
         <param name="Фасовка">1кг.</param>
-      </offer>
-      <offer id="446435791071" available="true">
-        <name>Колбаса "Costa Brava" со средиземноморскими травами 150г</name>
-        <vendorCode>446435</vendorCode>
-        <description><![CDATA[
-
-Салями Tradition "Costa Brava" со средиземноморскими травами - элитная сыровяленая тонкая колбаса из мелко нарубленной свинины и пикантным вкусом (со специями/травами). Фуэт — испанская сыровяленая колбаса из мяса свинины высшего качества, изготовленная по традиционной технологии. Происходит она из Каталонии — исторической области Испании, славящейся своей богатой и разнообразной кухней. Свое название фуэт (fuet, в переводе с каталонского — «кнут») она заслужила оригинальным внешним видом: длинная и очень тонкая в длину. Что особенно может понравиться в этой колбаске – в ней нет вкуса кислоты. Эта кислота от стартовых культур хорошо чувствуется в отечественных сырокопченых колбасах – их добавляют, чтобы ускорить созревание колбас по упрощенной технологии. Увы, на вкусе наших колбас это сказывается отрицательно, а так производится большинство видов и сортов. Это самая популярная закуска, которую употребляют перед обедом, как аперитив.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3439-3134-4434-b964-336464613838/fuet-extra-finas-hie.jpg</picture>
-        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-446435791071-kolbasa-costa-brava-so-sredizemnomorskim</url>
-        <count>9999</count>
-        <price>132.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>715825165071</categoryId>
-        <weight>0.15</weight>
-        <param name="Производитель">Испания</param>
-        <param name="Вид колбасы">Сыровяленая</param>
-        <param name="Сорт">Высший</param>
       </offer>
       <offer id="111475646451" available="true">
         <name><![CDATA[Горошек зеленый консервированный "M&K" 400г]]></name>
@@ -18770,7 +18717,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild6336-3065-4435-b962-303766306266/salyami-negroni-sala.jpg</picture>
         <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-678109944881-salyami-negroni-salame-napoli-450g</url>
         <count>9999</count>
-        <price>269.00</price>
+        <price>275.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>715825165071</categoryId>
         <weight>0.45</weight>
@@ -19363,7 +19310,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3832-3536-4264-a165-336338336637/aHR0cHM6Ly9zYmVybWFy.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-842067183931-oreh-pekan-ochischennii?editionuid=285076908231</url>
         <count>9999</count>
-        <price>612.00</price>
+        <price>649.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -19381,7 +19328,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3832-3536-4264-a165-336338336637/aHR0cHM6Ly9zYmVybWFy.jpg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-842067183931-oreh-pekan-ochischennii?editionuid=353712538601</url>
         <count>9999</count>
-        <price>1208.00</price>
+        <price>1249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -19973,7 +19920,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/tild3861-6463-4337-b336-643836643765/uploadversion_1017c1.jpeg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-998070974261-fistashki-iranskie-akbari-ronik-250-g</url>
         <count>9999</count>
-        <price>220.00</price>
+        <price>205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.25</weight>
@@ -19990,7 +19937,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/tild3834-3934-4131-a637-366563643963/uploadversion_101e0b.jpeg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-683540149181-fistashki-iranskie-dzhambo-kale-guchi-ro</url>
         <count>9999</count>
-        <price>220.00</price>
+        <price>205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.25</weight>
@@ -21215,11 +21162,197 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <picture>https://static.tildacdn.com/stor3663-3230-4563-b366-326235653537/65381676.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-810049977841-pasta-tomatna-pomdora-33-pomdora-5kg</url>
         <count>9999</count>
-        <price>499.00</price>
+        <price>475.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>5</weight>
         <param name="Производитель">Україна</param>
+      </offer>
+      <offer id="551165847491" group_id="479463178" available="true">
+        <name>Бекон сушеный, снек, (мясные чипсы, джерк) - 1кг.</name>
+        <vendorCode>1789811</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3835-3934-4263-a263-383365363637/60636458.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-479463178981-bekon-sushenii-snek-myasnie-chipsi-dzher?editionuid=551165847491</url>
+        <count>9999</count>
+        <price>839.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">1кг.</param>
+      </offer>
+      <offer id="535758247741" group_id="479463178" available="true">
+        <name>Бекон сушеный, снек, (мясные чипсы, джерк) - 500г</name>
+        <vendorCode>1789812</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3835-3934-4263-a263-383365363637/60636458.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-479463178981-bekon-sushenii-snek-myasnie-chipsi-dzher?editionuid=535758247741</url>
+        <count>9999</count>
+        <price>425.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">500г</param>
+      </offer>
+      <offer id="472411401771" group_id="391089221" available="true">
+        <name>Хрумкий Сир MINI натуральний, снек до пива - 500г</name>
+        <vendorCode>2211711</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Хрумкий сир#nbsp;MINI</p><p style="text-align: left;">Склад: сир твердий, сіль харчова, без ГМО</p><p style="text-align: left;">Поживна цінність 100г продукту: білки - 30,5г; жири - 17,5 г; вуглеводи - Ог.</p><p style="text-align: left;">Енергетична цінність (калорійність) 100г продукту - 262 ккал.</p><p style="text-align: left;">0 / 2</p><p style="text-align: left;">Зберігати: за температури не вище +25 С та відносної вологості повітря не більше 75% у вентильованих приміщеннях.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3762-3037-4666-b363-306233653065/39062865.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-391089221171-hrumkii-sir-mini-naturalnii-snek-do-piva?editionuid=472411401771</url>
+        <count>9999</count>
+        <price>339.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Україна</param>
+        <param name="Фасовка">500г</param>
+      </offer>
+      <offer id="945555387181" group_id="391089221" available="true">
+        <name>Хрумкий Сир MINI натуральний, снек до пива - 1кг.</name>
+        <vendorCode>2211712</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Хрумкий сир#nbsp;MINI</p><p style="text-align: left;">Склад: сир твердий, сіль харчова, без ГМО</p><p style="text-align: left;">Поживна цінність 100г продукту: білки - 30,5г; жири - 17,5 г; вуглеводи - Ог.</p><p style="text-align: left;">Енергетична цінність (калорійність) 100г продукту - 262 ккал.</p><p style="text-align: left;">0 / 2</p><p style="text-align: left;">Зберігати: за температури не вище +25 С та відносної вологості повітря не більше 75% у вентильованих приміщеннях.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3762-3037-4666-b363-306233653065/39062865.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-391089221171-hrumkii-sir-mini-naturalnii-snek-do-piva?editionuid=945555387181</url>
+        <count>9999</count>
+        <price>699.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Україна</param>
+        <param name="Фасовка">1кг.</param>
+      </offer>
+      <offer id="600237987411" available="true">
+        <name>Салат овочевий закусочний консервований Burcu</name>
+        <vendorCode>987411</vendorCode>
+        <description><![CDATA[
+
+Салат овочевий закусочний консервований Burcu Це знаменита і дуже смачна закуска для якої розроблений особливий рецепт. Крім того, що це закуска готова, її також можна подавати як закуску до страв з м'яса і птиці.<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3032-3036-4538-b536-346465633138/20369828.jpg</picture>
+        <url>https://smartfood.org.ua/pickles/tproduct/320931048-600237987411-salat-ovochevii-zakusochnii-konservovani</url>
+        <count>9999</count>
+        <price>475.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>152485699881</categoryId>
+        <weight>3.7</weight>
+        <param name="Производитель">Турция</param>
+      </offer>
+      <offer id="559334088641" available="true">
+        <name>Кетчуп шашличний ТМ "Смак традицій" 5 кг</name>
+        <vendorCode>088641</vendorCode>
+        <description><![CDATA[
+
+Вдало поєднаний смак свіжих томатів та букет прянощів і спецій у кетчупі “Шашличний” надають стравам зі смаженого м’яса яскравого та незрівнянного смаку, він також успішно використовується у якості маринаду.<br />Cклад:<br />вода питна, томатна паста (31,8 %), цукор, сіль кухонна, крохмаль модифікований кукурудзяний, регулятор кислотності – лимонна кислота, сушені овочі (перець солодкий, цибуля), прянощі (коріандр, пажитник, базилік, кріп), екстракт часнику, консервант – сорбінова кислота.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3166-3463-4831-b066-313935353132/94148912.jpg</picture>
+        <url>https://smartfood.org.ua/sauces/tproduct/320928537-559334088641-ketchup-shashlichnii-tm-smak-traditsi-5</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>441079117491</categoryId>
+        <weight>5</weight>
+        <param name="Производитель">Україна</param>
+      </offer>
+      <offer id="162099253981" available="true">
+        <name>Колбаса салями сырокопченная Milanska Vijofel 600г.</name>
+        <vendorCode>253981</vendorCode>
+        <description><![CDATA[
+
+Колбаса Vijofel Milanska 600г Словакия <br />Очень вкусная салями колбаса сырокопченная Vijofel Milanska, цена за палку весом примерно 600г. <br />Это салями самое популярное в европе из-за идеального баланса цены и качества. Упаковка: натуральная оболочка
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3634-3336-4163-b866-636665346330/71440783.jpg</picture>
+        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-162099253981-kolbasa-salyami-sirokopchennaya-milanska</url>
+        <count>9999</count>
+        <price>299.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>715825165071</categoryId>
+        <weight>0.6</weight>
+        <param name="Производитель">Словакия</param>
+        <param name="Вид колбасы">Сырокопченая</param>
+        <param name="Сорт">Высший</param>
+        <param name="Состав">свинина, говядина и смеси приправ</param>
+      </offer>
+      <offer id="360332492511" available="true">
+        <name>Колбаса салями сырокопченная Gerlach Vijofel 600г.</name>
+        <vendorCode>492511</vendorCode>
+        <description><![CDATA[
+
+Колбаса Vijofel Gerlach 600г Словакия <br />Очень вкусная салями колбаса сырокопченная Vijofel Gerlach, цена за палку весом примерно 600г. <br />Это салями самое популярное в европе из-за идеального баланса цены и качества. Упаковка: натуральная оболочка
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3462-3864-4330-b539-653538313435/88508994.jpg</picture>
+        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-360332492511-kolbasa-salyami-sirokopchennaya-gerlach</url>
+        <count>9999</count>
+        <price>299.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>715825165071</categoryId>
+        <weight>0.6</weight>
+        <param name="Производитель">Словакия</param>
+        <param name="Вид колбасы">Сырокопченая</param>
+        <param name="Сорт">Высший</param>
+        <param name="Состав">свинина, говядина и смеси приправ</param>
+      </offer>
+      <offer id="799342147241" available="true">
+        <name>Колбаса из рубленого мяса Tradichna Vijofel 600г.</name>
+        <vendorCode>147241</vendorCode>
+        <description><![CDATA[
+
+Колбаса из рубленого мяса Tradichna#nbsp; 600г Словакия <br />Очень вкусная салями колбаса сырокопченная Tradichna Vijofel, цена за палку весом примерно 600г. <br />Это салями самое популярное в европе из-за идеального баланса цены и качества. Упаковка: натуральная оболочка
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6464-6661-4434-b939-663465623731/58275090.jpg</picture>
+        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-799342147241-kolbasa-iz-rublenogo-myasa-tradichna-vij</url>
+        <count>9999</count>
+        <price>299.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>715825165071</categoryId>
+        <weight>0.6</weight>
+        <param name="Производитель">Словакия</param>
+        <param name="Вид колбасы">Сырокопченая</param>
+        <param name="Сорт">Высший</param>
+        <param name="Состав">свинина, говядина и смеси приправ</param>
+      </offer>
+      <offer id="240807988481" available="true">
+        <name>Колбаса салями сырокопченная Nitran Vijofel 600г.</name>
+        <vendorCode>988481</vendorCode>
+        <description><![CDATA[
+
+Колбаса Vijofel Nitran 600г Словакия <br />Очень вкусная салями колбаса сырокопченная Vijofel Nitran, цена за палку весом примерно 600г. <br />Это салями самое популярное в европе из-за идеального баланса цены и качества. Упаковка: натуральная оболочка
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3038-3666-4533-b563-663061643162/78104633.jpg</picture>
+        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-240807988481-kolbasa-salyami-sirokopchennaya-nitran-v</url>
+        <count>9999</count>
+        <price>299.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>715825165071</categoryId>
+        <weight>0.6</weight>
+        <param name="Производитель">Словакия</param>
+        <param name="Вид колбасы">Сырокопченая</param>
+        <param name="Сорт">Высший</param>
+        <param name="Состав">свинина, говядина и смеси приправ</param>
       </offer>
     </offers>
   </shop>
