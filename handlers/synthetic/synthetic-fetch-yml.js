@@ -22,9 +22,7 @@ const { tldYMLLink } = require('../../common/const')
 
         // Remove products
         let filtered_offers = offers.filter(
-            (offer) =>
-                !excludeList.includes(offer['$'].id) &&
-                !excludeList.includes(offer.vendorCode[0]) // remove aveopt products
+            (offer) => !excludeList.includes(offer['$'].id)
         )
         // Remove products under price boundry
         filtered_offers = filtered_offers.filter(

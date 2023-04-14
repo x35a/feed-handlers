@@ -1,6 +1,4 @@
-const fs = require('fs')
 const xml2js = require('xml2js')
-const parser = new xml2js.Parser()
 
 const excludeList = [
     // dobroflot
@@ -43,16 +41,6 @@ const excludeList = [
         '350100578251'
     ]
 ]
-
-// Exclude aveopt products
-// const aveoptXMLFeed = fs.readFileSync('./handlers/aveopt/products_feed.xml')
-// const aveoptIDList = []
-// parser.parseString(aveoptXMLFeed, function (err, result) {
-//     result.yml_catalog.shop[0].offers[0].offer.forEach((product) => {
-//         aveoptIDList.push(product.$.id)
-//     })
-// })
-// excludeList.push(aveoptIDList)
 
 exports.excludeList = excludeList.flat()
 exports.priceLowerBoundry = 299
