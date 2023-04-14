@@ -7,7 +7,7 @@ const fetchFeed = require('../../common/fetch-feed')
 const path = require('../../common/feeds-path')
 const outputFilePath = path.synthetic.output
 
-const excludeList = require('./exclude')
+const { excludeList, priceLowerBoundry } = require('./exclude')
 const vendor_name = 'Smart Food Shop'
 const feedDone = 'synthetic-feed.yml done'
 const { tldYMLLink } = require('../../common/const')
@@ -21,10 +21,14 @@ const { tldYMLLink } = require('../../common/const')
         const offers = result.yml_catalog.shop[0].offers[0].offer
 
         // Remove products
-        const filtered_offers = offers.filter(
+        let filtered_offers = offers.filter(
             (offer) =>
                 !excludeList.includes(offer['$'].id) &&
                 !excludeList.includes(offer.vendorCode[0]) // remove aveopt products
+        )
+        // Remove products under price boundry
+        filtered_offers = filtered_offers.filter(
+            (offer) => parseInt(offer.price) >= priceLowerBoundry
         )
         result.yml_catalog.shop[0].offers[0].offer = filtered_offers
 

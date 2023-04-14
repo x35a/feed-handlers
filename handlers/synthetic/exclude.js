@@ -54,4 +54,5 @@ const excludeList = [
 // })
 // excludeList.push(aveoptIDList)
 
-module.exports = excludeList.flat()
+exports.excludeList = excludeList.flat()
+exports.priceLowerBoundry = 299
