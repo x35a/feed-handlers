@@ -8,8 +8,6 @@
         "backup feeds": "node backup/backup-feeds.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
-        "aveopt-get-feed-diff": "node backup/backup-feeds.js & node handlers/aveopt/aveopt.js --diffFeed",
-        "//": "run backup-feeds.js before aveopt.js if tld import mistake happend and new feed products overwrite all previous products",
         "merchant": "node handlers/merchant/merchant.js"
     },
     "author": "",

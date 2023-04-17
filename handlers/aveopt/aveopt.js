@@ -1,3 +1,10 @@
+// run
+// node handlers/aveopt/aveopt.js --diffFeed
+
+// backup then run
+// run backup-feeds.js before aveopt.js if tld import mistake happend and new feed products overwrite all previous products
+// node backup/backup-feeds.js & node handlers/aveopt/aveopt.js --diffFeed
+
 const fs = require('fs')
 const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
