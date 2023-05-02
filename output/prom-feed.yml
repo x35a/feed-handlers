@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-04-22T22:59:37+03:00">
+<yml_catalog date="2023-05-02T19:24:05+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -40,8 +40,6 @@
       <category id="263526330341">Весенние Предложения</category>
       <category id="655379438411">Осенние Предложения</category>
       <category id="244026914791">Новый Год и Рождество</category>
-      <category id="793300550321">Диетические продукты</category>
-      <category id="990420093051">Продукты без глютена</category>
       <category id="731014470441">HoReCa</category>
       <category id="865603265821">Все</category>
     </categories>
@@ -1082,24 +1080,6 @@ Fusilli Barilla - три скрепленные вместе и закручен
         <param name="Форма">Спиральки (Фузилли)</param>
         <param name="Упаковка">Пачка</param>
       </offer>
-      <offer id="584226900041" available="true">
-        <name>Лапша БЕЗ ЯИЦ Barilla Collezione Tagliatelle 500г</name>
-        <vendorCode>584226</vendorCode>
-        <description><![CDATA[
-
-Макаронные изделия БЕЗ ЯИЦ Barilla Collezione Tagliatelle (лапша) Италия 500гр. Barilla International, Италия Fettuccine изысканная итальянская паста - , родом из провинции Тоскана. Создана на основе отборной муки из твердых сортов пшеницы Семола. <br />Имеет форму небольших гнезд, легким желтым оттенком и мягкой текстурой идеально подходит для профессионального и домашнего приготовления традиционной итальянской пасты: с классическим мясным соусом Болоньезе или сливочным Карбонара, с свежими томатами, ароматным базиликом и отборным оливковым маслом Extra Virgin для быстрого и легкого приготовления - для семейного обеда или романтического ужина<br />Абсолютно натуральный продукт. <br />время приготовления: 6-7 минут
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3533-6330-4530-b537-303035636163/225648925_images_187.jpg</picture>
-        <url>https://smartfood.org.ua/pasta/tproduct/320928224-584226900041-lapsha-bez-yaits-barilla-collezione-tagl</url>
-        <count>9999</count>
-        <price>129.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>910272790511</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Упаковка">Пачка</param>
-      </offer>
       <offer id="794412350671" available="true">
         <name>Макароны Capellini Barilla (Паутинка) N 1 500г</name>
         <vendorCode>794412</vendorCode>
@@ -1110,25 +1090,6 @@ Fusilli Barilla - три скрепленные вместе и закручен
 			<!--Enforce cdata-->]]></description>
         <picture>https://static.tildacdn.com/tild6635-6530-4534-a465-653965336434/spagetti-barilla-1-c.jpg</picture>
         <url>https://smartfood.org.ua/pasta/tproduct/320928224-794412350671-makaroni-capellini-barilla-pautinka-n-1</url>
-        <count>9999</count>
-        <price>65.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>910272790511</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Форма">Спагетти</param>
-        <param name="Упаковка">Пачка</param>
-      </offer>
-      <offer id="387053387361" available="true">
-        <name>Спагеттини Spaghettini Barilla N 3 500г</name>
-        <vendorCode>387053</vendorCode>
-        <description><![CDATA[
-
-Спагетини №3 идеальные в сочетании с различными морепродуктами с добавлением оливок, которые вместе создают гармонию цвета и вкуса средиземноморской кухни. Рекомендуем также попробовать спагетини из филе карпа в сочетании с ароматами чабреца, лаврового листа и палящего острого перца. Изготовлены из твердых сортов пшеницы. Время приготовления 5 минут.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3962-6336-4633-a364-353737633131/spagetti-barilla-spa.jpg</picture>
-        <url>https://smartfood.org.ua/pasta/tproduct/320928224-387053387361-spagettini-spaghettini-barilla-n-3-500g</url>
         <count>9999</count>
         <price>65.00</price>
         <currencyId>UAH</currencyId>
@@ -1174,25 +1135,6 @@ Pipe Rigat i- идеально сочетается с соусами из ов�
         <weight>0.5</weight>
         <param name="Производитель">Италия</param>
         <param name="Форма">Рожки</param>
-        <param name="Упаковка">Пачка</param>
-      </offer>
-      <offer id="159164600981" available="true">
-        <name>Макаронные изделия Bavette Barilla (лапша) N 13 500г</name>
-        <vendorCode>159164</vendorCode>
-        <description><![CDATA[
-
-Bavette №13 - один из длинных форматов пасты. Благодаря своей уникальной форме она прекрасно удерживает соус на своей поверхности и позволяет ему раскрыть всю гамму вкусов и ароматов. Изготовлены из твердых сортов пшеницы. Время приготовления 9 минут. Для выбора подходящего соуса, переходите по этой ссылке: соусы, соевые соусы, кетчупы, майонез, томатные пасты, приправы, уксус, горчица .
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3866-3963-4538-a133-636366393039/11656531-1.jpg</picture>
-        <url>https://smartfood.org.ua/pasta/tproduct/320928224-159164600981-makaronnie-izdeliya-bavette-barilla-laps</url>
-        <count>9999</count>
-        <price>69.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>910272790511</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Форма">Лапша</param>
         <param name="Упаковка">Пачка</param>
       </offer>
       <offer id="434611222991" available="true">
@@ -1756,7 +1698,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <picture>https://static.tildacdn.com/tild6436-3532-4163-b761-623636303866/helcom-masliny-900-g.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-446069504301-olivki-chernie-bez-kostochki-oliwki-czar</url>
         <count>9999</count>
-        <price>94.00</price>
+        <price>95.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.345</weight>
@@ -1813,7 +1755,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <picture>https://static.tildacdn.com/tild6336-3733-4135-b838-343138396161/4000915_00p.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-886406749911-olivki-zelenie-bez-kostochki-helcom-280g</url>
         <count>9999</count>
-        <price>71.00</price>
+        <price>69.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.28</weight>
@@ -2334,7 +2276,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <picture>https://static.tildacdn.com/tild6231-3065-4034-b331-653334613664/200227243_images_186.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-214522736061-izyum-dzhambo-zolotoi?editionuid=695139697011</url>
         <count>9999</count>
-        <price>129.00</price>
+        <price>209.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>0.5</weight>
@@ -2352,7 +2294,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <picture>https://static.tildacdn.com/tild6231-3065-4034-b331-653334613664/200227243_images_186.jpg</picture>
         <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-214522736061-izyum-dzhambo-zolotoi?editionuid=972331110361</url>
         <count>9999</count>
-        <price>249.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
@@ -4261,24 +4203,6 @@ Torras ZERO cranberries с какао-бобами и клюквой 125 г – 
         <weight>0.125</weight>
         <param name="Производитель">Испания</param>
         <param name="Тип шоколада">Черный</param>
-      </offer>
-      <offer id="734909558301" available="true">
-        <name>Шоколад Milka Choco Jelly (c драже, шипучками и мармеладками) 250г</name>
-        <vendorCode>734909</vendorCode>
-        <description><![CDATA[
-
-Milka Choco Jelly — молочный шоколад с кусочками разноцветных желе, шипучими гранулами и шоколадным драже. Красочная шоколадка, в каждом кусочке которой Вас ждет сюрприз! Вы не найдете двух одинаковых по вкусу кусочков. Шоколад Milka от швейцарских производителей - это всегда наивысшее качество и невероятное наслаждение.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6466-3030-4663-b132-386537313633/shokolad-milka-choco.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-734909558301-shokolad-milka-choco-jelly-c-drazhe-ship</url>
-        <count>9999</count>
-        <price>147.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.25</weight>
-        <param name="Производитель">Швейцария</param>
-        <param name="Тип шоколада">Молочный</param>
       </offer>
       <offer id="515499033711" available="true">
         <name>Шоколад без сахара и глютена Torras ZERO 85% какао 100г</name>
@@ -6746,7 +6670,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild6431-3835-4839-a266-373565653333/688176.jpeg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-800171589321-gretskii-oreh-ochischennii-babochka?editionuid=481316913731</url>
         <count>9999</count>
-        <price>289.00</price>
+        <price>275.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>1</weight>
@@ -6764,7 +6688,7 @@ Marinero Filety Makreli w Sosie — это нежное рыбное филе (�
         <picture>https://static.tildacdn.com/tild6431-3835-4839-a266-373565653333/688176.jpeg</picture>
         <url>https://smartfood.org.ua/nuts/tproduct/320926945-800171589321-gretskii-oreh-ochischennii-babochka?editionuid=280318902841</url>
         <count>9999</count>
-        <price>159.00</price>
+        <price>139.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>866426313361</categoryId>
         <weight>0.5</weight>
@@ -7101,6 +7025,24 @@ Loyd - Польша. Ароматный фруктовый чай. Создан 
         <param name="Форма">в пирамидках</param>
         <param name="Упаковка">Пачка</param>
         <param name="Количество в упаковке">20 шт.</param>
+      </offer>
+      <offer id="706104934631" available="true">
+        <name>Черный цейлонский чай c бергамотом Akbar «Do Ghazal Tea» Шри-Ланка 200г</name>
+        <vendorCode>706104</vendorCode>
+        <description><![CDATA[
+
+<br />Do Ghazal tea это 100% цейлонский чай с бергамотом с гор Цейлона, премиум класса. Цейлонский чай является особо ценным в виде черного чая из Шри-Ланки.<br />Чай AKBAR Black Tea - Цейлонский чай, который изготавливается из самых молодых листочков, собранных вручную в горных садах Шри-Ланки. Этот чай упаковывается сразу после сбора, что гарантирует его свежесть и качество. Коллекция представлена чаем в картонных пачках. <br /><br />Характеристики Akbar Do ghazal tea:<br /><br />— сорт чая – черный цейлонский чай;<br />— состав — черный цейлонский черный чай с бергамотом;<br />— выращен в Цейлоне;<br />— упакован в Шри Ланке, Akbar Brothers Ltd;<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3966-6565-4130-a561-626665623964/2759556929_w200_h200.jpg</picture>
+        <url>https://smartfood.org.ua/tea/tproduct/320929632-706104934631-chernii-tseilonskii-chai-c-bergamotom-ak</url>
+        <count>9999</count>
+        <price>229.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>516822319031</categoryId>
+        <weight>0.2</weight>
+        <param name="Производитель">Шри Ланка</param>
+        <param name="Тип">Черный чай</param>
       </offer>
       <offer id="145370842031" available="true">
         <name>Чай со вкусом малины, клубники и ганата Minutka 32 пакета 64г</name>
@@ -8858,7 +8800,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild3931-6336-4734-b734-346232616133/majonez-hellmanns-or.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-573344103851-maionez-hellmanns-original-420ml</url>
         <count>9999</count>
-        <price>139.00</price>
+        <price>159.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.42</weight>
@@ -9091,37 +9033,37 @@ Sottile Gusto Pomidory z Zurawina — это вяленые на солнце п
         <param name="Фасовка">3кг.</param>
       </offer>
       <offer id="158016723581" available="true">
-        <name>Тушенка говяжья, премиум по ДСТУ "Катериновский мясокомбинат" 500г.</name>
+        <name>Тушенка говяжья, премиум по ДСТУ "ЗМК" 460г.</name>
         <vendorCode>158016</vendorCode>
         <description><![CDATA[
 
-Тушенка говяжья высочайшего качества от комбината "Катериновский мясокомбинат" от продуктов других производителей отличается тем, что для приготовления отбирается только свежее не жирное мясо высшего сорта. Консервант – только соль. <br />Никаких усилителей вкуса и красителей! Строго по ГОСТ! <br />Состав:<br />Мясо говядины, Лавровый лист, перец черный, перец душистый, соль.
+Тушенка говяжья высочайшего качества от комбината "ЗМК" от продуктов других производителей отличается тем, что для приготовления отбирается только свежее не жирное мясо высшего сорта. Консервант – только соль. <br />Никаких усилителей вкуса и красителей! Строго по ГОСТ! <br />Состав:<br />Мясо говядины, Лавровый лист, перец черный, перец душистый, соль.
 
 			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3436-3934-4437-a366-396364313364/83883417.png</picture>
-        <url>https://smartfood.org.ua/canned/tproduct/320925876-158016723581-tushenka-govyazhya-premium-po-dstu-kater</url>
+        <picture>https://static.tildacdn.com/stor6336-6132-4132-a561-653162313434/80949681.jpg</picture>
+        <url>https://smartfood.org.ua/canned/tproduct/320925876-158016723581-tushenka-govyazhya-premium-po-dstu-zmk-4</url>
         <count>9999</count>
-        <price>109.00</price>
+        <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
-        <weight>0.5</weight>
+        <weight>0.46</weight>
         <param name="Производитель">Украина</param>
       </offer>
       <offer id="807236347321" available="true">
-        <name>Тушенка свиная, премиум по ДСТУ "Катериновский мясокомбинат" 500г.</name>
+        <name>Тушенка свиная, премиум по ДСТУ "ЗМК" 460г.</name>
         <vendorCode>807236</vendorCode>
         <description><![CDATA[
 
 Тушенка говяжья высочайшего качества от комбината "Катериновский мясокомбинат" от продуктов других производителей отличается тем, что для приготовления отбирается только свежее не жирное мясо высшего сорта. Консервант – только соль.<br />Никаких усилителей вкуса и красителей! Строго по ГОСТ!<br />Состав:<br />Мясо свинины, Лавровый лист, перец черный, перец душистый, соль.
 
 			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3435-3436-4661-b163-316636643966/94282474.png</picture>
-        <url>https://smartfood.org.ua/canned/tproduct/320925876-807236347321-tushenka-svinaya-premium-po-dstu-katerin</url>
+        <picture>https://static.tildacdn.com/stor3035-3438-4063-b431-393562343638/84576062.jpg</picture>
+        <url>https://smartfood.org.ua/canned/tproduct/320925876-807236347321-tushenka-svinaya-premium-po-dstu-zmk-460</url>
         <count>9999</count>
-        <price>121.00</price>
+        <price>119.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
-        <weight>0.5</weight>
+        <weight>0.46</weight>
         <param name="Производитель">Украина</param>
       </offer>
       <offer id="365447624521" available="true">
@@ -9483,6 +9425,23 @@ Poli Pest senz aglio - это аромат свежего базилика в с
         <weight>0.27</weight>
         <param name="Производитель">Швейцария</param>
       </offer>
+      <offer id="502321356831" available="true">
+        <name>Оливковое масло для жарки Bertolli Robusto 5л</name>
+        <vendorCode>502321</vendorCode>
+        <description><![CDATA[
+
+Оливковое масло высшей категории производства известной итальянской марки BERTOLLI, расфасовано в Украине.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3732-3735-4230-b361-623465613739/olivkovoe-maslo-dlya.jpg</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-502321356831-olivkovoe-maslo-dlya-zharki-bertolli-rob</url>
+        <count>9999</count>
+        <price>599.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>5</weight>
+        <param name="Производитель">Италия</param>
+      </offer>
       <offer id="408296596951" available="true">
         <name>Оливковое масло Antico Frantoio Olio Extra Vergine di Oliva 5л</name>
         <vendorCode>408296</vendorCode>
@@ -9792,7 +9751,7 @@ Poli Pest senz aglio - это аромат свежего базилика в с
         <param name="Производитель">Польша</param>
       </offer>
       <offer id="755396732501" available="true">
-        <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 750г</name>
+        <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 825г</name>
         <vendorCode>755396</vendorCode>
         <description><![CDATA[
 
@@ -9802,10 +9761,10 @@ Poli Pest senz aglio - это аромат свежего базилика в с
         <picture>https://static.tildacdn.com/tild3432-6466-4462-a162-633836346536/images1000x700.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-755396732501-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>409.00</price>
+        <price>415.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
-        <weight>0.75</weight>
+        <weight>0.825</weight>
         <param name="Производитель">Германия</param>
       </offer>
       <offer id="892636171561" available="true">
@@ -9819,7 +9778,7 @@ Poli Pest senz aglio - это аромат свежего базилика в с
         <picture>https://static.tildacdn.com/tild6434-6135-4939-a239-396461353563/940565976_w640_h640_.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-892636171561-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>247.00</price>
+        <price>219.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>0.45</weight>
@@ -9836,7 +9795,7 @@ Poli Pest senz aglio - это аромат свежего базилика в с
         <picture>https://static.tildacdn.com/tild3261-6638-4336-b364-633432336433/2321583777_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-601994698821-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>514.00</price>
+        <price>475.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>1</weight>
@@ -10290,7 +10249,7 @@ Miami Podusiaki— с ванильным вкусом. Ванильные под
         <picture>https://static.tildacdn.com/tild6331-3363-4333-a333-396432356662/granatovyj-sous-nars.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-354269415941-sous-ganatovii-narsharab-narsarab-240g</url>
         <count>9999</count>
-        <price>75.00</price>
+        <price>65.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.24</weight>
@@ -10409,7 +10368,7 @@ Miami Podusiaki— с ванильным вкусом. Ванильные под
         <picture>https://static.tildacdn.com/tild6238-6465-4332-b139-616530623838/depositphotos_139929.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-326170813341-stavridka-soleno-sushenaya-1kg</url>
         <count>9999</count>
-        <price>892.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -10440,7 +10399,7 @@ Miami Podusiaki— с ванильным вкусом. Ванильные под
 Закуска изготовлена путем прессования тушки кальмара с последующим добавлением арахисового масла, что придает ему невероятно пикантный, сладковатый вкус. Данный вид морской закуски получил широкую популярность.<br />
 
 			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6630-6435-4331-b336-303132393761/peruanskij-kalmar-1k.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6332-6637-4433-b536-376665373239/16536858.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-518244608081-kalmar-peruanskii-1kg</url>
         <count>9999</count>
         <price>839.00</price>
@@ -10740,7 +10699,7 @@ Barilla Basilico традиционный томатный соус Базили
         <picture>https://static.tildacdn.com/tild6632-3362-4265-a531-313434643734/177896872.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-685781469451-sous-ostrii-sambal-sambal-oelek-inproba</url>
         <count>9999</count>
-        <price>75.00</price>
+        <price>85.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.2</weight>
@@ -11094,7 +11053,7 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <picture>https://static.tildacdn.com/tild3639-3431-4432-a430-373734653664/D0BBD0B8D0BBD0B8D0BF.jpg</picture>
         <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-742993255571-sir-liliput-swiatowid-350-g</url>
         <count>9999</count>
-        <price>157.00</price>
+        <price>149.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>443169019671</categoryId>
         <weight>0.35</weight>
@@ -11838,7 +11797,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3562-6465-4931-b866-306636363833/sous-dresing-kania-n.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-834324639061-sous-dresing-zapravka-dlya-salata-kania</url>
         <count>9999</count>
-        <price>119.00</price>
+        <price>129.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.5</weight>
@@ -12386,6 +12345,23 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-597296911781-koltsa-osminoga-snek-k-pivu-1kg</url>
         <count>9999</count>
         <price>829.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Вьетнам</param>
+      </offer>
+      <offer id="630759250471" available="true">
+        <name>Креветка сушеная большая, снек 1кг</name>
+        <vendorCode>630759</vendorCode>
+        <description><![CDATA[
+
+Сушеные креветки являются отличным снеком и используется в качестве закуски.<br /><br />Отличная закуска к светлому пиву.<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6335-3266-4661-b734-393864633663/krevetka-sush-smetan.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-630759250471-krevetka-sushenaya-bolshaya-snek-1kg</url>
+        <count>9999</count>
+        <price>999.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -13272,7 +13248,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild6139-6437-4434-b366-626636303666/2197479579_w700_h500.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-621527446421-ananas-koltsami-v-sirope-mampk-565g</url>
         <count>9999</count>
-        <price>83.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.565</weight>
@@ -13290,7 +13266,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild6439-6461-4062-b434-366134393431/mango-lomtikami-v-le.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-979438427391-mango-lomtikami-v-legkom-sirope-mampk-42</url>
         <count>9999</count>
-        <price>89.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.425</weight>
@@ -13308,7 +13284,7 @@ Barilla al Amatriciana, 400 мл&nbsp;- великолепный томатны�
         <picture>https://static.tildacdn.com/tild3162-6365-4563-a539-396431663839/177875641.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-267045725831-persik-polovinkami-v-legkom-sirope-mampk</url>
         <count>9999</count>
-        <price>115.00</price>
+        <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.85</weight>
@@ -13676,24 +13652,6 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <currencyId>UAH</currencyId>
         <categoryId>300028999651</categoryId>
         <weight>0.255</weight>
-        <param name="Производитель">Испания</param>
-        <param name="Тип">Фасованные</param>
-      </offer>
-      <offer id="310308671491" available="true">
-        <name>Печенье Золотое высокоолейновое Gullon Dorada Maria,(3x200г) 600г</name>
-        <vendorCode>310308</vendorCode>
-        <description><![CDATA[
-
-<p>Печенье Золотое Мария высокоолейновое Gullon Dorada Maria,(3x200г) 600г. Испания</p> <p>Высокоолеиновый подсолнечник - это подсолнечник с высоким содержанием мононенасыщенной жирной олеиновой кислоты Омега-3, и низким содержанием полиненасыщенной жирной линолевой кислоты Омега-6.</p> <p>В упаковке находится 3 тубы печенья по 200 г</p> <p>Печенье отлично сочетается не только с чаем, но и с кофе, соком, молоком и даже какао. Оно не только мега аппетитное, но ещё и полезное.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3332-6461-4933-a539-616666386162/33792287.jpg</picture>
-        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-310308671491-pechene-zolotoe-visokooleinovoe-gullon-d</url>
-        <count>9999</count>
-        <price>104.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>300028999651</categoryId>
-        <weight>0.6</weight>
         <param name="Производитель">Испания</param>
         <param name="Тип">Фасованные</param>
       </offer>
@@ -14677,23 +14635,6 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <weight>0.41</weight>
         <param name="Производитель">Польша</param>
       </offer>
-      <offer id="718834870011" available="true">
-        <name>Соус Салатный Madero Sos Sezamowy (Сезамовый) 380 г</name>
-        <vendorCode>718834</vendorCode>
-        <description><![CDATA[
-
-Соус Салатный Madero Sos Sezamowy 410g&nbsp;—&nbsp;Кунжутный соус. Один из лучший вкусов Madero. Содержит настоящие семена, и имеет интригующий сладко-горький привкус.<br /><br />Дополните свои блюда оригинальным соусами Madero! Madero подходит к жареному мясу и рыбе, а также приготовленным на гриле блюдам и к многому другому. Он обогатит вкус и придаст сочность каждому блюду. Ваша семья по достоинству оценит добавление этого великолепного соуса к традиционной пище.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6265-3138-4131-b465-333162613937/sous-salatnyj-madero.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-718834870011-sous-salatnii-madero-sos-sezamowy-sezamo</url>
-        <count>9999</count>
-        <price>75.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.38</weight>
-        <param name="Производитель">Польша</param>
-      </offer>
       <offer id="627459195661" available="true">
         <name>Кетчуп Madero Pikantny (Пикантный) 560г</name>
         <vendorCode>627459</vendorCode>
@@ -15385,24 +15326,6 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Вакуумный пакет</param>
         <param name="Фасовка">1кг.</param>
       </offer>
-      <offer id="506144212081" available="true">
-        <name>Томаты дробленые, сушеные 1 кг.</name>
-        <vendorCode>506144</vendorCode>
-        <description><![CDATA[
-
-Сушеные (вяленые) помидоры в хлопьях&nbsp;- это продукт, особенно популярный&nbsp;в итальянской кухне. Высушенные томаты лишены влаги, но не богатого химического состава свежих помидоров - это витамины С, РР, группы В, минеральные вещества (магний, калий, фосфор, кальций), сахариды и пищевые волокна. Но самое главное, сушка помидоров не разрушает ликопен – мощный антиоксидант и гепатопротектор, придающий овощам красный цвет.<br />Калорийность сушеных помидоров выше свежих - 260 ккал против&nbsp;20 ккал на тот же вес свежих томатов,&nbsp;но зато вяленые овощи имеют намного более насыщенный&nbsp;вкус и пряный&nbsp;запах. Поэтому достаточно совсем небольшого количества томатных хлопьев, чтобы придать неповторимую пикантность супам, соусам или мясным блюдам.<br />Перед сушкой из помидор отжимают сок, убирают семена и крупные внутренние перегородки, после чего вялят в специальных сушилках.<br />Томаты кусочками можно использовать в качестве приправы как в сушеном, так и в&nbsp;восстановленном виде, залив водой на пару&nbsp;часов перед приготовлением.<br />Основные характеристики:<br /><ul><li>состав:&nbsp;сушеные (вяленые) помидоры в хлопьях</li><li>цвет:&nbsp;красный</li><li>внешний вид:&nbsp;кусочки (хлопья)</li><li>фракция:&nbsp;5х5 мм</li><li>вес:&nbsp;50 г и 100 г</li><li>срок хранения:&nbsp;24 месяца при комнатной температуре</li></ul><br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6237-3937-4434-b034-666136393231/1776495223_w640_h640.jpg</picture>
-        <url>https://smartfood.org.ua/spices/tproduct/320931553-506144212081-tomati-droblenie-sushenie-1-kg</url>
-        <count>9999</count>
-        <price>249.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>647536114381</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Китай</param>
-        <param name="Фасовка">Пакет</param>
-      </offer>
       <offer id="668408195601" available="true">
         <name>Горчица сушеная, молотая 1 кг.</name>
         <vendorCode>668408</vendorCode>
@@ -15883,7 +15806,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=269200725321</url>
         <count>9999</count>
-        <price>899.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -15901,7 +15824,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=299688014701</url>
         <count>9999</count>
-        <price>449.00</price>
+        <price>429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -17208,7 +17131,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild6663-6333-4832-b839-653437633565/64bc44be2b710f3a7a8b.png</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-570082378331-solomka-sazana-snek-k-pivu-1kg</url>
         <count>9999</count>
-        <price>999.00</price>
+        <price>919.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17590,7 +17513,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3839-3163-4236-a231-653136303964/gustera-vyalenaya.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-117939861521-gustera-vyalenaya-chischennaya-1kg</url>
         <count>9999</count>
-        <price>249.00</price>
+        <price>349.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17624,7 +17547,7 @@ Lavazza Club молотый кофе<br />Премиальный кофе для
         <picture>https://static.tildacdn.com/tild3237-3432-4966-b663-663664383463/sinec_vjalenyj1.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-704183714691-sinets-vyalenii-1kg</url>
         <count>9999</count>
-        <price>249.00</price>
+        <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -17865,6 +17788,23 @@ HPA Extra Virgin - это фермерское органическое олив
         <weight>1</weight>
         <param name="Производитель">Индия</param>
         <param name="Фасовка">Пакет</param>
+      </offer>
+      <offer id="546707573251" available="true">
+        <name>Гибискус сушеный Royal Hibiscus Fruit 500г</name>
+        <vendorCode>546707</vendorCode>
+        <description><![CDATA[
+
+Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;теплолюбивое#nbsp;растение, которое насчитывает около трех сот разновидностей. Чаще всего гибискус растет на территории Мексики, Шри-Ланки, Малайзии, Египта, Таиланда, Судана, именно поэтому, это растение носит второе название «суданская роза».#nbsp;На востоке ему еще дали название «Королевский» цветок.<br />Сейчас во всем мире очень широко применяют это растение. В кулинарии гибискус используют для#nbsp;компотов, десертов, варенья, он может послужить натуральным красителем и подсластителем. Высушенные цветки суданской розы#nbsp;применяют для приготовления ароматной приправы, которая отлично сочетается с мясными и овощными блюдами.<br />Гибискус (каркаде) обладает целым рядом полезных свойств, что обусловлено его уникальным химическим составом. При этом, несмотря на егоогромную пользу для организма и содержание в нем белка и углеводов, каркаде является низкокалорийным, калорийность составляет всего 5 кКал на 100 г. продукта.<br />На основе суданской розы производятся#nbsp;лекарственные препараты,#nbsp;а#nbsp;в народной медицине из него делают#nbsp;настои и отвары, оказывающие лечебное и общеукрепляющее действие. В косметологии гибискус используют для создания ухаживающих средств для#nbsp;лица, тела#nbsp;и волос.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6565-3264-4763-b438-393430313332/2797101898_gibiskus-.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-546707573251-gibiskus-sushenii-royal-hibiscus-fruit-5</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Таиланд</param>
       </offer>
       <offer id="695803890001" available="true">
         <name>Яблоки сушеные (без сахара) "Amanti" 500г</name>
@@ -18330,7 +18270,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3664-3133-4432-b832-643039343939/polosatik-zheltyj-ku.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-672216678271-zheltii-polosatik-krupnii-korolevskii-1k</url>
         <count>9999</count>
-        <price>949.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -18417,7 +18357,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3739-3238-4365-b465-343037303139/chipsy-iz-kurinoj-gr.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-784548119491-palochki-kurinie-sushenievyalenie-kurini?editionuid=497010483741</url>
         <count>9999</count>
-        <price>814.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -18435,7 +18375,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <picture>https://static.tildacdn.com/tild3739-3238-4365-b465-343037303139/chipsy-iz-kurinoj-gr.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-784548119491-palochki-kurinie-sushenievyalenie-kurini?editionuid=652139436611</url>
         <count>9999</count>
-        <price>415.00</price>
+        <price>405.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -18636,7 +18576,7 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <param name="Фасовка">500г</param>
       </offer>
       <offer id="629695559311" available="true">
-        <name>Плотва вяленая с икрой, чищенная 1кг.</name>
+        <name>Плотва большая вяленая с икрой, чищенная 1кг.</name>
         <vendorCode>629695</vendorCode>
         <description><![CDATA[
 
@@ -18644,9 +18584,9 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
 
 			<!--Enforce cdata-->]]></description>
         <picture>https://static.tildacdn.com/tild3731-3639-4531-a465-353932643330/src1617017263SNCPSG1.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-629695559311-plotva-vyalenaya-s-ikroi-chischennaya-1k</url>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-629695559311-plotva-bolshaya-vyalenaya-s-ikroi-chisch</url>
         <count>9999</count>
-        <price>399.00</price>
+        <price>499.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -18668,6 +18608,60 @@ MacCoffee 3 в 1 Оригинал#nbsp;— это уникальное соче�
         <categoryId>441079117491</categoryId>
         <weight>0.33</weight>
         <param name="Производитель">Польша</param>
+      </offer>
+      <offer id="470077746201" available="true">
+        <name>Сухое домашнее мороженное сливочное Lody Domowe ТМ "Cykoria" 60г</name>
+        <vendorCode>470077</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Cykoria Lody Domowe — порошок для приготовления мороженого. Эта смесь идеально подходит для любителей приготовления домашнего мороженого. Так как вкус у него отличается от того, которое продаётся в магазине, но всё равно очень вкусное.</p><p style="text-align: left;">Лучше выбирать для приготовления молоко с повышенным процентом#nbsp;жирности. Массу можно взбивать миксером или блендером, но может не получиться однородная масса. Поэтому лучше, все-таки, использовать миксер.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6538-3339-4530-b633-363739613166/2433207383_morozivo-.jpg</picture>
+        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-470077746201-suhoe-domashnee-morozhennoe-slivochnoe-l</url>
+        <count>9999</count>
+        <price>35.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>444943533321</categoryId>
+        <weight>0.06</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Тип шоколада">Черный</param>
+      </offer>
+      <offer id="356660588821" available="true">
+        <name>Сухое домашнее мороженное ванильное Lody Domowe ТМ "Cykoria" 60г</name>
+        <vendorCode>356660</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Cykoria Lody Domowe — порошок для приготовления мороженого. Эта смесь идеально подходит для любителей приготовления домашнего мороженого. Так как вкус у него отличается от того, которое продаётся в магазине, но всё равно очень вкусное.</p><p style="text-align: left;">Лучше выбирать для приготовления молоко с повышенным процентом#nbsp;жирности. Массу можно взбивать миксером или блендером, но может не получиться однородная масса. Поэтому лучше, все-таки, использовать миксер.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6536-6431-4033-b235-316666326131/2433207589_morozivo-.jpg</picture>
+        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-356660588821-suhoe-domashnee-morozhennoe-vanilnoe-lod</url>
+        <count>9999</count>
+        <price>35.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>444943533321</categoryId>
+        <weight>0.06</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Тип шоколада">Черный</param>
+      </offer>
+      <offer id="584858714351" available="true">
+        <name>Сухое домашнее мороженное шоколадное Lody Domowe ТМ "Cykoria" 60г</name>
+        <vendorCode>584858</vendorCode>
+        <description><![CDATA[
+
+<p style="text-align: left;">Cykoria Lody Domowe — порошок для приготовления мороженого. Эта смесь идеально подходит для любителей приготовления домашнего мороженого. Так как вкус у него отличается от того, которое продаётся в магазине, но всё равно очень вкусное.</p><p style="text-align: left;">Лучше выбирать для приготовления молоко с повышенным процентом#nbsp;жирности. Массу можно взбивать миксером или блендером, но может не получиться однородная масса. Поэтому лучше, все-таки, использовать миксер.</p>
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3639-3637-4539-b861-386139356639/2433207067_morozivo-.jpg</picture>
+        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-584858714351-suhoe-domashnee-morozhennoe-shokoladnoe</url>
+        <count>9999</count>
+        <price>35.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>444943533321</categoryId>
+        <weight>0.06</weight>
+        <param name="Производитель">Польша</param>
+        <param name="Тип шоколада">Черный</param>
       </offer>
       <offer id="678109944881" available="true">
         <name>Салями Negroni Salame Napoli, 450г</name>
@@ -19209,24 +19203,6 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <weight>0.3</weight>
         <param name="Производитель">Италия</param>
       </offer>
-      <offer id="467156147281" available="true">
-        <name>Сыр Гудбрандсдален Gudbrandsdalen ТМ "TINE Norway" 500г.</name>
-        <vendorCode>467156</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Этот традиционный Норвежский сыр стал сегодня визитной карточкой страны вечных холодов. Если быть совсем точным, Гудбрандсдален - это тип коричневого норвежского сыра бруност / Брюнуст (норв. Brunost, «коричневый сыр", в Швеции - швед. Mesost), что происходит из долины Гудбрандсдал в Норвегии. В Норвегии с давних времен принято варить особым образ молоко и сыворотку вместе, чтобы ПОЛУЧИТЬ «приму»#nbsp;- мягкий по консистенции сыр коричневого цвета, сладкого на вкус.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3539-3262-4737-a165-346232336234/tine-gudbrandsdalen.jpg</picture>
-        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-467156147281-sir-gudbrandsdalen-gudbrandsdalen-tm-tin</url>
-        <count>9999</count>
-        <price>449.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>443169019671</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Норвегия</param>
-        <param name="Упаковка">Вакуумный пакет</param>
-      </offer>
       <offer id="656151598871" available="true">
         <name>Пахлава персидская с грецким орехом Baklava Sultan 1кг.</name>
         <vendorCode>656151</vendorCode>
@@ -19372,6 +19348,23 @@ Davidoff Cafe Rich Aroma - это восхитительное сочетани�
         <param name="Производитель">Алжир</param>
         <param name="Фасовка">Коробка</param>
       </offer>
+      <offer id="431405918091" available="true">
+        <name>Нерафинированное ароматное подсолнечное масло «Домашнее» 1л.</name>
+        <vendorCode>918091</vendorCode>
+        <description><![CDATA[
+
+Нерафинированное ароматное подсолнечное масло «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом. Идеально подходит для приготовления традиционных русских блюд, салатов, выпечки и холодных закусок.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6635-6438-4464-a635-636238643166/U1fb4759c764e4c7e8b0.jpg</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-431405918091-nerafinirovannoe-aromatnoe-podsolnechnoe</url>
+        <count>9999</count>
+        <price>105.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+      </offer>
       <offer id="887027594211" available="true">
         <name>Сыр в слайсах Гауда Gouda "Wloszczowa" 1кг.</name>
         <vendorCode>887027</vendorCode>
@@ -19426,6 +19419,23 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <param name="Упаковка">Пакет</param>
         <param name="Форма выпуска">Зерновой</param>
+      </offer>
+      <offer id="355586451391" available="true">
+        <name>Нерафинированное масло из жареных семечек «Домашнее» 1л.</name>
+        <vendorCode>355586</vendorCode>
+        <description><![CDATA[
+
+Нерафинированное ароматное подсолнечное масло#nbsp;из жареных семечек «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6465-3934-4634-a264-613965393230/maslo-slivochnoe-400.jpg</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-355586451391-nerafinirovannoe-maslo-iz-zharenih-semec</url>
+        <count>9999</count>
+        <price>105.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
       </offer>
       <offer id="199765160571" available="true">
         <name>Кофе в зернах Tuskani 50% арабика 50% робуста 1кг.</name>
@@ -19774,7 +19784,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/tild3235-3837-4331-b236-363937313633/8033162300826-main.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-566350872871-artishoki-v-masle-bella-contadina-carcio</url>
         <count>9999</count>
-        <price>250.00</price>
+        <price>259.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.95</weight>
@@ -20267,7 +20277,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6530-3438-4162-b765-383965303136/27586409.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-586844846891-sous-dlya-pitstsi-so-spetsiyami-duefagia</url>
         <count>9999</count>
-        <price>379.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>4.1</weight>
@@ -20341,7 +20351,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/tild6436-3532-4163-b761-623636303866/helcom-masliny-900-g.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-238065525541-olivki-chernie-bez-kostochki-oliwki-czar</url>
         <count>9999</count>
-        <price>174.00</price>
+        <price>179.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.9</weight>
@@ -20359,7 +20369,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor3636-3766-4736-a531-656635623137/67325837.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-910206456111-olivki-zelenie-bez-kostochki-oliwki-ziel</url>
         <count>9999</count>
-        <price>174.00</price>
+        <price>179.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.9</weight>
@@ -20453,25 +20463,6 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Индия</param>
         <param name="Фасовка">Пакет</param>
       </offer>
-      <offer id="554261049211" available="true">
-        <name>Сосиски курячі Yano Parowki z Kurczat, 1 кг.</name>
-        <vendorCode>049211</vendorCode>
-        <description><![CDATA[
-
-Смачні курячі сосиски від Yano Parowki Wedzone z kurczat — апетитні ковбасні вироби на основі натурального м’яса. Подобаються дорослим і малюкам. Продукт польської торгової марки виготовлений із дотриманням європейських стандартів якості, тому безпечний для дитячого організму.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor3530-3061-4739-a262-336631326261/81294649.jpg</picture>
-        <url>https://smartfood.org.ua/meat-sausages/tproduct/320929133-554261049211-sosiski-kuryach-yano-parowki-z-kurczat-1</url>
-        <count>9999</count>
-        <price>145.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>715825165071</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Польша</param>
-        <param name="Вид колбасы">Сыровяленая</param>
-        <param name="Сорт">Высший</param>
-      </offer>
       <offer id="710692293911" available="true">
         <name>Тушенка куриная, премиум по ДСТУ "Катериновский мясокомбинат" 500г.</name>
         <vendorCode>710692</vendorCode>
@@ -20500,7 +20491,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6461-3230-4665-a338-656237306165/41279430.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-952337241711-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>1199.00</price>
+        <price>1149.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>1</weight>
@@ -20725,8 +20716,8 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6133-3265-4136-b133-386162306266/61204910.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-388923009941-nabor-myasnih-snekov-k-pivu-1-kg</url>
         <count>9999</count>
-        <price>799.00</price>
-        <oldprice>849.00</oldprice>
+        <price>849.00</price>
+        <oldprice>899.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -20743,8 +20734,8 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor3037-3533-4135-b032-396235373862/86840643.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-877573346081-nabor-myasnih-snekov-k-pivu-600-gramm</url>
         <count>9999</count>
-        <price>499.00</price>
-        <oldprice>555.00</oldprice>
+        <price>549.00</price>
+        <oldprice>599.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -20829,7 +20820,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor3433-3066-4235-b532-633132356464/84915760.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-nut-spreads/tproduct/320927919-936980160951-orehovaya-pasta-s-kakao-nutella-200-g</url>
         <count>9999</count>
-        <price>129.00</price>
+        <price>139.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>658530553911</categoryId>
         <weight>0.2</weight>
@@ -21446,6 +21437,180 @@ Lavazza Qualita'Oro – это стопроцентная смесь Араби�
         <categoryId>443169019671</categoryId>
         <weight>0.1</weight>
         <param name="Производитель">Италия</param>
+      </offer>
+      <offer id="675902747211" group_id="919500093" available="true">
+        <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 1кг.</name>
+        <vendorCode>0937111</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3664-3366-4563-b437-343535663038/14237334.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-919500093711-kurinoe-myaso-vyalenoe-yantarnoe-kurinie?editionuid=675902747211</url>
+        <count>9999</count>
+        <price>799.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">1кг.</param>
+      </offer>
+      <offer id="561727783481" group_id="919500093" available="true">
+        <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 500г</name>
+        <vendorCode>0937112</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3664-3366-4563-b437-343535663038/14237334.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-919500093711-kurinoe-myaso-vyalenoe-yantarnoe-kurinie?editionuid=561727783481</url>
+        <count>9999</count>
+        <price>399.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">500г</param>
+      </offer>
+      <offer id="831347751231" available="true">
+        <name>Вафли GULLON Barquichoco с шоколадным кремом 150 г.</name>
+        <vendorCode>751231</vendorCode>
+        <description><![CDATA[
+
+Gullon — испанский бренд, известный во всей Европе своим печеньем. Компания активно выступает за здоровый образ жизни и готовит продукцию без вредных ингредиентов. Торговая марка создана в 1892 году и на сегодня является единственным семейным бизнесом по производству бисквитного печенья с такой богатой историей. В ассортименте Gullon есть отдельные линейки без сахара, глютена, лактозы, яиц и др. Каждый сможет подобрать продукт, состав которого его удовлетворит на 100%, будет вкусным и полезным для здоровья. Безопасность и стабильное качество являются приоритетными для испанского бренда. Продукцию этой марки любят и уважают вегетарианцы. Компания Gullon создала сегмент здорового питания в Испании и продолжает заниматься этим спустя сотню лет после основания, расширив аудиторию на 120 стран, включая и Украину.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3931-6631-4862-b865-306264306364/79096886.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-831347751231-vafli-gullon-barquichoco-s-shokoladnim-k</url>
+        <count>9999</count>
+        <price>62.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>0.15</weight>
+        <param name="Производитель">Испания</param>
+      </offer>
+      <offer id="212127355781" available="true">
+        <name>Вафли GULLON Barquinata со сливочным кремом 150 г.</name>
+        <vendorCode>355781</vendorCode>
+        <description><![CDATA[
+
+Gullon — испанский бренд, известный во всей Европе своим печеньем. Компания активно выступает за здоровый образ жизни и готовит продукцию без вредных ингредиентов. Торговая марка создана в 1892 году и на сегодня является единственным семейным бизнесом по производству бисквитного печенья с такой богатой историей. В ассортименте Gullon есть отдельные линейки без сахара, глютена, лактозы, яиц и др. Каждый сможет подобрать продукт, состав которого его удовлетворит на 100%, будет вкусным и полезным для здоровья. Безопасность и стабильное качество являются приоритетными для испанского бренда. Продукцию этой марки любят и уважают вегетарианцы. Компания Gullon создала сегмент здорового питания в Испании и продолжает заниматься этим спустя сотню лет после основания, расширив аудиторию на 120 стран, включая и Украину.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3235-3935-4561-a638-323164666230/76367834.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-212127355781-vafli-gullon-barquinata-so-slivochnim-kr</url>
+        <count>9999</count>
+        <price>62.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>0.15</weight>
+        <param name="Производитель">Испания</param>
+      </offer>
+      <offer id="746190240561" available="true">
+        <name>Вафли GULLON Barquicoco с кокосовым кремом 150 г.</name>
+        <vendorCode>240561</vendorCode>
+        <description><![CDATA[
+
+Gullon — испанский бренд, известный во всей Европе своим печеньем. Компания активно выступает за здоровый образ жизни и готовит продукцию без вредных ингредиентов. Торговая марка создана в 1892 году и на сегодня является единственным семейным бизнесом по производству бисквитного печенья с такой богатой историей. В ассортименте Gullon есть отдельные линейки без сахара, глютена, лактозы, яиц и др. Каждый сможет подобрать продукт, состав которого его удовлетворит на 100%, будет вкусным и полезным для здоровья. Безопасность и стабильное качество являются приоритетными для испанского бренда. Продукцию этой марки любят и уважают вегетарианцы. Компания Gullon создала сегмент здорового питания в Испании и продолжает заниматься этим спустя сотню лет после основания, расширив аудиторию на 120 стран, включая и Украину.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6430-6237-4131-b236-386565366433/17547891.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-746190240561-vafli-gullon-barquicoco-s-kokosovim-krem</url>
+        <count>9999</count>
+        <price>62.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>0.15</weight>
+        <param name="Производитель">Испания</param>
+      </offer>
+      <offer id="765108463751" available="true">
+        <name>Вафли GULLON Barquilimon с лимонным кремом 150 г.</name>
+        <vendorCode>463751</vendorCode>
+        <description><![CDATA[
+
+Gullon — испанский бренд, известный во всей Европе своим печеньем. Компания активно выступает за здоровый образ жизни и готовит продукцию без вредных ингредиентов. Торговая марка создана в 1892 году и на сегодня является единственным семейным бизнесом по производству бисквитного печенья с такой богатой историей. В ассортименте Gullon есть отдельные линейки без сахара, глютена, лактозы, яиц и др. Каждый сможет подобрать продукт, состав которого его удовлетворит на 100%, будет вкусным и полезным для здоровья. Безопасность и стабильное качество являются приоритетными для испанского бренда. Продукцию этой марки любят и уважают вегетарианцы. Компания Gullon создала сегмент здорового питания в Испании и продолжает заниматься этим спустя сотню лет после основания, расширив аудиторию на 120 стран, включая и Украину.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor6463-3933-4339-b865-303366313464/68409079.jpg</picture>
+        <url>https://smartfood.org.ua/confectionery/tproduct/320930194-765108463751-vafli-gullon-barquilimon-s-limonnim-krem</url>
+        <count>9999</count>
+        <price>62.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300028999651</categoryId>
+        <weight>0.15</weight>
+        <param name="Производитель">Испания</param>
+      </offer>
+      <offer id="245861266761" available="true">
+        <name>Паутинка судака (закуска к пиву, снек ) 1 кг.</name>
+        <vendorCode>266761</vendorCode>
+        <description><![CDATA[
+
+Рыбная паутинка - это тонко нарезанное филе рыбки. Очень вкусная закуска, с приятным рыбным вкусом и безупречным ароматом.<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3132-3435-4437-a464-363862616231/36517471.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-245861266761-pautinka-sudaka-zakuska-k-pivu-snek-1-kg</url>
+        <count>9999</count>
+        <price>749.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Китай</param>
+      </offer>
+      <offer id="652687379481" available="true">
+        <name>Урюк горный целый, абрикос сушеный натуральный 1 кг.</name>
+        <vendorCode>379481</vendorCode>
+        <description><![CDATA[
+
+Урюк – высушенный абрикос с косточкой, очень вкусный, сладкий и солнечный фрукт. Он содержит витамины: А, группа В, РР, С, Е, и минералы: фосфор, кальций, железо, магний и калий, бета-каротин, клетчатка. Они играют важную роль при очистке организма от тяжелых металлов, токсинов, и радионуклидов. Врачи советуют употреблять урюк людям, страдающим с проблемами с сердечно-сосудистой системой, желудочно-кишечным трактом.<br />Урюк – нормализует давление, он необходим для людей страдающим от гипертонии.<br />Урюк способствует сжиганию жиров, а это важно для тех, кто хочет избавиться от лишних килограмм и придерживается диеты.<br />У тех людей, которые регулярно едят урюк, усиливается иммунитет, а кожа выглядит моложе и здоровее.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3231-6138-4361-b762-626332663038/34786001.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-652687379481-uryuk-gornii-tselii-abrikos-sushenii-nat</url>
+        <count>9999</count>
+        <price>449.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Узбекистан</param>
+      </offer>
+      <offer id="1831709551" available="true">
+        <url>https://homemarket.org.ua/p1831709551-umyvalnik-dlya-stiralnoj.html</url>
+        <price>3799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>115099594</categoryId>
+        <picture>https://images.prom.ua/4473890241_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890243_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890240_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890245_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890244_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890242_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <picture>https://images.prom.ua/4473890247_umyvalnik-dlya-stiralnoj.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Умывальник для стиральной машины EK-01</name>
+        <name_ua>Умивальник для пральної машини EK-01</name_ua>
+        <vendorCode>859431</vendorCode>
+        <country_of_origin>Украина</country_of_origin>
+        <description>Умывальник (раковина), который устанавливавается над стиральной машиной. Расположение над стиральной машиной значительно сэкономит ваше пространство. Идеальное решение для маленьких санузлов где требуется оптимизация пространства. В комплект входит все, что нужно для монтажа: сифон, крепежи, а также мыльница. Термостойкий. Безопасный при контакте с продуктами питания и предметами гигиены. Тип установки: 1 Над стиральной машиной 2 Подвесной 3 На столешницу Форма: Квадратная с прямыми углами Отверстие под смеситель: 35мм Цвет: Белый Материал: Акрил, полиэфирные материалы Комплектация: 1 Умывальник + Мыльница 2 Сифон 3 Комплект креплений Размеры: Ширина: 60 см Глубина: 60 см Высота: 9,4 см Вес: 5 кг. Параметры упаковки: 650 х 650 х 150 мм. Вес 6 кг. Производитель: EkoplastKompozit LDT Гарантия: 1 год</description>
+        <description_ua>Умивальник (раковина), який встановлюється над пральною машиною. Розташування над пральною машиною значно заощадить ваш простір. Ідеальне рішення для маленьких санвузлів де потрібна оптимізація простору У комплекті все що потрібно для монтажу: сифон та кріплення, а також мильниця. Термостійкий. Безпечний при контакті з харчовими продуктами та предметами гігієни. Тип установки: 1 Над пральною машиною 2 Підвісні 3 На стільницю Форма: Квадратна з прямими кутами Отвір під змішувач: 35мм Колір: Білий Матеріал: Акрил, поліефірні матеріали Комплектація: 1 Умивальник + Мильниця 2 Cифон 3 Комплект кріплень Розміри: Ширина: 60 см Глибина: 60 см Висота: 9,4 см Вага: 5 кг. Параметри упаковки: 650 х 650 х 150 мм. Вага 6 кг. Виробник: EkoplastKompozit LDT Гарантія: 1 рік</description_ua>
+        <param name="Вид сантехнического изделия">Умывальник</param>
+        <param name="Материал умывальника">Акрил</param>
+        <param name="Установка умывальника">На стиральную машину</param>
+        <param name="Форма умывальника">Квадратная</param>
+        <param name="Количество отверстий под смеситель">Одно</param>
+        <param name="Расположение отверстия под смеситель">Справа</param>
+        <param name="Отверстие под перелив">Да</param>
+        <param name="Вес" unit="кг">5</param>
+        <param name="Гарантийный срок" unit="мес">12</param>
+        <param name="Состояние">Новое</param>
+        <param name="Цвет">Белый</param>
+        <param name="Ширина" unit="мм">600</param>
+        <param name="Глубина" unit="мм">600</param>
+        <param name="Высота" unit="мм">94</param>
+        <param name="Сифон">Да</param>
       </offer>
     </offers>
   </shop>
