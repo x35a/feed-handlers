@@ -9,6 +9,7 @@ const fetchFeed = require('../../common/fetch-feed')
 const path = require('../../common/feeds-path')
 const outputFilePath = path.prom.output
 const { tldYMLLink } = require('../../common/const')
+const washbasinOffer = require('./washbasin')
 
 ;(async () => {
     // Get yml
@@ -42,6 +43,9 @@ const { tldYMLLink } = require('../../common/const')
             // It was easier to delete vendor fields than trying to push new vendors into prom's list.
             delete offer.vendor
         })
+
+        // Add washbasin
+        result.yml_catalog.shop[0].offers[0].offer.push(washbasinOffer)
 
         // Build xml
         const xml = builder.buildObject(result)
