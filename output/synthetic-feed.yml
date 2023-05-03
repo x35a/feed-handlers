@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-04-22T22:59:37+03:00">
+<yml_catalog date="2023-05-02T19:24:05+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -40,8 +40,6 @@
       <category id="263526330341">Весенние Предложения</category>
       <category id="655379438411">Осенние Предложения</category>
       <category id="244026914791">Новый Год и Рождество</category>
-      <category id="793300550321">Диетические продукты</category>
-      <category id="990420093051">Продукты без глютена</category>
       <category id="731014470441">HoReCa</category>
       <category id="865603265821">Все</category>
     </categories>
@@ -878,6 +876,26 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <categoryId>456028571861</categoryId>
         <weight>1</weight>
         <param name="Производитель">Турция</param>
+        <param name="Фасовка">1кг</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="972331110361" group_id="214522736061" available="true">
+        <name>Изюм Джамбо золотой - 1кг</name>
+        <vendorCode>972331</vendorCode>
+        <description><![CDATA[
+
+Изюм очень богат калием. Помимо него в состав изюма входят: фосфор, натрий, кальций,<br /> магний, железо, а также витамины B1, B2, В5, PP.<br /> В рекордсменах по наличию калия.<br /> Калий, которым столь богат изюм, регулирует кислотно-щелочное равновесие в крови, он<br /> активизирует мышечную работу сердца, улучшает передачу нервных импульсов, а также<br /> благоприятно влияет на работу почек и кожи.<br /> Темный изюм считается более полезным, чем светлые сорта. Даже кариес и заболевания<br /> десен посильны изюму. Присутствующие в нем антиоксиданты, которые подавляют рост<br /> бактерий, являющихся причиной стоматологических заболеваний. Фитовещества,<br /> содержащиеся в изюме, благотворны для зубов и десен.<br /> Одним из полезных свойств изюма является его способность устранять отеки и усиливать<br /> выделение мочи. Это свойство напрямую связано с присутствием в нем калия, который<br /> помогает также и при отравлениях, когда необходимо вывести токсины из крови. Для<br /> этого необходимо сначала размять изюм, смешать его с животным жиром, а затем<br /> приложить к опухоли или месту прорыва фурункулов.<br /> Изюм следует включать в свой рацион людям с сердечно-сосудистыми заболеваниями,<br /> страдающим сахарным диабетом и вегето-сосудистой дистонией. Изюм укрепляет легкие,<br /> сердце, нервную систему и даже подавляет гнев и успокаивает нервы. Если вы<br /> чувствуете раздражительность, замочите на ночь в холодной воде горсть изюма и утром<br /> выпейте, это питье стимулирует также сердечную мышцу. Свойства изюма значительно<br /> отличаются от свойств винограда.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6231-3065-4034-b331-653334613664/200227243_images_186.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-214522736061-izyum-dzhambo-zolotoi?editionuid=972331110361</url>
+        <count>9999</count>
+        <price>399.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Иран</param>
         <param name="Фасовка">1кг</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
@@ -2069,6 +2087,25 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
+      <offer id="502321356831" available="true">
+        <name>Оливковое масло для жарки Bertolli Robusto 5л</name>
+        <vendor>Bertolli</vendor>
+        <vendorCode>502321</vendorCode>
+        <description><![CDATA[
+
+Оливковое масло высшей категории производства известной итальянской марки BERTOLLI, расфасовано в Украине.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3732-3735-4230-b361-623465613739/olivkovoe-maslo-dlya.jpg</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-502321356831-olivkovoe-maslo-dlya-zharki-bertolli-rob</url>
+        <count>9999</count>
+        <price>599.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>5</weight>
+        <param name="Производитель">Италия</param>
+        <quantity>100</quantity>
+      </offer>
       <offer id="408296596951" available="true">
         <name>Оливковое масло Antico Frantoio Olio Extra Vergine di Oliva 5л</name>
         <vendor>Bertolli</vendor>
@@ -2129,7 +2166,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <vendor>Smart Food Shop</vendor>
       </offer>
       <offer id="755396732501" available="true">
-        <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 750г</name>
+        <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 825г</name>
         <vendor>NUTELLA</vendor>
         <vendorCode>755396</vendorCode>
         <description><![CDATA[
@@ -2140,10 +2177,10 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <picture>https://static.tildacdn.com/tild3432-6466-4462-a162-633836346536/images1000x700.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-755396732501-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>409.00</price>
+        <price>415.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
-        <weight>0.75</weight>
+        <weight>0.825</weight>
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
@@ -2159,7 +2196,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <picture>https://static.tildacdn.com/tild3261-6638-4336-b364-633432336433/2321583777_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-601994698821-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>514.00</price>
+        <price>475.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>1</weight>
@@ -2291,7 +2328,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <picture>https://static.tildacdn.com/tild6238-6465-4332-b139-616530623838/depositphotos_139929.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-326170813341-stavridka-soleno-sushenaya-1kg</url>
         <count>9999</count>
-        <price>892.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -2326,7 +2363,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
 Закуска изготовлена путем прессования тушки кальмара с последующим добавлением арахисового масла, что придает ему невероятно пикантный, сладковатый вкус. Данный вид морской закуски получил широкую популярность.<br />
 
 			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6630-6435-4331-b336-303132393761/peruanskij-kalmar-1k.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6332-6637-4433-b536-376665373239/16536858.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-518244608081-kalmar-peruanskii-1kg</url>
         <count>9999</count>
         <price>839.00</price>
@@ -2993,6 +3030,25 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-597296911781-koltsa-osminoga-snek-k-pivu-1kg</url>
         <count>9999</count>
         <price>829.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Вьетнам</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="630759250471" available="true">
+        <name>Креветка сушеная большая, снек 1кг</name>
+        <vendorCode>630759</vendorCode>
+        <description><![CDATA[
+
+Сушеные креветки являются отличным снеком и используется в качестве закуски.<br /><br />Отличная закуска к светлому пиву.<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6335-3266-4661-b734-393864633663/krevetka-sush-smetan.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-630759250471-krevetka-sushenaya-bolshaya-snek-1kg</url>
+        <count>9999</count>
+        <price>999.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -4611,7 +4667,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=269200725321</url>
         <count>9999</count>
-        <price>899.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -4631,7 +4687,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=299688014701</url>
         <count>9999</count>
-        <price>449.00</price>
+        <price>429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -5299,7 +5355,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild6663-6333-4832-b839-653437633565/64bc44be2b710f3a7a8b.png</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-570082378331-solomka-sazana-snek-k-pivu-1kg</url>
         <count>9999</count>
-        <price>999.00</price>
+        <price>919.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -5407,6 +5463,25 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
+      <offer id="117939861521" available="true">
+        <name>Густера вяленая, чищенная 1кг.</name>
+        <vendorCode>117939</vendorCode>
+        <description><![CDATA[
+
+Густера - пресноводная рыбка отряда карповых. Мясо густеры отличается неплохими вкусовыми качествами и содержанием полезных и необходимых для организма человека веществ – в частности, микроэлементов и витаминов. В составе мяса этой рыбы содержится кальций, никель, натрий, молибден, магний, фтор, калий, хром, фосфор, железо и хлор. Из витаминов в ней присутствуют такие, как РР, А, С, Е и группы В. <br />Калорийность густеры на сто граммов в среднем равна 97 ккал. Энергетическая ценность на 100 г продукта: белки - 15,1 г жиры - 2,4 г углеводы - 0 г.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3839-3163-4236-a231-653136303964/gustera-vyalenaya.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-117939861521-gustera-vyalenaya-chischennaya-1kg</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
       <offer id="524476431711" available="true">
         <name>Плотва вяленая, чищенная 1кг.</name>
         <vendorCode>524476</vendorCode>
@@ -5419,6 +5494,25 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-524476431711-plotva-vyalenaya-chischennaya-1kg</url>
         <count>9999</count>
         <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="704183714691" available="true">
+        <name>Синец вяленый 1кг.</name>
+        <vendorCode>704183</vendorCode>
+        <description><![CDATA[
+
+Мясо рыбки Синец отличается превосходными вкусовыми качествами, оно жирное и сочное с косточками, в вяленном виде гораздо вкуснее другой речной рыбы. Синец придется по вкусу всем ценителям вяленой рыбы. Вяленый синец обладает высокими питательными свойствами, так как содержит белки, фосфор, а также большое количество микроэлементов.<br />Синец вяленый#nbsp;– отличная закуска под любой сорт пива. Некоторые любители заявляют, что по вкусу он похож на леща. Другие же любители категорически не согласны с этим. И утверждают, что могут легко отличить синца от другой рыбки.#nbsp;
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3237-3432-4966-b663-663664383463/sinec_vjalenyj1.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-704183714691-sinets-vyalenii-1kg</url>
+        <count>9999</count>
+        <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -5609,6 +5703,25 @@ HPA Extra Virgin - это фермерское органическое олив
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
+      <offer id="546707573251" available="true">
+        <name>Гибискус сушеный Royal Hibiscus Fruit 500г</name>
+        <vendor>ROYAL</vendor>
+        <vendorCode>546707</vendorCode>
+        <description><![CDATA[
+
+Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;теплолюбивое#nbsp;растение, которое насчитывает около трех сот разновидностей. Чаще всего гибискус растет на территории Мексики, Шри-Ланки, Малайзии, Египта, Таиланда, Судана, именно поэтому, это растение носит второе название «суданская роза».#nbsp;На востоке ему еще дали название «Королевский» цветок.<br />Сейчас во всем мире очень широко применяют это растение. В кулинарии гибискус используют для#nbsp;компотов, десертов, варенья, он может послужить натуральным красителем и подсластителем. Высушенные цветки суданской розы#nbsp;применяют для приготовления ароматной приправы, которая отлично сочетается с мясными и овощными блюдами.<br />Гибискус (каркаде) обладает целым рядом полезных свойств, что обусловлено его уникальным химическим составом. При этом, несмотря на егоогромную пользу для организма и содержание в нем белка и углеводов, каркаде является низкокалорийным, калорийность составляет всего 5 кКал на 100 г. продукта.<br />На основе суданской розы производятся#nbsp;лекарственные препараты,#nbsp;а#nbsp;в народной медицине из него делают#nbsp;настои и отвары, оказывающие лечебное и общеукрепляющее действие. В косметологии гибискус используют для создания ухаживающих средств для#nbsp;лица, тела#nbsp;и волос.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild6565-3264-4763-b438-393430313332/2797101898_gibiskus-.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-546707573251-gibiskus-sushenii-royal-hibiscus-fruit-5</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Таиланд</param>
+        <quantity>100</quantity>
+      </offer>
       <offer id="103999824121" available="true">
         <name>Сырный продукт Моцарелла ТМ Paslek для пиццы 40% 2.5кг</name>
         <vendor>Paslek</vendor>
@@ -5721,7 +5834,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3664-3133-4432-b832-643039343939/polosatik-zheltyj-ku.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-672216678271-zheltii-polosatik-krupnii-korolevskii-1k</url>
         <count>9999</count>
-        <price>949.00</price>
+        <price>849.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -5797,7 +5910,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3739-3238-4365-b465-343037303139/chipsy-iz-kurinoj-gr.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-784548119491-palochki-kurinie-sushenievyalenie-kurini?editionuid=497010483741</url>
         <count>9999</count>
-        <price>814.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -5817,7 +5930,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3739-3238-4365-b465-343037303139/chipsy-iz-kurinoj-gr.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-784548119491-palochki-kurinie-sushenievyalenie-kurini?editionuid=652139436611</url>
         <count>9999</count>
-        <price>415.00</price>
+        <price>405.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -5947,7 +6060,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <vendor>Smart Food Shop</vendor>
       </offer>
       <offer id="629695559311" available="true">
-        <name>Плотва вяленая с икрой, чищенная 1кг.</name>
+        <name>Плотва большая вяленая с икрой, чищенная 1кг.</name>
         <vendorCode>629695</vendorCode>
         <description><![CDATA[
 
@@ -5955,9 +6068,9 @@ HPA Extra Virgin - это фермерское органическое олив
 
 			<!--Enforce cdata-->]]></description>
         <picture>https://static.tildacdn.com/tild3731-3639-4531-a465-353932643330/src1617017263SNCPSG1.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-629695559311-plotva-vyalenaya-s-ikroi-chischennaya-1k</url>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-629695559311-plotva-bolshaya-vyalenaya-s-ikroi-chisch</url>
         <count>9999</count>
-        <price>399.00</price>
+        <price>499.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -6264,26 +6377,6 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <categoryId>443169019671</categoryId>
         <weight>1</weight>
         <param name="Производитель">Україна</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="467156147281" available="true">
-        <name>Сыр Гудбрандсдален Gudbrandsdalen ТМ TINE Norway 500г.</name>
-        <vendor>TINE Norway</vendor>
-        <vendorCode>467156</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Этот традиционный Норвежский сыр стал сегодня визитной карточкой страны вечных холодов. Если быть совсем точным, Гудбрандсдален - это тип коричневого норвежского сыра бруност / Брюнуст (норв. Brunost, «коричневый сыр", в Швеции - швед. Mesost), что происходит из долины Гудбрандсдал в Норвегии. В Норвегии с давних времен принято варить особым образ молоко и сыворотку вместе, чтобы ПОЛУЧИТЬ «приму»#nbsp;- мягкий по консистенции сыр коричневого цвета, сладкого на вкус.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3539-3262-4737-a165-346232336234/tine-gudbrandsdalen.jpg</picture>
-        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-467156147281-sir-gudbrandsdalen-gudbrandsdalen-tm-tin</url>
-        <count>9999</count>
-        <price>449.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>443169019671</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Норвегия</param>
-        <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
       <offer id="285076908231" group_id="842067183931" available="true">
@@ -6920,7 +7013,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6530-3438-4162-b765-383965303136/27586409.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-586844846891-sous-dlya-pitstsi-so-spetsiyami-duefagia</url>
         <count>9999</count>
-        <price>379.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>4.1</weight>
@@ -7038,7 +7131,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6461-3230-4665-a338-656237306165/41279430.jpg</picture>
         <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-952337241711-shokoladno-orehovaya-pasta-nutella-s-les</url>
         <count>9999</count>
-        <price>1199.00</price>
+        <price>1149.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>444943533321</categoryId>
         <weight>1</weight>
@@ -7137,8 +7230,8 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor6133-3265-4136-b133-386162306266/61204910.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-388923009941-nabor-myasnih-snekov-k-pivu-1-kg</url>
         <count>9999</count>
-        <price>799.00</price>
-        <oldprice>849.00</oldprice>
+        <price>849.00</price>
+        <oldprice>899.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -7157,8 +7250,8 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <picture>https://static.tildacdn.com/stor3037-3533-4135-b032-396235373862/86840643.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-877573346081-nabor-myasnih-snekov-k-pivu-600-gramm</url>
         <count>9999</count>
-        <price>499.00</price>
-        <oldprice>555.00</oldprice>
+        <price>549.00</price>
+        <oldprice>599.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -7701,6 +7794,84 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Производитель">Словакия</param>
         <param name="Вид колбасы">Сыровяленая</param>
         <param name="Сорт">Высший</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="675902747211" group_id="919500093711" available="true">
+        <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 1кг.</name>
+        <vendorCode>0937111</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3664-3366-4563-b437-343535663038/14237334.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-919500093711-kurinoe-myaso-vyalenoe-yantarnoe-kurinie?editionuid=675902747211</url>
+        <count>9999</count>
+        <price>799.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">1кг.</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="561727783481" group_id="919500093711" available="true">
+        <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 500г</name>
+        <vendorCode>0937112</vendorCode>
+        <description><![CDATA[
+
+Не секрет, что мясо является источником множества питательных элементов, оно отлично переваривается и усваивается организмом, быстро насыщает его и возвращает силы. <br /><br /> Вяленое мясо сохраняет питательную ценность и все свойства мяса. При этом оно имеет длительный срок хранения, оно легкое и компактное. Благодаря всему этому, мясные снеки легко всегда иметь под рукой, брать с собой в путешествия, пешие походы, на охоту и рыбалку.<br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3664-3366-4563-b437-343535663038/14237334.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-919500093711-kurinoe-myaso-vyalenoe-yantarnoe-kurinie?editionuid=561727783481</url>
+        <count>9999</count>
+        <price>399.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>0.5</weight>
+        <param name="Производитель">Украина</param>
+        <param name="Фасовка">500г</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="245861266761" available="true">
+        <name>Паутинка судака (закуска к пиву, снек ) 1 кг.</name>
+        <vendorCode>266761</vendorCode>
+        <description><![CDATA[
+
+Рыбная паутинка - это тонко нарезанное филе рыбки. Очень вкусная закуска, с приятным рыбным вкусом и безупречным ароматом.<br /><br />
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3132-3435-4437-a464-363862616231/36517471.jpg</picture>
+        <url>https://smartfood.org.ua/snacks/tproduct/320925559-245861266761-pautinka-sudaka-zakuska-k-pivu-snek-1-kg</url>
+        <count>9999</count>
+        <price>749.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>907149595291</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Китай</param>
+        <quantity>100</quantity>
+        <vendor>Smart Food Shop</vendor>
+      </offer>
+      <offer id="652687379481" available="true">
+        <name>Урюк горный целый, абрикос сушеный натуральный 1 кг.</name>
+        <vendor>SmartFood</vendor>
+        <vendorCode>379481</vendorCode>
+        <description><![CDATA[
+
+Урюк – высушенный абрикос с косточкой, очень вкусный, сладкий и солнечный фрукт. Он содержит витамины: А, группа В, РР, С, Е, и минералы: фосфор, кальций, железо, магний и калий, бета-каротин, клетчатка. Они играют важную роль при очистке организма от тяжелых металлов, токсинов, и радионуклидов. Врачи советуют употреблять урюк людям, страдающим с проблемами с сердечно-сосудистой системой, желудочно-кишечным трактом.<br />Урюк – нормализует давление, он необходим для людей страдающим от гипертонии.<br />Урюк способствует сжиганию жиров, а это важно для тех, кто хочет избавиться от лишних килограмм и придерживается диеты.<br />У тех людей, которые регулярно едят урюк, усиливается иммунитет, а кожа выглядит моложе и здоровее.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/stor3231-6138-4361-b762-626332663038/34786001.jpg</picture>
+        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-652687379481-uryuk-gornii-tselii-abrikos-sushenii-nat</url>
+        <count>9999</count>
+        <price>449.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>456028571861</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Узбекистан</param>
         <quantity>100</quantity>
       </offer>
     </offers>
