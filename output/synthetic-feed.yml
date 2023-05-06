@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-02T19:24:05+03:00">
+<yml_catalog date="2023-05-04T18:49:07+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -34,13 +34,12 @@
       <category id="720640154791">Джем, варенье, мед</category>
       <category id="847107982971">Сахар, соль</category>
       <category id="647536114381">Пряности и специи</category>
-      <category id="223682564701">Хозтовары</category>
+      <category id="223682564701">Товары для дома</category>
       <category id="832914917531">Топ товары</category>
       <category id="808449606431">Актуально летом</category>
       <category id="263526330341">Весенние Предложения</category>
       <category id="655379438411">Осенние Предложения</category>
       <category id="244026914791">Новый Год и Рождество</category>
-      <category id="731014470441">HoReCa</category>
       <category id="865603265821">Все</category>
     </categories>
     <offers>
@@ -477,7 +476,7 @@
         <picture>https://static.tildacdn.com/tild3834-6138-4035-b461-333130306139/costa-doro-vinacciol.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-266714191451-maslo-vinogadnoi-kostochki-costa-doro-ol</url>
         <count>9999</count>
-        <price>400.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -546,7 +545,7 @@ Costa d'Oro Vitapiu Fonte Naturale di Omega 3 является результа�
         <picture>https://static.tildacdn.com/tild3232-3664-4161-b663-353838386431/Costa-DOro-Vitapiu-O.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-873708014991-smes-pyati-masel-costa-doro-vitapiu-750</url>
         <count>9999</count>
-        <price>325.00</price>
+        <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>0.75</weight>
@@ -2789,18 +2788,18 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
       </offer>
       <offer id="747392562981" available="true">
-        <name>Кабаносы, колбаски без консервантов тм. Opalanka 800 г</name>
+        <name>Кабаносы, колбаски без консервантов тм. Opalanka 1кг.</name>
         <vendor>Opalanka</vendor>
         <vendorCode>747392</vendorCode>
         <description><![CDATA[
 
-Кабаносы, колбаски свиные тм. Opalanka отличного вкуса и качества! <br />Идеальное сочетание цены и качесва! <br /><br />Вес 500 гр. Польша. Высший сорт!
+Кабаносы, колбаски свиные тм. Opalanka отличного вкуса и качества! <br />Идеальное сочетание цены и качесва! <br /><br />Вес 1000 гр. Польша. Высший сорт!
 
 			<!--Enforce cdata-->]]></description>
         <picture>https://static.tildacdn.com/tild3632-3239-4361-b135-393762636531/663023807_w640_h640_.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-747392562981-kabanosi-kolbaski-bez-konservantov-tm-op</url>
         <count>9999</count>
-        <price>339.00</price>
+        <price>429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.8</weight>
@@ -4667,7 +4666,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=269200725321</url>
         <count>9999</count>
-        <price>849.00</price>
+        <price>799.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -4687,7 +4686,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3932-3531-4435-b333-376361663861/images.jpg</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-198472324481-svinina-poloskami-vyalenaya-v-vishne-sus?editionuid=299688014701</url>
         <count>9999</count>
-        <price>429.00</price>
+        <price>405.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>0.5</weight>
@@ -5215,7 +5214,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3834-6438-4432-b636-646161616232/maslo-iz-vinogradnyh.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-429992465991-maslo-iz-vinogadnih-kostochek-farchioni</url>
         <count>9999</count>
-        <price>335.00</price>
+        <price>375.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
