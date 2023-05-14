@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-12T00:17:20+03:00">
+<yml_catalog date="2023-05-15T00:43:02+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -17548,7 +17548,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3330-3564-4137-b132-333466626638/2453962028_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-994065330551-maslo-olivkovoe-hpa-extra-virgin-kalamat</url>
         <count>9999</count>
-        <price>399.00</price>
+        <price>419.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -17568,7 +17568,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3032-6139-4062-a535-373861373435/2295039368_w640_h640.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-525453532721-maslo-olivkovoe-hpa-extra-virgin-kalamat</url>
         <count>9999</count>
-        <price>399.00</price>
+        <price>419.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -17624,7 +17624,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <picture>https://static.tildacdn.com/tild3266-6537-4331-a165-656639343033/hpasitia-280x280.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-858267215751-maslo-olivkovoe-hpa-extra-virgin-sitia-p</url>
         <count>9999</count>
-        <price>449.00</price>
+        <price>419.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
