@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-15T00:43:02+03:00">
+<yml_catalog date="2023-05-15T18:15:29+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -11492,23 +11492,6 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <param name="Производитель">Иран</param>
         <param name="Фасовка">Пакет</param>
       </offer>
-      <offer id="509575981251" available="true">
-        <name>Пахлава "Cарма" с какао, волосским орехом и фисташкой "Amanti" 1кг.​​</name>
-        <vendorCode>509575</vendorCode>
-        <description><![CDATA[
-
-Пахлаву готовят из множества листов теста и толщиной не более 1 мм. Основные ингредиенты - єто мука, мед, грецкий орех и масло. <br /><br /> Также очень популярны листки тонкого теста с начинкой из фисташек или кешью, обильно пропитанные сиропом. <br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3533-6330-4364-a132-663761633135/3067710430_w640_h640.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-509575981251-pahlava-carma-s-kakao-volosskim-orehom-i</url>
-        <count>9999</count>
-        <price>249.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Турция</param>
-      </offer>
       <offer id="739860143161" available="true">
         <name>Оливковое масло Monini Classico extra vergine di oliva 1л.</name>
         <vendorCode>739860</vendorCode>
@@ -15491,23 +15474,6 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Индия</param>
         <param name="Упаковка">Пачка</param>
       </offer>
-      <offer id="364139357041" available="true">
-        <name>Пахлава "Императорская Cарма" с какао, волосским орехом и фисташкой "Amanti" 1кг.​​</name>
-        <vendorCode>364139</vendorCode>
-        <description><![CDATA[
-
-Пахлаву готовят из множества листов теста и толщиной не более 1 мм. Основные ингредиенты - єто мука, мед, грецкий орех и масло. <br /><br /> Также очень популярны листки тонкого теста с начинкой из фисташек или кешью, обильно пропитанные сиропом. <br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3132-6635-4334-a339-323238396262/2688248864_w700_h500.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-364139357041-pahlava-imperatorskaya-carma-s-kakao-vol</url>
-        <count>9999</count>
-        <price>249.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Турция</param>
-      </offer>
       <offer id="945775748461" group_id="954505073" available="true">
         <name>Сыр Маасдам Maasdam ТМ "Amstelland" 45% - 500г</name>
         <vendorCode>95451</vendorCode>
@@ -19208,23 +19174,6 @@ Davidoff Cafe Rich Aroma - это восхитительное сочетани�
         <param name="Производитель">Алжир</param>
         <param name="Фасовка">Коробка</param>
       </offer>
-      <offer id="431405918091" available="true">
-        <name>Нерафинированное ароматное подсолнечное масло «Домашнее» 1л.</name>
-        <vendorCode>918091</vendorCode>
-        <description><![CDATA[
-
-Нерафинированное ароматное подсолнечное масло «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом. Идеально подходит для приготовления традиционных русских блюд, салатов, выпечки и холодных закусок.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6635-6438-4464-a635-636238643166/U1fb4759c764e4c7e8b0.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-431405918091-nerafinirovannoe-aromatnoe-podsolnechnoe</url>
-        <count>9999</count>
-        <price>105.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>320586217181</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
-      </offer>
       <offer id="887027594211" available="true">
         <name>Сыр в слайсах Гауда Gouda "Wloszczowa" 1кг.</name>
         <vendorCode>887027</vendorCode>
@@ -19279,23 +19228,6 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <param name="Упаковка">Пакет</param>
         <param name="Форма выпуска">Зерновой</param>
-      </offer>
-      <offer id="355586451391" available="true">
-        <name>Нерафинированное масло из жареных семечек «Домашнее» 1л.</name>
-        <vendorCode>355586</vendorCode>
-        <description><![CDATA[
-
-Нерафинированное ароматное подсолнечное масло#nbsp;из жареных семечек «Домашнее» особенно богато витаминами, обладает натуральным вкусом и ароматом.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6465-3934-4634-a264-613965393230/maslo-slivochnoe-400.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-355586451391-nerafinirovannoe-maslo-iz-zharenih-semec</url>
-        <count>9999</count>
-        <price>105.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>320586217181</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
       </offer>
       <offer id="199765160571" available="true">
         <name>Кофе в зернах Tuskani 50% арабика 50% робуста 1кг.</name>
