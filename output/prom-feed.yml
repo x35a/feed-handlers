@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-15T18:15:29+03:00">
+<yml_catalog date="2023-05-22T17:12:17+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -2499,24 +2499,6 @@ Mocca Fix Melange ― превосходный немецкий кофе, в с�
         <param name="Производитель">Германия</param>
         <param name="Упаковка">Пакет</param>
       </offer>
-      <offer id="869393918121" available="true">
-        <name>Молочный напиток Kaba Himbeer 400г</name>
-        <vendorCode>869393</vendorCode>
-        <description><![CDATA[
-
-Молочный напиток Kaba,клубника 400 гр Германия<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://images.ua.prom.st/1160343833_w200_h200_molochnyj-napitok-kaba.jpg</picture>
-        <url>https://smartfood.org.ua/coffee/tproduct/320929310-869393918121-molochnii-napitok-kaba-himbeer-400g</url>
-        <count>9999</count>
-        <price>145.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>742941910481</categoryId>
-        <weight>0.4</weight>
-        <param name="Производитель">Германия</param>
-        <param name="Упаковка">Картонная пачка, вакуумный пакет</param>
-      </offer>
       <offer id="721698125481" available="true">
         <name>Кофе молотый БЕЗ КОФЕИНА Dallmayr Prodomo Entcoffeiniert 100% арабика 500г</name>
         <vendorCode>721698</vendorCode>
@@ -3675,24 +3657,6 @@ Swisso Kaffee Gefriergetrocknet Aromatisch und Fein Arabica 200г Swisso Kaffee 
         <param name="Производитель">Германия</param>
         <param name="Упаковка">Вакуумный пакет</param>
         <param name="Форма выпуска">Молотый</param>
-      </offer>
-      <offer id="462431853821" available="true">
-        <name>Молочный напиток Kaba Himbeer, малина 400г</name>
-        <vendorCode>462431</vendorCode>
-        <description><![CDATA[
-
-Молочный напиток Kaba ,малина 400 гр Германия<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6137-6430-4263-a666-303530366163/Kaba-Kakao-Malinowe-.jpg</picture>
-        <url>https://smartfood.org.ua/coffee/tproduct/320929310-462431853821-molochnii-napitok-kaba-himbeer-malina-40</url>
-        <count>9999</count>
-        <price>149.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>742941910481</categoryId>
-        <weight>0.4</weight>
-        <param name="Производитель">Германия</param>
-        <param name="Упаковка">Картонная пачка, вакуумный пакет</param>
       </offer>
       <offer id="664035905021" available="true">
         <name>Кофе молотый Cafe Röstfein Mokka 500г</name>
@@ -5114,24 +5078,6 @@ Torras ZERO cafe arabika с кофе арабика эфиопия 100 г– ч�
         <param name="Производитель">Испания</param>
         <param name="Тип шоколада">Горький</param>
       </offer>
-      <offer id="451466497701" available="true">
-        <name>Шоколад Milka Raisins-Hazelnuts (с изюмом и лесным орехом) 270г</name>
-        <vendorCode>451466</vendorCode>
-        <description><![CDATA[
-
-НОВИНКА! Шоколад Милка Toffee (с изюмом и лесным орехом) от европейских производителей! Незабываемый вкус!<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6535-6336-4730-b133-333562313562/MILKARAISINSHAZELNUT.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-451466497701-shokolad-milka-raisins-hazelnuts-s-izyum</url>
-        <count>9999</count>
-        <price>147.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.27</weight>
-        <param name="Производитель">Швейцария</param>
-        <param name="Тип шоколада">Молочный</param>
-      </offer>
       <offer id="343694246231" available="true">
         <name>Шоколад Milka Happy Cows (Счастливые коровы) 100г</name>
         <vendorCode>343694</vendorCode>
@@ -5167,24 +5113,6 @@ Torras Dark chocolate with mint, 75 г — это уникальный, осве
         <weight>0.075</weight>
         <param name="Производитель">Испания</param>
         <param name="Тип шоколада">Горький</param>
-      </offer>
-      <offer id="154362759591" available="true">
-        <name><![CDATA[Шоколад Milka Raisins & Nuts изюм с орехом 100г]]></name>
-        <vendorCode>154362</vendorCode>
-        <description><![CDATA[
-
-Шоколад Milka Raisins &amp; Nuts изюм с орехом . В новой коллекции в ассортименте имеется 10 видов. Предлагаем самую лучшую цену.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3563-6636-4237-a631-333863653536/104.jpg</picture>
-        <url>https://smartfood.org.ua/chocolate-sweets/tproduct/320927101-154362759591-shokolad-milka-raisins-amp-nuts-izyum-s</url>
-        <count>9999</count>
-        <price>56.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>444943533321</categoryId>
-        <weight>0.1</weight>
-        <param name="Производитель">Швейцария</param>
-        <param name="Тип шоколада">Молочный</param>
       </offer>
       <offer id="674812825501" available="true">
         <name>Шоколад черный без сахара и глютена с лесными ягодами Torras Stevia Negro Frutas del Bosquo 125г</name>
@@ -8475,7 +8403,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild3438-3061-4537-a566-623765643361/2899178764_w600_h600.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-657585106061-sous-madero-sos-hamburger-410g</url>
         <count>9999</count>
-        <price>79.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.41</weight>
@@ -8492,7 +8420,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild6264-6332-4162-b164-333337356661/2148879738_sous-made.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-524613933341-sous-madero-sos-1000-wysp-410g</url>
         <count>9999</count>
-        <price>75.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.41</weight>
@@ -8509,7 +8437,7 @@ DorBlu Classic Kaserei 50%, 100 гр - нежный мягкий сыр с об�
         <picture>https://static.tildacdn.com/tild6434-3664-4238-b161-653131366333/sous-salatnyj-cezar-.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-476193685321-sous-salatnii-madero-tsezar-410g</url>
         <count>9999</count>
-        <price>75.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.41</weight>
@@ -8835,7 +8763,7 @@ Sottile Gusto Pomidory z Zurawina — это вяленые на солнце п
         <picture>https://static.tildacdn.com/tild3863-3534-4937-b737-383134386565/sottilepomidiryjur.jpg</picture>
         <url>https://smartfood.org.ua/canned/tproduct/320925876-710545380541-vyalenie-pomidori-sottile-gusto-s-klyukv</url>
         <count>9999</count>
-        <price>116.00</price>
+        <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>903569256651</categoryId>
         <weight>0.27</weight>
@@ -10324,40 +10252,6 @@ Miami Podusiaki— с ванильным вкусом. Ванильные под
         <weight>1</weight>
         <param name="Производитель">Вьетнам</param>
       </offer>
-      <offer id="369436965951" available="true">
-        <name>Соус Sweet Chilli (Сладкий чили) "Inproba" 700г</name>
-        <vendorCode>369436</vendorCode>
-        <description><![CDATA[
-
-Особого внимания заслуживает Inproba Chili Sauce, невероятный, острый соус с маленькими кусочками красного перца. Приятной, нежной консистенции, буквально тающий во рту. В классический состав соуса входят лишь жгучий перец, соль, сахар, растительное масло и чеснок. Однако этот соус настолько полюбился человечеству, что сейчас к общепризнанным компонентам добавляют еще и лук, болгарский перец, яблоки, томаты, всевозможные пряности и даже мята. Хранить рекомендуется в прохладном и темном месте. Страна производитель Таиланд, хотя родиной главного компонента-перца чили, является Латинская Америка.<br /><br />Благодаря своим компонентам Inproba Chili Sauce активизирует работу пищеварительной системы и обмена веществ, повышает иммунитет. Перец чили активно используется косметологами и диетологами, поскольку хорошо подавляет аппетит, уменьшая количество употребляемых калорий.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3265-6664-4934-a133-663537663637/sous-inproba-sweet-c.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-369436965951-sous-sweet-chilli-sladkii-chili-inproba</url>
-        <count>9999</count>
-        <price>115.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.7</weight>
-        <param name="Производитель">Таиланд</param>
-      </offer>
-      <offer id="845654504491" available="true">
-        <name>Соус Чили Chilli sause "Inproba" 700г</name>
-        <vendorCode>845654</vendorCode>
-        <description><![CDATA[
-
-Inproba Chilli Sauce остро-сладкий соус с кусочками перца чили, покоривший сердца мировых гурманов. Не горький, отличается пряным ароматом, мягкой, приятной консистенцией и пикантным вкусом, способными доставить вам массу гастрономического удовольствия. <br />Основными ингредиентами являются томаты, острый перец чили 7 %, паприка, лук, чеснок, уксусная и лимонная кислоты. <br />Не содержит вредных веществ и консервантов. <br /><br />Inproba Chili Sauce - это не просто изысканная приправа, его состав - это кладезь витаминов и полезных микроэлементов, таких как цинк, магний, калий, кальций, медь, железо, фосфор. Более того, перец чили способен оказывать на организм человека противовоспалительное и антибактериальное действия.<br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3331-3831-4631-b434-373762363237/sous-inproba-chili-s.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-845654504491-sous-chili-chilli-sause-inproba-700g</url>
-        <count>9999</count>
-        <price>115.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.7</weight>
-        <param name="Производитель">Таиланд</param>
-      </offer>
       <offer id="692289300481" available="true">
         <name>Стружка креветки, снек 1кг</name>
         <vendorCode>692289</vendorCode>
@@ -10519,23 +10413,6 @@ Inproba Chilli Sauce остро-сладкий соус с кусочками п
         <param name="Производитель">Украина</param>
         <param name="Фасовка">500г</param>
       </offer>
-      <offer id="146530336871" available="true">
-        <name>Соевый соус Inproba Soja Sauce 250 мл.</name>
-        <vendorCode>146530</vendorCode>
-        <description><![CDATA[
-
-<br />Соевый соус Inproba подходит для приготовления любых соусов: грибного, креветочного, рыбного, горчичного и мясного. Также его используют в качестве маринада для мяса, рыбы, морепродуктов для последующего приготовления на гриле.Продукты приобретают характерную глазурь и яркий вкус. Для настоящих гурманов готовят даже специальный соевый соус мороженого. Уже доказано, что за счет блокирования свободных радикалов соевый соус замедляет старение клеток человеческого организма и улучшает кровообращение. За счет своей способности снижать количество свободных радикалов соевый соус является хорошей профилактикой развития раковых опухолей. <br /><br /> Соевый соус содержит множество минеральных элементов, витаминов и аминокислот. За счет присутствия производных глутаминовой кислоты он обладает свойством ярко подчеркивать вкус блюд. <br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6466-3935-4530-a632-316532313435/33791799.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-146530336871-soevii-sous-inproba-soja-sauce-250-ml</url>
-        <count>9999</count>
-        <price>75.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.25</weight>
-        <param name="Производитель">Нидерланды</param>
-      </offer>
       <offer id="509090704911" available="true">
         <name>Нектар манго Finnest Mango "Regal Siprus" 2000 мл.</name>
         <vendorCode>509090</vendorCode>
@@ -10603,23 +10480,6 @@ Barilla Basilico традиционный томатный соус Базили
         <categoryId>441079117491</categoryId>
         <weight>0.21</weight>
         <param name="Производитель">Польша</param>
-      </offer>
-      <offer id="685781469451" available="true">
-        <name>Соус острый Самбал Sambal Oelek "Inproba" 200г</name>
-        <vendorCode>685781</vendorCode>
-        <description><![CDATA[
-
-Самбал - это соус, обычно изготавливаемый из множества перцев чили и вторичных ингредиентов, таких как паста из креветок, рыбный соус, чеснок, имбирь, лук-шалот, лук-шалот, сахар, сок лайма и рисовый уксус или другие уксусы. <br /><br /> Различные рецепты самбалов обычно подают в качестве острых и острых приправ для таких блюд, как икан бакар (рыба на гриле), икан горенг (жареная рыба), айам горенг (жареная курица) и сото. Sambal - индонезийское заимствование слова яванского происхождения (самбел).<br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6632-3362-4265-a531-313434643734/177896872.jpg</picture>
-        <url>https://smartfood.org.ua/sauces/tproduct/320928537-685781469451-sous-ostrii-sambal-sambal-oelek-inproba</url>
-        <count>9999</count>
-        <price>85.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>441079117491</categoryId>
-        <weight>0.2</weight>
-        <param name="Производитель">Нидерланды</param>
       </offer>
       <offer id="789365907801" available="true">
         <name>Соус острый пикантный чили Madero Sos Chili 250г</name>
@@ -11368,23 +11228,6 @@ Gullon, Испания Crackers Cheddar - набор хрустящих соле
         <categoryId>287161144321</categoryId>
         <weight>1.5</weight>
         <param name="Производитель">Турция</param>
-      </offer>
-      <offer id="980931854411" available="true">
-        <name>Помидоры бочковые Красные 2кг</name>
-        <vendorCode>980931</vendorCode>
-        <description><![CDATA[
-
-Из красных помидоров соленых получается прекрасная закуска.<br />Соленые зеленые помидоры вкусные и ароматные, они хороши к отварной или жареной картошке, хороши как закуска на дружеской вечеринке.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3333-3538-4735-b164-326438336162/58f0b3e09c70.jpg</picture>
-        <url>https://smartfood.org.ua/pickles/tproduct/320931048-980931854411-pomidori-bochkovie-krasnie-2kg</url>
-        <count>9999</count>
-        <price>199.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>152485699881</categoryId>
-        <weight>2</weight>
-        <param name="Производитель">Украина</param>
       </offer>
       <offer id="181886115421" available="true">
         <name>Рахат-лукум Султан ассорти с орехами 1,5кг.</name>
@@ -15000,7 +14843,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3262-3735-4234-b532-323431396630/2899034604_w600_h600.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-868300253761-sous-madero-chesnochnii-czosnkowy-410g</url>
         <count>9999</count>
-        <price>79.00</price>
+        <price>99.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.41</weight>
@@ -16516,7 +16359,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <picture>https://static.tildacdn.com/tild3032-6234-4566-b564-313333303866/CA-0093-550x550.jpg</picture>
         <url>https://smartfood.org.ua/sauces/tproduct/320928537-926549850871-medovaya-gorchitsa-bez-glyutena-madero-m</url>
         <count>9999</count>
-        <price>63.00</price>
+        <price>69.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>441079117491</categoryId>
         <weight>0.27</weight>
@@ -19475,23 +19318,6 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <weight>0.5</weight>
         <param name="Производитель">Вьетнам</param>
         <param name="Фасовка">Пакет</param>
-      </offer>
-      <offer id="690093514331" available="true">
-        <name>Турецкий рахат-лукум подарочный ТМ "Sultan", 750г.</name>
-        <vendorCode>690093</vendorCode>
-        <description><![CDATA[
-
-Пять видов рахат-лукума в коробке<br />Полезность лукума определяется во многом теми добавками, что присутствуют в его рецептуре: кусочки апельсина или лимона помогают укрепить иммунную систему и уберечь от простудных заболеваний, мед качественно улучшает состав крови, ускоряет процесс пищеварения и оказывает противовоспалительный эффект, фруктовый сок и ягоды насыщают организм витаминами и минеральными веществами. Но самое главное – при употреблении рахат-лукума выделяется немало «гормонов счастья» - эндорфинов, позволяющих человеку в полной мере ощутить наполненность своей жизни и заметить наконец все окружающие его яркие краски.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3964-3938-4365-a536-666539326563/241765698.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-690093514331-turetskii-rahat-lukum-podarochnii-tm-sul</url>
-        <count>9999</count>
-        <price>349.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>0.75</weight>
-        <param name="Производитель">Турция</param>
       </offer>
       <offer id="939775387531" available="true">
         <name>Маковая начинка "SantaVita Bakers" 500г.</name>
