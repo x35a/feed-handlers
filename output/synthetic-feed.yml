@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-22T17:12:17+03:00">
+<yml_catalog date="2023-05-26T06:20:40+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -579,31 +579,8 @@ Costa d'Oro Vitapiu Fonte Naturale di Omega 3 является результа�
         <param name="Объем">5000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="574202180251" available="true">
-        <name>Масло оливковое PIACERE Extra Vergine De Cecco LOLIO 1л</name>
-        <vendor>De Cecco</vendor>
-        <vendorCode>574202</vendorCode>
-        <description><![CDATA[
-
-De Cecco Delicato Extra Virgin Piacere (в перев с итал. Удовольствие) – оливковое масло высшей категории, полученное непосредственно из оливок и исключительно с помощью механических средств. Вкус оливкового масла нежный, мягкий и сбалансированный с легким и приятным ощущением остроты, его гармония способна удовлетворить самых взыскательных гурманов и подчеркнуть вкус каждого блюда. Идеально подходит для вторых блюд и для заправки салатов. Производитель: De Cecco, Италия. Объем: 1л
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3961-3866-4461-b139-376538383133/lolio-de-cecco-piace.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-574202180251-maslo-olivkovoe-piacere-extra-vergine-de</url>
-        <count>9999</count>
-        <price>419.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>320586217181</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Италия</param>
-        <param name="Упаковка">Стеклянная бутылка</param>
-        <param name="Отжим">Первый холодный</param>
-        <param name="Тип масла">Оливковое</param>
-        <param name="Объем">1000 мл</param>
-        <quantity>100</quantity>
-      </offer>
       <offer id="935334965451" available="true">
-        <name>Масло оливковое Classico Extra Vergine De Cecco LOLIO 1л</name>
+        <name>Масло оливковое Classico Extra Virgine De Cecco OLIO 1л</name>
         <vendor>De Cecco</vendor>
         <vendorCode>935334</vendorCode>
         <description><![CDATA[
@@ -612,9 +589,9 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
 
 			<!--Enforce cdata-->]]></description>
         <picture>https://static.tildacdn.com/tild6434-3263-4137-b836-313662633163/D0BED0BBD0B8D0B2D0BA.jpg</picture>
-        <url>https://smartfood.org.ua/oil/tproduct/320929475-935334965451-maslo-olivkovoe-classico-extra-vergine-d</url>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-935334965451-maslo-olivkovoe-classico-extra-virgine-d</url>
         <count>9999</count>
-        <price>335.00</price>
+        <price>379.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -667,6 +644,29 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Производитель">Италия</param>
         <param name="Упаковка">Стеклянная бутылка</param>
         <param name="Отжим">Первый холодный</param>
+        <param name="Тип масла">Оливковое</param>
+        <param name="Объем">1000 мл</param>
+        <quantity>100</quantity>
+      </offer>
+      <offer id="841402176681" available="true">
+        <name>Масло оливковое для жарки Monterico 1л</name>
+        <vendor>Monterrico</vendor>
+        <vendorCode>841402</vendorCode>
+        <description><![CDATA[
+
+Масло оливковое для жарки Monterico 1л Испания <br /><br />Оливковое масло для жарки - смесь рафинированного и масла первого отжима.
+
+			<!--Enforce cdata-->]]></description>
+        <picture>https://static.tildacdn.com/tild3761-3062-4266-b338-343031393666/253402911_images_201.jpg</picture>
+        <url>https://smartfood.org.ua/oil/tproduct/320929475-841402176681-maslo-olivkovoe-dlya-zharki-monterico-1l</url>
+        <count>9999</count>
+        <price>349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320586217181</categoryId>
+        <weight>1</weight>
+        <param name="Производитель">Испания</param>
+        <param name="Упаковка">Стеклянная бутылка</param>
+        <param name="Отжим">смесь первого холодного и рафинированного</param>
         <param name="Тип масла">Оливковое</param>
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
