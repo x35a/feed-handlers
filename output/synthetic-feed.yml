@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-26T06:20:40+03:00">
+<yml_catalog date="2023-05-29T21:13:05+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -2190,7 +2190,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <picture>https://static.tildacdn.com/tild3365-3335-4533-b761-386361373666/polost.png</picture>
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-165379124941-zheltii-polosatik-1kg</url>
         <count>9999</count>
-        <price>919.00</price>
+        <price>749.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
@@ -3044,25 +3044,6 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <url>https://smartfood.org.ua/snacks/tproduct/320925559-142153154811-trigla-soleno-sushenaya-snek-k-pivu-1kg</url>
         <count>9999</count>
         <price>892.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Вьетнам</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="545813724281" available="true">
-        <name>Угорь вяленый, солено - сушеный, снек к пиву 1кг.</name>
-        <vendorCode>545813</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Угорь – популярная рыба, внешне напоминающая змею. Сушеный угорь — очень популярная закуска к свежему охлажденному пиву любых сортов. Сушеный угорь – экзотический деликатес, который обладает выраженным вкусом и пикантным ароматом. Благодаря этим качествам, сушеный угорь пользуется невероятным спросом в элитных барах.</p><p style="text-align: left;">Продукт обладает высоким качеством и питательной ценностью, содержит витамины и минералы, полезные жиры. Сырье для его производства доставляется из стран Юго-восточной Азии.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3266-3136-4263-b837-623663393238/ugor_vjalenyj1.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-545813724281-ugor-vyalenii-soleno-sushenii-snek-k-piv</url>
-        <count>9999</count>
-        <price>839.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>907149595291</categoryId>
         <weight>1</weight>
