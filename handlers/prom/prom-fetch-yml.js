@@ -9,7 +9,7 @@ const fetchFeed = require('../../common/fetch-feed')
 const path = require('../../common/feeds-path')
 const outputFilePath = path.prom.output
 const { tldYMLLink } = require('../../common/const')
-const washbasinOffer = require('./washbasin')
+const washbasin = require('./washbasin')
 
 ;(async () => {
     // Get yml
@@ -44,8 +44,10 @@ const washbasinOffer = require('./washbasin')
             delete offer.vendor
         })
 
-        // Add washbasin
-        result.yml_catalog.shop[0].offers[0].offer.push(washbasinOffer)
+        // Add washbasin ek01
+        result.yml_catalog.shop[0].offers[0].offer.push(washbasin.ek01)
+        // Add washbasin ek02
+        result.yml_catalog.shop[0].offers[0].offer.push(washbasin.ek02)
 
         // Build xml
         const xml = builder.buildObject(result)
