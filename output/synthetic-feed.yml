@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-05-29T21:13:05+03:00">
+<yml_catalog date="2023-06-01T20:11:01+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -453,7 +453,7 @@
         <picture>https://static.tildacdn.com/tild6331-3763-4066-a630-646264373765/2951347892_olivkova-.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-644192835961-olivkovoe-maslo-monterico-aceite-de-oliv</url>
         <count>9999</count>
-        <price>367.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -499,7 +499,7 @@
         <picture>https://static.tildacdn.com/tild6136-6138-4835-b832-613062663836/2951347892_olivkovoe.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-167208549131-olivkovoe-maslo-nefiltrovannoe-monterico</url>
         <count>9999</count>
-        <price>377.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -683,7 +683,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <picture>https://static.tildacdn.com/tild3130-6661-4230-b764-616438656662/images1000x700.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-714560939261-olivkovoe-maslo-monterico-aceite-de-oliv</url>
         <count>9999</count>
-        <price>398.00</price>
+        <price>399.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
@@ -3608,7 +3608,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <picture>https://static.tildacdn.com/tild3861-3565-4662-a664-366534323933/IMG_1063-800x800.jpg</picture>
         <url>https://smartfood.org.ua/oil/tproduct/320929475-977940386641-olivkovoe-maslo-monini-anfora-1l</url>
         <count>9999</count>
-        <price>399.00</price>
+        <price>419.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>320586217181</categoryId>
         <weight>1</weight>
