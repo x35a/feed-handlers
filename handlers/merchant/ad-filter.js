@@ -1,4 +1,24 @@
 module.exports = {
+    // Custom label filter to mark only ad products.
+    adAllowed: {
+        categoryName: [
+            'Снеки',
+            'Орехи',
+            'Сухофрукты и цукаты',
+            'Восточные сладости',
+            'Кофе, Какао',
+            'Масло',
+            'Мука, крупы, мюсли, кранчи',
+            'Рыба, икра, морепродукты',
+            'Напитки, соки, сиропы',
+            'Семена, семечки',
+            'Соления',
+            'Пряности и специи'
+        ],
+        productID: []
+    },
+
+    // Filters to apart products on 2 feed files - ad and free.
     adAllowedList: ['103472456301', '850550835561', '630090046341'],
 
     excludeIDList: [

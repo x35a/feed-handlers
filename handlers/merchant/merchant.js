@@ -2,6 +2,7 @@ const fs = require('fs')
 const parse = require('csv-parse/lib/sync')
 const stringify = require('csv-stringify/lib/sync')
 const {
+    adAllowed,
     adAllowedList,
     excludeIDList,
     stopWords,
@@ -21,7 +22,8 @@ const fetchFeed = require('../../common/fetch-feed')
 
 ;(async () => {
     const columns = []
-    const gmerchantCustomLabel0 = 'custom_label_0'
+    const feedCustomLabel0 = 'custom_label_0'
+    const feedCustomLabel1 = 'custom_label_1'
 
     // Get csv
     const text = await fetchFeed(tldCSVLink)
@@ -42,13 +44,25 @@ const fetchFeed = require('../../common/fetch-feed')
 
     // Filters
     productsList.forEach((product, index) => {
-        // Add attribute: custom_label_0
+        // Assign custom labels
+        // attribute: custom_label_0
+        // attr definition:	Ad label
+        // values: ad, free
+        // attribute: custom_label_1
         // attr definition:	Product type
         // Example values: snacks, cheese, etc
         // https://support.google.com/merchants/answer/6324473#zippy=%2Cexample-values%2Ccustom-label-definitions
         // https://support.google.com/merchants/answer/7052112?sjid=14806723072595054663-EU
+
+        adAllowed.categoryName.includes(product.product_type) ||
+        adAllowed.productID.includes(product.id)
+            ? (product[feedCustomLabel0] = 'ad')
+            : (product[feedCustomLabel0] = 'free')
+
         if (product.product_type === 'Снеки') {
-            product[gmerchantCustomLabel0] = 'snacks'
+            product[feedCustomLabel1] = 'snacks'
+        } else {
+            product[feedCustomLabel1] = ''
         }
 
         // Force Ad
@@ -100,11 +114,17 @@ const fetchFeed = require('../../common/fetch-feed')
     // Build tsv
 
     // Add custom_label_0 column
-    columns.push(gmerchantCustomLabel0)
+    columns.push(feedCustomLabel0, feedCustomLabel1)
+
+    let i = 0
+    while (i < 2) {
+        console.log(adProducts[i])
+        i++
+    }
 
     const adProductsStringified = stringify(adProducts, {
         header: true,
-        columns: columns,
+        //columns: columns,
         //quoted_empty: true,
         delimiter: '\t'
     })
@@ -113,7 +133,7 @@ const fetchFeed = require('../../common/fetch-feed')
 
     const freeProductsStringified = stringify(freeProducts, {
         header: true,
-        columns: columns,
+        //columns: columns,
         //quoted_empty: true,
         delimiter: '\t'
     })
