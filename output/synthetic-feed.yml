@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-06-08T19:05:41+03:00">
+<yml_catalog date="2023-06-21T14:36:32+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -3065,25 +3065,6 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="897474290061" available="true">
-        <name>Лакедра сушеная/вяленая снек к пиву 1кг.</name>
-        <vendorCode>897474</vendorCode>
-        <description><![CDATA[
-
-Лакедра сушеная/вяленая снек к пиву 1кг. Украина
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3933-3133-4038-b063-363566336136/ajNdjbjTHt-e6BjEBiMB.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-897474290061-lakedra-sushenayavyalenaya-snek-k-pivu-1</url>
-        <count>9999</count>
-        <price>799.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Вьетнам</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
       <offer id="856944615491" available="true">
         <name>Козинаки кунжут Amanti 1кг.</name>
         <vendor>Amanti</vendor>
@@ -3378,25 +3359,6 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Фасовка">Пакет</param>
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="412126558671" available="true">
-        <name>Халва мраморная с орехами Amanti 3кг</name>
-        <vendor>Amanti</vendor>
-        <vendorCode>412126</vendorCode>
-        <description><![CDATA[
-
-Халва имеет очень приятный, неприторный вкус с нотками мёда и орешков. По консистенции кусочки халвы достаточно плотные (привычная нам подсолнечная халва более рыхлая и сильнее крошится). <br />Халва отлично держит свою форму, при разламывании мелких крошек практически нет. <br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6136-3165-4235-a334-323639653239/2586167866_w640_h640.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-412126558671-halva-mramornaya-s-orehami-amanti-3kg</url>
-        <count>9999</count>
-        <price>725.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>3</weight>
-        <param name="Производитель">Турция</param>
-        <quantity>100</quantity>
       </offer>
       <offer id="248821698261" available="true">
         <name>Кокос сушеный натуральный без сахара Amanti 500г</name>
@@ -7106,46 +7068,6 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <weight>12</weight>
         <param name="Производитель">Нидерданды</param>
         <quantity>100</quantity>
-      </offer>
-      <offer id="791145150541" group_id="598197697961" available="true">
-        <name>Икра толстолоба сушеная/вяленая, снек к пиву - 1кг.</name>
-        <vendorCode>697961</vendorCode>
-        <description><![CDATA[
-
-Икра плотвы вяленая, в вакуумной упаковке по 500грамм, хорошо подсушена, слабосоленая.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6365-6564-4739-b861-373837613430/28285124.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-598197697961-ikra-tolstoloba-sushenayavyalenaya-snek?editionuid=791145150541</url>
-        <count>9999</count>
-        <price>1189.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Украина</param>
-        <param name="Фасовка">1кг.</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
-      </offer>
-      <offer id="656899318921" group_id="598197697961" available="true">
-        <name>Икра толстолоба сушеная/вяленая, снек к пиву - 500г</name>
-        <vendorCode>697962</vendorCode>
-        <description><![CDATA[
-
-Икра плотвы вяленая, в вакуумной упаковке по 500грамм, хорошо подсушена, слабосоленая.
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6365-6564-4739-b861-373837613430/28285124.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-598197697961-ikra-tolstoloba-sushenayavyalenaya-snek?editionuid=656899318921</url>
-        <count>9999</count>
-        <price>599.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Украина</param>
-        <param name="Фасовка">500г</param>
-        <quantity>100</quantity>
-        <vendor>Smart Food Shop</vendor>
       </offer>
       <offer id="971814062201" group_id="708453110701" available="true">
         <name>Сырный продукт Желтый с дырками Zolty z Dziurami ТМ Mlekovita - 1кг.</name>
