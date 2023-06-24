@@ -1,6 +1,6 @@
 exports.ek01 = {
     $: { id: '1831709551', available: 'true' },
-    price: ['4099'],
+    price: ['3999'],
     currencyId: ['UAH'],
     categoryId: ['223682564701'],
     picture: [
@@ -90,7 +90,7 @@ exports.ek01 = {
 
 exports.ek02 = {
     $: { id: '1685444916', available: 'true' },
-    price: ['4099'],
+    price: ['3999'],
     currencyId: ['UAH'],
     categoryId: ['223682564701'],
     picture: [
