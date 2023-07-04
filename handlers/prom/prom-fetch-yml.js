@@ -44,10 +44,10 @@ const washbasin = require('./washbasin')
             delete offer.vendor
         })
 
-        // Add washbasin ek01
+        // Add washbasins
         result.yml_catalog.shop[0].offers[0].offer.push(washbasin.ek01)
-        // Add washbasin ek02
         result.yml_catalog.shop[0].offers[0].offer.push(washbasin.ek02)
+        result.yml_catalog.shop[0].offers[0].offer.push(washbasin.ek03)
 
         // Build xml
         const xml = builder.buildObject(result)
