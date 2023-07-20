@@ -33,7 +33,7 @@ const { tldYMLLink } = require('../../common/const')
         // Update <offer> tag
         offers.forEach((offer, index) => {
             // Add available attr
-            //offer['$'].available = 'true'
+            offer['$'].available = 'false'
 
             // Add <quantity>
             offer.quantity = 100
