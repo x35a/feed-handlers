@@ -44,7 +44,7 @@ parser.parseString(feed_content, function (err, result) {
     // Update <offer> tag
     offers.forEach((offer, index) => {
         // Add available attr
-        offer['$'].available = 'true'
+        offer['$'].available = 'false'
 
         // Add <quantity>
         offer.quantity = 100
