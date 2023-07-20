@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-06-21T14:36:32+03:00">
+<yml_catalog date="2023-07-11T11:18:08+03:00">
   <shop>
     <name>Smart Food</name>
     <company>Smart Food</company>
@@ -43,7 +43,7 @@
       <category id="865603265821">Все</category>
     </categories>
     <offers>
-      <offer id="577126552881" group_id="207818399021" available="true">
+      <offer id="577126552881" group_id="207818399021" available="false">
         <name>Манго сушеное/вяленое - 1кг</name>
         <vendorCode>577126</vendorCode>
         <description><![CDATA[
@@ -63,7 +63,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="965640103851" group_id="426602872841" available="true">
+      <offer id="965640103851" group_id="426602872841" available="false">
         <name>Кешью жареный - 1кг</name>
         <vendorCode>965640</vendorCode>
         <description><![CDATA[
@@ -83,7 +83,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="223846647611" group_id="425982809521" available="true">
+      <offer id="223846647611" group_id="425982809521" available="false">
         <name>Фисташки соленые Иран - 500г</name>
         <vendorCode>223846</vendorCode>
         <description><![CDATA[
@@ -103,7 +103,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="312246584961" group_id="425982809521" available="true">
+      <offer id="312246584961" group_id="425982809521" available="false">
         <name>Фисташки соленые Иран - 1кг</name>
         <vendorCode>312246</vendorCode>
         <description><![CDATA[
@@ -123,7 +123,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="332010080121" group_id="732926887571" available="true">
+      <offer id="332010080121" group_id="732926887571" available="false">
         <name>Орех Макадамия в скорлупе - 1кг</name>
         <vendorCode>332010</vendorCode>
         <description><![CDATA[
@@ -143,7 +143,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="530587440201" group_id="732926887571" available="true">
+      <offer id="530587440201" group_id="732926887571" available="false">
         <name>Орех Макадамия в скорлупе - 500г</name>
         <vendorCode>530587</vendorCode>
         <description><![CDATA[
@@ -163,7 +163,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="770610268191" available="true">
+      <offer id="770610268191" available="false">
         <name>Кунжут черный 1 кг.</name>
         <vendorCode>921649</vendorCode>
         <description><![CDATA[
@@ -182,7 +182,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="833875965311" group_id="821557301431" available="true">
+      <offer id="833875965311" group_id="821557301431" available="false">
         <name>Фундук сырой/ломбардский орех - 1кг</name>
         <vendorCode>833875</vendorCode>
         <description><![CDATA[
@@ -202,7 +202,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="701786691381" group_id="443188520021" available="true">
+      <offer id="701786691381" group_id="443188520021" available="false">
         <name>Фисташка соленая сырая премиум США - 500</name>
         <vendorCode>701786</vendorCode>
         <description><![CDATA[
@@ -222,7 +222,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="869581234151" group_id="443188520021" available="true">
+      <offer id="869581234151" group_id="443188520021" available="false">
         <name>Фисташка соленая сырая премиум США - 1000</name>
         <vendorCode>869581</vendorCode>
         <description><![CDATA[
@@ -242,7 +242,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="606332687271" group_id="801224298091" available="true">
+      <offer id="606332687271" group_id="801224298091" available="false">
         <name>Кешью сырой - 1000</name>
         <vendorCode>606332</vendorCode>
         <description><![CDATA[
@@ -262,7 +262,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="801272361351" group_id="645054319621" available="true">
+      <offer id="801272361351" group_id="645054319621" available="false">
         <name>Миндаль карамель - 1кг</name>
         <vendorCode>801272</vendorCode>
         <description><![CDATA[
@@ -282,7 +282,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="155255831411" available="true">
+      <offer id="155255831411" available="false">
         <name>Мускатный орех 1 кг.</name>
         <vendorCode>351500</vendorCode>
         <description><![CDATA[
@@ -301,7 +301,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="934500066131" group_id="847979017411" available="true">
+      <offer id="934500066131" group_id="847979017411" available="false">
         <name>Бразильский орех - 500</name>
         <vendorCode>934500</vendorCode>
         <description><![CDATA[
@@ -321,7 +321,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="684566827211" group_id="847979017411" available="true">
+      <offer id="684566827211" group_id="847979017411" available="false">
         <name>Бразильский орех - 1000</name>
         <vendorCode>684566</vendorCode>
         <description><![CDATA[
@@ -341,7 +341,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="451308466661" group_id="615054843341" available="true">
+      <offer id="451308466661" group_id="615054843341" available="false">
         <name>Миндаль жареный Золотой - 1кг</name>
         <vendorCode>451308</vendorCode>
         <description><![CDATA[
@@ -361,7 +361,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="307797719391" group_id="603659820731" available="true">
+      <offer id="307797719391" group_id="603659820731" available="false">
         <name>Кедровый орех очищенный - 500г</name>
         <vendorCode>307797</vendorCode>
         <description><![CDATA[
@@ -381,7 +381,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="317305176871" group_id="603659820731" available="true">
+      <offer id="317305176871" group_id="603659820731" available="false">
         <name>Кедровый орех очищенный - 1кг</name>
         <vendorCode>317305</vendorCode>
         <description><![CDATA[
@@ -401,7 +401,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="940229229131" group_id="978775001961" available="true">
+      <offer id="940229229131" group_id="978775001961" available="false">
         <name>Фундук жареный - 1кг</name>
         <vendorCode>940229</vendorCode>
         <description><![CDATA[
@@ -421,7 +421,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="816361512621" group_id="401227579941" available="true">
+      <offer id="816361512621" group_id="401227579941" available="false">
         <name>Миндаль Золотой сырой - 1кг</name>
         <vendorCode>816361</vendorCode>
         <description><![CDATA[
@@ -441,7 +441,7 @@
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="644192835961" available="true">
+      <offer id="644192835961" available="false">
         <name>Оливковое масло Monterico Aceite de Oliva virgen extre 1л</name>
         <vendor>Monterrico</vendor>
         <vendorCode>644192</vendorCode>
@@ -464,7 +464,7 @@
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="167208549131" available="true">
+      <offer id="167208549131" available="false">
         <name>Оливковое масло нефильтрованное Monterico Aceite de Oliva virgen extre 1л</name>
         <vendor>Monterrico</vendor>
         <vendorCode>167208</vendorCode>
@@ -487,7 +487,7 @@
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="873708014991" available="true">
+      <offer id="873708014991" available="false">
         <name>Смесь пяти масел Costa dOro Vitapiu 750 мл</name>
         <vendor>Costadoro</vendor>
         <vendorCode>873708</vendorCode>
@@ -510,7 +510,7 @@ Costa d'Oro Vitapiu Fonte Naturale di Omega 3 является результа�
         <param name="Объем">750 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="658764972921" available="true">
+      <offer id="658764972921" available="false">
         <name>Оливковое масло Olio Extra Vergine di Oliva VesuVio 5л</name>
         <vendorCode>658764</vendorCode>
         <description><![CDATA[
@@ -533,7 +533,7 @@ Costa d'Oro Vitapiu Fonte Naturale di Omega 3 является результа�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="794123618211" available="true">
+      <offer id="794123618211" available="false">
         <name>Оливковое масло De Cecco Classico Olio Extra Vergine di Oliva 5л</name>
         <vendor>De Cecco</vendor>
         <vendorCode>794123</vendorCode>
@@ -556,7 +556,7 @@ Costa d'Oro Vitapiu Fonte Naturale di Omega 3 является результа�
         <param name="Объем">5000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="935334965451" available="true">
+      <offer id="935334965451" available="false">
         <name>Масло оливковое Classico Extra Virgine De Cecco OLIO 1л</name>
         <vendor>De Cecco</vendor>
         <vendorCode>935334</vendorCode>
@@ -579,7 +579,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="134092672611" available="true">
+      <offer id="134092672611" available="false">
         <name>Оливковое масло Olimp Extra Virgin Olive Oil Gold Extraction 5л</name>
         <vendorCode>134092</vendorCode>
         <description><![CDATA[
@@ -602,7 +602,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="676199605871" available="true">
+      <offer id="676199605871" available="false">
         <name>Масло оливковое Pure Olive Costa dOro 1л</name>
         <vendor>De Cecco</vendor>
         <vendorCode>676199</vendorCode>
@@ -625,7 +625,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="841402176681" available="true">
+      <offer id="841402176681" available="false">
         <name>Масло оливковое для жарки Monterico 1л</name>
         <vendor>Monterrico</vendor>
         <vendorCode>841402</vendorCode>
@@ -648,7 +648,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="714560939261" available="true">
+      <offer id="714560939261" available="false">
         <name>Оливковое масло Monterico Aceite de Oliva virgen extre Monterico Delicato 1л</name>
         <vendor>Monterrico</vendor>
         <vendorCode>714560</vendorCode>
@@ -671,7 +671,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="597532988341" available="true">
+      <offer id="597532988341" available="false">
         <name>Колбаса салями сырокопченная Javor Salama Vijofel 750г</name>
         <vendor>Vijofel</vendor>
         <vendorCode>597532</vendorCode>
@@ -693,7 +693,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Состав">свинина, говядина и смеси приправ</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="855027504831" available="true">
+      <offer id="855027504831" available="false">
         <name>Хамон FAR Jamon Serrano 500г</name>
         <vendor>FAR</vendor>
         <vendorCode>855027</vendorCode>
@@ -714,7 +714,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Фасовка">Нарезка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="161794612961" available="true">
+      <offer id="161794612961" available="false">
         <name>Инжир сушеный 1кг.</name>
         <vendorCode>161794</vendorCode>
         <description><![CDATA[
@@ -734,7 +734,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="775334742091" available="true">
+      <offer id="775334742091" available="false">
         <name>Курага AMANTI 1кг</name>
         <vendor>Amanti</vendor>
         <vendorCode>775334</vendorCode>
@@ -754,7 +754,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Фасовка">Коробка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="965696556851" available="true">
+      <offer id="965696556851" available="false">
         <name>Рахат-лукум Квадрат три в одном с арахисом 2 кг.</name>
         <vendor>Dilillo</vendor>
         <vendorCode>965696</vendorCode>
@@ -773,7 +773,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="954737305551" group_id="760002763031" available="true">
+      <offer id="954737305551" group_id="760002763031" available="false">
         <name>Ананас кольца цукаты - 1кг</name>
         <vendorCode>954737</vendorCode>
         <description><![CDATA[
@@ -794,7 +794,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="851728370841" available="true">
+      <offer id="851728370841" available="false">
         <name>Кокос цукаты кубик 1кг</name>
         <vendorCode>358341</vendorCode>
         <description><![CDATA[
@@ -813,7 +813,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="750838153521" group_id="285332190351" available="true">
+      <offer id="750838153521" group_id="285332190351" available="false">
         <name>Курага Индустриал - 1кг</name>
         <vendorCode>750838</vendorCode>
         <description><![CDATA[
@@ -833,7 +833,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="972331110361" group_id="214522736061" available="true">
+      <offer id="972331110361" group_id="214522736061" available="false">
         <name>Изюм Джамбо золотой - 1кг</name>
         <vendorCode>972331</vendorCode>
         <description><![CDATA[
@@ -853,7 +853,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="104540156151" group_id="112605426141" available="true">
+      <offer id="104540156151" group_id="112605426141" available="false">
         <name>Папайя сушеная красная - 1кг</name>
         <vendorCode>104540</vendorCode>
         <description><![CDATA[
@@ -874,7 +874,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="986994338011" group_id="630598365691" available="true">
+      <offer id="986994338011" group_id="630598365691" available="false">
         <name>Курага ДЖАМБО - 1кг</name>
         <vendorCode>986994</vendorCode>
         <description><![CDATA[
@@ -895,7 +895,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="631204432991" available="true">
+      <offer id="631204432991" available="false">
         <name>Ягоды годжи 1кг</name>
         <vendorCode>631204</vendorCode>
         <description><![CDATA[
@@ -915,7 +915,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="389912782311" available="true">
+      <offer id="389912782311" available="false">
         <name>Финик Ветка натуральный Salammbo 1кг</name>
         <vendorCode>389912</vendorCode>
         <description><![CDATA[
@@ -935,7 +935,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="222403608081" available="true">
+      <offer id="222403608081" available="false">
         <name>Финики Королевские LA PALMA 1кг</name>
         <vendorCode>222403</vendorCode>
         <description><![CDATA[
@@ -955,7 +955,7 @@ De Cecco Classiko Extra Virgin Piacere (в перев с итал. Удовол�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="721698125481" available="true">
+      <offer id="721698125481" available="false">
         <name>Кофе молотый БЕЗ КОФЕИНА Dallmayr Prodomo Entcoffeiniert 100% арабика 500г</name>
         <vendor>Alois Dallmayr</vendor>
         <vendorCode>721698</vendorCode>
@@ -977,7 +977,7 @@ Dallmayr Prodomo Entcoffeiniert — кофе не содержащее кофе�
         <param name="Форма выпуска">Молотый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="816004747811" available="true">
+      <offer id="816004747811" available="false">
         <name>Кофе зерновой Caffe Crema Movenpick 100% арабика 500г</name>
         <vendor>Movenpick</vendor>
         <vendorCode>816004</vendorCode>
@@ -999,7 +999,7 @@ Dallmayr Prodomo Entcoffeiniert — кофе не содержащее кофе�
         <param name="Форма выпуска">Молотый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="135011625291" available="true">
+      <offer id="135011625291" available="false">
         <name>Кофе растворимый Idee Caffe Gold Express J. J. Darboven 100 % арабика 200г</name>
         <vendor>J.J. Darboven</vendor>
         <vendorCode>135011</vendorCode>
@@ -1020,7 +1020,7 @@ Idee Gold Express яркий представитель качественног
         <param name="Форма выпуска">Молотый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="532483918491" available="true">
+      <offer id="532483918491" available="false">
         <name>Кофе в зернах (экологически чистый) LavAzza Itierra COLOMBIA Premium 100% арабика 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>532483</vendorCode>
@@ -1043,7 +1043,7 @@ Idee Gold Express яркий представитель качественног
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="169463142941" available="true">
+      <offer id="169463142941" available="false">
         <name>Кофе в зернах (экологически чистый) LavAzza Itierra BRASILE Premium 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>169463</vendorCode>
@@ -1066,7 +1066,7 @@ Idee Gold Express яркий представитель качественног
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="292326680491" available="true">
+      <offer id="292326680491" available="false">
         <name>Кофе в зернах Caffe Crema Movenpick 100% арабика 1кг</name>
         <vendor>Movenpick</vendor>
         <vendorCode>292326</vendorCode>
@@ -1088,7 +1088,7 @@ Idee Gold Express яркий представитель качественног
         <param name="Форма выпуска">Молотый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="618918003491" available="true">
+      <offer id="618918003491" available="false">
         <name>Кофе в зернах LavAzza Caffe Crema Gustoso 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>618918</vendorCode>
@@ -1111,7 +1111,7 @@ Idee Gold Express яркий представитель качественног
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="375598922321" available="true">
+      <offer id="375598922321" available="false">
         <name>Кофе в зернах LavAzza Crema e Aroma 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>375598</vendorCode>
@@ -1134,7 +1134,7 @@ Lavazza Crema e Aroma в упаковках по 1 кг - традиционна
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="100641872321" available="true">
+      <offer id="100641872321" available="false">
         <name>Кофе в зернах LavAzza Qualita Rossa 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>100641</vendorCode>
@@ -1157,7 +1157,7 @@ Lavazza Crema e Aroma в упаковках по 1 кг - традиционна
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="497776316471" available="true">
+      <offer id="497776316471" available="false">
         <name>Кофе в зернах Dallmayr Crema d Oro 100% арабика 1кг</name>
         <vendor>Alois Dallmayr</vendor>
         <vendorCode>497776</vendorCode>
@@ -1179,7 +1179,7 @@ Lavazza Crema e Aroma в упаковках по 1 кг - традиционна
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="634905357571" available="true">
+      <offer id="634905357571" available="false">
         <name>Кофе в зернах Dallmayr Crema dOro Intensa, 100% арабика 1кг</name>
         <vendorCode>634905</vendorCode>
         <description><![CDATA[
@@ -1198,7 +1198,7 @@ Lavazza Crema e Aroma в упаковках по 1 кг - традиционна
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="278826272981" available="true">
+      <offer id="278826272981" available="false">
         <name>Кофе в зернах Alvorada 1кг</name>
         <vendor>Alvorada</vendor>
         <vendorCode>278826</vendorCode>
@@ -1221,7 +1221,7 @@ Alvorada Brasil - восхитительный австрийский кофе, 
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="401601795571" available="true">
+      <offer id="401601795571" available="false">
         <name>Кофе зерновой Movenpick Espresso 1кг</name>
         <vendor>Movenpick</vendor>
         <vendorCode>401601</vendorCode>
@@ -1243,7 +1243,7 @@ Alvorada Brasil - восхитительный австрийский кофе, 
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="681293150161" available="true">
+      <offer id="681293150161" available="false">
         <name>Кофе в зернах ILLY INTENSO Coffee 250г</name>
         <vendor>Illy</vendor>
         <vendorCode>681293</vendorCode>
@@ -1265,7 +1265,7 @@ Alvorada Brasil - восхитительный австрийский кофе, 
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="407465500131" available="true">
+      <offer id="407465500131" available="false">
         <name>Кофе в зернах (экологически чистый) LavAzza Itierra Selection Premium 100% арабика 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>407465</vendorCode>
@@ -1288,7 +1288,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="561583721171" available="true">
+      <offer id="561583721171" available="false">
         <name>Кофе молотый ILLY CLASSICO 250г</name>
         <vendor>Illy</vendor>
         <vendorCode>561583</vendorCode>
@@ -1310,7 +1310,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="386595597811" available="true">
+      <offer id="386595597811" available="false">
         <name>Кофе в зернах LavAzza Qualita Oro Premium 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>386595</vendorCode>
@@ -1333,7 +1333,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="914390530841" available="true">
+      <offer id="914390530841" available="false">
         <name>Кофе растворимый Movenpick GOLD Intense 200г</name>
         <vendor>Movenpick</vendor>
         <vendorCode>914390</vendorCode>
@@ -1355,7 +1355,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Форма выпуска">Растворимый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="218351771681" available="true">
+      <offer id="218351771681" available="false">
         <name>Кофе растворимый Movenpick GOLD Original 200г</name>
         <vendor>Movenpick</vendor>
         <vendorCode>218351</vendorCode>
@@ -1377,7 +1377,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Форма выпуска">Растворимый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="546011426851" available="true">
+      <offer id="546011426851" available="false">
         <name>Кофе в зернах LavAzza Espresso Crema e Gusto Classico 1кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>546011</vendorCode>
@@ -1400,7 +1400,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="736083492901" available="true">
+      <offer id="736083492901" available="false">
         <name>Кофе растворимый Jacobs Monarch (Якобс Монарх) 400г</name>
         <vendor>Jacobs</vendor>
         <vendorCode>736083</vendorCode>
@@ -1421,7 +1421,7 @@ Lavazza Tierra - это высококачественная смесь сред
         <param name="Форма выпуска">Растворимый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="499060057531" available="true">
+      <offer id="499060057531" available="false">
         <name>Кофе зерновой Movenpick Caffe Crema Gusto Italiano 1кг</name>
         <vendorCode>499060</vendorCode>
         <description><![CDATA[
@@ -1442,7 +1442,7 @@ Movenpick Caffè Crema Gusto Italiano - это смесь из арабики (9
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="653358417601" available="true">
+      <offer id="653358417601" available="false">
         <name>Кофе в зернах ILLY BRASILE MONOARABICA 250г</name>
         <vendor>Illy</vendor>
         <vendorCode>653358</vendorCode>
@@ -1464,7 +1464,7 @@ Movenpick Caffè Crema Gusto Italiano - это смесь из арабики (9
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="737124682081" available="true">
+      <offer id="737124682081" available="false">
         <name>Кофе растворимый JACOBS CRONAT MILD 200г</name>
         <vendor>Jacobs</vendor>
         <vendorCode>737124</vendorCode>
@@ -1485,7 +1485,7 @@ Jacobs Cronat Mild может сравниться по вкусовым хар�
         <param name="Форма выпуска">Растворимый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="378896493631" available="true">
+      <offer id="378896493631" available="false">
         <name>Кофе в зернах Movenpick DER Himmlische100% арабика 1кг</name>
         <vendor>Movenpick</vendor>
         <vendorCode>378896</vendorCode>
@@ -1507,7 +1507,7 @@ Jacobs Cronat Mild может сравниться по вкусовым хар�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="986739682671" available="true">
+      <offer id="986739682671" available="false">
         <name>Кофе зерновой Movenpick El Autentico Caffe Crema 100% арабика 1кг</name>
         <vendor>Movenpick</vendor>
         <vendorCode>986739</vendorCode>
@@ -1529,7 +1529,7 @@ Jacobs Cronat Mild может сравниться по вкусовым хар�
         <param name="Форма выпуска">Молотый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="132383296391" available="true">
+      <offer id="132383296391" available="false">
         <name>Шоколад черный Cobertura Torras 70% какао 900г</name>
         <vendor>Torras</vendor>
         <vendorCode>132383</vendorCode>
@@ -1549,7 +1549,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Тип шоколада">Черный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="574747971111" available="true">
+      <offer id="574747971111" available="false">
         <name>Тунец кусочками в подсолнечном масле Atlantico 1кг</name>
         <vendor>Rianxeira</vendor>
         <vendorCode>574747</vendorCode>
@@ -1569,7 +1569,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="598534563671" available="true">
+      <offer id="598534563671" available="false">
         <name>Тунец Mare Aperto Natural в оливковом масле (6х) 80г</name>
         <vendor>Mare Aperto</vendor>
         <vendorCode>598534</vendorCode>
@@ -1590,7 +1590,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="797252194591" available="true">
+      <offer id="797252194591" available="false">
         <name>Тунец кусочками в подсолнечном масле BayMar ATUN Trozos Bolsa 500г</name>
         <vendor>BayMar</vendor>
         <vendorCode>797252</vendorCode>
@@ -1610,7 +1610,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="673764849431" available="true">
+      <offer id="673764849431" available="false">
         <name>Тунец в подсолнечном масле Bay Mar Atun en aceite de girasol 900г</name>
         <vendor>BayMar</vendor>
         <vendorCode>673764</vendorCode>
@@ -1631,7 +1631,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="828569560631" available="true">
+      <offer id="828569560631" available="false">
         <name>Тунец Mare Aperto Natural в оливковом масле (8х) 80г</name>
         <vendor>Mare Aperto</vendor>
         <vendorCode>828569</vendorCode>
@@ -1652,7 +1652,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="288669908331" available="true">
+      <offer id="288669908331" available="false">
         <name>Тунец в подсолнечном масле Rianxeira Atun Claro En Aceite De Girasol (6x) 80г</name>
         <vendor>Rianxeira</vendor>
         <vendorCode>288669</vendorCode>
@@ -1673,7 +1673,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="224632649131" group_id="142111583301" available="true">
+      <offer id="224632649131" group_id="142111583301" available="false">
         <name>Ореховый микс - 1кг</name>
         <vendorCode>224632</vendorCode>
         <description><![CDATA[
@@ -1693,7 +1693,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="112281173401" group_id="442054103841" available="true">
+      <offer id="112281173401" group_id="442054103841" available="false">
         <name>Памело сушеное (цукат) - 1кг</name>
         <vendorCode>112281</vendorCode>
         <description><![CDATA[
@@ -1713,7 +1713,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="705736980651" group_id="979069657061" available="true">
+      <offer id="705736980651" group_id="979069657061" available="false">
         <name>Клубника вяленая, цукат - 1кг</name>
         <vendorCode>705736</vendorCode>
         <description><![CDATA[
@@ -1733,7 +1733,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="257964053091" group_id="417371663281" available="true">
+      <offer id="257964053091" group_id="417371663281" available="false">
         <name>Клюква в сиропе - 1кг</name>
         <vendorCode>257964</vendorCode>
         <description><![CDATA[
@@ -1753,7 +1753,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="676251472891" available="true">
+      <offer id="676251472891" available="false">
         <name>Чай цейлонский зеленый FS Волшебный Фазан 150г</name>
         <vendor>Bastek</vendor>
         <vendorCode>676251</vendorCode>
@@ -1775,7 +1775,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Тип">Черный чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="517933200911" available="true">
+      <offer id="517933200911" available="false">
         <name>Черный цейлонский чай с кардамоном Akbar «Do Ghazal Tea Pure Ceylon» 500г</name>
         <vendor>Akbr</vendor>
         <vendorCode>517933</vendorCode>
@@ -1797,7 +1797,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Тип">Черный чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="212251153621" available="true">
+      <offer id="212251153621" available="false">
         <name>Черный цейлонский чай Akbar «Do Ghazal Tea Pure Ceylon» 500г</name>
         <vendor>Akbr</vendor>
         <vendorCode>212251</vendorCode>
@@ -1818,7 +1818,7 @@ Torras Cobetura de chocolate fondant превосходный черный шо�
         <param name="Тип">Черный чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="968418337871" available="true">
+      <offer id="968418337871" available="false">
         <name>Зеленый цейлонский чай Премиум Akbar «Do Ghazal Tea Pure Ceylon» 500г</name>
         <vendor>Akbr</vendor>
         <vendorCode>968418</vendorCode>
@@ -1840,7 +1840,7 @@ Do Ghazal tea это 100% чистый цейлонский чай з гор Ц�
         <param name="Тип">Зеленый чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="346227008871" available="true">
+      <offer id="346227008871" available="false">
         <name>Чай цейлонский зеленый FS Золотой Слон 150г</name>
         <vendor>Bastek</vendor>
         <vendorCode>346227</vendorCode>
@@ -1862,7 +1862,7 @@ Do Ghazal tea это 100% чистый цейлонский чай з гор Ц�
         <param name="Тип">Черный чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="560491529881" available="true">
+      <offer id="560491529881" available="false">
         <name>Хамон Subirats Jamon Serrano 500г</name>
         <vendorCode>560491</vendorCode>
         <description><![CDATA[
@@ -1881,7 +1881,7 @@ Do Ghazal tea это 100% чистый цейлонский чай з гор Ц�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="450918886481" available="true">
+      <offer id="450918886481" available="false">
         <name>Сир Brie Cantorel 1кг</name>
         <vendor>Cantorel</vendor>
         <vendorCode>450918</vendorCode>
@@ -1900,7 +1900,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Франция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="468195477131" available="true">
+      <offer id="468195477131" available="false">
         <name>Масло оливковое MONINI EXTRA VIRGIN OLIVE 5л</name>
         <vendorCode>468195</vendorCode>
         <description><![CDATA[
@@ -1923,7 +1923,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="393313885741" available="true">
+      <offer id="393313885741" available="false">
         <name>Кальмар в масле, 500г</name>
         <vendorCode>393313</vendorCode>
         <description><![CDATA[
@@ -1942,7 +1942,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="387334533551" group_id="641678104171" available="true">
+      <offer id="387334533551" group_id="641678104171" available="false">
         <name>Инжир сушеный - 1кг</name>
         <vendorCode>387334</vendorCode>
         <description><![CDATA[
@@ -1962,7 +1962,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="141327160441" available="true">
+      <offer id="141327160441" available="false">
         <name>Фисташки с солью Alesto Pistazien 500г</name>
         <vendor>Alesto</vendor>
         <vendorCode>141327</vendorCode>
@@ -1981,7 +1981,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="185297527771" available="true">
+      <offer id="185297527771" available="false">
         <name>Оливковое масло Monini Classico extra vergine di oliva 1л</name>
         <vendor>Monini</vendor>
         <vendorCode>185297</vendorCode>
@@ -2000,7 +2000,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="502321356831" available="true">
+      <offer id="502321356831" available="false">
         <name>Оливковое масло для жарки Bertolli Robusto 5л</name>
         <vendor>Bertolli</vendor>
         <vendorCode>502321</vendorCode>
@@ -2019,7 +2019,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="408296596951" available="true">
+      <offer id="408296596951" available="false">
         <name>Оливковое масло Antico Frantoio Olio Extra Vergine di Oliva 5л</name>
         <vendor>Bertolli</vendor>
         <vendorCode>408296</vendorCode>
@@ -2038,7 +2038,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="842097634241" group_id="876970828991" available="true">
+      <offer id="842097634241" group_id="876970828991" available="false">
         <name>Орех Макадамия очищенный - 1кг</name>
         <vendorCode>842097</vendorCode>
         <description><![CDATA[
@@ -2058,7 +2058,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="540875750111" group_id="876970828991" available="true">
+      <offer id="540875750111" group_id="876970828991" available="false">
         <name>Орех Макадамия очищенный - 500г</name>
         <vendorCode>540875</vendorCode>
         <description><![CDATA[
@@ -2078,7 +2078,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="755396732501" available="true">
+      <offer id="755396732501" available="false">
         <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 825г</name>
         <vendor>NUTELLA</vendor>
         <vendorCode>755396</vendorCode>
@@ -2097,7 +2097,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="601994698821" available="true">
+      <offer id="601994698821" available="false">
         <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 1000г</name>
         <vendor>NUTELLA</vendor>
         <vendorCode>601994</vendorCode>
@@ -2116,7 +2116,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="165379124941" available="true">
+      <offer id="165379124941" available="false">
         <name>Желтый полосатик 1кг</name>
         <vendorCode>165379</vendorCode>
         <description><![CDATA[
@@ -2135,7 +2135,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="117534339991" available="true">
+      <offer id="117534339991" available="false">
         <name>Тунец Соломка 1кг</name>
         <vendorCode>117534</vendorCode>
         <description><![CDATA[
@@ -2154,7 +2154,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="269441721441" available="true">
+      <offer id="269441721441" available="false">
         <name>Тунец Соломка с перцем 1кг</name>
         <vendorCode>269441</vendorCode>
         <description><![CDATA[
@@ -2173,7 +2173,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="540937418961" available="true">
+      <offer id="540937418961" available="false">
         <name>Анчоус сушеный 1кг</name>
         <vendorCode>540937</vendorCode>
         <description><![CDATA[
@@ -2192,7 +2192,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="982465414261" available="true">
+      <offer id="982465414261" available="false">
         <name>Стружка кальмара 1кг</name>
         <vendorCode>982465</vendorCode>
         <description><![CDATA[
@@ -2211,7 +2211,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="321486836851" available="true">
+      <offer id="321486836851" available="false">
         <name>Янтарная рыбка с перцем 1кг</name>
         <vendorCode>321486</vendorCode>
         <description><![CDATA[
@@ -2230,7 +2230,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="326170813341" available="true">
+      <offer id="326170813341" available="false">
         <name>Ставридка солено - сушеная 1кг</name>
         <vendorCode>326170</vendorCode>
         <description><![CDATA[
@@ -2249,7 +2249,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="770398640351" available="true">
+      <offer id="770398640351" available="false">
         <name>Лососевые палочки сушеные (икряники), снек к пиву 1кг.</name>
         <vendorCode>770398</vendorCode>
         <description><![CDATA[
@@ -2268,7 +2268,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="518244608081" available="true">
+      <offer id="518244608081" available="false">
         <name>Кальмар Перуанский 1кг</name>
         <vendorCode>518244</vendorCode>
         <description><![CDATA[
@@ -2287,7 +2287,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="692289300481" available="true">
+      <offer id="692289300481" available="false">
         <name>Стружка креветки, снек 1кг</name>
         <vendorCode>692289</vendorCode>
         <description><![CDATA[
@@ -2306,7 +2306,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="175255755481" group_id="295045151891" available="true">
+      <offer id="175255755481" group_id="295045151891" available="false">
         <name>Говядина вяленая, сушеная, снек, (мясные чипсы, джерк) - 1кг.</name>
         <vendorCode>175255</vendorCode>
         <description><![CDATA[
@@ -2326,7 +2326,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="629180311041" group_id="295045151891" available="true">
+      <offer id="629180311041" group_id="295045151891" available="false">
         <name>Говядина вяленая, сушеная, снек, (мясные чипсы, джерк) - 500г</name>
         <vendorCode>151891</vendorCode>
         <description><![CDATA[
@@ -2346,7 +2346,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="846493161991" group_id="495891847141" available="true">
+      <offer id="846493161991" group_id="495891847141" available="false">
         <name>Свинина вяленая, сушеная (мясные чипсы, джерк) - 1кг.</name>
         <vendorCode>846493</vendorCode>
         <description><![CDATA[
@@ -2366,7 +2366,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="374979817291" group_id="495891847141" available="true">
+      <offer id="374979817291" group_id="495891847141" available="false">
         <name>Свинина вяленая, сушеная (мясные чипсы, джерк) - 500г</name>
         <vendorCode>374979</vendorCode>
         <description><![CDATA[
@@ -2386,7 +2386,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="832104535141" group_id="101951030321" available="true">
+      <offer id="832104535141" group_id="101951030321" available="false">
         <name>Куриное мясо вяленое, сушеное с чесноком (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>832104</vendorCode>
         <description><![CDATA[
@@ -2406,7 +2406,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="965872254531" group_id="101951030321" available="true">
+      <offer id="965872254531" group_id="101951030321" available="false">
         <name>Куриное мясо вяленое, сушеное с чесноком (куриные мясные чипсы) - 500г</name>
         <vendorCode>965872</vendorCode>
         <description><![CDATA[
@@ -2426,7 +2426,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="519919717401" group_id="626310997351" available="true">
+      <offer id="519919717401" group_id="626310997351" available="false">
         <name>Куриное мясо вяленое, сушеное с паприкой (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>519919</vendorCode>
         <description><![CDATA[
@@ -2446,7 +2446,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="206871565431" group_id="626310997351" available="true">
+      <offer id="206871565431" group_id="626310997351" available="false">
         <name>Куриное мясо вяленое, сушеное с паприкой (куриные мясные чипсы) - 500г</name>
         <vendorCode>206871</vendorCode>
         <description><![CDATA[
@@ -2466,7 +2466,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="834196219041" available="true">
+      <offer id="834196219041" available="false">
         <name>Морской коктейль в масле, креветки, мидии, осьминог, кальмар 500г</name>
         <vendorCode>834196</vendorCode>
         <description><![CDATA[
@@ -2485,7 +2485,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="197557261771" available="true">
+      <offer id="197557261771" available="false">
         <name>Корица в палочках (кассия) 1 кг.</name>
         <vendorCode>403520</vendorCode>
         <description><![CDATA[
@@ -2505,7 +2505,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="106412128771" available="true">
+      <offer id="106412128771" available="false">
         <name>Гвоздика, 1 кг</name>
         <vendorCode>106412</vendorCode>
         <description><![CDATA[
@@ -2525,7 +2525,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="980087765241" available="true">
+      <offer id="980087765241" available="false">
         <name>Бадьян, анис звездчатый, 1 кг</name>
         <vendorCode>980087</vendorCode>
         <description><![CDATA[
@@ -2545,7 +2545,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="246524340061" available="true">
+      <offer id="246524340061" available="false">
         <name>Приправа для курицы, 1кг.</name>
         <vendorCode>246524</vendorCode>
         <description><![CDATA[
@@ -2565,7 +2565,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="519172123151" available="true">
+      <offer id="519172123151" available="false">
         <name>Приправа для мяса, 1 кг</name>
         <vendorCode>519172</vendorCode>
         <description><![CDATA[
@@ -2585,7 +2585,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="498577654221" available="true">
+      <offer id="498577654221" available="false">
         <name>Перец розовый горошек 1 кг</name>
         <vendorCode>654221</vendorCode>
         <description><![CDATA[
@@ -2606,7 +2606,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="620984258311" available="true">
+      <offer id="620984258311" available="false">
         <name>Кальмар паутинка с красным перцем (закуска к пиву, снек ) 1 кг.</name>
         <vendorCode>620984</vendorCode>
         <description><![CDATA[
@@ -2625,7 +2625,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="706935611991" available="true">
+      <offer id="706935611991" available="false">
         <name>Рахат-Лукум кубик микс1,5кг.</name>
         <vendor>Amanti</vendor>
         <vendorCode>706935</vendorCode>
@@ -2644,7 +2644,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="452411002751" available="true">
+      <offer id="452411002751" available="false">
         <name>Рахат-лукум Султан гранат с фундуком Amanti 2кг.</name>
         <vendor>Dilillo</vendor>
         <vendorCode>452411</vendorCode>
@@ -2663,7 +2663,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="835753856391" available="true">
+      <offer id="835753856391" available="false">
         <name>Папайя сушеная натуральная Premium King без сахара 500г</name>
         <vendor>OLMISH</vendor>
         <vendorCode>835753</vendorCode>
@@ -2682,7 +2682,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Вьетнам</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="739860143161" available="true">
+      <offer id="739860143161" available="false">
         <name>Оливковое масло Monini Classico extra vergine di oliva 1л.</name>
         <vendor>Monini</vendor>
         <vendorCode>739860</vendorCode>
@@ -2701,7 +2701,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="747392562981" available="true">
+      <offer id="747392562981" available="false">
         <name>Кабаносы, колбаски без консервантов 1кг.</name>
         <vendor>Opalanka</vendor>
         <vendorCode>747392</vendorCode>
@@ -2720,7 +2720,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="402388705951" available="true">
+      <offer id="402388705951" available="false">
         <name>Оливки/маслины черные Olivis без косточки 4200 г</name>
         <vendor>Toredo</vendor>
         <vendorCode>402388</vendorCode>
@@ -2739,7 +2739,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Египет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="195045317261" available="true">
+      <offer id="195045317261" available="false">
         <name>Драже арахиса в кунжуте Микс Amanti 2,5кг.</name>
         <vendor>Amanti</vendor>
         <vendorCode>195045</vendorCode>
@@ -2758,7 +2758,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="208862023911" available="true">
+      <offer id="208862023911" available="false">
         <name>Рахат Лукум ролл АТОМ Sahinoglu 500г</name>
         <vendor>Sahinoglu</vendor>
         <vendorCode>208862</vendorCode>
@@ -2777,7 +2777,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="740595760131" available="true">
+      <offer id="740595760131" available="false">
         <name>Семга сушеная/вяленая снек к пиву 0,5кг.</name>
         <vendorCode>740595</vendorCode>
         <description><![CDATA[
@@ -2797,7 +2797,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="153118788181" available="true">
+      <offer id="153118788181" available="false">
         <name>Кольца кальмара с перцем 1кг.</name>
         <vendorCode>153118</vendorCode>
         <description><![CDATA[
@@ -2817,7 +2817,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="222678520121" available="true">
+      <offer id="222678520121" available="false">
         <name>Кальмар паутинка (закуска к пиву, снек ) 1 кг.</name>
         <vendorCode>222678</vendorCode>
         <description><![CDATA[
@@ -2836,7 +2836,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="358217979751" available="true">
+      <offer id="358217979751" available="false">
         <name>Кальмар Перуанский Чили 1кг</name>
         <vendorCode>358217</vendorCode>
         <description><![CDATA[
@@ -2855,7 +2855,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="601854973961" available="true">
+      <offer id="601854973961" available="false">
         <name>Кальмар кубики снек 1кг</name>
         <vendorCode>601854</vendorCode>
         <description><![CDATA[
@@ -2874,7 +2874,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="336875533451" available="true">
+      <offer id="336875533451" available="false">
         <name>Стружка кальмара по шанхайски в кунжуте 1кг.</name>
         <vendorCode>336875</vendorCode>
         <description><![CDATA[
@@ -2893,7 +2893,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="639102844571" available="true">
+      <offer id="639102844571" available="false">
         <name>Конина вяленая, сушеная, (мясные чипсы, джерк, бастурма) 500г</name>
         <vendorCode>639102</vendorCode>
         <description><![CDATA[
@@ -2912,7 +2912,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="198151264371" available="true">
+      <offer id="198151264371" available="false">
         <name>Крабовые полосы, снек 1кг</name>
         <vendorCode>198151</vendorCode>
         <description><![CDATA[
@@ -2931,7 +2931,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="597296911781" available="true">
+      <offer id="597296911781" available="false">
         <name>Кольца осьминога, снек к пиву 1кг</name>
         <vendorCode>597296</vendorCode>
         <description><![CDATA[
@@ -2950,7 +2950,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="630759250471" available="true">
+      <offer id="630759250471" available="false">
         <name>Креветка сушеная большая, снек 1кг</name>
         <vendorCode>630759</vendorCode>
         <description><![CDATA[
@@ -2969,7 +2969,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="142153154811" available="true">
+      <offer id="142153154811" available="false">
         <name>Тригла солено - сушеная, снек к пиву 1кг.</name>
         <vendorCode>142153</vendorCode>
         <description><![CDATA[
@@ -2988,7 +2988,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="450246168351" available="true">
+      <offer id="450246168351" available="false">
         <name>Кольца кальмара снек к пиву 1кг.</name>
         <vendorCode>450246</vendorCode>
         <description><![CDATA[
@@ -3008,7 +3008,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="125353934401" available="true">
+      <offer id="125353934401" available="false">
         <name>Спинка трески вяленая, сушеная, снек к пиву 1кг</name>
         <vendorCode>125353</vendorCode>
         <description><![CDATA[
@@ -3027,7 +3027,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="234716011571" available="true">
+      <offer id="234716011571" available="false">
         <name>Карнации свино-говяжьи закуска к пиву, снек 500г</name>
         <vendorCode>234716</vendorCode>
         <description><![CDATA[
@@ -3046,7 +3046,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="338174130471" available="true">
+      <offer id="338174130471" available="false">
         <name>Карнации куриные, закуска к пиву, снек 500г</name>
         <vendorCode>338174</vendorCode>
         <description><![CDATA[
@@ -3065,7 +3065,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="856944615491" available="true">
+      <offer id="856944615491" available="false">
         <name>Козинаки кунжут Amanti 1кг.</name>
         <vendor>Amanti</vendor>
         <vendorCode>856944</vendorCode>
@@ -3084,7 +3084,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="632986202631" available="true">
+      <offer id="632986202631" available="false">
         <name>Кольца осьминога чили, снек к пиву 1кг</name>
         <vendorCode>632986</vendorCode>
         <description><![CDATA[
@@ -3103,7 +3103,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="114082354111" available="true">
+      <offer id="114082354111" available="false">
         <name>Кальмар Перуанский Хот Тейст 1кг.</name>
         <vendorCode>114082</vendorCode>
         <description><![CDATA[
@@ -3122,7 +3122,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="240435637221" available="true">
+      <offer id="240435637221" available="false">
         <name>Миндаль со вкусом острого перца Чили 1кг</name>
         <vendorCode>240435</vendorCode>
         <description><![CDATA[
@@ -3141,7 +3141,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="936247616921" available="true">
+      <offer id="936247616921" available="false">
         <name>Приправа для рыбы, 1 кг.</name>
         <vendorCode>936247</vendorCode>
         <description><![CDATA[
@@ -3161,7 +3161,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="811119118681" available="true">
+      <offer id="811119118681" available="false">
         <name>Белый перец молотый, 1 кг.</name>
         <vendorCode>811119</vendorCode>
         <description><![CDATA[
@@ -3181,7 +3181,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="122738387791" available="true">
+      <offer id="122738387791" available="false">
         <name>Смесь перцев горошек, 1 кг.</name>
         <vendorCode>122738</vendorCode>
         <description><![CDATA[
@@ -3201,7 +3201,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="982378235101" available="true">
+      <offer id="982378235101" available="false">
         <name>Перец красный, чили, сушеный кусочками, 1 кг.</name>
         <vendorCode>982378</vendorCode>
         <description><![CDATA[
@@ -3221,7 +3221,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="702530212621" available="true">
+      <offer id="702530212621" available="false">
         <name>Чеснок сушеный молотый 1 кг.</name>
         <vendorCode>702530</vendorCode>
         <description><![CDATA[
@@ -3241,7 +3241,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="991701985531" available="true">
+      <offer id="991701985531" available="false">
         <name>Лавровый лист сушеный молотый 1 кг.</name>
         <vendorCode>991701</vendorCode>
         <description><![CDATA[
@@ -3261,7 +3261,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="212513433651" available="true">
+      <offer id="212513433651" available="false">
         <name>Гвоздика молотая, 1 кг</name>
         <vendorCode>212513</vendorCode>
         <description><![CDATA[
@@ -3281,7 +3281,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="329014786261" available="true">
+      <offer id="329014786261" available="false">
         <name>Фундук жареный соленый, снек, закуска к пиву 1кг</name>
         <vendorCode>329014</vendorCode>
         <description><![CDATA[
@@ -3300,7 +3300,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="441239368131" available="true">
+      <offer id="441239368131" available="false">
         <name>Анис приправа 1 кг.</name>
         <vendorCode>441239</vendorCode>
         <description><![CDATA[
@@ -3320,7 +3320,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="778296787751" available="true">
+      <offer id="778296787751" available="false">
         <name>Паприка сладкая сушеная кусочками 1 кг.</name>
         <vendorCode>778296</vendorCode>
         <description><![CDATA[
@@ -3340,7 +3340,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="955403943021" available="true">
+      <offer id="955403943021" available="false">
         <name>Кардамон (зерно) целый, 1 кг</name>
         <vendorCode>955403</vendorCode>
         <description><![CDATA[
@@ -3360,26 +3360,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="248821698261" available="true">
-        <name>Кокос сушеный натуральный без сахара Amanti 500г</name>
-        <vendor>Amanti</vendor>
-        <vendorCode>248821</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: center;">Кокос сушеный без сахара Amanti</p>В составе кокосовых цукатов высокое содержание витаминов: А, Е, К, холин, бета-каротин, бета-криптоксантин, лютеин + зеаксантин, углеводов (включая моно- и дисахариды), клетчатки, минералов: кальций, калий, магний, фосфор, цинк, марганец, селен, железо и натрий, а также целого ряда незаменимых органических кислот.<br />Сочетание содержащихся в кокосовых цукатах полезных веществ делает этот десерт не только вкусным, но и полезным для здоровья человека.<br />Регулярное употребление данного продукта позволяет многократно снизить вероятность возникновения и развития заболеваний сердечно-сосудистой системы. Кроме того, кокосовые цукаты оказывают тонизирующее и иммуностимулирующее воздействие, снижают уровень содержания холестерина в крови, улучшают работу желудочно-кишечного тракта, улучшает репродуктивную функцию мужчин и женщин, полезен при лечении заболеваний щитовидной железы, поможет приспособиться к новым условиям жизни в других часовых поясах, улучшает регенерацию тканей, как, например, при ушибах или синяках.<br /><br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3338-3564-4536-b630-363863353461/kokos-amanti-600x600.jpg</picture>
-        <url>https://smartfood.org.ua/driedfruits/tproduct/320927450-248821698261-kokos-sushenii-naturalnii-bez-sahara-ama</url>
-        <count>9999</count>
-        <price>319.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>456028571861</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Вьетнам</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="360764333301" available="true">
+      <offer id="360764333301" available="false">
         <name>Окунь сушеный, вяленый ( снек, закуска к пиву) 1кг.</name>
         <vendorCode>360764</vendorCode>
         <description><![CDATA[
@@ -3398,7 +3379,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="162030220121" available="true">
+      <offer id="162030220121" available="false">
         <name>Соломка из горбуши вяленая, сушеная ( снек, закуска к пиву) 1кг.</name>
         <vendorCode>162030</vendorCode>
         <description><![CDATA[
@@ -3417,7 +3398,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="999585993601" group_id="378578738981" available="true">
+      <offer id="999585993601" group_id="378578738981" available="false">
         <name>Утиное мясо по пекински вяленое (мясные чипсы, снек, джерк) - 1кг.</name>
         <vendorCode>378571</vendorCode>
         <description><![CDATA[
@@ -3437,7 +3418,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="914508892271" group_id="378578738981" available="true">
+      <offer id="914508892271" group_id="378578738981" available="false">
         <name>Утиное мясо по пекински вяленое (мясные чипсы, снек, джерк) - 500г</name>
         <vendorCode>378572</vendorCode>
         <description><![CDATA[
@@ -3457,7 +3438,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="426162677571" available="true">
+      <offer id="426162677571" available="false">
         <name>Путассу солено - сушеная 1кг</name>
         <vendorCode>426162</vendorCode>
         <description><![CDATA[
@@ -3476,7 +3457,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="122608389781" available="true">
+      <offer id="122608389781" available="false">
         <name>Путассу с перцем солено - сушеная 1кг.</name>
         <vendorCode>122608</vendorCode>
         <description><![CDATA[
@@ -3495,7 +3476,7 @@ Brie Cantorel - сыр (из категории мягких сыров) изг�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="977940386641" available="true">
+      <offer id="977940386641" available="false">
         <name>Оливковое масло Monini Anfora 1л.</name>
         <vendor>Monini</vendor>
         <vendorCode>977940</vendorCode>
@@ -3514,7 +3495,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="260028960231" group_id="732416039191" available="true">
+      <offer id="260028960231" group_id="732416039191" available="false">
         <name>Сыр полутвердый ТМ Serenada Spomlek, Radamer 45% - 1кг.</name>
         <vendor>Serenada Spomlek</vendor>
         <vendorCode>260028</vendorCode>
@@ -3535,7 +3516,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="733483111861" group_id="989059633871" available="true">
+      <offer id="733483111861" group_id="989059633871" available="false">
         <name>Сыр твердый «Цезарь» ТМ Ryki 45% - 1кг.</name>
         <vendor>Ryki</vendor>
         <vendorCode>733483</vendorCode>
@@ -3556,7 +3537,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="562140416891" group_id="959279091631" available="true">
+      <offer id="562140416891" group_id="959279091631" available="false">
         <name>Сыр легкий, диетический ТМ Ryki Hit z Ryk 20% - 1кг.</name>
         <vendor>Ryki</vendor>
         <vendorCode>562140</vendorCode>
@@ -3577,7 +3558,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="767436221851" group_id="529095858721" available="true">
+      <offer id="767436221851" group_id="529095858721" available="false">
         <name>Сыр Чеддер ТМ Mlekovita 45% - 1кг.</name>
         <vendor>Mlekovita</vendor>
         <vendorCode>767436</vendorCode>
@@ -3598,7 +3579,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="830284073881" group_id="922533496171" available="true">
+      <offer id="830284073881" group_id="922533496171" available="false">
         <name>Сыр твердый Rycki Edam ТМ Ryki 45% - 1кг.</name>
         <vendor>Ryki</vendor>
         <vendorCode>830284</vendorCode>
@@ -3619,7 +3600,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="898519821701" group_id="992938736061" available="true">
+      <offer id="898519821701" group_id="992938736061" available="false">
         <name>Сыр Гауда Gouda mini ТМ Mlekovita 45% - 1кг.</name>
         <vendor>Mlekovita</vendor>
         <vendorCode>898519</vendorCode>
@@ -3640,7 +3621,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="625866418881" group_id="758453842821" available="true">
+      <offer id="625866418881" group_id="758453842821" available="false">
         <name>Сыр Гауда Gouda с пажитником ТМ Mlekovita 45% - 1кг.</name>
         <vendor>Mlekovita</vendor>
         <vendorCode>625866</vendorCode>
@@ -3661,28 +3642,7 @@ MONINI ANFORA&nbsp; — смесь рафинированного оливков
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="604366041361" group_id="585645361091" available="true">
-        <name>Сыр Салями, Salami ТМ Serenada Spomlek 45% - 1кг.</name>
-        <vendor>Serenada Spomlek</vendor>
-        <vendorCode>604366</vendorCode>
-        <description><![CDATA[
-
-Salami Serenada&nbsp;– дозревший сыр из коровьего молока с мягким, ароматным и тонким вкусом. Мякоть сыра нежная и мягкая. Сыр идеально подходит для приготовления бутербродов, а также разнообразит меню всей семьи. Особенно сыр Серенада Салями нравится детям.<br /><br />Состав:&nbsp;молоко, соль, молочнокислые бактерии (лактоза), стабилизатор - хлорид кальция, краситель - аннато.<br /><br />Пищевая ценность 100 г продукта:<br /><ul><li>Энергетическая ценность – 1463 кДж / 352 ккал</li><li>Жиры – 27 г, в т.ч. насыщенные жирные кислоты – 17 г</li><li>Углеводы – 1,3 г</li><li>Белки – 26 г</li><li>Соль – 1,6 г</li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild6439-3136-4065-b735-666461616364/sir-serenada-vagovij.jpg</picture>
-        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-585645361091-sir-salyami-salami-tm-serenada-spomlek-4?editionuid=604366041361</url>
-        <count>9999</count>
-        <price>499.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>443169019671</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Польша</param>
-        <param name="Упаковка">Вакуумный пакет</param>
-        <param name="Фасовка">1кг.</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="207835906441" group_id="182846952261" available="true">
+      <offer id="207835906441" group_id="182846952261" available="false">
         <name>Сыр Золотой Мазур Zloty Mazur ТМ Mlekpol 45% - 1кг.</name>
         <vendor>Mlekpol</vendor>
         <vendorCode>182842</vendorCode>
@@ -3703,7 +3663,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="224147976851" available="true">
+      <offer id="224147976851" available="false">
         <name>Оливки гиганты Yunus черные с косточкой 2650 г</name>
         <vendor>Yunus</vendor>
         <vendorCode>224147</vendorCode>
@@ -3723,7 +3683,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Стеклянная банка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="280709241541" available="true">
+      <offer id="280709241541" available="false">
         <name>Оливки гиганты Yunus зеленые с косточкой 2650 г</name>
         <vendor>Yunus</vendor>
         <vendorCode>280709</vendorCode>
@@ -3743,7 +3703,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Стеклянная банка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="784852549871" available="true">
+      <offer id="784852549871" available="false">
         <name>Сыр Моцарелла ТМ Paslek 40% 2.5кг</name>
         <vendor>Paslek</vendor>
         <vendorCode>549871</vendorCode>
@@ -3763,7 +3723,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="857572351261" available="true">
+      <offer id="857572351261" available="false">
         <name>Оливковое масло Olio Extra Vergine di Oliva Terra Gusto 5л.</name>
         <vendorCode>857572</vendorCode>
         <description><![CDATA[
@@ -3786,7 +3746,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="942518308361" group_id="777826793361" available="true">
+      <offer id="942518308361" group_id="777826793361" available="false">
         <name>Сыр полутвердый Baron ТМ Kosów45% - 1кг.</name>
         <vendor>Kosów</vendor>
         <vendorCode>777822</vendorCode>
@@ -3807,7 +3767,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="105202506681" group_id="680242735681" available="true">
+      <offer id="105202506681" group_id="680242735681" available="false">
         <name>Сыр полутвердый Натан NATAN ТМ Polmlek 45% - 1кг.</name>
         <vendor>Polmlek</vendor>
         <vendorCode>680242</vendorCode>
@@ -3828,7 +3788,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="475478168911" group_id="296299572181" available="true">
+      <offer id="475478168911" group_id="296299572181" available="false">
         <name>Сыр Старый олендер (STARY OLĘDER) ТМ Spomlek - 500г</name>
         <vendor>Spomlek</vendor>
         <vendorCode>296291</vendorCode>
@@ -3849,7 +3809,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="939359297151" group_id="296299572181" available="true">
+      <offer id="939359297151" group_id="296299572181" available="false">
         <name>Сыр Старый олендер (STARY OLĘDER) ТМ Spomlek - 1кг.</name>
         <vendor>Spomlek</vendor>
         <vendorCode>296292</vendorCode>
@@ -3870,7 +3830,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="566616395051" group_id="459406819471" available="true">
+      <offer id="566616395051" group_id="459406819471" available="false">
         <name>Сыр Gojus Gold Rokiskio (Пармезан) 48% - 500г</name>
         <vendor>Spomlek</vendor>
         <vendorCode>819471</vendorCode>
@@ -3891,7 +3851,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="479136304771" group_id="459406819471" available="true">
+      <offer id="479136304771" group_id="459406819471" available="false">
         <name>Сыр Gojus Gold Rokiskio (Пармезан) 48% - 1кг.</name>
         <vendor>Spomlek</vendor>
         <vendorCode>459401</vendorCode>
@@ -3912,7 +3872,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="280974409181" available="true">
+      <offer id="280974409181" available="false">
         <name>Миндаль хлопья, лепестки, стружка 1 кг.</name>
         <vendorCode>280974</vendorCode>
         <description><![CDATA[
@@ -3931,7 +3891,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="840979860961" available="true">
+      <offer id="840979860961" available="false">
         <name>Перец зеленый горошек 1 кг.</name>
         <vendorCode>860961</vendorCode>
         <description><![CDATA[
@@ -3952,7 +3912,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="906515668911" available="true">
+      <offer id="906515668911" available="false">
         <name>Перец черный горошек 1 кг.</name>
         <vendorCode>906515</vendorCode>
         <description><![CDATA[
@@ -3973,7 +3933,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="121592995881" available="true">
+      <offer id="121592995881" available="false">
         <name>Майоран молотый сушеный 1 кг.</name>
         <vendorCode>121592</vendorCode>
         <description><![CDATA[
@@ -3994,7 +3954,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="219349935761" available="true">
+      <offer id="219349935761" available="false">
         <name>Приправа уцхо-сунели молотый 1 кг.</name>
         <vendorCode>219349</vendorCode>
         <description><![CDATA[
@@ -4014,7 +3974,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="825298082241" available="true">
+      <offer id="825298082241" available="false">
         <name>Приправа уцхо-сунели зерно 1 кг.</name>
         <vendorCode>825298</vendorCode>
         <description><![CDATA[
@@ -4034,7 +3994,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="276428834311" available="true">
+      <offer id="276428834311" available="false">
         <name>Пажитник зерно 1 кг.</name>
         <vendorCode>276428</vendorCode>
         <description><![CDATA[
@@ -4054,7 +4014,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="414495483881" available="true">
+      <offer id="414495483881" available="false">
         <name>Семена чиа черные 1 кг.</name>
         <vendorCode>414495</vendorCode>
         <description><![CDATA[
@@ -4073,7 +4033,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="508657344151" available="true">
+      <offer id="508657344151" available="false">
         <name>Семена чиа белые 1 кг.</name>
         <vendorCode>508657</vendorCode>
         <description><![CDATA[
@@ -4092,7 +4052,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="901475586231" group_id="436926218661" available="true">
+      <offer id="901475586231" group_id="436926218661" available="false">
         <name>Свинина вяленая в вишне, сушеная, снек, (мясные чипсы, джерк) - 1кг.</name>
         <vendorCode>218661</vendorCode>
         <description><![CDATA[
@@ -4112,7 +4072,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="734164412161" group_id="436926218661" available="true">
+      <offer id="734164412161" group_id="436926218661" available="false">
         <name>Свинина вяленая в вишне, сушеная, снек, (мясные чипсы, джерк) - 500г</name>
         <vendorCode>436921</vendorCode>
         <description><![CDATA[
@@ -4132,7 +4092,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="628901240761" available="true">
+      <offer id="628901240761" available="false">
         <name>Крупа Киноа 1 кг.</name>
         <vendorCode>628901</vendorCode>
         <description><![CDATA[
@@ -4151,7 +4111,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="332237218121" available="true">
+      <offer id="332237218121" available="false">
         <name>Тмин черный (калинджи) 1 кг.</name>
         <vendorCode>332237</vendorCode>
         <description><![CDATA[
@@ -4171,7 +4131,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="432491362881" available="true">
+      <offer id="432491362881" available="false">
         <name>Растворимый кофе Ambassador Crema For Vending 500 г</name>
         <vendor>Ambassador</vendor>
         <vendorCode>432491</vendorCode>
@@ -4191,7 +4151,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="697313894731" group_id="404258065391" available="true">
+      <offer id="697313894731" group_id="404258065391" available="false">
         <name>Сыр козий Гауда ТМ Henri Willig - 500г</name>
         <vendor>Henri Willig</vendor>
         <vendorCode>404251</vendorCode>
@@ -4212,7 +4172,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="385042219261" group_id="404258065391" available="true">
+      <offer id="385042219261" group_id="404258065391" available="false">
         <name>Сыр козий Гауда ТМ Henri Willig - 1кг.</name>
         <vendor>Henri Willig</vendor>
         <vendorCode>404252</vendorCode>
@@ -4233,7 +4193,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="691469723791" available="true">
+      <offer id="691469723791" available="false">
         <name>Фисташки Иранские Акбари 1111 Brothers 500 г</name>
         <vendor>Alesto</vendor>
         <vendorCode>691469</vendorCode>
@@ -4252,7 +4212,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Иран</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="959639408061" available="true">
+      <offer id="959639408061" available="false">
         <name>Сыр Чеддер Хохланд Cheddar ТМ Hochland 1,08 кг.</name>
         <vendor>Mlekovita</vendor>
         <vendorCode>959639</vendorCode>
@@ -4272,7 +4232,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="162332361371" available="true">
+      <offer id="162332361371" available="false">
         <name>Мускатный орех молотый 1 кг.</name>
         <vendorCode>162332</vendorCode>
         <description><![CDATA[
@@ -4292,7 +4252,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="572963607071" available="true">
+      <offer id="572963607071" available="false">
         <name>Паприка молотая 1 кг.</name>
         <vendorCode>572963</vendorCode>
         <description><![CDATA[
@@ -4312,7 +4272,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="506860324461" available="true">
+      <offer id="506860324461" available="false">
         <name>Паприка молотая копченая 1 кг.</name>
         <vendorCode>506860</vendorCode>
         <description><![CDATA[
@@ -4332,7 +4292,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="197947526681" available="true">
+      <offer id="197947526681" available="false">
         <name>Приправа для плова, 1 кг</name>
         <vendorCode>197947</vendorCode>
         <description><![CDATA[
@@ -4352,7 +4312,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="488739856731" available="true">
+      <offer id="488739856731" available="false">
         <name>Приправа Сумах молотый 1кг.</name>
         <vendorCode>488739</vendorCode>
         <description><![CDATA[
@@ -4372,7 +4332,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="379084156871" available="true">
+      <offer id="379084156871" available="false">
         <name>Перец душистый горошек 1 кг.</name>
         <vendorCode>379084</vendorCode>
         <description><![CDATA[
@@ -4392,7 +4352,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="296111421341" group_id="954505073611" available="true">
+      <offer id="296111421341" group_id="954505073611" available="false">
         <name>Сыр Маасдам Maasdam ТМ Amstelland 45% - 1кг.</name>
         <vendor>Amstelland</vendor>
         <vendorCode>95452</vendorCode>
@@ -4413,7 +4373,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="546863774481" group_id="912222027731" available="true">
+      <offer id="546863774481" group_id="912222027731" available="false">
         <name>Сыр Королевский ТМ Sierpc - 1кг.</name>
         <vendor>Sierpc</vendor>
         <vendorCode>912222</vendorCode>
@@ -4434,7 +4394,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="568194306731" group_id="638557047551" available="true">
+      <offer id="568194306731" group_id="638557047551" available="false">
         <name>Сыр полутвердый радомер ТМ Spomlek, Radamer 45% - 1кг.</name>
         <vendor>Spomlek</vendor>
         <vendorCode>638552</vendorCode>
@@ -4455,7 +4415,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="978016173171" available="true">
+      <offer id="978016173171" available="false">
         <name>Треска вяленая полосы, сушеная, снек к пиву 1кг</name>
         <vendorCode>978016</vendorCode>
         <description><![CDATA[
@@ -4474,7 +4434,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="911906675901" available="true">
+      <offer id="911906675901" available="false">
         <name>Треска вяленая по шанхайски, сушеная, снек к пиву 1кг.</name>
         <vendorCode>911906</vendorCode>
         <description><![CDATA[
@@ -4493,7 +4453,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="836649042071" available="true">
+      <offer id="836649042071" available="false">
         <name>Рыбная паутинка (закуска к пиву, снек ) 1 кг.</name>
         <vendorCode>836649</vendorCode>
         <description><![CDATA[
@@ -4512,7 +4472,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="269200725321" group_id="198472324481" available="true">
+      <offer id="269200725321" group_id="198472324481" available="false">
         <name>Свинина полосками вяленая в вишне, сушеная, снек, (мясные чипсы, джерк) - 1кг.</name>
         <vendorCode>198471</vendorCode>
         <description><![CDATA[
@@ -4532,7 +4492,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="299688014701" group_id="198472324481" available="true">
+      <offer id="299688014701" group_id="198472324481" available="false">
         <name>Свинина полосками вяленая в вишне, сушеная, снек, (мясные чипсы, джерк) - 500г</name>
         <vendorCode>198472</vendorCode>
         <description><![CDATA[
@@ -4552,7 +4512,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="890557967871" group_id="117449799771" available="true">
+      <offer id="890557967871" group_id="117449799771" available="false">
         <name>Куриное мясо вяленое, сушеное в кунжуте (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>999585</vendorCode>
         <description><![CDATA[
@@ -4572,7 +4532,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="550251689971" group_id="117449799771" available="true">
+      <offer id="550251689971" group_id="117449799771" available="false">
         <name>Куриное мясо вяленое, сушеное в кунжуте (куриные мясные чипсы) - 500г</name>
         <vendorCode>914508</vendorCode>
         <description><![CDATA[
@@ -4592,7 +4552,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="631332591561" available="true">
+      <offer id="631332591561" available="false">
         <name>Колбаски сушеные охотничьи пикантные к пиву снек 1кг.</name>
         <vendorCode>631332</vendorCode>
         <description><![CDATA[
@@ -4611,7 +4571,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="540311179181" available="true">
+      <offer id="540311179181" available="false">
         <name>Орех макадамия в скорлупе AMANTI 500г</name>
         <vendor>Amanti</vendor>
         <vendorCode>540311</vendorCode>
@@ -4630,7 +4590,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Австралия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="790914467471" group_id="861194080091" available="true">
+      <offer id="790914467471" group_id="861194080091" available="false">
         <name>Сыр Гауда Cенатор Senator ТМ Mlekpol - 1кг.</name>
         <vendor>Mlekpol</vendor>
         <vendorCode>800632</vendorCode>
@@ -4651,7 +4611,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="810814479081" group_id="762936834501" available="true">
+      <offer id="810814479081" group_id="762936834501" available="false">
         <name>Растворимый кофе на развес со вкусом Ирландского Ликера Baileys - 500г</name>
         <vendorCode>762932</vendorCode>
         <description><![CDATA[
@@ -4673,7 +4633,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="934496870881" group_id="762936834501" available="true">
+      <offer id="934496870881" group_id="762936834501" available="false">
         <name>Растворимый кофе на развес со вкусом Ирландского Ликера Baileys - 1кг.</name>
         <vendorCode>762933</vendorCode>
         <description><![CDATA[
@@ -4695,7 +4655,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="424257058241" available="true">
+      <offer id="424257058241" available="false">
         <name>Зеленые оливки целые без косточки Del Gusto 4000 г</name>
         <vendor>Del Gusto</vendor>
         <vendorCode>424257</vendorCode>
@@ -4714,7 +4674,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Египет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="413551615481" available="true">
+      <offer id="413551615481" available="false">
         <name>Черные оливки целые без косточки Del Gusto 4000 г</name>
         <vendor>Yunus</vendor>
         <vendorCode>413551</vendorCode>
@@ -4734,7 +4694,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Стеклянная банка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="696158666861" available="true">
+      <offer id="696158666861" available="false">
         <name>Кумин (зира) семена, 1 кг.</name>
         <vendorCode>696158</vendorCode>
         <description><![CDATA[
@@ -4754,7 +4714,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="540340808091" available="true">
+      <offer id="540340808091" available="false">
         <name>Щука вяленая, сушеная, филе, снек к пиву 1кг.</name>
         <vendorCode>540340</vendorCode>
         <description><![CDATA[
@@ -4773,7 +4733,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="824518886481" available="true">
+      <offer id="824518886481" available="false">
         <name>Рыбная паутинка с перцем (закуска к пиву, снек ) 1 кг.</name>
         <vendorCode>824518</vendorCode>
         <description><![CDATA[
@@ -4792,7 +4752,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="425372729761" available="true">
+      <offer id="425372729761" available="false">
         <name>Кокос пластинки 1 кг.</name>
         <vendorCode>425372</vendorCode>
         <description><![CDATA[
@@ -4811,7 +4771,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="553656663251" available="true">
+      <offer id="553656663251" available="false">
         <name>Чеснок дробленый, резанный сушеный 1 кг.</name>
         <vendorCode>553656</vendorCode>
         <description><![CDATA[
@@ -4831,7 +4791,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="429619732001" available="true">
+      <offer id="429619732001" available="false">
         <name>Перец красный, острый, сушеный кусочками, 1 кг.</name>
         <vendorCode>429619</vendorCode>
         <description><![CDATA[
@@ -4851,7 +4811,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="117054153251" available="true">
+      <offer id="117054153251" available="false">
         <name>Сванская соль 1 кг.</name>
         <vendorCode>117054</vendorCode>
         <description><![CDATA[
@@ -4870,7 +4830,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="364594071481" available="true">
+      <offer id="364594071481" available="false">
         <name>Аджика сухая 1кг.</name>
         <vendorCode>364594</vendorCode>
         <description><![CDATA[
@@ -4890,7 +4850,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="940462951951" available="true">
+      <offer id="940462951951" available="false">
         <name>Оливковое масло DIVO Не фильтрованное, Премиум 1л.</name>
         <vendor>DIVO</vendor>
         <vendorCode>940462</vendorCode>
@@ -4911,7 +4871,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="847063074131" available="true">
+      <offer id="847063074131" available="false">
         <name>Кофе зерновой Milaro Mezcla Torrefacto Fuerte 1кг.</name>
         <vendor>Milaro</vendor>
         <vendorCode>847063</vendorCode>
@@ -4932,7 +4892,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="465934686921" available="true">
+      <offer id="465934686921" available="false">
         <name>Кофе в зернах, премиум Garibaldi Intenso 1 кг.</name>
         <vendor>Garibaldi</vendor>
         <vendorCode>465934</vendorCode>
@@ -4954,7 +4914,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="895798683701" available="true">
+      <offer id="895798683701" available="false">
         <name>Кофе в зернах, премиум Garibaldi Gusto Dolce 1 кг.</name>
         <vendor>Garibaldi</vendor>
         <vendorCode>895798</vendorCode>
@@ -4976,7 +4936,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="996274475311" available="true">
+      <offer id="996274475311" available="false">
         <name>Кофе в зернах, премиум Garibaldi Top Bar 1 кг.</name>
         <vendor>Garibaldi</vendor>
         <vendorCode>996274</vendorCode>
@@ -4998,7 +4958,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="778269144091" available="true">
+      <offer id="778269144091" available="false">
         <name>Желейные конфеты Trolli Mini Burger, 600г</name>
         <vendor>Trolli</vendor>
         <vendorCode>778269</vendorCode>
@@ -5017,7 +4977,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="691856899061" available="true">
+      <offer id="691856899061" available="false">
         <name>Масло оливковое нефильтрованное Levante Grezzona di frantoio 1л.</name>
         <vendor>Levante</vendor>
         <vendorCode>691856</vendorCode>
@@ -5038,7 +4998,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="429992465991" available="true">
+      <offer id="429992465991" available="false">
         <name>Масло Из Виногадных Косточек Farchioni 1л.</name>
         <vendor>Farchioni</vendor>
         <vendorCode>429992</vendorCode>
@@ -5059,7 +5019,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="266161335131" available="true">
+      <offer id="266161335131" available="false">
         <name>Чай на развес Зеленый порох Экстра 1кг.</name>
         <vendorCode>266161</vendorCode>
         <description><![CDATA[
@@ -5080,7 +5040,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="762381182801" group_id="505765438501" available="true">
+      <offer id="762381182801" group_id="505765438501" available="false">
         <name>Фисташка очищенная соленая - 500г</name>
         <vendorCode>505761</vendorCode>
         <description><![CDATA[
@@ -5100,7 +5060,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="799992310231" group_id="505765438501" available="true">
+      <offer id="799992310231" group_id="505765438501" available="false">
         <name>Фисташка очищенная соленая - 1кг</name>
         <vendorCode>505762</vendorCode>
         <description><![CDATA[
@@ -5120,7 +5080,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="865806800591" available="true">
+      <offer id="865806800591" available="false">
         <name>Чай развесной черный среднелистовой Английский завтрак 1кг.</name>
         <vendorCode>865806</vendorCode>
         <description><![CDATA[
@@ -5141,26 +5101,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="333063694041" available="true">
-        <name>Рахат Лукум ролл АТОМ с барбарисом Sahinoglu Премиум! 500г</name>
-        <vendor>Sahinoglu</vendor>
-        <vendorCode>333063</vendorCode>
-        <description><![CDATA[
-
-Ореховый микс с миндалём, фундуком, кешью, изюмом и грецким орехом в барбарисе.<br />Премиум-лукумы невероятно мягкие и богаты турецкими фисташками, грецкими орехами и фундуком. Сохраняя верность оригинальным рецептам, передаваемым из поколения в поколение с 1950 года, это настоящий рахат-лукум.#nbsp;<br />Рахат лукум – кусочки удовольствия, которые дарят радость. По-турецки rahat – удовольствие или комфорт, удобство, счастье; lokum – значит кусочки. Это#nbsp;традиционная турецкая сладость, разновидностей которой не счесть.Такие конфеты имеют форму небольших кубиков в воздушной сахарной пудре, часто с добавлением хрустящих орешков. Они обладают особенно мягкой текстурой и насыщенным фруктовым вкусом.<br /><br />
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3835-3866-4762-a431-643963376239/roll-atom-s-barbaris.jpg</picture>
-        <url>https://smartfood.org.ua/eastsweets/tproduct/320927762-333063694041-rahat-lukum-roll-atom-s-barbarisom-sahin</url>
-        <count>9999</count>
-        <price>351.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>287161144321</categoryId>
-        <weight>0.5</weight>
-        <param name="Производитель">Турция</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="704010977521" available="true">
+      <offer id="704010977521" available="false">
         <name>Рахат Лукум ролл АТОМ с миндалем Sahinoglu Премиум! 500г</name>
         <vendor>Sahinoglu</vendor>
         <vendorCode>704010</vendorCode>
@@ -5179,7 +5120,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="570082378331" available="true">
+      <offer id="570082378331" available="false">
         <name>Соломка сазана (снек к пиву) 1кг.</name>
         <vendorCode>629180</vendorCode>
         <description><![CDATA[
@@ -5198,7 +5139,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="970794282081" available="true">
+      <offer id="970794282081" available="false">
         <name>Палочка кефали (снек к пиву) 1кг.</name>
         <vendorCode>970794</vendorCode>
         <description><![CDATA[
@@ -5217,7 +5158,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="323800522801" available="true">
+      <offer id="323800522801" available="false">
         <name>Брюшко Карася (снек к пиву) 1кг.</name>
         <vendorCode>323800</vendorCode>
         <description><![CDATA[
@@ -5236,7 +5177,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="809795049611" available="true">
+      <offer id="809795049611" available="false">
         <name>Кофе в зернах J.J.Darboven Cafe Intencion Crema Aromatico 1кг.</name>
         <vendor>J.J.Darboven</vendor>
         <vendorCode>809795</vendorCode>
@@ -5257,7 +5198,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="784161966191" available="true">
+      <offer id="784161966191" available="false">
         <name>Кофе в зернах J.J.Darboven Cafe Espresso Intensivo 1кг.</name>
         <vendor>J.J.Darboven</vendor>
         <vendorCode>784161</vendorCode>
@@ -5278,7 +5219,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="674226580311" available="true">
+      <offer id="674226580311" available="false">
         <name>Сыр Пармезан Gran Castelli 32%, 1 кг.</name>
         <vendor>Gran Castelli</vendor>
         <vendorCode>674226</vendorCode>
@@ -5298,7 +5239,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="117939861521" available="true">
+      <offer id="117939861521" available="false">
         <name>Густера вяленая, чищенная 1кг.</name>
         <vendorCode>117939</vendorCode>
         <description><![CDATA[
@@ -5317,7 +5258,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="524476431711" available="true">
+      <offer id="524476431711" available="false">
         <name>Плотва вяленая, чищенная 1кг.</name>
         <vendorCode>524476</vendorCode>
         <description><![CDATA[
@@ -5336,7 +5277,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="704183714691" available="true">
+      <offer id="704183714691" available="false">
         <name>Синец вяленый 1кг.</name>
         <vendorCode>704183</vendorCode>
         <description><![CDATA[
@@ -5355,7 +5296,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="668767711921" group_id="678242362601" available="true">
+      <offer id="668767711921" group_id="678242362601" available="false">
         <name>Индюшиное мясо вяленое (мясные чипсы, снек, джерк) - 1кг</name>
         <vendorCode>678242</vendorCode>
         <description><![CDATA[
@@ -5375,7 +5316,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="650621720751" group_id="678242362601" available="true">
+      <offer id="650621720751" group_id="678242362601" available="false">
         <name>Индюшиное мясо вяленое (мясные чипсы, снек, джерк) - 500г</name>
         <vendorCode>678243</vendorCode>
         <description><![CDATA[
@@ -5395,7 +5336,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="736606317351" group_id="314813910781" available="true">
+      <offer id="736606317351" group_id="314813910781" available="false">
         <name>Бастурма из говядины - 500г</name>
         <vendorCode>3148131</vendorCode>
         <description><![CDATA[
@@ -5415,7 +5356,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="138215232551" group_id="314813910781" available="true">
+      <offer id="138215232551" group_id="314813910781" available="false">
         <name>Бастурма из говядины - 1кг.</name>
         <vendorCode>3148132</vendorCode>
         <description><![CDATA[
@@ -5435,7 +5376,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="387044548751" available="true">
+      <offer id="387044548751" available="false">
         <name>Крупа Киноа черная 1 кг.</name>
         <vendorCode>387044</vendorCode>
         <description><![CDATA[
@@ -5454,7 +5395,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="834227899931" available="true">
+      <offer id="834227899931" available="false">
         <name>Крупа Киноа красная 1 кг.</name>
         <vendorCode>834227</vendorCode>
         <description><![CDATA[
@@ -5473,7 +5414,7 @@ Zloty Mazur&nbsp;– дозревающий сыр из коровьего мо�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="994065330551" available="true">
+      <offer id="994065330551" available="false">
         <name>Масло оливковое HPA Extra Virgin Kalamata регион Peloponnese 1л.</name>
         <vendor>HPA</vendor>
         <vendorCode>994065</vendorCode>
@@ -5495,7 +5436,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="525453532721" available="true">
+      <offer id="525453532721" available="false">
         <name>Масло оливковое HPA Extra Virgin Kalamata Премиум 1л.</name>
         <vendor>HPA</vendor>
         <vendorCode>525453</vendorCode>
@@ -5517,7 +5458,7 @@ HPA Extra Virgin - это фермерское органическое олив
         <param name="Объем">1000 мл</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="546707573251" available="true">
+      <offer id="546707573251" available="false">
         <name>Гибискус сушеный Royal Hibiscus Fruit 500г</name>
         <vendor>ROYAL</vendor>
         <vendorCode>546707</vendorCode>
@@ -5536,7 +5477,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Производитель">Таиланд</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="103999824121" available="true">
+      <offer id="103999824121" available="false">
         <name>Сырный продукт Моцарелла ТМ Paslek для пиццы 40% 2.5кг</name>
         <vendor>Paslek</vendor>
         <vendorCode>824121</vendorCode>
@@ -5556,7 +5497,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Упаковка">Вакуумный пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="893874509781" available="true">
+      <offer id="893874509781" available="false">
         <name>Колбаски Чоризо сушеные, снек к пиву 1кг.</name>
         <vendorCode>893874</vendorCode>
         <description><![CDATA[
@@ -5575,7 +5516,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="396867094621" available="true">
+      <offer id="396867094621" available="false">
         <name>Кофе Lavazza Gold Selection в зернах 1 кг</name>
         <vendor>Lavazza</vendor>
         <vendorCode>396867</vendorCode>
@@ -5598,7 +5539,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="828479822161" available="true">
+      <offer id="828479822161" available="false">
         <name>Какао напиток Nesquik Nestle, 780г</name>
         <vendor>Nesquik</vendor>
         <vendorCode>828479</vendorCode>
@@ -5618,7 +5559,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Упаковка">Пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="873384570681" available="true">
+      <offer id="873384570681" available="false">
         <name>Рахат Лукум ролл АТОМ с фундуком Sahinoglu Премиум! 500г</name>
         <vendor>Sahinoglu</vendor>
         <vendorCode>873384</vendorCode>
@@ -5637,7 +5578,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="672216678271" available="true">
+      <offer id="672216678271" available="false">
         <name>Желтый полосатик крупный Королевский 1кг</name>
         <vendorCode>678271</vendorCode>
         <description><![CDATA[
@@ -5656,7 +5597,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="414512792181" available="true">
+      <offer id="414512792181" available="false">
         <name>Бабочка голд-фиш сушеная, снек к пиву 1кг.</name>
         <vendorCode>792181</vendorCode>
         <description><![CDATA[
@@ -5675,7 +5616,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="374681943141" available="true">
+      <offer id="374681943141" available="false">
         <name>Мерланг шанхайский соленый-сушеный, снек к пиву 1кг.</name>
         <vendorCode>374681</vendorCode>
         <description><![CDATA[
@@ -5694,7 +5635,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="204721568601" available="true">
+      <offer id="204721568601" available="false">
         <name>Рахат Лукум ролл АТОМ в шоколаде Sahinoglu Премиум! 500г</name>
         <vendor>Sahinoglu</vendor>
         <vendorCode>204721</vendorCode>
@@ -5713,7 +5654,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="497010483741" group_id="784548119491" available="true">
+      <offer id="497010483741" group_id="784548119491" available="false">
         <name>Палочки куриные сушеные/вяленые (куриные мясные чипсы) - 1кг</name>
         <vendorCode>784541</vendorCode>
         <description><![CDATA[
@@ -5733,7 +5674,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="652139436611" group_id="784548119491" available="true">
+      <offer id="652139436611" group_id="784548119491" available="false">
         <name>Палочки куриные сушеные/вяленые (куриные мясные чипсы) - 500г</name>
         <vendorCode>784543</vendorCode>
         <description><![CDATA[
@@ -5753,7 +5694,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="449355848631" group_id="883231208971" available="true">
+      <offer id="449355848631" group_id="883231208971" available="false">
         <name>Палочки из икры минтая сушеные/вяленые, снек к пиву - 1кг.</name>
         <vendorCode>883231</vendorCode>
         <description><![CDATA[
@@ -5773,7 +5714,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="821593817411" group_id="883231208971" available="true">
+      <offer id="821593817411" group_id="883231208971" available="false">
         <name>Палочки из икры минтая сушеные/вяленые, снек к пиву - 500г</name>
         <vendorCode>883232</vendorCode>
         <description><![CDATA[
@@ -5793,7 +5734,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="462640016651" group_id="821058803611" available="true">
+      <offer id="462640016651" group_id="821058803611" available="false">
         <name>Икра плотвы сушеная/вяленая, снек к пиву - 1кг.</name>
         <vendorCode>821051</vendorCode>
         <description><![CDATA[
@@ -5813,7 +5754,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="724506278941" group_id="821058803611" available="true">
+      <offer id="724506278941" group_id="821058803611" available="false">
         <name>Икра плотвы сушеная/вяленая, снек к пиву - 500г</name>
         <vendorCode>821052</vendorCode>
         <description><![CDATA[
@@ -5833,7 +5774,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="436908866581" group_id="301940664231" available="true">
+      <offer id="436908866581" group_id="301940664231" available="false">
         <name>Икра судака сушеная/вяленая, снек к пиву - 1кг.</name>
         <vendorCode>301941</vendorCode>
         <description><![CDATA[
@@ -5853,7 +5794,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="270743966661" group_id="301940664231" available="true">
+      <offer id="270743966661" group_id="301940664231" available="false">
         <name>Икра судака сушеная/вяленая, снек к пиву - 500г</name>
         <vendorCode>301942</vendorCode>
         <description><![CDATA[
@@ -5873,7 +5814,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="629695559311" available="true">
+      <offer id="629695559311" available="false">
         <name>Плотва большая вяленая с икрой, чищенная 1кг.</name>
         <vendorCode>629695</vendorCode>
         <description><![CDATA[
@@ -5892,7 +5833,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="854337130861" available="true">
+      <offer id="854337130861" available="false">
         <name>Горячий шоколад Torras (готовое какао в чашку) 1000г</name>
         <vendor>Torras</vendor>
         <vendorCode>854337</vendorCode>
@@ -5911,7 +5852,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Производитель">Испания</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="664332813501" available="true">
+      <offer id="664332813501" available="false">
         <name>Тунец в растительном масле Rianxeira Atun Claro En Aceite De Girasol 900г</name>
         <vendor>Rianxeira</vendor>
         <vendorCode>664332</vendorCode>
@@ -5931,7 +5872,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="361268246691" available="true">
+      <offer id="361268246691" available="false">
         <name>Кофе в зернах (экологически чистый) Lavazza Alteco Organic Premium Blend 1кг.</name>
         <vendor>Lavazza</vendor>
         <vendorCode>361268</vendorCode>
@@ -5954,7 +5895,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Степень обжарки">Средняя</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="293010862611" group_id="606832539761" available="true">
+      <offer id="293010862611" group_id="606832539761" available="false">
         <name>Куриное мясо вяленое, сушеное по дижонски (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>606831</vendorCode>
         <description><![CDATA[
@@ -5974,7 +5915,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="602308978301" group_id="606832539761" available="true">
+      <offer id="602308978301" group_id="606832539761" available="false">
         <name>Куриное мясо вяленое, сушеное по дижонски (куриные мясные чипсы) - 500г</name>
         <vendorCode>606832</vendorCode>
         <description><![CDATA[
@@ -5994,7 +5935,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="563464887121" group_id="383451889991" available="true">
+      <offer id="563464887121" group_id="383451889991" available="false">
         <name>Лосось филе-кусочки в масле - 500г.</name>
         <vendorCode>383453</vendorCode>
         <description><![CDATA[
@@ -6014,7 +5955,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="438853115981" available="true">
+      <offer id="438853115981" available="false">
         <name>Манго Сушенный King без сахара 1000г</name>
         <vendor>King</vendor>
         <vendorCode>352596</vendorCode>
@@ -6034,7 +5975,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Фасовка">Пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="318099238011" available="true">
+      <offer id="318099238011" available="false">
         <name>Оливки зеленые с миндалем Bravo aceitunas con bueso 1000г.</name>
         <vendor>Corbi</vendor>
         <vendorCode>318099</vendorCode>
@@ -6054,7 +5995,7 @@ Royal Hibiscus Fruit (Гибискус) -#nbsp;тропическое#nbsp;те�
         <param name="Упаковка">Стеклянная банка</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="620071368091" group_id="787006589851" available="true">
+      <offer id="620071368091" group_id="787006589851" available="false">
         <name>Сыр ДорБлю Classic (DorBlu Kaserei) 50% - 500 г.</name>
         <vendor>Kaserei</vendor>
         <vendorCode>787001</vendorCode>
@@ -6073,7 +6014,7 @@ DorBlu Classic Kaserei 50%#nbsp;- нежный мягкий сыр с оболо
         <param name="Фасовка">500 г.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="916769371761" group_id="787006589851" available="true">
+      <offer id="916769371761" group_id="787006589851" available="false">
         <name>Сыр ДорБлю Classic (DorBlu Kaserei) 50% - 1кг.</name>
         <vendor>Kaserei</vendor>
         <vendorCode>787002</vendorCode>
@@ -6092,28 +6033,7 @@ DorBlu Classic Kaserei 50%#nbsp;- нежный мягкий сыр с оболо
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="265401419471" group_id="994191837041" available="true">
-        <name>Сыр Салями c перцем чили Salami ТМ Serenada Spomlek 45% - 1кг.</name>
-        <vendor>Serenada Spomlek</vendor>
-        <vendorCode>994192</vendorCode>
-        <description><![CDATA[
-
-Salami Serenada#nbsp;– дозревший сыр из коровьего молока с мягким, ароматным и тонким вкусом. Мякоть сыра нежная и мягкая. Сыр идеально подходит для приготовления бутербродов, а также разнообразит меню всей семьи. Особенно сыр Серенада Салями нравится детям.<br /><br />Состав:#nbsp;молоко, соль, молочнокислые бактерии (лактоза), стабилизатор - хлорид кальция, краситель - аннато.<br /><br />Пищевая ценность 100 г продукта:<br /><ul><li>Энергетическая ценность – 1463 кДж / 352 ккал</li><li>Жиры – 27 г, в т.ч. насыщенные жирные кислоты – 17 г</li><li>Углеводы – 1,3 г</li><li>Белки – 26 г</li><li>Соль – 1,6 г</li></ul>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3430-3362-4435-b663-663233636239/2991372365_w700_h500.jpg</picture>
-        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-994191837041-sir-salyami-c-pertsem-chili-salami-tm-se?editionuid=265401419471</url>
-        <count>9999</count>
-        <price>499.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>443169019671</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Польша</param>
-        <param name="Упаковка">Вакуумный пакет</param>
-        <param name="Фасовка">1кг.</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="177100197411" group_id="572473627791" available="true">
+      <offer id="177100197411" group_id="572473627791" available="false">
         <name>Швейцарский сыр ТМ Włoszczowa 45% - 1кг.</name>
         <vendor>Włoszczowa</vendor>
         <vendorCode>572472</vendorCode>
@@ -6134,7 +6054,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="706896371711" available="true">
+      <offer id="706896371711" available="false">
         <name>Сир сулугуні Нитка Молочна 1 кг.</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>371711</vendorCode>
@@ -6153,7 +6073,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Производитель">Україна</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="285076908231" group_id="842067183931" available="true">
+      <offer id="285076908231" group_id="842067183931" available="false">
         <name>Орех Пекан очищенный - 500г.</name>
         <vendor>Amanti</vendor>
         <vendorCode>842068</vendorCode>
@@ -6173,7 +6093,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Фасовка">500г.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="353712538601" group_id="842067183931" available="true">
+      <offer id="353712538601" group_id="842067183931" available="false">
         <name>Орех Пекан очищенный - 1кг.</name>
         <vendor>Amanti</vendor>
         <vendorCode>842069</vendorCode>
@@ -6193,7 +6113,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="887027594211" available="true">
+      <offer id="887027594211" available="false">
         <name>Сыр в слайсах Гауда Gouda Wloszczowa 1кг.</name>
         <vendor>Wloszczowa</vendor>
         <vendorCode>887027</vendorCode>
@@ -6212,7 +6132,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Производитель">Польша</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="817116050851" available="true">
+      <offer id="817116050851" available="false">
         <name>Кофе в зернах Trintini Megadoro 500 г.</name>
         <vendor>Trintini</vendor>
         <vendorCode>817116</vendorCode>
@@ -6233,7 +6153,7 @@ Salami Serenada#nbsp;– дозревший сыр из коровьего мо�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="870466974701" available="true">
+      <offer id="870466974701" available="false">
         <name>Кофе в зернах Trintini Megacrema 500 г.</name>
         <vendor>Trintini</vendor>
         <vendorCode>870466</vendorCode>
@@ -6254,7 +6174,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Форма выпуска">Зерновой</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="199765160571" available="true">
+      <offer id="199765160571" available="false">
         <name>Кофе в зернах Tuskani 50% арабика 50% робуста 1кг.</name>
         <vendor>Tuskani</vendor>
         <vendorCode>160571</vendorCode>
@@ -6273,7 +6193,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Испания</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="222965132921" available="true">
+      <offer id="222965132921" available="false">
         <name>Кофе в зернах Tuskani 80% арабика 20% робуста, 1кг.</name>
         <vendor>Tuskani</vendor>
         <vendorCode>132921</vendorCode>
@@ -6292,7 +6212,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Испания</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="752832387021" available="true">
+      <offer id="752832387021" available="false">
         <name>Кофе в зернах Tuskani 100% арабика, 1кг.</name>
         <vendor>Tuskani</vendor>
         <vendorCode>752832</vendorCode>
@@ -6311,7 +6231,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="261202375301" available="true">
+      <offer id="261202375301" available="false">
         <name>Кофе в зернах Tuskani 40% арабика 60% робуста, 1кг.</name>
         <vendor>Tuskani</vendor>
         <vendorCode>261202</vendorCode>
@@ -6330,7 +6250,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="519506001771" available="true">
+      <offer id="519506001771" available="false">
         <name>Кофе в зернах Tuskani 80% арабика 20% робуста, 1кг.</name>
         <vendor>Tuskani</vendor>
         <vendorCode>600177</vendorCode>
@@ -6349,7 +6269,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="688003431991" available="true">
+      <offer id="688003431991" available="false">
         <name>Рис Басмати Supreme Sella Lal Qilla пропаренный 5 кг.</name>
         <vendor>Lal Qilla</vendor>
         <vendorCode>688003</vendorCode>
@@ -6369,7 +6289,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Упаковка">Пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="931865491441" available="true">
+      <offer id="931865491441" available="false">
         <name>Рис Басмати SUPER INDIAN 5 кг.</name>
         <vendor>SUPER INDIAN</vendor>
         <vendorCode>931865</vendorCode>
@@ -6389,7 +6309,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Упаковка">Пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="838811401481" available="true">
+      <offer id="838811401481" available="false">
         <name>Манго Сушенный King без сахара 500г.</name>
         <vendor>King</vendor>
         <vendorCode>838811</vendorCode>
@@ -6409,7 +6329,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">Пакет</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="945125704941" available="true">
+      <offer id="945125704941" available="false">
         <name>Арахисовое масло нерафинированное Olio di semi di Arachido Nordolio 1 л.</name>
         <vendor>Nordolio</vendor>
         <vendorCode>945125</vendorCode>
@@ -6430,28 +6350,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="893418258201" group_id="639237836471" available="true">
-        <name>Сыр полутвердый LEO ТМ Paraffini 45% - 1кг.</name>
-        <vendor>Paraffini</vendor>
-        <vendorCode>639232</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Сыр полутвердый LEO швейцарско-голландского типа, производства ТМ "Paraffini" имеет неповторимый вкус и аромат сыра высокого качества. Сыр LEO отличается, нежным вкусом. Он идеально подходит для сэндвичей и в качестве дополнения к различным блюдам, а также для горячих блюд.</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/tild3333-3131-4637-b563-366239386230/PhotoRoom-20220221-1.png</picture>
-        <url>https://smartfood.org.ua/cheese-dairy/tproduct/320928710-639237836471-sir-polutverdii-leo-tm-paraffini-45?editionuid=893418258201</url>
-        <count>9999</count>
-        <price>485.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>443169019671</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Австрия</param>
-        <param name="Упаковка">Вакуумный пакет</param>
-        <param name="Фасовка">1кг.</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="362240787061" available="true">
+      <offer id="362240787061" available="false">
         <name>Кофе растворимый Чорна Карта Gold (Черная Карта Голд) 500г</name>
         <vendor>Чорна Карта</vendor>
         <vendorCode>736085</vendorCode>
@@ -6472,7 +6371,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Форма выпуска">Растворимый</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="194522836241" available="true">
+      <offer id="194522836241" available="false">
         <name>Лящ солено-сушеный кусочками 1кг</name>
         <vendorCode>836241</vendorCode>
         <picture>https://static.tildacdn.com/tild6438-3836-4566-a138-356366666335/snacks-magnitfish9.jpg</picture>
@@ -6487,7 +6386,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <vendor>Smart Food Shop</vendor>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="453813145241" available="true">
+      <offer id="453813145241" available="false">
         <name>Карпачини из говядины 500г</name>
         <vendorCode>145241</vendorCode>
         <description><![CDATA[
@@ -6506,7 +6405,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <vendor>Smart Food Shop</vendor>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="608304069331" available="true">
+      <offer id="608304069331" available="false">
         <name>Рахат-лукум Квадрат три в одном 2 кг.</name>
         <vendor>Dilillo</vendor>
         <vendorCode>469331</vendorCode>
@@ -6525,7 +6424,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="344202260831" available="true">
+      <offer id="344202260831" available="false">
         <name>Колбаса вареная Франсуа ТМ Колбасково 2 кг.</name>
         <vendor>Ковбасково</vendor>
         <vendorCode>344202</vendorCode>
@@ -6544,7 +6443,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="798012630501" available="true">
+      <offer id="798012630501" available="false">
         <name>Колбаса вареная Оливье ТМ Колбасково 2 кг.</name>
         <vendor>Ковбасково</vendor>
         <vendorCode>798012</vendorCode>
@@ -6563,7 +6462,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="774699045991" available="true">
+      <offer id="774699045991" available="false">
         <name>Колбаса вареная Ретро с молоком ТМ Мясодел 2 кг.</name>
         <vendor>Мясодел</vendor>
         <vendorCode>774699</vendorCode>
@@ -6582,7 +6481,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="581313643091" available="true">
+      <offer id="581313643091" available="false">
         <name>Колбаса вареная С Филе ТМ Мясодел 2 кг.</name>
         <vendor>Мясодел</vendor>
         <vendorCode>581313</vendorCode>
@@ -6601,7 +6500,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="749284780151" available="true">
+      <offer id="749284780151" available="false">
         <name>Черный цейлонский чай c бергамотом Akbar «Do Ghazal Tea» Шри-Ланка 500г</name>
         <vendor>Akbr</vendor>
         <vendorCode>780151</vendorCode>
@@ -6621,7 +6520,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Тип">Черный чай</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="154994292911" available="true">
+      <offer id="154994292911" available="false">
         <name>Ковбаса варена Молчна ТМ Майстерня ковбас 2 кг.</name>
         <vendor>Майстерня ковбас</vendor>
         <vendorCode>292911</vendorCode>
@@ -6640,7 +6539,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="912955922881" available="true">
+      <offer id="912955922881" available="false">
         <name>Шинка варена Королівська ТМ Салтівський Мясокомбінат 2 кг.</name>
         <vendor>Майстерня ковбас</vendor>
         <vendorCode>922881</vendorCode>
@@ -6659,7 +6558,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="691358933061" available="true">
+      <offer id="691358933061" available="false">
         <name>Ковбаса варена Теляча ТМ Салтівський Мясокомбінат 2 кг.</name>
         <vendor>Майстерня ковбас</vendor>
         <vendorCode>933061</vendorCode>
@@ -6678,7 +6577,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <param name="Дистриб'ютор">Smart Food Shop</param>
       </offer>
-      <offer id="343027576711" available="true">
+      <offer id="343027576711" available="false">
         <name>Морской коктейль в масле с паприкой, креветки, мидии, осьминог, кальмар 500г</name>
         <vendorCode>576711</vendorCode>
         <description><![CDATA[
@@ -6697,7 +6596,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="958509783011" available="true">
+      <offer id="958509783011" available="false">
         <name>Кальмар в масле с паприкой, 500г</name>
         <vendorCode>783011</vendorCode>
         <description><![CDATA[
@@ -6716,7 +6615,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="649803152841" available="true">
+      <offer id="649803152841" available="false">
         <name>Огненный полосатик 1кг</name>
         <vendor>Белосвет</vendor>
         <vendorCode>649803</vendorCode>
@@ -6735,7 +6634,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="166888028561" available="true">
+      <offer id="166888028561" available="false">
         <name>Филе Анчоуса в подсолнечном масле Filete de anchoas 720/370 г.</name>
         <vendor>Benimar</vendor>
         <vendorCode>166888</vendorCode>
@@ -6756,7 +6655,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Вид рыбы">Тунец</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="586844846891" available="true">
+      <offer id="586844846891" available="false">
         <name>Соус для пиццы со специями DueFagiani 4100г.</name>
         <vendor>DueFagiani</vendor>
         <vendorCode>586844</vendorCode>
@@ -6775,7 +6674,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Италия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="964114656111" available="true">
+      <offer id="964114656111" available="false">
         <name>Масло оливковое Olio di Sansa DeSantis</name>
         <vendor>DeSantis</vendor>
         <vendorCode>964114</vendorCode>
@@ -6796,7 +6695,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="461585835581" available="true">
+      <offer id="461585835581" available="false">
         <name>Стружка краба, снек к пиву 1кг.</name>
         <vendorCode>461585</vendorCode>
         <description><![CDATA[
@@ -6815,7 +6714,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="459965476271" available="true">
+      <offer id="459965476271" available="false">
         <name>Пивной микс, закуски к пиву 1 кг.</name>
         <vendorCode>459965</vendorCode>
         <description><![CDATA[
@@ -6834,7 +6733,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="300670668341" available="true">
+      <offer id="300670668341" available="false">
         <name>Приправа натуральная 10 овощей 1кг.</name>
         <vendorCode>300670</vendorCode>
         <description><![CDATA[
@@ -6854,7 +6753,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="952337241711" available="true">
+      <offer id="952337241711" available="false">
         <name>Шоколадно-ореховая паста NUTELLA с лесными орехами Ferrero 3кг.</name>
         <vendor>NUTELLA</vendor>
         <vendorCode>952337</vendorCode>
@@ -6873,7 +6772,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Германия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="938948243541" available="true">
+      <offer id="938948243541" available="false">
         <name>Кофе молотый Kurukahveci Mehmet Efendi 500 г.</name>
         <vendor>Kurukahveci Mehmet Efendi</vendor>
         <vendorCode>938948</vendorCode>
@@ -6892,7 +6791,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Турция</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="709958997531" available="true">
+      <offer id="709958997531" available="false">
         <name>Масло кедрового ореха первого холодного отжима тм M-D 250 мл.</name>
         <vendor>M-D</vendor>
         <vendorCode>997531</vendorCode>
@@ -6913,7 +6812,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="767692659361" available="true">
+      <offer id="767692659361" available="false">
         <name>Масло черного тмина первого холодного отжима тм M-D 250 мл.</name>
         <vendor>M-D</vendor>
         <vendorCode>659361</vendorCode>
@@ -6934,7 +6833,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Отжим">Первый холодный</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="503383205581" available="true">
+      <offer id="503383205581" available="false">
         <name>Фисташковая паста УРБЕЧ 450 г.</name>
         <vendorCode>205581</vendorCode>
         <description><![CDATA[
@@ -6953,7 +6852,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="388923009941" available="true">
+      <offer id="388923009941" available="false">
         <name>Набор мясных снеков к пиву 1 кг.</name>
         <vendor>SmarFood</vendor>
         <vendorCode>009941</vendorCode>
@@ -6973,7 +6872,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="877573346081" available="true">
+      <offer id="877573346081" available="false">
         <name>Набор мясных снеков к пиву 600 грамм</name>
         <vendor>SmarFood</vendor>
         <vendorCode>346081</vendorCode>
@@ -6993,7 +6892,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Украина</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="209401211211" available="true">
+      <offer id="209401211211" available="false">
         <name>Упаковка пива светлого Budweiser Budvar SV 4% 24шт.X0.5л.</name>
         <vendor>Budweiser</vendor>
         <vendorCode>209401</vendorCode>
@@ -7012,7 +6911,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Чехия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="286961858721" available="true">
+      <offer id="286961858721" available="false">
         <name>Упаковка пива светлого Staropramen světlé 4% 24шт.X0.5л.</name>
         <vendor>Staropramen</vendor>
         <vendorCode>858721</vendorCode>
@@ -7031,7 +6930,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Чехия</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="555768608071" available="true">
+      <offer id="555768608071" available="false">
         <name>Упаковка пива светлого Holland Import 4.8% 0.5 л x 24 шт.</name>
         <vendor>Holland</vendor>
         <vendorCode>608071</vendorCode>
@@ -7050,7 +6949,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Нидерданды</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="815263645831" available="true">
+      <offer id="815263645831" available="false">
         <name>Упаковка пива Hollandia 4.7% 0.5 л x 24 шт.</name>
         <vendor>Hollandia</vendor>
         <vendorCode>645831</vendorCode>
@@ -7069,7 +6968,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Нидерданды</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="971814062201" group_id="708453110701" available="true">
+      <offer id="971814062201" group_id="708453110701" available="false">
         <name>Сырный продукт Желтый с дырками Zolty z Dziurami ТМ Mlekovita - 1кг.</name>
         <vendor>Mlekovita</vendor>
         <vendorCode>706892</vendorCode>
@@ -7090,26 +6989,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="791812712891" available="true">
-        <name>Сир сулугуні Нитка Васабі1 кг.</name>
-        <vendor>ZhytarOK,</vendor>
-        <vendorCode>712891</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Сыр сичужний м'який сулугуні "Нитка" Васабі , 45% жирн., ДСТУ 43952005, ТМ "ZhytarOK",</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6166-3464-4133-b164-376363366363/94030562.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-791812712891-sir-sulugun-nitka-vasab1-kg</url>
-        <count>9999</count>
-        <price>345.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Україна</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="348743170651" available="true">
+      <offer id="348743170651" available="false">
         <name>Сир сулугуні Нитка Цибуля сметана 1 кг.</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>170651</vendorCode>
@@ -7128,64 +7008,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Україна</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="751947763411" available="true">
-        <name>Сир сулугуні Нитка Швейцарський сир1 кг.</name>
-        <vendor>ZhytarOK,</vendor>
-        <vendorCode>763411</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Сыр сичужний м'який сулугуні "Нитка" Швейцарський сир , 45% жирн., ДСТУ 43952005, ТМ "ZhytarOK",</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6439-6435-4135-b639-366332303033/73092769.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-751947763411-sir-sulugun-nitka-shveitsarskii-sir1-kg</url>
-        <count>9999</count>
-        <price>345.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Україна</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="180363890561" available="true">
-        <name>Сир сулугуні Нитка Лобстер 1 кг.</name>
-        <vendor>ZhytarOK,</vendor>
-        <vendorCode>890561</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Сыр сичужний м'який сулугуні "Нитка" Лобстер, 45% жирн., ДСТУ 43952005, ТМ "ZhytarOK",</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6161-4031-a163-623832313065/93471633.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-180363890561-sir-sulugun-nitka-lobster-1-kg</url>
-        <count>9999</count>
-        <price>345.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Україна</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="212406584691" available="true">
-        <name>Сир сулугуні Нитка Мисливські ковбаски 1 кг.</name>
-        <vendor>ZhytarOK,</vendor>
-        <vendorCode>584691</vendorCode>
-        <description><![CDATA[
-
-<p style="text-align: left;">Сыр сичужний м'який сулугуні "Нитка" Мисливські ковбаски, 45% жирн., ДСТУ 43952005, ТМ "ZhytarOK",</p>
-
-			<!--Enforce cdata-->]]></description>
-        <picture>https://static.tildacdn.com/stor6136-6161-4031-a163-623832313065/93471633.jpg</picture>
-        <url>https://smartfood.org.ua/snacks/tproduct/320925559-212406584691-sir-sulugun-nitka-mislivsk-kovbaski-1-kg</url>
-        <count>9999</count>
-        <price>345.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>907149595291</categoryId>
-        <weight>1</weight>
-        <param name="Производитель">Україна</param>
-        <quantity>100</quantity>
-      </offer>
-      <offer id="310579575671" group_id="270287185651" available="true">
+      <offer id="310579575671" group_id="270287185651" available="false">
         <name>Хрумкий Сир натуральний, снек до пива - 500г</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>1856511</vendorCode>
@@ -7205,7 +7028,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="139162133781" group_id="270287185651" available="true">
+      <offer id="139162133781" group_id="270287185651" available="false">
         <name>Хрумкий Сир натуральний, снек до пива - 1кг.</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>1856512</vendorCode>
@@ -7225,7 +7048,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="810049977841" available="true">
+      <offer id="810049977841" available="false">
         <name>Паста томатна Помідора 33 помідора 5кг.</name>
         <vendorCode>977841</vendorCode>
         <description><![CDATA[
@@ -7244,7 +7067,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="551165847491" group_id="479463178981" available="true">
+      <offer id="551165847491" group_id="479463178981" available="false">
         <name>Бекон сушеный, снек, (мясные чипсы, джерк) - 1кг.</name>
         <vendorCode>1789811</vendorCode>
         <description><![CDATA[
@@ -7264,7 +7087,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="535758247741" group_id="479463178981" available="true">
+      <offer id="535758247741" group_id="479463178981" available="false">
         <name>Бекон сушеный, снек, (мясные чипсы, джерк) - 500г</name>
         <vendorCode>1789812</vendorCode>
         <description><![CDATA[
@@ -7284,7 +7107,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="472411401771" group_id="391089221171" available="true">
+      <offer id="472411401771" group_id="391089221171" available="false">
         <name>Хрумкий Сир MINI натуральний, снек до пива - 500г</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>2211711</vendorCode>
@@ -7304,7 +7127,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">500г</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="945555387181" group_id="391089221171" available="true">
+      <offer id="945555387181" group_id="391089221171" available="false">
         <name>Хрумкий Сир MINI натуральний, снек до пива - 1кг.</name>
         <vendor>ZhytarOK,</vendor>
         <vendorCode>2211712</vendorCode>
@@ -7324,7 +7147,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Фасовка">1кг.</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="559334088641" available="true">
+      <offer id="559334088641" available="false">
         <name>Кетчуп шашличний ТМ Смак традицій 5 кг</name>
         <vendor>Смак традицій</vendor>
         <vendorCode>088641</vendorCode>
@@ -7343,7 +7166,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Производитель">Україна</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="162099253981" available="true">
+      <offer id="162099253981" available="false">
         <name>Колбаса салями сырокопченная Milanska Vijofel 600г.</name>
         <vendor>Vijofel</vendor>
         <vendorCode>253981</vendorCode>
@@ -7365,7 +7188,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Состав">свинина, говядина и смеси приправ</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="360332492511" available="true">
+      <offer id="360332492511" available="false">
         <name>Колбаса салями сырокопченная Gerlach Vijofel 600г.</name>
         <vendor>Vijofel</vendor>
         <vendorCode>492511</vendorCode>
@@ -7387,7 +7210,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Состав">свинина, говядина и смеси приправ</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="799342147241" available="true">
+      <offer id="799342147241" available="false">
         <name>Колбаса из рубленого мяса Tradichna Vijofel 600г.</name>
         <vendor>Vijofel</vendor>
         <vendorCode>147241</vendorCode>
@@ -7409,7 +7232,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Состав">свинина, говядина и смеси приправ</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="240807988481" available="true">
+      <offer id="240807988481" available="false">
         <name>Колбаса салями сырокопченная Nitran Vijofel 600г.</name>
         <vendor>Vijofel</vendor>
         <vendorCode>988481</vendorCode>
@@ -7431,7 +7254,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <param name="Состав">свинина, говядина и смеси приправ</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="199146606311" available="true">
+      <offer id="199146606311" available="false">
         <name>Лавровый лист сушеный 1 кг.</name>
         <vendorCode>606311</vendorCode>
         <description><![CDATA[
@@ -7451,7 +7274,7 @@ Megacrema - это кофе с натуральным слоем кофейны�
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="261378750341" available="true">
+      <offer id="261378750341" available="false">
         <name>Колбаса cалями с олениной Lovecka salama Cimbalak 500г.</name>
         <vendor>Cimbalak</vendor>
         <vendorCode>554261</vendorCode>
@@ -7472,7 +7295,7 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <param name="Сорт">Высший</param>
         <quantity>100</quantity>
       </offer>
-      <offer id="675902747211" group_id="919500093711" available="true">
+      <offer id="675902747211" group_id="919500093711" available="false">
         <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 1кг.</name>
         <vendorCode>0937111</vendorCode>
         <description><![CDATA[
@@ -7492,7 +7315,7 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="561727783481" group_id="919500093711" available="true">
+      <offer id="561727783481" group_id="919500093711" available="false">
         <name>Куриное мясо вяленое, янтарное (куриные мясные чипсы) - 500г</name>
         <vendorCode>0937112</vendorCode>
         <description><![CDATA[
@@ -7512,7 +7335,7 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="245861266761" available="true">
+      <offer id="245861266761" available="false">
         <name>Паутинка судака (закуска к пиву, снек ) 1 кг.</name>
         <vendorCode>266761</vendorCode>
         <description><![CDATA[
@@ -7531,7 +7354,7 @@ Lovecka salama Cimbalak – это сырокопченая колбаса с д
         <quantity>100</quantity>
         <vendor>Smart Food Shop</vendor>
       </offer>
-      <offer id="652687379481" available="true">
+      <offer id="652687379481" available="false">
         <name>Урюк горный целый, абрикос сушеный натуральный 1 кг.</name>
         <vendor>SmartFood</vendor>
         <vendorCode>379481</vendorCode>
