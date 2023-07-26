@@ -8,7 +8,8 @@
         "backup feeds": "node backup/backup-feeds.js",
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
-        "merchant": "node handlers/merchant/merchant.js"
+        "merchant": "node handlers/merchant/merchant.js",
+        "wix": "node handlers/snacks/wix-fetch-tsv.js"
     },
     "author": "",
     "license": "ISC",
