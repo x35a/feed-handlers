@@ -1,2 +1,4 @@
 /node_modules
 /handlers/aveopt/sharp/images
+/handlers/snacks/feed.tsv
+/output/wix-feed.csv
