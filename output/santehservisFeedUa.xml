@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2023-09-12 08:20">
+  <shop>
+    <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
+    <company>САНТЕХСЕРВІС</company>
+    <url>https://www.santehservis.dp.ua/</url>
+    <phone>+38 (096) 093-32-32</phone>
+    <platform>YML for OpenCart (ocStore)</platform>
+    <version>1.0</version>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="70">
+Змішувачі</category>
+      <category id="109" parentId="70">
+Змішувачі для умивальника</category>
+    </categories>
+    <offers>
+      <offer id="31658" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sbt1-101-smes-l-alpen-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
+        <price>906</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/cf3/IMGcf339834aca7d88efc5243c60a228124.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/14e/IMG14e433d73e98d1b393cf3e7775827c67.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/93f/IMG93f4ac1e26ecbfb1174a9f12d53ea4fa.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/50c/IMG50c85bf0c0a2a99604130cf5578e0baf.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/67f/IMG67f475d37c21a303d70b31b645fe9c62.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Alpen для умивальника нержавійка Комплект Globus Lux SBT1-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>SBT1-101</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V31658</kod>
+        <description>SBT1-101 Змішувач ALPEN-д/умивальника нержавійка На Гайці,Комплект Globus Lux&#xD;
+ Змішувач для раковини Globus Lux SBT1-101 ALPEN SUS304Переваги моделей змішувачів Globus Lux з нержавіючої сталі:1 Корпус моделей виготовлені з якісної нержавіючої сталі2 Довговічність і безвідмовність в експлуатації3 Елегантність форм, міцність і надійність4 Висока функціональність5 Використання якісних екологічно чистих матеріалів6 Інноваційні технології виробництваКомплектація: Змішувач з нержавійкиШланг М10*1/2-2штКріплення для змішувача - гайка з нержавійки</description>
+        <param name="Підключення">До водопроводу</param>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
+        <param name="Спосіб монтажу">На 1 отвір</param>
+        <param name="Габарити">170х150</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Матеріал корпусу">Латунь</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Висота, см">10</param>
+        <param name="Габарити з уп. (ВхШхГ) мм.">260х200х60</param>
+        <param name="Вага в уп." unit="гр.">1080</param>
+        <param name="Вага, гр.">935</param>
+        <param name="Винос гусака">11.5</param>
+        <param name="Діаметр картриджа">35</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Шланги підключення">Входять в комплект</param>
+        <param name="Діаметр підключення шлангів">1/2"</param>
+        <param name="Шланги">На різьбі звичайні</param>
+      </offer>
+      <offer id="31659" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sus-101s_smes-l-d-umyvalnika-bokovoy-nerzhaveyka_na-gaykeglobus-lux</url>
+        <price>1035</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/ed7/IMGed72b4260b51f76f5a0ad6cf1501e4da.jpg</picture>
+        <delivery>true</delivery>
+        <name>SUS-101Ѕ Змішувач для умивальника - нержавійка Globus Lux</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>GZR-15046</vendorCode>
+        <model>000015046</model>
+        <kod>V31659</kod>
+        <description>SUS-101Ѕ Змішувач д/умивальника - боковий нержавійка На Гайці,Globus Lux&#xD;
+Змішувач для умивальника Globus Lux SUS-101S, SUS304Переваги моделей змішувачів Globus Lux з нержавіючої сталі:1 Корпусу моделей виготовлені з харчової нержавіючої сталі SUS3042 Довговічність і безвідмовність в експлуатації3 Елегантність форм, міцність і надійність4 Висока функціональність5 Використання якісних екологічно чистих матеріалів6 Інноваційні технології виробництваКомплектація:Змішувач з нержавійкиШланг М10*1/2-2штКріплення для змішувача - гайка з нержавійки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+      </offer>
+      <offer id="31660" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sbq-101-smes-l-sicilia-d-umyvalnika-kvadro-nerzhna-gaykekomplekt-globus-lux</url>
+        <price>1248</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/db2/IMGdb2a7213ecaac2cf4cdddcff33074f1d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/fb2/IMGfb26636aa962de5838cc40dc4dd51786.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/f67/IMGf67c74264c915b90c05b87239677e87c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/c40/IMGc4015a852d573ef0d338e298880e71ef.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника нержавійка Globus Lux Sicilia SBQ-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>GZR-15051</vendorCode>
+        <model>Globus Lux Sicilia</model>
+        <kod>V31660</kod>
+        <description>SBQ-101 Змішувач SICILIA-д/умивальника Квадро-НЕРЖНа Гайці,Комплект Globus Lux&#xD;
+ Змішувач для умивальника Globus Lux SICILIA SBQ-101, SUS304Переваги моделей змішувачів Globus Lux з нержавіючої сталі:1 Корпусу моделей виготовлені з харчової нержавіючої сталі SUS3042 Довговічність і безвідмовність в експлуатації3 Елегантність форм, міцність і надійність4 Висока функціональність5 Використання якісних екологічно чистих матеріалів6 Інноваційні технології виробництваКомплектація: Змішувач з нержавійкиШланг М10*1/2-2штКріплення для змішувача - гайка з нержавійки</description>
+        <param name="Підключення">До водопроводу</param>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
+        <param name="Спосіб монтажу">На 1 отвір</param>
+        <param name="Габарити">188х160</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь</param>
+        <param name="Серія">SICILIA</param>
+        <param name="Висота, см">10</param>
+        <param name="Габарити з уп. (ВхШхГ) мм.">240х180х60</param>
+        <param name="Вага в уп." unit="гр.">1040</param>
+        <param name="Вага, гр.">935</param>
+        <param name="Винос гусака">12</param>
+        <param name="Діаметр картриджа">35</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Шланги підключення">Входять в комплект</param>
+        <param name="Діаметр підключення шлангів">1/2"</param>
+        <param name="Шланги">На різьбі звичайні</param>
+      </offer>
+      <offer id="31663" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sm-101-smes-l-main-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
+        <price>1224</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/041/IMG041d29662184a332559e1dea6fe3fdff.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/f30/IMGf30c71384fc15973adce6e7d063f033a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/de0/IMGde0b38c256540420463864051da8569e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/6bc/IMG6bc84061e11195de7a6a2ec2970f57ae.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/cache/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/5a9/IMG5a995f6f78e4e3ea4a3361635c319ccb-600x600.jpg</picture>
+        <delivery>true</delivery>
+        <name>SM-101 Змішувач Main для умивальника нержавійка Комплект Globus Lux</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>GZR-16095</vendorCode>
+        <model>GLOBUS LUX Main</model>
+        <kod>V31663</kod>
+        <description>SM-101 Змішувач MAIN-д/умивальника нержавійка На Гайці,Комплект Globus Lux&#xD;
+ Змішувач для умивальника Globus Lux SM-101 SUS304Характеристики:Призначення - Для умивальникаВид монтажу - ВрізнийВид змішувача - ОдноважільнийДовжина виливу - 108 смВисота 105 смТип виливу - СтаціонарнийКомплектація: - змішувач з харчової нержавіючої сталі- шланги М10 * 1/2" - 2шт- кріплення для змішувача - гайка з нержавійкиТермостат - НемаєДодаткові характеристики: - Керамічний картридж- Металевий важіль- Швидкий монтажСпосіб монтажу - на 1 отвірМатеріал - Нержавіюча стальКолір - Нержавіюча стальДіаметр підключення шлангів 1/2"Вага в упаковці - 139 кгВага - 098 кгКраїна виробник товару - КитайГарантія - 60 місяців офіційної гарантії від виробника</description>
+        <param name="Підключення">До водопроводу</param>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
+        <param name="Спосіб монтажу">На 1 отвір</param>
+        <param name="Габарити">155х145</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь</param>
+        <param name="Серія">MAIN</param>
+        <param name="Висота, см">10.5</param>
+        <param name="Габарити з уп. (ВхШхГ) мм.">260х200х60</param>
+        <param name="Вага в уп." unit="гр.">1340</param>
+        <param name="Вага, гр.">1170</param>
+        <param name="Винос гусака">10.8</param>
+        <param name="Діаметр картриджа">35</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Шланги підключення">Входять в комплект</param>
+        <param name="Діаметр підключення шлангів">1/2"</param>
+        <param name="Шланги">На різьбі звичайні</param>
+      </offer>
+      <offer id="31669" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sbt1-101l_smes-l-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
+        <price>906</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/a29/IMGa2909eac3cb63147fe32fa843922a8cb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/e7b/IMGe7b6c1b5d5e733b29911dfbeeb12743b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/eb9/IMGeb9c1842bc025b3001d44ad7878a3bef.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/cache/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/f77/IMGf779c76ea193f78c2652c07f2fec23c6-600x600.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/b37/IMGb37eda5e60a022778e7dc71dae5f0c5a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/4f8/IMG4f833b8aa1f231414273136e004d1486.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/680/IMG680750297f9530bdfa201ebcdb55a800.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника нержавійка Комплект Globus Lux SBT1-101L</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>SBT1-101L</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V31669</kod>
+        <description>SBT1-101L Змішувач д/умивальника нержавійка На Гайці,Комплект Globus Lux&#xD;
+Змішувач для раковини Globus Lux SBT1-101LВид монтажу: ВрізнийВид змішувача: ОдинважільнийГабарити (ВхГ): 17 х 17 смТип виливу: стаціонарний Довжина виливу: 128 смВисота виливу: 68 смПідключення до водопроводуМатеріал: Нержавіюча стальКолір виробу: Нержавіюча стальДодаткові характеристики:- Гнучка підводка- Монтаж на один отвір- Металевий важіль- Швидкий монтажВага: 0,575 кгКомплектація:- Змішувач- Шланг М10*1/2"-2шт- Кріплення для змішувача - гайка з нержавійкиКраїна-виробник товару: КитайГарантія: 60 місяців офіційної гарантії від виробникаПереваги моделей змішувачів Globus Lux з нержавіючої сталі:1 Корпус моделей виготовлені з якісної нержавіючої сталі2 Довговічність і безвідмовність в експлуатації3 Елегантність форм, міцність і надійність4 Висока функціональність5 Використання якісних екологічно чистих матеріалів6 Інноваційні технології виробництва</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+      </offer>
+      <offer id="31670" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sbt2-101-smes-l-wien-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
+        <price>924</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/cb6/IMGcb6f4d4978fb419719ad82ac68addb77.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/1c6/IMG1c67698da69736ae4fbc0feb64f88dd2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/e1b/IMGe1b98a9e2eba6fb79f5d789dfd4eaa6d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/3d3/IMG3d3e81beaf98c018c2b0292a0c8419c4.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/9e7/IMG9e7bb51ee604cd53b1255b84f02d6f97.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Wien нержавійка SBT2-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>SBT2-101</vendorCode>
+        <model>Globus Lux Wien</model>
+        <kod>V31670</kod>
+        <description>Змішувач для умивальника Globus Lux нержавійка SBT2-101&#xD;
+&#xD;
+Вид монтажу: Врізний&#xD;
+Вид змішувача: Одинважільний&#xD;
+Габарити (ВхГ): 17 х 17 см&#xD;
+Тип виливу: стаціонарний&#xD;
+Матеріал: Нержавіюча сталь&#xD;
+Колір виробу: Нержавіюча сталь&#xD;
+Підключення до водопроводу&#xD;
+Вага в упаковці: 1 кг&#xD;
+Вага: 0.87 кг&#xD;
+Довжина виливу 13.5 см&#xD;
+Висота виливу 10 см&#xD;
+Комплектація:&#xD;
+- Змішувач з нержавійки&#xD;
+- Шланг М10*1/2-2шт,&#xD;
+- Кріплення для змішувача - гайка з нержавійки&#xD;
+Країна-виробник товару: Китай&#xD;
+Гарантія: 60 місяців офіційної гарантії від виробника</description>
+        <param name="Підключення">До водопроводу</param>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
+        <param name="Спосіб монтажу">На 1 отвір</param>
+        <param name="Габарити">175х150</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь</param>
+        <param name="Серія">WIEN</param>
+        <param name="Висота, см">10</param>
+        <param name="Габарити з уп. (ВхШхГ) мм.">260х200х60</param>
+        <param name="Вага в уп." unit="гр.">1080</param>
+        <param name="Вага, гр.">940</param>
+        <param name="Винос гусака">11.5</param>
+        <param name="Діаметр картриджа">35</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Шланги підключення">Входять в комплект</param>
+        <param name="Діаметр підключення шлангів">1/2"</param>
+        <param name="Шланги">На різьбі звичайні</param>
+      </offer>
+      <offer id="31674" available="true">
+        <url>https://www.santehservis.dp.ua/uk/sbt1-101s-smes-l-alpen-d-umyvalnika-bokovoy-nerzhaveyka_na-gaykeglobus-lux</url>
+        <price>944</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/251/IMG251e120bd8359c936f755e44c062bb7c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/b41/IMGb416c5763061bc98c3776c77427d411b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/b00/IMGb008bd0b1b5969ef84d820878e294338.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/2dc/IMG2dc0f5ef198a6a12b2f4e1c41f587d5e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/544/IMG54434f9924a9fc8b84517ad4e7880120.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Alpen для умивальника нержавійка Globus Lux SBT1-101S</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>SBT1-101S</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V31674</kod>
+        <description>SBT1-101S Змішувач ALPEN-д/умивальника - боковий нержавійка На Гайці,Globus Lux&#xD;
+ Змішувач для умивальника Globus Lux ALPEN SBT1-101S, SUS304Переваги моделей змішувачів Globus Lux з нержавіючої сталі:1 Корпусу моделей виготовлені з харчової нержавіючої сталі SUS3042 Довговічність і безвідмовність в експлуатації3 Елегантність форм, міцність і надійність4 Висока функціональність5 Використання якісних екологічно чистих матеріалів6 Інноваційні технології виробництваКомплектація: Змішувач з нержавійкиШланг М10*1/2-2штКріплення для змішувача - гайка з нержавійки</description>
+        <param name="Підключення">До водопроводу</param>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
+        <param name="Спосіб монтажу">На 1 отвір</param>
+        <param name="Габарити">245х180</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Висота, см">17</param>
+        <param name="Габарити з уп. (ВхШхГ) мм.">260х190х60</param>
+        <param name="Вага в уп." unit="гр.">1360</param>
+        <param name="Вага, гр.">1210</param>
+        <param name="Винос гусака">14</param>
+        <param name="Діаметр картриджа">35</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Шланги підключення">Входять в комплект</param>
+        <param name="Діаметр підключення шлангів">1/2"</param>
+        <param name="Шланги">На різьбі звичайні</param>
+      </offer>
+      <offer id="38061" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-fortuna-dlja-umivalnika-rbz018-1</url>
+        <price>1409</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ018-1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ018-1-1.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач RJ FORTUNA для умивальника RBZ018-1</name>
+        <vendor>RJ</vendor>
+        <vendorCode>RBZ018-1</vendorCode>
+        <model>RJ FORTUNA</model>
+        <kod>V38061</kod>
+        <description>Змішувач RJ FORTUNA для умивальника RBZ018-1.&#xD;
+&#xD;
+FORTUNA змішувач для умивальника одноважільний, хром 40мм.&#xD;
+&#xD;
+Довжина виливу: 150&#xD;
+Висота змішувача: 125&#xD;
+Монтаж: Врізний&#xD;
+Колір виробу: Хром&#xD;
+Комплектація: Немає&#xD;
+Тип управління: Одноважільний&#xD;
+Наявність донного клапана: Немає&#xD;
+Кількість отворів: 1&#xD;
+Бренд: RJ&#xD;
+Серія: FORTUNA</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="46882" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-dlya-umivalnikakuhni-domino-sirius-dsv-103m</url>
+        <price>851</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_4.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника/кухні Domino Sirius DSV-103M</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>DSV-103M</vendorCode>
+        <model>Domino Sirius</model>
+        <kod>V46882</kod>
+        <description><![CDATA[Змішувач для умивальника/кухні Domino Sirius DSV-103M.
+
+Комплектація:
+
+
+	Змішувач латунний
+	Шланг М10 х 1/2&Prime; - 2шт
+	Кріплення для змішувача - шпильки
+
+
+ТМ &laquo;Domino&raquo; - це виробництво якісних змішувачів для ванної та кухні.
+Відмінною рисою виробів ТМ &laquo;Domino&raquo; є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.
+Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.
+Досить купити продукцію ТМ &laquo;Domino&raquo; для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.
+Продукція ТМ &laquo;Domino&raquo; є зразком балансу порівняно невисокої ціни і високої якості.
+
+Переваги змішувачів DOMINO:
+
+
+	Зручність в експлуатації.
+	Надлегке управління.
+	Елегантність форм і надійність
+	Керамічний вузол змішування.
+	Сучасний картридж.
+	Підходить для проточних нагрівачів.
+	Аератор з пластиковою сіткою.
+	Висока функціональність.]]></description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="46920" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-sena-gls-101</url>
+        <price>1022</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ebb/IMGebb95afa415e127edb8b42cb1890f426.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/365/IMG365676de383c41745db37708e888024b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9fa/IMG9fa9424dcc56b35365e84fa12e5e2c60.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Sena GLS-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Sena GLS-101</vendorCode>
+        <model>Globus Lux Sena</model>
+        <kod>V46920</kod>
+        <description>Змішувач для умивальника Globus Lux Sena GLS-101Змішувач для умивальника Globus Lux SENA GLS-0101Переваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Габарити упаковки (ВхШхГ): 20х15х8смВага в упаковці: 0.79. кгВага: 0.64 кгКомплектація:Змішувач латуннийШланг М10 * 1/2″-2штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SENA</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="46932" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-clinic-glca-1011</url>
+        <price>1488</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1b8/IMG1b8a5d2563c7b0a5ab89fc7321686258.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dd1/IMGdd18ab08bd56637df585ae62750e5397.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cd6/IMGcd60f50d6caacb8582314ee904d6d33a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4ca/IMG4ca7d8999ed4c2bcdcc055eaa3e73b81.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/43b/IMG43b83544ec1d7bda450296dcf315db44.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Clinic GLCA-1011</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Clinic GLCA-1011</vendorCode>
+        <model>Globus Lux Clinic</model>
+        <kod>V46932</kod>
+        <description>Змішувач для умивальника Globus Lux CLINIC GLCA-1011Змішувач для умивальника GCA-1011-CLINIC ліктьовийПризначений для використання в медичних установахПереваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2. Елегантність форм, міцність і надійність3 Висока функціональність4 .Використання якісних екологічно чистих матеріалів5 .Інноваційні технології виробництва6. Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10х1/2″ - 2 штКріплення для змішувача ″шпильки″Розмір упаковки ВхШхГ:8х13х25Вага нетто: 0,86 кгВага брутто: 1,03 кг</description>
+        <param name="Призначення виробу">Для умивальника ліктьовий || Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">CLINIC</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="46935" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-sena-gls-103m</url>
+        <price>983</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/647/IMG6473930665091e9dc801cfa91469b511.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/8bf/IMG8bf5451ee97db3c00912c3ff26ba5e87.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5b3/IMG5b3cd28603e56bd24d351314610927a9.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/309/IMG3093725a28b9f2f3087cf551423bf44e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/10a/IMG10af62293fced1d9a0f1bebdf09377ab.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Sena GLS-103M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Sena GLS-103M</vendorCode>
+        <model>Globus Lux Sena</model>
+        <kod>V46935</kod>
+        <description>Змішувач для умивальника Globus Lux Sena GLS-103MЗмішувач для кухни Globus Lux SENA GLS-0103M поворотний вилив 15 смПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Габарити упаковки (ВхШхГ): 25х13х8смВага в упаковці: 0.78  кгВага: 0.63 кгКомплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SENA</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="46950" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-sena-gls-203m</url>
+        <price>1089</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f00/IMGf00c8d33398d64480570c1b315621c36.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/112/IMG1120d65a1b8ff7e8c6ee864ee364a729.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/298/IMG298548e90697135fbf8c8ca5f394440c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d54/IMGd544bac9a2a179b46b16c10248a444c3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f69/IMGf69a85b5eadb41d50bd5b8c255e6a4cd.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Sena GLS-203M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Sena GLS-203M</vendorCode>
+        <model>Globus Lux Sena</model>
+        <kod>V46950</kod>
+        <description>Змішувач для умивальника Globus Lux Sena GLS-203MЗмішувач Sena GLS 0203М Globus Lux для кухні на гайціПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Габарити упаковки (ВхШхГ): 25х13х8смВага в упаковці: 0.86  кгВага: 0.71 кгКомплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - гайкаДовжина гусака -15 см</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SENA</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47030" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0401</url>
+        <price>1341</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/151/IMG151ff8fb60660c4d41d22a5e0f243b85.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b42/IMGb4260d9705f85d04c94528d79bcb96dd.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cec/IMGcecd5596e7904f0b6a8bcaef2d49a140.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4a1/IMG4a1d05441f1f7a76cb5baeaf78d69c4d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e2a/IMGe2a131bce5fed6d3256c2f8de20801f0.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Caprice GLCA-0401</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Caprice GLCA-0401</vendorCode>
+        <model>Globus Lux Caprice</model>
+        <kod>V47030</kod>
+        <description>Змішувач для умивальника Globus Lux Caprice GLCA-0401Змішувач для умивальника Globus Lux Caprice GLCA-0401Переваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2. Елегантність форм, міцність і надійність3 Висока функціональність4 .Використання якісних екологічно чистих матеріалів5 .Інноваційні технології виробництва6. Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10х1/2″ - 2 штКріплення для змішувача ″гайка″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">CAPRICE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="47060" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-queensland-glqu-103m</url>
+        <price>1256</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/98f/IMG98f2433ade202a4fc2ba91a9a7cce4b5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/fac/IMGfac5801bd1db2e8f8b93f36c81825ee7.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3e4/IMG3e4622559e1b1b3ccb955da3805d6029.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/504/IMG504fd5281923b2cdd632cbd46f8e066b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/48a/IMG48ac85f65c5a0aa3d8b5975b79f4fbc0.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Queensland GLQU-103M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Queensland GLQU-103M</vendorCode>
+        <model>Globus Lux Queensland</model>
+        <kod>V47060</kod>
+        <description>Змішувач для умивальника Globus Lux QUEENSLAND GLQU-103MЗмішувач для раковини Globus Lux QUEENSLAND -GLQU-0103M поворотний вилив 15 смПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%7Картридж SedalКомплектація:Змішувач латуннийШланг М10 * 1/2″-2штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">QUEENSLAND</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47061" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-queensland-glqu-203m</url>
+        <price>1452</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cf8/IMGcf8cb0ff28223009feffcdba8146cd34.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/14e/IMG14e54e3623de8d1b5708a918d351491a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d99/IMGd99fc32d3d4033785a98a4439e53c30b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9a6/IMG9a6b4cd34f0428b2b8d20ce06ffffb45.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dc5/IMGdc5244cb1716f753d529b28f65d24a1e.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Queensland GLQU-203M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Queensland GLQU-203M</vendorCode>
+        <model>Globus Lux Queensland</model>
+        <kod>V47061</kod>
+        <description>Змішувач для умивальника Globus Lux QUEENSLAND GLQU-203MЗмішувач для раковини Globus Lux QUEENSLAND -GLQU-0203M поворотний вилив 15 см на гайціПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%7. Картридж SedalКомплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">QUEENSLAND</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47077" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0101</url>
+        <price>1260</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0c6/IMG0c686f8d83d3f9bf19466929b5c5d386.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ac3/IMGac3f86e42169bef2cb244a60dba99c54.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3f6/IMG3f6dceeb924b03605acc29a5d79f396b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f0/IMG5f08142e77464830320402662cd2814e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cbc/IMGcbc55041eafcb3b23dc458424848a967.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Caprice GLCA-0101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Caprice GLCA-0101</vendorCode>
+        <model>Globus Lux Caprice</model>
+        <kod>V47077</kod>
+        <description>Змішувач для умивальника Globus Lux Caprice GLCA-0101Змішувач для умивальника Globus Lux Caprice GLCA-0101Переваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2. Елегантність форм, міцність і надійність3 Висока функціональність4 .Використання якісних екологічно чистих матеріалів5 .Інноваційні  технології виробництва6. Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10х1/2″ - 2 штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">CAPRICE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="47081" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0203m</url>
+        <price>1109</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/31c/IMG31cf97ae71c79f4331d82c0ddb3a243c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b2a/IMGb2ac4bfe5c832b96633754ca17555d7e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b7a/IMGb7a8827d95e0ab8c24dc08c1bee94fa0.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2ea/IMG2ea3f8b3ac81346a0c389fce7de91deb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9de/IMG9deadda866843c5a9321f7527df6c969.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Caprice GLCA-0203М</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Caprice GLCA-0203М</vendorCode>
+        <model>Globus Lux Caprice</model>
+        <kod>V47081</kod>
+        <description>Змішувач для умивальника Globus Lux Caprice GLCA-0203МЗмішувач для умивальника Globus Lux Caprice GLCA-0203М поворотний виливши 15 см на гайціПереваги змішувачів Globus Lux:1.Довговічність і безвідмовність в експлуатації2.Елегантність форм, міцність і надійність3.Висока функціональність4.Використання якісних екологічно чистих матеріалів5.Інноваційні технології виробництва6.Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10х1/2″ - 2 штКріплення для змішувача - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">CAPRICE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47086" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-solly-glso-0101</url>
+        <price>1487</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/534/IMG534da004612eda8b520b4f4de20dcc3e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/973/IMG973904d450a3ad5ac4cb8293c55ce61f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a92/IMGa92e4927a20fc959ccb66d230df1bcba.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9a7/IMG9a76944d9ac2f3a741274960ca525ff7.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Solly GLSO-0101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Solly GLSO-0101</vendorCode>
+        <model>Globus Lux Solly</model>
+        <kod>V47086</kod>
+        <description>Змішувач для умивальника Globus Lux Solly GLSO-0101Змішувач для умивальника Globus Lux SOLLY GLSO-0101Переваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SOLLY</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="47093" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-solly-glso-0203m</url>
+        <price>1340</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/876/IMG87633b9a0261207e26936b8997076870.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6e0/IMG6e020708bde6249c3cb361b60eeae17d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/19a/IMG19abfc8dee63798534658c2d8d263f67.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/abe/IMGabe0f6b105b3d53f86bfd9ca7b86272f.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Solly GLSO-0203М</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Solly GLSO-0203М</vendorCode>
+        <model>Globus Lux Solly</model>
+        <kod>V47093</kod>
+        <description>Змішувач для умивальника Globus Lux Solly GLSO-0203МЗмішувач для раковини Globus Lux SOLLY GLSO-0203М поворотний виливши 15 см на гайціПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SOLLY</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47095" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-solly-glso-0103m</url>
+        <price>1223</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/8f9/IMG8f9461b867ac5e09ad683eb3dceab931.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f2a/IMGf2a233eb2baccc783b8ba45763d0cf80.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f72/IMGf7284d6c1247093dc0595f27fa8f9871.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/110/IMG110b39485bc3a4c813aa1568fcc2163f.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Solly GLSO-0103M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Solly GLSO-0103M</vendorCode>
+        <model>Globus Lux Solly</model>
+        <kod>V47095</kod>
+        <description>Змішувач для умивальника Globus Lux Solly GLSO-0103MЗмішувач для умивальника Globus Lux SOLLY GLSO-0103 М поворотний виливши 15 смПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача ″шпильки″Гусак - 15 см</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SOLLY</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47096" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-smart-glsm-0101</url>
+        <price>1488</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/839/IMG839b732766b03ce6451f583e6b1e613b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/83e/IMG83edc53f495d68a9717276e5cce64ddd.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ff9/IMGff96cde0b24157432b06d52872eaad05.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/724/IMG72494e76ea41800b20c329607e32706a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b71/IMGb719fd71aacd6aa620694a2de6bd6988.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Smart GLSM-0101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Smart GLSM-0101</vendorCode>
+        <model>Globus Lux Smart</model>
+        <kod>V47096</kod>
+        <description>Змішувач для умивальника Globus Lux Smart GLSM-0101Змішувач для раковини Globus Lux SMART GLSM-0101Переваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2. Елегантність форм, міцність і надійність3. Висока функціональність4. Використання якісних екологічно чистих матеріалів5. Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:- Змішувач латунний- Шланг М10 * 1 / 2″-2шт- Кріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SMART</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="47099" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-smart-glsm-0203m</url>
+        <price>1041</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/098/IMG09881db49be4b14d8eee8db8c7b1ae18.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/061/IMG061f276865a327905ba563ed2752fc90.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cac/IMGcac36f00eef8bd4e04f3bf1f3fd4e3bd.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f55/IMGf55a6dd36abc6ea76f4806cabb40aeff.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4d1/IMG4d13e8ba1dbf63581ae3fde23317c71c.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Smart GLSM-0203M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Smart GLSM-0203M</vendorCode>
+        <model>Globus Lux Smart</model>
+        <kod>V47099</kod>
+        <description>Змішувач для умивальника Globus Lux Smart GLSM-0203MЗмішувач для раковини Globus Lux SMART GLSM-0203M поворотний вилив 15 см на гайціПереваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2. Елегантність форм, міцність і надійність3. Висока функціональність4. Використання якісних екологічно чистих матеріалів5. Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача ″гайка″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SMART</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47118" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101</url>
+        <price>810</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dac/IMGdac43131c6a9ae45d5eb60c3a5b86f20.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ce8/IMGce8d8a51818b1a7b4f4455a27f3ed982.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b4a/IMGb4aa6506fb768b5aaff17c7390983e92.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/04b/IMG04b2e761c202a11daf8fe8f9a8b0552d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e81/IMGe81754387d629e08e720f5794861f599.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Energo E-GEZ-101</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Energo E-GEZ-101</vendorCode>
+        <model>EcoMix Energo</model>
+        <kod>V47118</kod>
+        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-101Змішувач для умивальника EcoMIX E-GEZ-101 серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:ЗмішувачШланги для підключенняКартридж 35 діаметрТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ENERGO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.800000</param>
+      </offer>
+      <offer id="47120" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-203m</url>
+        <price>809</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f7/IMG5f78543d57def87f193972d3e0d041b5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a94/IMGa9497b30eced3e35c64bcdff440dfacc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d05/IMGd05030386ebbf0b73e381375bbe36b27.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/37f/IMG37f39b40e86f49b36fe5a54805fd49d5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e7c/IMGe7c1884bd78689c1222f2a07e6f20bec.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Energo E-GEZ-203M</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Energo E-GEZ-203M</vendorCode>
+        <model>EcoMix Energo</model>
+        <kod>V47120</kod>
+        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-203MЗмішувач для кухні та умивальника EcoMIX E-GEZ-203M серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключенняКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ENERGO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.800000</param>
+      </offer>
+      <offer id="47131" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-101</url>
+        <price>593</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/026/IMG026fc14e17f7025881347478f8247b60.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0b0/IMG0b019d1a24b5093dec50daa2812cc404.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2e4/IMG2e4380912c59d0e8d7b8883d7cc4ab74.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/464/IMG464c02ee32db20e44cdae306889032c3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1cd/IMG1cd5617825233f9bd261013e20903345.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Elit EM-101</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Elit EM-101</vendorCode>
+        <model>EcoMix Elit</model>
+        <kod>V47131</kod>
+        <description>Змішувач для умивальника EcoMix ELIT EM-101Змішувач для умивальника EcoMIX EM-101 серія ELITЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключенняКартридж 35 діаметрТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELIT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.598000</param>
+      </offer>
+      <offer id="47132" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-101-wh</url>
+        <price>554</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca9/IMGca982485b2443eff36e4c44e66e2c36e.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Elit EM-101 WH</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Elit EM-101 WH</vendorCode>
+        <model>EcoMix Elit</model>
+        <kod>V47132</kod>
+        <description>Змішувач для умивальника EcoMix ELIT EM-101 WHEM-101-WH ELIT D35 EcoMIX Змішувач для умивальникаБез шлангів1 шт. в упаковці</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELIT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.500000</param>
+      </offer>
+      <offer id="47155" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m</url>
+        <price>735</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/197/IMG197fffb20bcbc454df9c8d1eb240959b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1d4/IMG1d460546db3f204bf420f898d31b6dd9.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/368/IMG368edcf20689bcb8f512c41c98550491.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c09/IMGc091620adc0fc35471999ca2948bd001.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b33/IMGb33e1db774afae70dc58762ae4227b4b.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Energo E-GEZ-103M</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Energo E-GEZ-103M</vendorCode>
+        <model>EcoMix Energo</model>
+        <kod>V47155</kod>
+        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-103MЗмішувач для кухні EcoMIX E-GEZ-103M  серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключення водиКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ENERGO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.700000</param>
+      </offer>
+      <offer id="47156" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m-wh</url>
+        <price>710</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/913/IMG9133a24a6d69d40a8ea540be750ec262.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c4b/IMGc4ba9f7ad08766695b96d4dd4b9930e7.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/19d/IMG19d9f27db87d0c13765c5f4e6e3c6cf2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/07b/IMG07b7d237c1b1ec0eb93e1df9987198be.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e1e/IMGe1e8c772ff878c0d76898ed2be0b363f.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Energo E-GEZ-103M-WH</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Energo E-GEZ-103M-WH</vendorCode>
+        <model>EcoMix Energo</model>
+        <kod>V47156</kod>
+        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-103M-WHЗмішувач для кухні EcoMIX E-GEZ-103M- WH серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачБез шлангів для підключення водиКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ENERGO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.800000</param>
+      </offer>
+      <offer id="47157" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-101</url>
+        <price>1158</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/71e/IMG71e75725be525e42838081275927e2a7.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f15/IMGf155c6d13d6b8d0a19278ebda3478d3c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2db/IMG2dbd37813b06a76e6475bee8324b93b0.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0da/IMG0da2d2ac75a1325aa52add32e8970b86.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Sirius DSV-101</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Sirius DSV-101</vendorCode>
+        <model>Domino Sirius</model>
+        <kod>V47157</kod>
+        <description>Змішувач для умивальника Domino SIRIUS DSV-101Змішувач для умивальника DOMINO SIRIUS DSV-101Комплектація:Змішувач латуннийКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SIRIUS</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.180000</param>
+      </offer>
+      <offer id="47158" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-401</url>
+        <price>1158</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ec9/IMGec9a417f07b24d8880d1f8f91a7b0dde.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f1/IMG5f12792ebd240854ff81caa086cbe634.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a4d/IMGa4d29398562ea832a4fce3d17865b231.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d0d/IMGd0d43841eb9b53fcf1076466d479322d.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Sirius DSV-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Sirius DSV-401</vendorCode>
+        <model>Domino Sirius</model>
+        <kod>V47158</kod>
+        <description>Змішувач для умивальника Domino SIRIUS DSV-401Змішувач для умивальника DOMINO SIRIUS DSV-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SIRIUS</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.550000</param>
+      </offer>
+      <offer id="47159" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-203m</url>
+        <price>918</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/085/IMG0853b08d67997eb25d5d02b8492b0693.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ec3/IMGec3de7e55a6dadc687a3207a17f931d7.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c0b/IMGc0bae2b5ee67354473b7ca26a3e00897.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9f6/IMG9f6856ac5ca1befa136cdd7ab87a6158.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Sirius DSV-203M</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Sirius DSV-203M</vendorCode>
+        <model>Domino Sirius</model>
+        <kod>V47159</kod>
+        <description>Змішувач для умивальника Domino SIRIUS DSV-203MЗмішувач для умивальника DOMINO SIRIUS DSV-203MКомплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">SIRIUS</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47163" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101</url>
+        <price>1104</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1fe/IMG1fe4bb3979b583e8ee4da69d00ebb99e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/69b/IMG69b3b539a76a4b15b5e2a1c7fd5f670a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5ed/IMG5ed5bad2c7c216e986a7c8372c3be650.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f20/IMGf2099f01260c6ecc347e6ad9f2401644.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f1/IMG5f17f641c5be4311b64ea02a48debae0.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-101</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-101</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47163</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-101Змішувач для умивальника DOMINO BLITZ DBC-101Комплектація:Змішувач латуннийШланг М10 * 1 / 2-2штКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, внаслідок змішувачі Domino відповідають сучасним технологіям і  якості  матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47164" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-103m</url>
+        <price>851</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/45f/IMG45f7cf17dcf402488e948482fc5df6c1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a64/IMGa6478dc2473b5efdb4fc376b0a444b4d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1f2/IMG1f2c02599e94eb9175a6518542abd768.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f64/IMGf64cb38e8ffd19f0c001009fa3f780fc.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-103M</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-103M</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47164</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-103MЗмішувач для умивальника DOMINO BLITZ DBC-103MКомплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.850000</param>
+      </offer>
+      <offer id="47165" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m</url>
+        <price>918</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/db2/IMGdb2c82fc2a2aca52878c5515a1c1b8fa.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/700/IMG7005ca84a1d2a2330e5c5c608029cc62.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/24a/IMG24a927df4948480448268b10fc4c21da.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c1c/IMGc1c5016fde35ea02b26edcfd7fe85a5c.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-203M</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-203M</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47165</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-203MЗмішувач для умивальника DOMINO BLITZ DBC-203MКомплектація:Змішувач латуннийГусак - 15 смШланг М10 х 1/2″ - 2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47170" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-101</url>
+        <price>1221</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6b2/IMG6b21f52537ce126504fd06e14027cb49.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/838/IMG838fbe10d304c559c73d2966968c2861.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f7b/IMGf7bd801aa6a938465a48015c9a21a62c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1e9/IMG1e9133a3f8fa4639a14a24a93cdba56c.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Accent DAC-101</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Accent DAC-101</vendorCode>
+        <model>Domino Accent</model>
+        <kod>V47170</kod>
+        <description>Змішувач для умивальника Domino ACCENT DAC-101Змішувач для умивальника DOMINO ACCENT DAC-101Комплектація:ЗмішувачШланги для підключеннякріплення- шпилькаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ACCENT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.180000</param>
+      </offer>
+      <offer id="47178" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101-wh</url>
+        <price>782</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c05/IMGc05ee53e32128e3449187b9d4559a14e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cd8/IMGcd85d561d61c7ec21f8397f22e6ca1ea.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d7e/IMGd7ed0fcfbf584be092ba69567967dc7e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1d7/IMG1d79eb78187d9d2c2851ca75062b5df2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b22/IMGb221145f95377d75d11ac70ffea985b8.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Energo E-GEZ-101-WH</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Energo E-GEZ-101-WH</vendorCode>
+        <model>EcoMix Energo</model>
+        <kod>V47178</kod>
+        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-101-WHЗмішувач для умивальника EcoMIX E-GEZ-101-WH серія Energo без шлангівЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачКартридж 40 діаметрТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ENERGO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.700000</param>
+      </offer>
+      <offer id="47183" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-ecomix-elit-em-104</url>
+        <price>881</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/308/IMG308624e350925c181c239be6e1af0ddc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/268/IMG268634b6484b74ddd494ff9dd3baf635.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c0c/IMGc0c081a19e911d938e08dc49270f32f3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/66c/IMG66c7fe4a6dff43f29b357a6779b8876c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0a0/IMG0a03212c217c5fa26a8fef0516c0f4c4.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні EcoMix Elit EM-104</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Elit EM-104</vendorCode>
+        <model>EcoMix Elit</model>
+        <kod>V47183</kod>
+        <description>Змішувач для кухні EcoMix ELIT EM-104Змішувач для кухні зі стіни EcoMIX EM-104 серія ELITЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачКартридж 35 діаметрексцентрикидекоративні чашкиМонтаж настінний</description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Настінний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELIT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.774000</param>
+      </offer>
+      <offer id="47184" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0103m</url>
+        <price>1040</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dea/IMGdea608e65446a998cd4361eb102519fa.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f30/IMGf301a86878e3576c0e4354ccc9184959.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ef8/IMGef88432bf95a9b5d1820a2dba75b3623.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c44/IMGc447cbe7671e9ddb9e5c7bf0d39064f6.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f31/IMGf31654f14e9ee24af9132e98dfc2e399.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Caprice GLCA-0103М</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Caprice GLCA-0103М</vendorCode>
+        <model>Globus Lux Caprice</model>
+        <kod>V47184</kod>
+        <description>Змішувач для умивальника Globus Lux Caprice GLCA-0103МЗмішувач для раковини Globus Lux Caprice GLCA-0103М поворотний вилив 15 смПереваги змішувачів Globus Lux:1. Довговічність і безвідмовність в експлуатації2 .Елегантность форм, міцність і надійність3 Висока функціональність4. Використання якісних екологічно чистих матеріалів5 .Інноваційні технології виробництва6 .Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10х1/2″ - 2 штКріплення для змішувача ″шпильки″</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">CAPRICE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47194" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-401</url>
+        <price>1257</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e0f/IMGe0f731640299de15c3bfcff62bbb1bc6.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5fe/IMG5feeb12b6dc94335212245e91eb058a5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a02/IMGa02df7f11f28a7d6a7c3de3230830396.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/fc7/IMGfc72a4d7798e89c3ab906303cc0732cb.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Accent DAC-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Accent DAC-401</vendorCode>
+        <model>Domino Accent</model>
+        <kod>V47194</kod>
+        <description>Змішувач для умивальника Domino ACCENT DAC-401Змішувач для умивальника DOMINO ACCENT DAC-401Комплектація:ЗмішувачШланги для підключенняКріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ACCENT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.350000</param>
+      </offer>
+      <offer id="47209" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dwb-h361</url>
+        <price>1178</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4c5/IMG4c5abadbf96b89d47f1e3c14a272525f.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні Domino DWB-H361</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DWB-H361</vendorCode>
+        <model>Domino DWB</model>
+        <kod>V47209</kod>
+        <description>Змішувач для кухні Domino DWB-H361Змішувач для кухні DOMINO DWB-H361Вид монтажу: настіннийВид змішувача: ДвохвентильнийТип виливу: поворотний, прямийДовжина виливу: 25 смМатеріал: Силумін / ЛатуньКолір виробу: Хромкомплектація:- ексцентрики для змішувачів настінного монтажу- декоративні чаші- змішувачТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Настінний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DWB</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47262" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-401</url>
+        <price>1145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/37b/IMG37bd142e8b9efae6c601f32df953fcbe.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2e7/IMG2e735c826de054cdfdb763a3cdaf0d9f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f8e/IMGf8ec8eb0d694e6553ccdc76d51468c26.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/618/IMG6185222381ed3a546b827eabd99934c2.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-401</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47262</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-401Змішувач для умивальника DOMINO BLITZ DBC-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - на гайціТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.500000</param>
+      </offer>
+      <offer id="47263" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-h1-green</url>
+        <price>1212</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a6f/IMGa6fcf02a1f5452692b40b8ccf313555c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/032/IMG032d183f7dafd99c41b0f7072e51ebc9.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/56c/IMG56ce84f21dd7f9e4d90dad7d94e32034.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f9e/IMGf9e71904f2a5992b8591e25f73ac22f6.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino DYM-H1-GREEN</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DYM-H1-GREEN</vendorCode>
+        <model>Domino DYM</model>
+        <kod>V47263</kod>
+        <description>Змішувач для умивальника Domino DYM-H1-GREENЗмішувач вентильний для умивальника DYM-H1-GREEN DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х15х12смВага в упаковці: 1. кгВага: 0.8 кгКомплектація:змішувачШланги для підключення 2 шт</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DYM</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.900000</param>
+      </offer>
+      <offer id="47269" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-204-06-cruize</url>
+        <price>1173</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/bad/IMGbade6e35e66540a11f0dd3e0dbec0071.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/8c1/IMG8c1556aca9da5e9e3406baec7bb642ce.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/185/IMG185a9b7ecf47c8efd6261760116d54cb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b6a/IMGb6a5559f48c0986fe3d97546a61a6b72.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino DKF-204-06-CRUIZE</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DKF-204-06-CRUIZE</vendorCode>
+        <model>Domino DKF</model>
+        <kod>V47269</kod>
+        <description>Змішувач для умивальника Domino DKF-204-06-CRUIZEЗмішувач для умивальника DOMINO DKF-204-06-CRUIZE тип ″Ялинка″ Вид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус.Двухзахватна  конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Вилив змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Комплектація:змішувачШланги для підключення 2 шт</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DKF</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.130000</param>
+      </offer>
+      <offer id="47286" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dkf-027-117-cruize</url>
+        <price>1068</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/be4/IMGbe4dc2e53d28cb254122996e8e6e7b83.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2ac/IMG2ac432c247358991cb8cc6b0aa8a1abf.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/089/IMG08974fd2446eb1095d658e745610bf74.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5ea/IMG5eaa6e4a72a410f9df9f1e0b946cdf0a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/17b/IMG17b1dee26466b6089f78b8ca914b24d9.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні Domino DKF-027-117-CRUIZE</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DKF-027-117-CRUIZE</vendorCode>
+        <model>Domino DKF</model>
+        <kod>V47286</kod>
+        <description>Змішувач для кухні Domino DKF-027-117-CRUIZEЗмішувач для кухні Domino DKF-027-117-CRUIZEВид монтажу: настіннийВид змішувача: ДвохвентильнийГабарити (ВхГ): 13 х 28 смТип виливу: поворотнийДовжина виливу: 22 смМатеріал: Силумін / ЛатуньКолір виробу: Хромкомплектація:- ексцентрики для змішувачів настінного монтажу- декоративні чаші- змішувачГабарити в упаковці (ВхШхГ): 26х12х6.5 смВага в упаковці: 0.95 кгВага: 0.63 кгКраїна-виробник товару: КитайГарантія: 12 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Настінний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DKF</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.974000</param>
+      </offer>
+      <offer id="47287" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-027-cruize</url>
+        <price>1239</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/831/IMG831161a6a05718ce5d88fa4a574b186c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/33d/IMG33d52b669b673fd59d0644a28084e1fc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/95f/IMG95fb15423ef71ed28c88fd1103e77585.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/315/IMG315ab9347061918e35b62893960d76b6.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino DYM-027-CRUIZE</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DYM-027-CRUIZE</vendorCode>
+        <model>Domino DYM</model>
+        <kod>V47287</kod>
+        <description>Змішувач для умивальника Domino DYM-027-CRUIZEЗмішувач вентильний для умивальника DYM-027- CRUIZE DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х17х12 смВага в упаковці: 1.11 кгВага: 0.9 кгКомплектація:змішувачШланги для підключення 2 шт</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DYM</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.900000</param>
+      </offer>
+      <offer id="47310" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dmf-029-m7116-sharm</url>
+        <price>1040</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/333/IMG3333a8805cb40a092e37387321256e9f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f99/IMGf99483847f92fec0e7f055c5a123cbc1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/053/IMG0534b903c59f427ce8791fb2087c7043.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d18/IMGd18f126ea65e532a63d44c541ae5cb9a.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні Domino DMF-029-M7116-SHARM</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DMF-029-M7116-SHARM</vendorCode>
+        <model>Domino DMF</model>
+        <kod>V47310</kod>
+        <description>Змішувач для кухні Domino DMF-029-M7116-SHARMЗмішувач для кухні Domino DMF-029-M7116-SHARMВид монтажу: настіннийВид змішувача: ДвохвентильнийГабарити (ВхГ): 15 х 24 смТип виливу: поворотний, П- образнийДовжина виливу: 20 смМатеріал: Силумін / ЛатуньКолір виробу: Хромкомплектація:- ексцентрики для змішувачів настінного монтажу- декоративні чаші- змішувачГабарити в упаковці (ВхШхГ): 26х12х6.5 смВага в упаковці: 0.925 кгВага: 0.81 кгКраїна-виробник товару: КитайГарантія: 12 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Настінний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DMF</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.141000</param>
+      </offer>
+      <offer id="47333" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-209-06-sharm</url>
+        <price>1173</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5e5/IMG5e52489ac283da266d061fd8ae41483d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9a1/IMG9a1b53ab491f4c41beb639109d4dd169.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c29/IMGc29eeee6d49ccab7325d86fdfde2953f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/337/IMG337f7d97e9c338c7cb9bce2042c0de81.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino DKF-209-06-SHARM</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DKF-209-06-SHARM</vendorCode>
+        <model>Domino DKF</model>
+        <kod>V47333</kod>
+        <description>Змішувач для умивальника Domino DKF-209-06-SHARMЗмішувач для раковини DOMINO DKF-209-06-SHARMВид монтажу: Врізний, на гайціВид змішувача: ДвохвентильнийГабарити (ВхГ): 20 х 20 смТип виливу: ПоворотнийДовжина виливу: 17 смВисота виливу: 17.5 смПідключення: до водопроводуДіаметр підключення шлангів 1/2 ″Шланги на різьбі звичайніШланги підключення входять в комплект поставкиМатеріал: Силумін / ЛатуньКолір виробу: ХромГабарити упаковки (ВхШхГ): 34х16х8 смВага в упаковці: 1.13 кгВага: 0.8 кгКраїна-виробник товару: КитайГарантія: 12 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DKF</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.188000</param>
+      </offer>
+      <offer id="47334" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-029-sharm</url>
+        <price>1239</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/724/IMG72425e055c09aff1dea355ef10c1ad62.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f31/IMGf312aafcb7b4f82178b59e2b8a507427.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/482/IMG482118aecfb311afe9d947f500c83577.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/7f6/IMG7f63076dd270708c707accb54344bb37.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino DYM-029-SHARM</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DYM-029-SHARM</vendorCode>
+        <model>Domino DYM</model>
+        <kod>V47334</kod>
+        <description>Змішувач для умивальника Domino DYM-029-SHARMЗмішувач вентильний для умивальника DYM-029-SHARM DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х17х12 смВага в упаковці: 1.11 кгВага: 0.9 кгКомплектація:змішувачШланги для підключення 2 шт</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DYM</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">0.900000</param>
+      </offer>
+      <offer id="47335" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dmf-029-m7117-sharm</url>
+        <price>1040</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f6a/IMGf6a173106be15d8edab5cd4d7087cf1a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e27/IMGe27cc1006da5b5ccf0649e7c42d099cc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/7d1/IMG7d142dcd6918b398b29f462b59517b55.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/014/IMG014da5a6fd11607de5fa8cc841025d1e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c65/IMGc65b92f8625c39626471152f207b5f49.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні Domino DMF-029-M7117-SHARM</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino DMF-029-M7117-SHARM</vendorCode>
+        <model>Domino DMF</model>
+        <kod>V47335</kod>
+        <description>Змішувач для кухні Domino DMF-029-M7117-SHARMЗмішувач для кухні Domino DMF-029-M7117-SHARMВид монтажу: настіннийВид змішувача: ДвохвентильнийТип виливу: поворотний, S- образнийДовжина виливу: 20 смМатеріал: Силумін / ЛатуньКолір виробу: Хромкомплектація:- ексцентрики для змішувачів настінного монтажу- декоративні чаші- змішувач</description>
+        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Настінний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DMF</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.141000</param>
+      </offer>
+      <offer id="47369" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-n-103m</url>
+        <price>623</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a9b/IMGa9b46c8f0d2e43e78c648678bbe885b2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/bd4/IMGbd4a1c990506d1ef0a0fa40252b78073.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/64e/IMG64e7c84dc65e34002cc319df1157e956.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/01b/IMG01b90a8b03a5c9266c43730ed78ead0d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f0d/IMGf0d86e3891269c11e0a329b98fe08334.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Elit EM-N-103M</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Elit EM-N-103M</vendorCode>
+        <model>EcoMix Elit</model>
+        <kod>V47369</kod>
+        <description>Змішувач для умивальника EcoMix ELIT EM-N-103MЗмішувач для умивальника EcoMIX EM-N-103М серія ELITЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключенняКартридж 35 діаметрДовжина гусака 150 ммТип кріплення - шпильки</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELIT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.640000</param>
+      </offer>
+      <offer id="47382" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-koln-glk-0203m</url>
+        <price>1200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/506/IMG5068bee7a5b31a46ab8df55e8e94871f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/bd0/IMGbd0f24176cb9b08df44b7ca1364f1759.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a04/IMGa04ee6ed84843bd5a1b5361de4c20b22.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/62d/IMG62d39cbf69ba3e2d955ff8522c370bc5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c83/IMGc836e6c329040ba9aa2e4f31d3cd98fa.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Koln GLK-0203M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Koln GLK-0203M</vendorCode>
+        <model>Globus Lux Koln</model>
+        <kod>V47382</kod>
+        <description><![CDATA[Змішувач для умивальника Globus Lux Koln GLK-0203MЗмішувач KOLN GLK-203М Globus Lux  для кухні або умавальника з бічною ручкою  на гайціНова серія змішувачів KOLN захоплює своїм вишуканим дизайном, при цьому не втрачаючи своєї надійності в якості, Кухонний змішувач ідеально впишеться в будь-який інтер&apos;єр кухні з самим химерним рішенням.Переваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка]]></description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">KOLN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47392" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-n-203m</url>
+        <price>705</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/efb/IMGefbbd459763649311f8af16eb228cb5d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9ab/IMG9ab4be1c0a0379e93f75aeb5c5385e1e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/07e/IMG07e217134c2546e49a8b4f5b46f7f5fc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5ad/IMG5ad74e0cc7a3d5bbbf706dc328c19d6b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/72b/IMG72bec5f7b8edecf1fd95228ad30e8b4c.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника EcoMix Elit EM-N-203M</name>
+        <vendor>EcoMIX</vendor>
+        <vendorCode>EcoMix Elit EM-N-203M</vendorCode>
+        <model>EcoMix Elit</model>
+        <kod>V47392</kod>
+        <description>Змішувач для умивальника EcoMix ELIT EM-N-203MЗмішувач для умивальника EcoMIX EM-N-203М серія ELITЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключенняКартридж 35 діаметрДовжина гусака 150 ммТип кріплення - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELIT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.740000</param>
+      </offer>
+      <offer id="47411" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-gb-sharm-0300-06</url>
+        <price>1499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/498/IMG498022a9e896763881fc535f5aff964c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f75/IMGf75fe9aa05ba0220cc175a2dced332d0.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/27e/IMG27ea448909a046be6b76db74c0c8529e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6c7/IMG6c74ee8353a37daa5af967e1207e20e7.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux GB-SHARM-0300-06</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux GB-SHARM-0300-06</vendorCode>
+        <model>Globus Lux GB-SHARM</model>
+        <kod>V47411</kod>
+        <description>Змішувач для умивальника Globus Lux GB-SHARM-0300-06Змішувач вентильний для кухні та умивальника GB-SHARM-0300-06, тип ″Ялинка″ GLOBUSВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус.Двухзахватна  конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Вилив змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Матеріал- латуньГабарити упаковки (ВхШхГ): 30х16х8смВага в упаковці: 1.24. кгВага: 1 кгКомплектація:змішувачШланги для підключення 2 шт</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">GB</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.350000</param>
+      </offer>
+      <offer id="47532" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-wien-sbt2-101n</url>
+        <price>1283</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/765/IMG765f31cb94637c239753d1494a0bcb1b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/947/IMG9479c610e533c41d709c51269342f4da.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/022/IMG0228e68d7944f5559d5c0ee753c9a7d5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/999/IMG99983ce26c63f896f0ad94af914e9cc5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/903/IMG903853628792a6187f1b8c9c96755f08.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Wien SBT2-101N</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Wien SBT2-101N</vendorCode>
+        <model>Globus Lux Wien</model>
+        <kod>V47532</kod>
+        <description>Змішувач для умивальника Globus Lux WIEN SBT2-101NЗмішувач для умивальника Globus Lux НЕРЖАВЕЙКА SBT2-101Вид монтажу: ВрізнийВид змішувача: ОдноважільнийГабарити (ВхГ): 17 х 17 смТип виливу: стаціонарнийМатеріал: Нержавіюча стальКолір виробу: Нержавіюча стальПідключення до водопроводуВага в упаковці: 1 кгВага: 0.87 кгДовжина виливу 13.5 смВисота виливу 10 смКомплектація:- Змішувач з нержавійки- Шланг М10 * 1 / 2″-2шт- Кріплення для змішувача - гайка з нержавійкиКраїна-виробник товару: КитайГарантія: 60 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">WIEN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47595" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-ring-sr-101</url>
+        <price>1452</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/657/IMG657088a7ced99bcd30d613c0152d49b1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/556/IMG55600bbc7225088d67b9822efaddb453.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e45/IMGe45d428f6d335a0098c60d16241b3318.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/de2/IMGde2e38182e982d2bf0b52b1d1af8a41a.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux RING SR-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux RING SR-101</vendorCode>
+        <model>Globus Lux Ring</model>
+        <kod>V47595</kod>
+        <description>Змішувач для умивальника Globus Lux RING SR-101Змішувач для умивальника Globus Lux НЕРЖАВЕЙКА RING SR-101 Вид монтажу: ВрізнийВид змішувача: ОдноважільнийГабарити (ВхГ): 17 х 17 смТип виливу: стаціонарнийМатеріал: Нержавіюча стальКолір виробу: Нержавіюча стальПідключення до водопроводуВага в упаковці: 1 кгВага: 0.87 кгДовжина виливу 13.5 смВисота виливу 10 смКомплектація:- Змішувач з нержавійки- Шланг М10 * 1 / 2″-2шт - Кріплення для змішувача - гайка з нержавійкиКраїна-виробник товару: КитайГарантія: 60 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">RING</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.500000</param>
+      </offer>
+      <offer id="47618" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-alpen-sbt1-101-bb</url>
+        <price>1023</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/605/IMG605841376a0079d4c571abe4635bbfcb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b98/IMGb986e43355c2c0fa57afe036d8721bb9.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2b2/IMG2b26aa1f26bb520158e9e05c0eb4ebdb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/01e/IMG01e0086164a74afde1c26dc3efcde0aa.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Alpen SBT1-101-BB</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Alpen SBT1-101-BB</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V47618</kod>
+        <description>Змішувач для умивальника Globus Lux ALPEN SBT1-101-BBЗмішувач для раковини Globus Lux SBT1-101-ВВ чорний матовий  ALPEN SUS304Переваги моделей змішувачів Globus Lux з нержавійки:1. Корпус моделей виготовлений з якісної нержавіючої сталі2. Довговічність і безвідмовність в експлуатації3. Елегантність форм, міцність і надійність4. Висока функціональність5. Використання якісних екологічно чистих матеріалів6. Інноваційні технології виробництваКомплектація:Змішувач з нержавійкиШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка з нержавійкиРозмір упаковки: ВхШхГ: 6,5х20х26 смВага нетто: 0,83 кгВага брутто: 0,96 кг</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Чорний</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47622" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-mixmira-alpen-ms1-101s</url>
+        <price>939</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a77/IMGa778aeeb24d2b85985d5b252ba326071.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/17c/IMG17cda93667b27dc5130a42efff47ae49.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/172/IMG172c6776b28d809c27a186a192dfe087.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника MixMira Alpen MS1-101S</name>
+        <vendor>MixMIRA</vendor>
+        <vendorCode>MixMira Alpen MS1-101S</vendorCode>
+        <model>MixMira Alpen</model>
+        <kod>V47622</kod>
+        <description><![CDATA[Змішувач для умивальника MixMIRA ALPEN MS1-101SЗмішувач для раковини MixMIRA MSF-101SВид монтажу: ВрізнийВид змішувача: ОдноважільнийГабарити (ВхГ): 25 х 14.5 смТип виливу: поворотний, 360°Матеріал: Нержавіюча стальКолір виробу: Нержавіюча стальПідключення до водопроводуГабарити упаковки (ВхШхГ):26х19.5х6 смВага в упаковці: 1.45 кгВага: 1.05 кгДовжина виливу 11.8 смВисота виливу 17.8 смКомплектація:- Змішувач з нержавійки- Шланг М10*1/2&apos;&apos; 2шт,- Кріплення для змішувача - гайка з нержавійкиКраїна-виробник товару: КитайГарантія: 60 місяців офіційної гарантії від виробника.]]></description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.450000</param>
+      </offer>
+      <offer id="47664" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101-wh</url>
+        <price>1068</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1ab/IMG1ab84399d434e1cbebff4c347b6a8b55.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-101-WH</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-101-WH</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47664</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-101-WHЗмішувач для умивальника DOMINO BLITZ DBC-101-WH, без шлангівКомплектація:Змішувач латуннийКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, внаслідок змішувачі Domino відповідають сучасним технологіям і  якості  матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47665" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m-wh</url>
+        <price>882</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/46b/IMG46b34e57af1237f57022ecdb4ebdeb7c.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Blitz DBC-203M-WH</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Blitz DBC-203M-WH</vendorCode>
+        <model>Domino Blitz</model>
+        <kod>V47665</kod>
+        <description>Змішувач для умивальника Domino BLITZ DBC-203M-WHЗмішувач для умивальника DOMINO BLITZ DBC-203M-WH, без шлангівКомплектація:Змішувач латуннийГусак - 15 смКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BLITZ</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.050000</param>
+      </offer>
+      <offer id="47705" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-alpen-sbt1-101s-bb</url>
+        <price>1128</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dda/IMGdda264e30e2ecb4a7601f9ddc21ad03d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/7af/IMG7af4c5e549c3cd7710b0939172c27391.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/aea/IMGaeac0f4a527f3afcfe4035a7a4095b2a.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5c8/IMG5c854837fff82cc18c5bc5d91bc7a226.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Alpen SBT1-101S-BB</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Alpen SBT1-101S-BB</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V47705</kod>
+        <description>Змішувач для умивальника Globus Lux ALPEN SBT1-101S-BBЗмішувач для раковини Globus Lux SBT1-101S-BB ALPEN SUS304 чорний матовийПереваги моделей змішувачів Globus Lux з нержавійки:1. Корпус моделей виготовлений з якісної нержавіючої сталі2. Довговічність і безвідмовність в експлуатації3. Елегантність форм, міцність і надійність4. Висока функціональність5. Використання якісних екологічно чистих матеріалів6. Інноваційні технології виробництваКомплектація:Змішувач з нержавійкиШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка з нержавійкиРозмір упаковки ШхГхВ: 26х19,5х6 смВага нетто: 0,98 кгВага брутто: 1,135 кг</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Чорний</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.500000</param>
+      </offer>
+      <offer id="47707" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-alpen-sbt2-106m</url>
+        <price>1358</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/679/IMG679eeadbf0bd13c0a8c374f44052a576.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/44d/IMG44d1f5933b95eb03b86bfb2c2a075fed.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/7be/IMG7be755428f14a32329db8a384a15e7fc.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Alpen SBT2-106M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Alpen SBT2-106M</vendorCode>
+        <model>Globus Lux Alpen</model>
+        <kod>V47707</kod>
+        <description>Змішувач для умивальника Globus Lux ALPEN SBT2-106MЗмішувач для умивальника/біде Globus Lux ALPEN SBT2-106M з виходом під шлангВид монтажу: ВрізнийВид змішувача: ОдноважільнийГабарити (ВхГ): 17 х 14.5 смТип виливу: стаціонарнийМатеріал: Нержавіюча стальКолір виробу: Нержавіюча стальПідключення до водопроводуВага в упаковці: 1 кгВага: 0.85 кгКомплектація:- Змішувач з нержавійки- Шланг М10 * 1 / 2″-2шт- Кріплення для змішувача - гайка з нержавійкиКраїна-виробник товару: КитайГарантія: 60 місяців офіційної гарантії від виробника.Розмір упаковки ШхГхВ: 26х19,5х6 смВага нетто: 0,92 кгВага брутто: 1,275 кг</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALPEN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.300000</param>
+      </offer>
+      <offer id="47711" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-main-sm-203m</url>
+        <price>1070</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/90b/IMG90b334dcf24542aa3a012c9e3cf4f117.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c93/IMGc93a4813f9aeb4d359b735f372423d1d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ea8/IMGea862ebb7012af77d85b439734443883.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/aa2/IMGaa255e8033666f5d737c8871ff79e1f9.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Main SM-203M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Main SM-203M</vendorCode>
+        <model>Globus Lux Main</model>
+        <kod>V47711</kod>
+        <description>Змішувач для умивальника Globus Lux MAIN SM-203MЗмішувач для кухні Globus Lux MAIN SM-203M, SUS304Переваги моделей змішувачів Globus Lux з нержавійки:1. Корпус моделей виготовлений з харчової нержавіючої сталі SUS3042. Довговічність і безвідмовність в експлуатації3. Елегантність форм, міцність і надійність4. Висока функціональність5. Використання якісних екологічно чистих матеріалів6. Інноваційні технології виробництваКомплектація:Змішувач з нержавійкиШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка з нержавійкиРозмір упаковки ШхГхВ: 24х14х6 смВага нетто: 0,60 кгВага брутто: 0,91 кг</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">MAIN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">0.955000</param>
+      </offer>
+      <offer id="47716" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-leon-sl-101</url>
+        <price>1403</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/71b/IMG71bc228075c7a65239d39c664af6194e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1b2/IMG1b261ce123f06d4f8192e2f171d96790.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/568/IMG568dc9c721699fd600290ee804950d09.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/333/IMG333dab5ad5afc42b36eb0047aa71f5e2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/47a/IMG47a3c839d6a39b4d44a40b19bfcae8a0.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d9d/IMGd9dfd15ef695b2b62b4a916ba3f7fca6.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Leon SL-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux LEON SL-101</vendorCode>
+        <model>Globus Lux Leon</model>
+        <kod>V47716</kod>
+        <description>Змішувач для умивальника Globus Lux LEON SL-101Змішувач для умивальника Globus Lux SL-101 SUS304Характеристики:Призначення - Для умивальникаВид монтажу - ВрізнийВид змішувача - ОдноважільнийДовжина виливу - 10.8 смВисота 10.5 смТип виливу - СтаціонарнийКомплектація:- змішувач з харчової нержавіючої сталі- шланги М10 * 1/2 ″- 2шт- кріплення для змішувача - гайка з нержавійкиТермостат - НіДодаткові характеристики:- Керамічний картридж- Металевий важіль- Швидкий монтажСпосіб монтажу - на 1 отвірМатеріал - нержавіюча стальКолір - Нержавіюча стальДіаметр підключення шлангів 1/2 ″Вага в упаковці - 1.39 кгВага - 0.98 кгКраїна виробник товару - КитайГарантія - 60 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">LEON</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.400000</param>
+      </offer>
+      <offer id="47772" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-prestige-dps-101</url>
+        <price>1259</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/91d/IMG91d97e73682bd58321992f845107b58b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/927/IMG9278732e34b1189840c9c921c31905f1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1a5/IMG1a58d76e1da10a2c3bc13687d64121fb.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/da1/IMGda12759a419e10f3c535fe787537dede.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2cb/IMG2cbf41e4d5e53d547432168dee5f6768.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ce5/IMGce53cdf67e4649bfb999c31d9128dfcc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6bc/IMG6bcc6736a54ba85cfcbd675449b3ce5f.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Prestige DPS-101</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Prestige DPS-101</vendorCode>
+        <model>Domino Prestige</model>
+        <kod>V47772</kod>
+        <description>Змішувач для умивальника Domino PRESTIGE  DPS-101Змішувач для умивальника DOMINO PRESTIGE  DPS-101ТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Корпус змішувача виконаний методом лиття під тискомКомплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - гайкаВідмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">PRESTIGE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.200000</param>
+      </offer>
+      <offer id="47778" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-prestige-dps-101s</url>
+        <price>1341</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4e0/IMG4e0c7dd8daca5ccfeecf35f72ec42ea7.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d74/IMGd7405d08dcfdeb4b7931997204ec1b78.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/864/IMG86436ecaba424386a185f5585ebf01b1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ab2/IMGab26e92face9ec0d6c67e982375b5d9f.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a0e/IMGa0ec62ed803665d92601ef59a9cb8daa.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c4c/IMGc4c8f5e156709a5ba3f6762c3a0285da.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Prestige DPS-101S</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Prestige DPS-101S</vendorCode>
+        <model>Domino Prestige</model>
+        <kod>V47778</kod>
+        <description>Змішувач для умивальника Domino PRESTIGE DPS-101SЗмішувач для умивальника DOMINO PRESTIGE DPS-101SКорпус змішувача виконаний методом лиття під тискомКомплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">PRESTIGE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.300000</param>
+      </offer>
+      <offer id="47802" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-dukat-sd2-101</url>
+        <price>1359</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dbc/IMGdbc74ceac7d62ba90282539b019d83a9.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a91/IMGa910df9f84a3a14eaa02f0d0ab0b6756.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4c5/IMG4c56f7ba06339d1b022731b4363a95f0.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3a3/IMG3a3fe3819bad4ed7e388a0e6da63d849.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/405/IMG4052f2ecdf129ea8456431c0bc297b17.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0ca/IMG0cae20cc145205b2581275c9a40e8692.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Dukat SD2-101</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Dukat SD2-101</vendorCode>
+        <model>Globus Lux Dukat</model>
+        <kod>V47802</kod>
+        <description>Змішувач для умивальника Globus Lux DUKAT SD2-101Змішувач для умивальника Globus Lux DUKAT SD2-101 SUS304 (ялинка)Характеристики:Призначення - Для умивальникаВид монтажу - ВрізнийВид змішувача - ОдноважільнийТип виливу - СтаціонарнийКомплектація:- змішувач з харчової нержавіючої сталі- шланги М10 * 1/2 ″- 2шт- кріплення для змішувача - гайка з нержавійкиДодаткові характеристики:- Керамічний картридж- Металевий важіль- Швидкий монтажСпосіб монтажу - на 1 отвірМатеріал - нержавіюча стальКолір - Нержавіюча стальДіаметр підключення шлангів 1/2 ″Країна виробник товару - КитайГарантія - 60 місяців офіційної гарантії від виробника.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Вентильний</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">DUKAT</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47822" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-koln-glk-0103m</url>
+        <price>1154</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f6/IMG5f67f274adaa1a66eb96c25b97766d38.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d24/IMGd24bff410a15495d1ed1889d8e50019c.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/827/IMG827beb0013398ae184573ecdcf68668d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/922/IMG922a7a21108c668003e05afa2f6c2304.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d00/IMGd0099c7e7addd5c1a3e1ad917339e361.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/afb/IMGafb0a1b2fa433b98ea8f43a358a89767.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Koln GLK-0103M</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Koln GLK-0103M</vendorCode>
+        <model>Globus Lux Koln</model>
+        <kod>V47822</kod>
+        <description><![CDATA[Змішувач для умивальника Globus Lux Koln GLK-0103MЗмішувач KOLN GLK-103М Globus Lux  для кухні або умавальника з бічною ручкою  на гайціНова серія змішувачів KOLN захоплює своїм вишуканим дизайном, при цьому не втрачаючи своєї надійності в якості, Кухонний змішувач ідеально впишеться в будь-який інтер&apos;єр кухні з самим химерним рішенням.Переваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - шпильки]]></description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">KOLN</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.000000</param>
+      </offer>
+      <offer id="47828" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-malibu-dmm-401</url>
+        <price>1361</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f73/IMGf735e5c642a55286de61c4305ed81202.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/865/IMG86595509780741e0e90e187a41185570.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3a8/IMG3a81ea1b6a2b7d083fc590c060aed483.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b78/IMGb789c87b7aa4a57930899ac23def001a.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Malibu DMM-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Malibu DMM-401</vendorCode>
+        <model>Domino Malibu</model>
+        <kod>V47828</kod>
+        <description>Змішувач для умивальника Domino MALIBU DMM-401Змішувач для умивальника DOMINO MALIBU DMM-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Силумін</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">MALIBU</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.100000</param>
+      </offer>
+      <offer id="47859" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-ellipse-dcc-101s</url>
+        <price>858</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/408/IMG40846e2d2ba8e96db1049f13a4c8af9e.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/de0/IMGde0fed0e98e4873d94ab41bc9b0b41cc.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/619/IMG619e590965e70cc48b3bb08ae7f5885b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/077/IMG077c14740c1793e3b6dd22cd408e48b3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/beb/IMGbebe27d4da2fb4b81107a445bb9d24bc.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Ellipse DCC-101S</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Ellipse DCC-101S</vendorCode>
+        <model>Domino Ellipse</model>
+        <kod>V47859</kod>
+        <description>Змішувач для умивальника Domino ELLIPSE DCC-101SЗмішувач для умивальника DOMINO ELLIPSE DCC-101S з бок.ручкою, на гайціКомплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ELLIPSE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.400000</param>
+      </offer>
+      <offer id="47874" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-alicante-daa-401</url>
+        <price>986</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca3/IMGca32c9c0428acc2c98f28f2d1d94b021.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Alicante DAA-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Alicante DAA-401</vendorCode>
+        <model>Domino Alicante</model>
+        <kod>V47874</kod>
+        <description>Змішувач для умивальника Domino ALICANTE DAA-401Змішувач для умивальника DOMINO ALICANTE DAA-401 на гайціКомплектація:ЗмішувачШланги для підключення води - 2 шт.Кріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">ALICANTE</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.040000</param>
+      </offer>
+      <offer id="47877" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-bilbao-dbb-401</url>
+        <price>1077</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/637/IMG63749e7a32004bf01040ee7a92ee1c16.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Domino Bilbao DBB-401</name>
+        <vendor>DOMINO</vendor>
+        <vendorCode>Domino Bilbao DBB-401</vendorCode>
+        <model>Domino Bilbao</model>
+        <kod>V47877</kod>
+        <description>Змішувач для умивальника Domino BILBAO DBB-401Змішувач для умивальника DOMINO BILBAO DBB-401  на гайціКомплектація:ЗмішувачШланги для підключення води - 2 шт.Кріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">BILBAO</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Стаціонарний</param>
+        <param name="Вага брутто, кг">1.180000</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
