@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-09-09 08:20">
+<shop>
+<name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
+<company>САНТЕХСЕРВІС</company>
+<url>https://www.santehservis.dp.ua/</url>
+<phone>+38 (096) 093-32-32</phone>
+<platform>YML for OpenCart (ocStore)</platform>
+<version>1.0</version>
+<currencies>
+<currency id="UAH" rate="1" />
+</currencies>
+<categories>
+<category id="70" >
+Змішувачі</category>
+<category id="109" parentId="70" >
+Змішувачі для умивальника</category>
+</categories>
+<offers>
+<offer id="47132" available="true" >
+<url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-101-wh</url>
+<price>367.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>109</categoryId>
+<picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca9/IMGca982485b2443eff36e4c44e66e2c36e.jpg</picture>
+<delivery>true</delivery>
+<name>Змішувач для умивальника EcoMix Elit EM-101 WH</name>
+<vendor>EcoMIX</vendor>
+<vendorCode>EcoMix Elit EM-101 WH</vendorCode>
+<model>EcoMix Elit</model>
+<kod>V47132</kod>
+<description>Змішувач для умивальника EcoMix ELIT EM-101 WHEM-101-WH ELIT D35 EcoMIX Змішувач для умивальникаБез шлангів1 шт. в упаковці</description>
+<param name="Призначення виробу">Для умивальника</param>
+<param name="Управління змішувачем">Джойстик</param>
+<param name="Термостат">Ні</param>
+<param name="Матеріал">Силумін</param>
+<param name="Монтаж">Врізний</param>
+<param name="Країна виготовлення">Китай</param>
+<param name="Колір">Хром</param>
+<param name="Продукт">Змішувач</param>
+<param name="Серія">ELIT</param>
+<param name="Країна реєстрації бренду">Україна</param>
+<param name="Тип виливу">Стаціонарний</param>
+<param name="Вага брутто, кг">0.500000</param>
+</offer>
+<offer id="27167" available="false" >
+<url>https://www.santehservis.dp.ua/uk/smesitel-dlya-rakoviny-grohe-lineare-23296001-s-donnym-klapanom-l-size</url>
+<price>13590.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>109</categoryId>
+<picture>https://www.santehservis.dp.ua/image/catalog/SANDI/smesiteli/IMG797c9c9a5771be8f4648f8d6c242f560.jpg</picture>
+<picture>https://www.santehservis.dp.ua/image/catalog/SANDI/smesiteli/IMG366f0a38ca5e3a4c19596167efc2eddf.jpg</picture>
+<delivery>true</delivery>
+<name>Змішувач для раковини Grohe Lineare 23296001 з донним клапаном, L-Size</name>
+<vendor>GROHE</vendor>
+<vendorCode>23296001</vendorCode>
+<model>Grohe Lineare</model>
+<kod>V27167</kod>
+<description>Змішувач для раковини Grohe Lineare 23296001 з донним клапаном, L-Size.
+
+монтаж на один отвір
+металевий важіль
+GROHE SilkMove 28 мм керамічний картридж
+з обмежувачем температури
+Хромована поверхня GROHE StarLight
+GROHE EcoJoy SpeedClean аератор 5.7 л/хв
+GROHE QuickFix Plus система швидкого монтажу
+обертовий вилив з аератором і стопором
+набір донних клапанів 1 1/4 дюйма
+гнучкі з&apos;єднувальні шланги
+мінімальний тиск 1.0 бар</description>
+<param name="Призначення виробу">Для умивальника</param>
+<param name="Управління змішувачем">Джойстик</param>
+<param name="Термостат">Ні</param>
+<param name="Матеріал">Латунь</param>
+<param name="Монтаж">Врізний</param>
+<param name="Країна виготовлення">Німеччина</param>
+<param name="Колір">Хром</param>
+<param name="Продукт">Змішувач</param>
+</offer>
+</offers>
+</shop></yml_catalog>

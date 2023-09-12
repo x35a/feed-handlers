@@ -9,7 +9,8 @@
         "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
         "prom": "node handlers/prom/prom-fetch-yml.js",
         "merchant": "node handlers/merchant/merchant.js",
-        "wix": "node handlers/snacks/wix-fetch-tsv.js"
+        "wix": "node handlers/snacks/wix-fetch-tsv.js",
+        "santehservis": "node handlers/ekoplast/santehservis-fetch-xml.js"
     },
     "author": "",
     "license": "ISC",
