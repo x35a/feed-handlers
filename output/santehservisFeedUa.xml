@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-09-16 08:20">
+<yml_catalog date="2023-09-20 08:20">
   <shop>
     <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -349,7 +349,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="46882" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-dlya-umivalnikakuhni-domino-sirius-dsv-103m</url>
-        <price>855</price>
+        <price>866</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_1.jpg</picture>
@@ -815,7 +815,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47118" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101</url>
-        <price>815</price>
+        <price>825</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dac/IMGdac43131c6a9ae45d5eb60c3a5b86f20.jpg</picture>
@@ -845,7 +845,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47120" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-203m</url>
-        <price>812</price>
+        <price>824</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f7/IMG5f78543d57def87f193972d3e0d041b5.jpg</picture>
@@ -875,7 +875,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47131" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-101</url>
-        <price>596</price>
+        <price>603</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/026/IMG026fc14e17f7025881347478f8247b60.jpg</picture>
@@ -905,7 +905,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47132" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-101-wh</url>
-        <price>557</price>
+        <price>564</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca9/IMGca982485b2443eff36e4c44e66e2c36e.jpg</picture>
@@ -931,7 +931,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47155" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m</url>
-        <price>740</price>
+        <price>749</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/197/IMG197fffb20bcbc454df9c8d1eb240959b.jpg</picture>
@@ -961,7 +961,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47156" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m-wh</url>
-        <price>713</price>
+        <price>722</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/913/IMG9133a24a6d69d40a8ea540be750ec262.jpg</picture>
@@ -991,7 +991,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47157" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-101</url>
-        <price>1164</price>
+        <price>1179</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/71e/IMG71e75725be525e42838081275927e2a7.jpg</picture>
@@ -1020,7 +1020,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47158" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-401</url>
-        <price>1164</price>
+        <price>1179</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ec9/IMGec9a417f07b24d8880d1f8f91a7b0dde.jpg</picture>
@@ -1049,7 +1049,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47159" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-203m</url>
-        <price>923</price>
+        <price>935</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/085/IMG0853b08d67997eb25d5d02b8492b0693.jpg</picture>
@@ -1078,7 +1078,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47163" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101</url>
-        <price>1110</price>
+        <price>1124</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1fe/IMG1fe4bb3979b583e8ee4da69d00ebb99e.jpg</picture>
@@ -1108,7 +1108,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47164" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-103m</url>
-        <price>855</price>
+        <price>866</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/45f/IMG45f7cf17dcf402488e948482fc5df6c1.jpg</picture>
@@ -1137,7 +1137,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47165" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m</url>
-        <price>923</price>
+        <price>935</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/db2/IMGdb2c82fc2a2aca52878c5515a1c1b8fa.jpg</picture>
@@ -1166,7 +1166,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47170" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-101</url>
-        <price>1229</price>
+        <price>1244</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6b2/IMG6b21f52537ce126504fd06e14027cb49.jpg</picture>
@@ -1195,7 +1195,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47178" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101-wh</url>
-        <price>786</price>
+        <price>797</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c05/IMGc05ee53e32128e3449187b9d4559a14e.jpg</picture>
@@ -1225,7 +1225,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47183" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-ecomix-elit-em-104</url>
-        <price>885</price>
+        <price>897</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/308/IMG308624e350925c181c239be6e1af0ddc.jpg</picture>
@@ -1285,7 +1285,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47194" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-401</url>
-        <price>1265</price>
+        <price>1281</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e0f/IMGe0f731640299de15c3bfcff62bbb1bc6.jpg</picture>
@@ -1314,7 +1314,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47209" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dwb-h361</url>
-        <price>1184</price>
+        <price>1199</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4c5/IMG4c5abadbf96b89d47f1e3c14a272525f.jpg</picture>
@@ -1340,7 +1340,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47262" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-401</url>
-        <price>1151</price>
+        <price>1166</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/37b/IMG37bd142e8b9efae6c601f32df953fcbe.jpg</picture>
@@ -1369,7 +1369,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47263" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-h1-green</url>
-        <price>1218</price>
+        <price>1235</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a6f/IMGa6fcf02a1f5452692b40b8ccf313555c.jpg</picture>
@@ -1398,7 +1398,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47269" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-204-06-cruize</url>
-        <price>1179</price>
+        <price>1196</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/bad/IMGbade6e35e66540a11f0dd3e0dbec0071.jpg</picture>
@@ -1427,7 +1427,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47286" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dkf-027-117-cruize</url>
-        <price>1073</price>
+        <price>1088</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/be4/IMGbe4dc2e53d28cb254122996e8e6e7b83.jpg</picture>
@@ -1457,7 +1457,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47287" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-027-cruize</url>
-        <price>1247</price>
+        <price>1262</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/831/IMG831161a6a05718ce5d88fa4a574b186c.jpg</picture>
@@ -1486,7 +1486,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47310" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dmf-029-m7116-sharm</url>
-        <price>1046</price>
+        <price>1059</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/333/IMG3333a8805cb40a092e37387321256e9f.jpg</picture>
@@ -1515,7 +1515,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47333" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-209-06-sharm</url>
-        <price>1179</price>
+        <price>1196</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5e5/IMG5e52489ac283da266d061fd8ae41483d.jpg</picture>
@@ -1544,7 +1544,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47334" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-029-sharm</url>
-        <price>1247</price>
+        <price>1262</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/724/IMG72425e055c09aff1dea355ef10c1ad62.jpg</picture>
@@ -1573,7 +1573,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47335" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dmf-029-m7117-sharm</url>
-        <price>1046</price>
+        <price>1059</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f6a/IMGf6a173106be15d8edab5cd4d7087cf1a.jpg</picture>
@@ -1603,7 +1603,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47369" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-n-103m</url>
-        <price>627</price>
+        <price>635</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a9b/IMGa9b46c8f0d2e43e78c648678bbe885b2.jpg</picture>
@@ -1663,7 +1663,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47392" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-elit-em-n-203m</url>
-        <price>708</price>
+        <price>719</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/efb/IMGefbbd459763649311f8af16eb228cb5d.jpg</picture>
@@ -1810,7 +1810,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47622" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-mixmira-alpen-ms1-101s</url>
-        <price>945</price>
+        <price>957</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a77/IMGa778aeeb24d2b85985d5b252ba326071.jpg</picture>
@@ -1836,7 +1836,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47664" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101-wh</url>
-        <price>1073</price>
+        <price>1088</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1ab/IMG1ab84399d434e1cbebff4c347b6a8b55.jpg</picture>
@@ -1862,7 +1862,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47665" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m-wh</url>
-        <price>887</price>
+        <price>899</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/46b/IMG46b34e57af1237f57022ecdb4ebdeb7c.jpg</picture>
@@ -2005,7 +2005,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47772" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-prestige-dps-101</url>
-        <price>1265</price>
+        <price>1281</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/91d/IMG91d97e73682bd58321992f845107b58b.jpg</picture>
@@ -2037,7 +2037,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47778" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-prestige-dps-101s</url>
-        <price>1349</price>
+        <price>1365</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4e0/IMG4e0c7dd8daca5ccfeecf35f72ec42ea7.jpg</picture>
@@ -2130,7 +2130,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47828" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-malibu-dmm-401</url>
-        <price>1368</price>
+        <price>1386</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f73/IMGf735e5c642a55286de61c4305ed81202.jpg</picture>
@@ -2159,7 +2159,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47859" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-ellipse-dcc-101s</url>
-        <price>863</price>
+        <price>873</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/408/IMG40846e2d2ba8e96db1049f13a4c8af9e.jpg</picture>
@@ -2189,7 +2189,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47874" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-alicante-daa-401</url>
-        <price>992</price>
+        <price>1004</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca3/IMGca32c9c0428acc2c98f28f2d1d94b021.jpg</picture>
@@ -2215,7 +2215,7 @@ FORTUNA змішувач для умивальника одноважільни�
       </offer>
       <offer id="47877" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-bilbao-dbb-401</url>
-        <price>1083</price>
+        <price>1097</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/637/IMG63749e7a32004bf01040ee7a92ee1c16.jpg</picture>
