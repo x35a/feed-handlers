@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-09-30 08:20">
+<yml_catalog date="2023-10-04 08:20">
   <shop>
     <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,47 +17,6 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
-      <offer id="16875" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-amet-dlja-umyvalnika-s951-041</url>
-        <price>1499</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ns/18d/IMG18ddcdc255637de5ad69a626bc8c3e56.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ns/c73/IMGc73391a4c690ece45ec62a04a609a2e4.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач Cersanit Amet, для умивальника, S951-041</name>
-        <vendor>CERSANIT</vendor>
-        <vendorCode>S951-218</vendorCode>
-        <model>Модель АМЕТ-24</model>
-        <kod>V16875</kod>
-        <description>Змішувач CERSANIT Amet, для умивальника, S951-041 (189201).&#xD;
-&#xD;
-Код: 189201&#xD;
-&#xD;
-Артикул: S951-041&#xD;
-&#xD;
-Країна виробник: Польща&#xD;
-&#xD;
-Довжина виливу, см: 11-15&#xD;
-&#xD;
-Колір: хром&#xD;
-&#xD;
-Тип: Одноважільний&#xD;
-&#xD;
-Вид монтажу: Врізний&#xD;
-&#xD;
-Вилив: Короткий&#xD;
-&#xD;
-Виробник: Cersanit</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">84</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
       <offer id="31658" available="true">
         <url>https://www.santehservis.dp.ua/uk/sbt1-101-smes-l-alpen-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
         <price>906</price>
@@ -1445,35 +1404,6 @@ LOTUS змішувач для умивальника одноважільний 
         <param name="Країна реєстрації бренду">Україна</param>
         <param name="Тип виливу">Стаціонарний</param>
         <param name="Вага брутто, кг">1.500000</param>
-      </offer>
-      <offer id="47263" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-h1-green</url>
-        <price>1221</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a6f/IMGa6fcf02a1f5452692b40b8ccf313555c.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/032/IMG032d183f7dafd99c41b0f7072e51ebc9.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/56c/IMG56ce84f21dd7f9e4d90dad7d94e32034.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f9e/IMGf9e71904f2a5992b8591e25f73ac22f6.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DYM-H1-GREEN</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DYM-H1-GREEN</vendorCode>
-        <model>Domino DYM</model>
-        <kod>V47263</kod>
-        <description>Змішувач для умивальника Domino DYM-H1-GREENЗмішувач вентильний для умивальника DYM-H1-GREEN DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х15х12смВага в упаковці: 1. кгВага: 0.8 кгКомплектація:змішувачШланги для підключення 2 шт</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DYM</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.900000</param>
       </offer>
       <offer id="47269" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-204-06-cruize</url>
