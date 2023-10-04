@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-09-23 08:20">
+<yml_catalog date="2023-09-30 08:20">
   <shop>
     <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,6 +17,47 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
+      <offer id="16875" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-amet-dlja-umyvalnika-s951-041</url>
+        <price>1499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/18d/IMG18ddcdc255637de5ad69a626bc8c3e56.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/c73/IMGc73391a4c690ece45ec62a04a609a2e4.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit Amet, для умивальника, S951-041</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-218</vendorCode>
+        <model>Модель АМЕТ-24</model>
+        <kod>V16875</kod>
+        <description>Змішувач CERSANIT Amet, для умивальника, S951-041 (189201).&#xD;
+&#xD;
+Код: 189201&#xD;
+&#xD;
+Артикул: S951-041&#xD;
+&#xD;
+Країна виробник: Польща&#xD;
+&#xD;
+Довжина виливу, см: 11-15&#xD;
+&#xD;
+Колір: хром&#xD;
+&#xD;
+Тип: Одноважільний&#xD;
+&#xD;
+Вид монтажу: Врізний&#xD;
+&#xD;
+Вилив: Короткий&#xD;
+&#xD;
+Виробник: Cersanit</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">84</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
       <offer id="31658" available="true">
         <url>https://www.santehservis.dp.ua/uk/sbt1-101-smes-l-alpen-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
         <price>906</price>
