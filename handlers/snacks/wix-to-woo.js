@@ -10,7 +10,7 @@ const { excludeById } = require('./exclude-products')
     // Get tsv
     const text = await fetchFeed(wixTSVUrl)
     if (!text) return `Fetching Error ${wixTSVUrl}`
-    // const text = fs.readFileSync('./handlers/snacks/feed.tsv') // get feed from static file
+    // const text = fs.readFileSync('./handlers/snacks/wix-feed.tsv') // get feed from static file
 
     // Parse .tsv data
     let productsList = parse(text, {
