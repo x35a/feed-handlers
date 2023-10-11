@@ -5,11 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test products": "node common/find-id-duplicates.js & node common/find-products-with-missed-category.js & node common/find-missed-images.js",
-        "backup feeds": "node backup/backup-feeds.js",
-        "synthetic": "node handlers/synthetic/synthetic-fetch-yml.js",
-        "prom": "node handlers/prom/prom-fetch-yml.js",
-        "merchant": "node handlers/merchant/merchant.js",
-        "wix-to-woo": "node handlers/snacks/wix-to-woo.js",
+        "snacks-wix-to-woo": "node handlers/snacks/wix-to-woo.js",
+        "snacks-woo-to-prom": "node handlers/snacks/wix-to-prom.js",
         "santehservis": "node handlers/ekoplast/santehservis-fetch-xml.js"
     },
     "author": "",
