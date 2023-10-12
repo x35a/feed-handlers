@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-10-04 08:20">
+<yml_catalog date="2023-10-12 08:20">
   <shop>
     <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -64,7 +64,7 @@
       </offer>
       <offer id="31659" available="true">
         <url>https://www.santehservis.dp.ua/uk/sus-101s_smes-l-d-umyvalnika-bokovoy-nerzhaveyka_na-gaykeglobus-lux</url>
-        <price>1035</price>
+        <price>1112</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/ed7/IMGed72b4260b51f76f5a0ad6cf1501e4da.jpg</picture>
@@ -202,68 +202,6 @@
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Продукт">Змішувач</param>
         <param name="Серія">ALPEN</param>
-      </offer>
-      <offer id="31670" available="true">
-        <url>https://www.santehservis.dp.ua/uk/sbt2-101-smes-l-wien-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
-        <price>924</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/cb6/IMGcb6f4d4978fb419719ad82ac68addb77.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/1c6/IMG1c67698da69736ae4fbc0feb64f88dd2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/e1b/IMGe1b98a9e2eba6fb79f5d789dfd4eaa6d.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/3d3/IMG3d3e81beaf98c018c2b0292a0c8419c4.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/YMLc6214836e52ef8df63ea87f1e7d98965/9e7/IMG9e7bb51ee604cd53b1255b84f02d6f97.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Globus Lux Wien нержавійка SBT2-101</name>
-        <vendor>GLOBUS LUX</vendor>
-        <vendorCode>SBT2-101</vendorCode>
-        <model>Globus Lux Wien</model>
-        <kod>V31670</kod>
-        <description>Змішувач для умивальника Globus Lux нержавійка SBT2-101&#xD;
-&#xD;
-Вид монтажу: Врізний&#xD;
-Вид змішувача: Одинважільний&#xD;
-Габарити (ВхГ): 17 х 17 см&#xD;
-Тип виливу: стаціонарний&#xD;
-Матеріал: Нержавіюча сталь&#xD;
-Колір виробу: Нержавіюча сталь&#xD;
-Підключення до водопроводу&#xD;
-Вага в упаковці: 1 кг&#xD;
-Вага: 0.87 кг&#xD;
-Довжина виливу 13.5 см&#xD;
-Висота виливу 10 см&#xD;
-Комплектація:&#xD;
-- Змішувач з нержавійки&#xD;
-- Шланг М10*1/2-2шт,&#xD;
-- Кріплення для змішувача - гайка з нержавійки&#xD;
-Країна-виробник товару: Китай&#xD;
-Гарантія: 60 місяців офіційної гарантії від виробника</description>
-        <param name="Підключення">До водопроводу</param>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Комплектація">2 шланга М10*1/2 длинной 45см</param>
-        <param name="Спосіб монтажу">На 1 отвір</param>
-        <param name="Габарити">175х150</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Матеріал корпусу">Нержавіюча сталь</param>
-        <param name="Серія">WIEN</param>
-        <param name="Висота, см">10</param>
-        <param name="Габарити з уп. (ВхШхГ) мм.">260х200х60</param>
-        <param name="Вага в уп." unit="гр.">1080</param>
-        <param name="Вага, гр.">940</param>
-        <param name="Винос гусака">11.5</param>
-        <param name="Діаметр картриджа">35</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Шланги підключення">Входять в комплект</param>
-        <param name="Діаметр підключення шлангів">1/2"</param>
-        <param name="Шланги">На різьбі звичайні</param>
       </offer>
       <offer id="31674" available="true">
         <url>https://www.santehservis.dp.ua/uk/sbt1-101s-smes-l-alpen-d-umyvalnika-bokovoy-nerzhaveyka_na-gaykeglobus-lux</url>
