@@ -19,9 +19,11 @@ const promMarkup = 1.5
 
 ;(async () => {
     // Get prom xml file
-    const promFeedText = await fetchFeed(promFeedUrl)
-    if (!promFeedText) return `Fetching Error ${promFeedUrl}`
-    // const promXmlFile = fs.readFileSync('./handlers/snacks/prom-feed1.xml')
+    // const promFeedText = await fetchFeed(promFeedUrl)
+    // if (!promFeedText) return `Fetching Error ${promFeedUrl}`
+    const promFeedText = fs.readFileSync(
+        './handlers/snacks-to-prom/prom-feed.xml'
+    )
 
     // Get snacks xml file
     const snacksXmlText = await fetchFeed(snacksFeedUrl)
@@ -53,7 +55,7 @@ const promMarkup = 1.5
             return Math.ceil((parseFloat(price) / wooMarkup) * promMarkup)
         }
 
-        if (index > 0) return
+        //if (index > 0) return
 
         // upd price
         product.price = updPrice(product.price, wooMarkup, promMarkup)
