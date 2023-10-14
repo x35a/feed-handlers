@@ -18,7 +18,7 @@
                 </categories>
                 <offers>
                         <offer id="1696934331" available="true">
-                                <price>3999</price>
+                                <price>3899</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4949230049_umyvalnik-rakovina-nad.jpg</picture>
@@ -144,7 +144,7 @@
                                 </regions>
                         </offer>
                         <offer id="1696934353" available="true">
-                                <price>3999</price>
+                                <price>3899</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4949880535_umyvalnik-rakovina-nad.jpg</picture>
@@ -391,7 +391,7 @@
 
                         </offer>
                         <offer id="1696934422" available="true">
-                                <price>3999</price>
+                                <price>3899</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4949987596_umyvalnik-rakovina-nad.jpg</picture>
@@ -515,7 +515,7 @@
 
                         </offer>
                         <offer id="1696934439" available="true">
-                                <price>3999</price>
+                                <price>3899</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4950058683_umyvalnik-rakovina-nad.jpg</picture>
