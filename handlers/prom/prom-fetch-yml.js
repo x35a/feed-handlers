@@ -11,6 +11,9 @@ const outputFilePath = path.prom.output
 const { tldYMLLink } = require('../../common/const')
 const washbasin = require('./washbasin')
 
+// tilda products to prom
+// xml to xml
+
 ;(async () => {
     // Get yml
     const text = await fetchFeed(tldYMLLink)

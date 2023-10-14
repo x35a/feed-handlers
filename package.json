@@ -5,8 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test products": "node common/find-id-duplicates.js & node common/find-products-with-missed-category.js & node common/find-missed-images.js",
-        "snacks-wix-to-woo": "node handlers/snacks/wix-to-woo.js",
-        "snacks-woo-to-prom": "node handlers/snacks/wix-to-prom.js",
+        "snacks wix to woo": "node handlers/snacks/wix-to-woo.js",
         "santehservis": "node handlers/ekoplast/santehservis-fetch-xml.js"
     },
     "author": "",
