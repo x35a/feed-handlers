@@ -13,6 +13,20 @@ const { markup } = require('../snacks/settings')
 const snacksWooMarkup = markup
 const promMarkup = 1.5
 
+// woo categories: portal_category_id
+// https://docs.google.com/spreadsheets/d/1PirckSbp3_wyXeZVsaVoITWBtlyGAlf0/edit#gid=1694936648
+const promCategoriesMatchList = [
+    { wooCategoryId: '23', promCategoryId: '2350606' },
+    { wooCategoryId: '87', promCategoryId: '104' },
+    { wooCategoryId: '113', promCategoryId: '2350602' },
+    { wooCategoryId: '147', promCategoryId: '2110301' },
+    { wooCategoryId: '187', promCategoryId: '2350606' },
+    { wooCategoryId: '220', promCategoryId: '20901' },
+    { wooCategoryId: '258', promCategoryId: '1091206' },
+    { wooCategoryId: '332', promCategoryId: '1091206' },
+    { wooCategoryId: '410', promCategoryId: '2350606' }
+]
+
 // snacks to prom
 // xml to xml
 
@@ -30,7 +44,7 @@ const promMarkup = 1.5
     const snacksCategories =
         snacksXmlFeed.yml_catalog.shop[0].categories[0].category
 
-    // Copy snacks products to prom feed
+    // Upd product
     snacksProducts.forEach((product, index) => {
         const updPrice = (price, wooMarkup, promMarkup) => {
             return Math.ceil((parseFloat(price) / wooMarkup) * promMarkup)
@@ -44,15 +58,28 @@ const promMarkup = 1.5
 
         // delete redundand tag
         delete product.available
+
+        // add sku
+        product.vendorCode = product.$.id
+
+        // add prom category id
+        const categoryMatchedRow = promCategoriesMatchList.find((item) => {
+            const [productCategoryId] = product.categoryId
+            const { wooCategoryId } = item
+            return productCategoryId === wooCategoryId
+        })
+        product.portal_category_id = categoryMatchedRow.promCategoryId
     })
 
-    // добавить vendorCode это артикул
+    // --добавить <vendorCode> это артикул
     // --убрать тег available
     // --убрать тег quantity_in_stock
     // добавить тег name_ua
     // добавить тег description_ua
     // --изменить цены
-    // как проставить внутр категории прома снекам?
+    // -- как проставить внутр категории прома снекам?
+    // <portal_category_id> [Список категорій](https://my.prom.ua/cabinet/export_categories/xls)
+    // часть товаров не рекламится, возможно из-за неправильной внутр категории прома
 
     // Build xml
     const xml = builder.buildObject(snacksXmlFeed)
