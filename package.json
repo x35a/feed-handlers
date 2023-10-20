@@ -6,7 +6,8 @@
     "scripts": {
         "test products": "node common/find-id-duplicates.js & node common/find-products-with-missed-category.js & node common/find-missed-images.js",
         "santehservis": "node handlers/ekoplast/santehservis-fetch-xml.js",
-        "snacks wix to woo": "node handlers/snacks/wix-to-woo.js"
+        "snacks wix to woo": "node handlers/snacks/wix-to-woo.js",
+        "snacks woo to prom": "node handlers/prom2/snacks-to-prom.js"
     },
     "author": "",
     "license": "ISC",
