@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-10-19 08:20">
+<yml_catalog date="2023-10-24 08:20">
   <shop>
     <name>Інтернет-магазин сантехніки САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -1289,32 +1289,6 @@ LOTUS змішувач для умивальника одноважільний 
         <param name="Тип виливу">Стаціонарний</param>
         <param name="Вага брутто, кг">1.350000</param>
       </offer>
-      <offer id="47209" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-kukhn-domino-dwb-h361</url>
-        <price>1182</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4c5/IMG4c5abadbf96b89d47f1e3c14a272525f.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для кухні Domino DWB-H361</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DWB-H361</vendorCode>
-        <model>Domino DWB</model>
-        <kod>V47209</kod>
-        <description>Змішувач для кухні Domino DWB-H361Змішувач для кухні DOMINO DWB-H361Вид монтажу: настіннийВид змішувача: ДвохвентильнийТип виливу: поворотний, прямийДовжина виливу: 25 смМатеріал: Силумін / ЛатуньКолір виробу: Хромкомплектація:- ексцентрики для змішувачів настінного монтажу- декоративні чаші- змішувачТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Настінний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DWB</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.000000</param>
-      </offer>
       <offer id="47262" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-401</url>
         <price>1149</price>
@@ -1922,7 +1896,7 @@ LOTUS змішувач для умивальника одноважільний 
       </offer>
       <offer id="47711" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-main-sm-203m</url>
-        <price>1070</price>
+        <price>1242</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/90b/IMG90b334dcf24542aa3a012c9e3cf4f117.jpg</picture>
@@ -2166,7 +2140,7 @@ LOTUS змішувач для умивальника одноважільний 
       </offer>
       <offer id="47874" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-alicante-daa-401</url>
-        <price>990</price>
+        <price>968</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca3/IMGca32c9c0428acc2c98f28f2d1d94b021.jpg</picture>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-10-19 23:44">
+<yml_catalog date="2023-10-24 12:22">
   <shop>
     <name/>
     <company/>
@@ -19,6 +19,30 @@
       <category id="410">Снекові набори</category>
     </categories>
     <offers>
+      <offer id="2419" available="true">
+        <url>https://snacks.in.ua/product/morskyj-koktejl-v-oliyi-200-gram/</url>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-33-scaled.jpg</picture>
+        <name>Морський Коктейль в Олії 200 грам</name>
+        <vendor/>
+        <description/>
+        <vendorCode>2419</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="2425" available="true">
+        <url>https://snacks.in.ua/product/rybnyj-boks-degustaczijnyj-1-9-kg/</url>
+        <price>1500</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>410</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-1-scaled.jpg</picture>
+        <name>Рибний БОКС «дегустаційний»   1.9 кг</name>
+        <vendor/>
+        <description><![CDATA[<p>Дегустаційний рибний бокс</p><p>Склад:</p><p>-Тунець </p><p>-Жовтий смугастик</p><p>-Тригла</p><p>-Горбуша</p><p>-Путасу</p><p>-Путасу з перцем</p><p>-Павутинка рибна</p><p>-Павутинка рибна з перцем</p><p>-Янтарна з перцем</p><p>-Ікряні палички</p><p>-Тріска</p><p>-Анчоус</p><p>-Морський коктейль </p><p>-Пресерви з оселедця </p><p></p><p>Загальна вага 1.9 кг</p>]]></description>
+        <vendorCode>2425</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
       <offer id="2439" available="true">
         <url>https://snacks.in.ua/product/file-skumbriyi-vyalene-klasychne-200-gram/</url>
         <price>118</price>
@@ -93,6 +117,18 @@
         <vendorCode>2451</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
+      <offer id="2403" available="true">
+        <url>https://snacks.in.ua/product/morske-chudo-%e2%84%9613-200-gram/</url>
+        <price>149</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-25-scaled.jpg</picture>
+        <name>Морське Чудо №13  200 грам</name>
+        <vendor/>
+        <description><![CDATA[<p>Морський коктейль в олії </p><p>Склад : Мідії , кальмар , восьминіг , олія </p>]]></description>
+        <vendorCode>2403</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
       <offer id="2405" available="true">
         <url>https://snacks.in.ua/product/midiyi-v-oliyi-z-lymonom-200-gram/</url>
         <price>90</price>
@@ -153,28 +189,28 @@
         <vendorCode>2413</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
-      <offer id="2419" available="true">
-        <url>https://snacks.in.ua/product/morskyj-koktejl-v-oliyi-200-gram/</url>
-        <price>120</price>
+      <offer id="2415" available="true">
+        <url>https://snacks.in.ua/product/skumbriya-v-oliyi-180-gram/</url>
+        <price>77</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-33-scaled.jpg</picture>
-        <name>Морський Коктейль в Олії 200 грам</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-31-scaled.jpg</picture>
+        <name>Скумбрія в Олії 180 грам</name>
         <vendor/>
         <description/>
-        <vendorCode>2419</vendorCode>
+        <vendorCode>2415</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
-      <offer id="2425" available="true">
-        <url>https://snacks.in.ua/product/rybnyj-boks-degustaczijnyj-1-9-kg/</url>
-        <price>1500</price>
+      <offer id="2392" available="true">
+        <url>https://snacks.in.ua/product/morskyj-koktejl-500-gram/</url>
+        <price>351</price>
         <currencyId>UAH</currencyId>
-        <categoryId>410</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-1-scaled.jpg</picture>
-        <name>Рибний БОКС «дегустаційний»   1.9 кг</name>
+        <categoryId>23</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-21-scaled.jpg</picture>
+        <name>Морський коктейль 500 грам</name>
         <vendor/>
-        <description><![CDATA[<p>Дегустаційний рибний бокс</p><p>Склад:</p><p>-Тунець </p><p>-Жовтий смугастик</p><p>-Тригла</p><p>-Горбуша</p><p>-Путасу</p><p>-Путасу з перцем</p><p>-Павутинка рибна</p><p>-Павутинка рибна з перцем</p><p>-Янтарна з перцем</p><p>-Ікряні палички</p><p>-Тріска</p><p>-Анчоус</p><p>-Морський коктейль </p><p>-Пресерви з оселедця </p><p></p><p>Загальна вага 1.9 кг</p>]]></description>
-        <vendorCode>2425</vendorCode>
+        <description><![CDATA[<p>Морський коктейль 500 грам</p><p></p><p>до коктейлю входять</p><p>- Мідії </p><p>-Кальмар</p><p>-Восьминіг</p><p>-Креветки</p>]]></description>
+        <vendorCode>2392</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="2398" available="true">
@@ -202,17 +238,17 @@
         <vendorCode>2401</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
-      <offer id="2403" available="true">
-        <url>https://snacks.in.ua/product/morske-chudo-%e2%84%9613-200-gram/</url>
-        <price>149</price>
+      <offer id="2366" available="true">
+        <url>https://snacks.in.ua/product/degustaczijnyj-boks-m%ca%bcyasnyj/</url>
+        <price>1500</price>
         <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-25-scaled.jpg</picture>
-        <name>Морське Чудо №13  200 грам</name>
+        <categoryId>410</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-7-scaled.jpg</picture>
+        <name>Дегустаційний БОКС «Мʼясний»</name>
         <vendor/>
-        <description><![CDATA[<p>Морський коктейль в олії </p><p>Склад : Мідії , кальмар , восьминіг , олія </p>]]></description>
-        <vendorCode>2403</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
+        <description><![CDATA[<p>Дегустаційний БОКС «Мʼясний»</p><p></p><p>Склад :</p><p>Курка часник 100 грам</p><p>Курка паприка 100 грам</p><p>Курка кунжут 100 грам</p><p>Джерка гірчиця 100 грам</p><p>Яловичина вищий ґатунок 100 грам</p><p>Свинина у вишні 100 грам</p><p>Соломка вишня 100 грам</p><p>Індичка пряна 100 грам</p><p>Індичка сир 100 грам</p><p>Чорізо 100 грам</p><p>Курка з італійськими травами 100 грам</p><p>Філе куряче по грецькі 100 грам</p><p>Свинина класична 100 грам</p>]]></description>
+        <vendorCode>2366</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="2368" available="true">
         <url>https://snacks.in.ua/product/degustaczijnyj-boks-kalmarovyj/</url>
@@ -323,18 +359,6 @@
         <vendorCode>2387</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="2392" available="true">
-        <url>https://snacks.in.ua/product/morskyj-koktejl-500-gram/</url>
-        <price>351</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-21-scaled.jpg</picture>
-        <name>Морський коктейль 500 грам</name>
-        <vendor/>
-        <description><![CDATA[<p>Морський коктейль 500 грам</p><p></p><p>до коктейлю входять</p><p>- Мідії </p><p>-Кальмар</p><p>-Восьминіг</p><p>-Креветки</p>]]></description>
-        <vendorCode>2392</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
       <offer id="2357" available="true">
         <url>https://snacks.in.ua/product/indychka-pryana-solomka-500-gram/</url>
         <price>436</price>
@@ -361,16 +385,17 @@
         <vendorCode>2360</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="2366" available="true">
-        <url>https://snacks.in.ua/product/degustaczijnyj-boks-m%ca%bcyasnyj/</url>
-        <price>1500</price>
+      <offer id="2363" available="true">
+        <url>https://snacks.in.ua/product/balyk-zi-svynyny-s-v-100-gram/</url>
+        <price>101</price>
         <currencyId>UAH</currencyId>
-        <categoryId>410</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-7-scaled.jpg</picture>
-        <name>Дегустаційний БОКС «Мʼясний»</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-5-scaled.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-6-scaled.jpg</picture>
+        <name>Балик зі свинини С/В  100 грам</name>
         <vendor/>
-        <description><![CDATA[<p>Дегустаційний БОКС «Мʼясний»</p><p></p><p>Склад :</p><p>Курка часник 100 грам</p><p>Курка паприка 100 грам</p><p>Курка кунжут 100 грам</p><p>Джерка гірчиця 100 грам</p><p>Яловичина вищий ґатунок 100 грам</p><p>Свинина у вишні 100 грам</p><p>Соломка вишня 100 грам</p><p>Індичка пряна 100 грам</p><p>Індичка сир 100 грам</p><p>Чорізо 100 грам</p><p>Курка з італійськими травами 100 грам</p><p>Філе куряче по грецькі 100 грам</p><p>Свинина класична 100 грам</p>]]></description>
-        <vendorCode>2366</vendorCode>
+        <description><![CDATA[<p>Балик Сиро-вʼялений зі свинини вищого гатунку</p><p>Фасування 100 грам у вакуумі </p>]]></description>
+        <vendorCode>2363</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="2272" available="true">
@@ -596,7 +621,7 @@
       </offer>
       <offer id="1907" available="true">
         <url>https://snacks.in.ua/product/hrumkyj-syr-0-5kg/</url>
-        <price>425</price>
+        <price>432</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-246.jpg</picture>
@@ -705,16 +730,16 @@
         <vendorCode>1928</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1884" available="true">
-        <url>https://snacks.in.ua/product/syr-tverdyj-gollandskyj-bruskovyj/</url>
-        <price>388</price>
+      <offer id="1882" available="true">
+        <url>https://snacks.in.ua/product/syr-tverdyj-korolivskyj/</url>
+        <price>402</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-233-scaled.jpg</picture>
-        <name>Сир твердий «Голландський брусковий»</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-232-scaled.jpg</picture>
+        <name>Сир твердий "Королівський"</name>
         <vendor/>
-        <description><![CDATA[<p>Сир твердий «Голландський брусковий»</p><p>45% хиру в</p><p>сухій речовині, згідно з ДСТУ 6003:2008. Свлад: колоко коров яче пастеризоване, сіль кухонна, аген твердіння хлорид кальцію, консервант нітрат залід, захваста мезо-термофільних вультр молочновислих бактерій, молокозсідальний ферментний препарат мікробіального походження, барвнив екстракт- аннато Номер партії (I), маса нетто та дата «Ввити 108 вказані на стіжері. Спеціальні умови зберігання за температури від 0°С до 6°С.</p>]]></description>
-        <vendorCode>1884</vendorCode>
+        <description><![CDATA[<p>Сир твердий "Королівський"</p><p>50% жиру в сухій речовині</p><p>ТУ У 10.5-30873067-007:2015</p><p>Склад МОЛОКО коровʼяче пастеризоване, сіль кухонна, агент твердіння хлорид кальцію (Е509), консервант нітрат калію (E252), закваска чистих культур молочно-кислих бактерій, молокозсідальний ферментний препарат мікробіального</p><p>походження, барвник аннато (Е160b).</p>]]></description>
+        <vendorCode>1882</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1886" available="true">
@@ -768,6 +793,18 @@
         <vendorCode>1900</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
+      <offer id="1872" available="true">
+        <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-mahan-po-tatarsky/</url>
+        <price>496</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-227-scaled.jpg</picture>
+        <name>Ковбаса с/к в/с Махан по-татарськи</name>
+        <vendor/>
+        <description><![CDATA[<p>Ковбаса с/к в/с Махан по-татарськи</p><p>ТУ У 15.1 32122069 004:2011 Оболонка неістівна. Упаковано під</p><p>вакуумом Склад: конина знежилована першого сорту - 52%, конина знежилована вищого сорту - 24%, сало ковбасне</p><p>бокове - 19%, сіль кухонна, спеції та екстракти спецій (перець чорний, перець білий, мускатний горіх, часник), підсилювач смаку та аромату Е621, антиоксидант Е316, коріандр, регулятор кислотності Е575, глюкоза, стартова культура, консервант Е250. Може містити сліди яєчних, молочних продуктів, глютену, гірчиці, селери. Спеціальні умови зберігання: зберігати за температури від ОС до 6С і відносної вологості повітря від 75% до 78%. Дозволяється білий напіт солі на поверхні оболонки.</p>]]></description>
+        <vendorCode>1872</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
+      </offer>
       <offer id="1874" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-sushena-zi-svynynoyu-rancho/</url>
         <price>514</price>
@@ -816,17 +853,29 @@
         <vendorCode>1880</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
-      <offer id="1882" available="true">
-        <url>https://snacks.in.ua/product/syr-tverdyj-korolivskyj/</url>
-        <price>402</price>
+      <offer id="1837" available="true">
+        <url>https://snacks.in.ua/product/arahis-telyatyna-z-adzhykoyu/</url>
+        <price>228</price>
         <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-232-scaled.jpg</picture>
-        <name>Сир твердий "Королівський"</name>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
+        <name>Арахіс Телятина з Аджикою</name>
         <vendor/>
-        <description><![CDATA[<p>Сир твердий "Королівський"</p><p>50% жиру в сухій речовині</p><p>ТУ У 10.5-30873067-007:2015</p><p>Склад МОЛОКО коровʼяче пастеризоване, сіль кухонна, агент твердіння хлорид кальцію (Е509), консервант нітрат калію (E252), закваска чистих культур молочно-кислих бактерій, молокозсідальний ферментний препарат мікробіального</p><p>походження, барвник аннато (Е160b).</p>]]></description>
-        <vendorCode>1882</vendorCode>
-        <portal_category_id>20901</portal_category_id>
+        <description><![CDATA[<p>Арахіс смажений зі смаком Телятини з Аджикою</p><p>не лише ідеальне доповнення до пінного , але і чудова самостійна закуска.</p><p>Наш інтернет-магазин пропонує вам купити арахіс смажений зі смаком Телятини та Аджики за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
+        <vendorCode>1837</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
+      <offer id="1838" available="true">
+        <url>https://snacks.in.ua/product/kovbasa-narizka-s-k-fuet-de-la-cantre-75-gram/</url>
+        <price>65</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-210-scaled.jpg</picture>
+        <name>Ковбаса-нарізка С/К  “Fuet de la CANTRE”   75 грам</name>
+        <vendor/>
+        <description><![CDATA[<p>Ковбаса фует виготовляється зі свинини, свинячого жиру та спецій. Фарш подрібнюється, наповнюється та залишається на дозрівання. Сиров'ялений делікатес покривається білою їстівною пліснявою, яка надає грибного аромату.</p><p>Ковбасу рекомендується тонко нарізати та подавати разом з овочами, оливками, сиром. Гарно смакує фует з соусами та джемами.</p><p></p>]]></description>
+        <vendorCode>1838</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1843" available="true">
         <url>https://snacks.in.ua/product/palychky-ikry-mentayu-0-5-kg/</url>
@@ -888,18 +937,6 @@
         <vendorCode>1852</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
-      <offer id="1864" available="true">
-        <url>https://snacks.in.ua/product/kovbasa-suha-rancho-s-k-v-s-vagova/</url>
-        <price>533</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-223-scaled.jpg</picture>
-        <name>Ковбаса «Суха» Ранчо  С/К   В/С Вагова</name>
-        <vendor/>
-        <description><![CDATA[<p>Ковбаса с/к в/с Суха Ранчо</p><p></p><p>Оболонка неістівна Упаковано під вакуумом Склад: свинина</p><p>знежилована нежирна-62%, сало ковбасне хребтове.23%,</p><p>яловичина знежилована першого сорту 9%, сіль кухонна. декстроза, підсилювач смаку та аромату Е621, прянощі, антиоксидант Е300, ароматизатори, екстракт прянощів, цукор, регулятор кислотності Е330, спеції та екстракти спецій (перець чорний, перець білий, мускатний горіх, часник), стабілізатори Е451, Е452, стартова культура, консервант Е250. Може ністити спіди дечних, молочних продуктів, глютену, гірчиці, селери.</p>]]></description>
-        <vendorCode>1864</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
       <offer id="1866" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-v-s-milano-milano/</url>
         <price>549</price>
@@ -936,29 +973,43 @@
         <vendorCode>1870</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1872" available="true">
-        <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-mahan-po-tatarsky/</url>
-        <price>496</price>
+      <offer id="1836" available="true">
+        <url>https://snacks.in.ua/product/arahis-smetana-ta-zelen/</url>
+        <price>228</price>
         <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-227-scaled.jpg</picture>
-        <name>Ковбаса с/к в/с Махан по-татарськи</name>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-39.jpg</picture>
+        <name>Арахіс Сметана та зелень</name>
         <vendor/>
-        <description><![CDATA[<p>Ковбаса с/к в/с Махан по-татарськи</p><p>ТУ У 15.1 32122069 004:2011 Оболонка неістівна. Упаковано під</p><p>вакуумом Склад: конина знежилована першого сорту - 52%, конина знежилована вищого сорту - 24%, сало ковбасне</p><p>бокове - 19%, сіль кухонна, спеції та екстракти спецій (перець чорний, перець білий, мускатний горіх, часник), підсилювач смаку та аромату Е621, антиоксидант Е316, коріандр, регулятор кислотності Е575, глюкоза, стартова культура, консервант Е250. Може містити сліди яєчних, молочних продуктів, глютену, гірчиці, селери. Спеціальні умови зберігання: зберігати за температури від ОС до 6С і відносної вологості повітря від 75% до 78%. Дозволяється білий напіт солі на поверхні оболонки.</p>]]></description>
-        <vendorCode>1872</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
+        <description><![CDATA[<p>Смажений солоний арахіс зі смаком Сметани та зелені </p>]]></description>
+        <vendorCode>1836</vendorCode>
+        <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="1838" available="true">
-        <url>https://snacks.in.ua/product/kovbasa-narizka-s-k-fuet-de-la-cantre-75-gram/</url>
-        <price>65</price>
+      <offer id="1808" available="true">
+        <url>https://snacks.in.ua/product/dzherky-yalovychyna-ultimate-0-5/</url>
+        <price>582</price>
         <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-210-scaled.jpg</picture>
-        <name>Ковбаса-нарізка С/К  “Fuet de la CANTRE”   75 грам</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-191.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-192.jpg</picture>
+        <name>Джерки Яловичина-Ultimate 0.5</name>
         <vendor/>
-        <description><![CDATA[<p>Ковбаса фует виготовляється зі свинини, свинячого жиру та спецій. Фарш подрібнюється, наповнюється та залишається на дозрівання. Сиров'ялений делікатес покривається білою їстівною пліснявою, яка надає грибного аромату.</p><p>Ковбасу рекомендується тонко нарізати та подавати разом з овочами, оливками, сиром. Гарно смакує фует з соусами та джемами.</p><p></p>]]></description>
-        <vendorCode>1838</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
+        <description><![CDATA[<p>Яловичина Ultimate– це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Слайси Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
+        <vendorCode>1808</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1811" available="true">
+        <url>https://snacks.in.ua/product/yalovycha-solomka-ultimate/</url>
+        <price>569</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-193.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-194.jpg</picture>
+        <name>Яловича соломка Ultimate</name>
+        <vendor/>
+        <description><![CDATA[<p></p><p></p><p>М'ясна соломка – це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Соломка з Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
+        <vendorCode>1811</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1814" available="true">
         <url>https://snacks.in.ua/product/dzherky-svynyna-tokaczu-0-5/</url>
@@ -1053,56 +1104,6 @@
         <vendorCode>1835</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="1836" available="true">
-        <url>https://snacks.in.ua/product/arahis-smetana-ta-zelen/</url>
-        <price>228</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-39.jpg</picture>
-        <name>Арахіс Сметана та зелень</name>
-        <vendor/>
-        <description><![CDATA[<p>Смажений солоний арахіс зі смаком Сметани та зелені </p>]]></description>
-        <vendorCode>1836</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1837" available="true">
-        <url>https://snacks.in.ua/product/arahis-telyatyna-z-adzhykoyu/</url>
-        <price>228</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
-        <name>Арахіс Телятина з Аджикою</name>
-        <vendor/>
-        <description><![CDATA[<p>Арахіс смажений зі смаком Телятини з Аджикою</p><p>не лише ідеальне доповнення до пінного , але і чудова самостійна закуска.</p><p>Наш інтернет-магазин пропонує вам купити арахіс смажений зі смаком Телятини та Аджики за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
-        <vendorCode>1837</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1783" available="true">
-        <url>https://snacks.in.ua/product/grinky-zi-smakom-holodecz-z-hrinom-tm-panfri/</url>
-        <price>138</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-176.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-175.jpg</picture>
-        <name>Грінки зі смаком "Холодець з хріном" TM Panfri</name>
-        <vendor/>
-        <description><![CDATA[<p>Грінки житні зі спеціями "Холодець з хріном". Фасування 500г.</p>]]></description>
-        <vendorCode>1783</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
-      </offer>
-      <offer id="1785" available="true">
-        <url>https://snacks.in.ua/product/grinky-zi-smakom-somga-u-vershkovomu-sousi-tm-panfri/</url>
-        <price>138</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-177.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-175.jpg</picture>
-        <name>Грінки зі смаком "Сьомга у вершковому соусі" TM Panfri</name>
-        <vendor/>
-        <description><![CDATA[<p>Грінки житні зі спеціями "Сьомга у вершковому соусі". Фасування 500г.</p>]]></description>
-        <vendorCode>1785</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
-      </offer>
       <offer id="1789" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-salo-z-girchyczeyu-tm-panfri/</url>
         <price>138</price>
@@ -1129,6 +1130,19 @@
         <vendorCode>1791</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
+      <offer id="1793" available="true">
+        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chasnyk-0-5/</url>
+        <price>432</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-181.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-182.jpg</picture>
+        <name>Джерки курячі слайси - Часник 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p>М’які слайси з курки, в'ялені зі спеціями "Часник". Фасування 500г.</p>]]></description>
+        <vendorCode>1793</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
       <offer id="1796" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chyli-0-5/</url>
         <price>432</price>
@@ -1142,55 +1156,44 @@
         <vendorCode>1796</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1808" available="true">
-        <url>https://snacks.in.ua/product/dzherky-yalovychyna-ultimate-0-5/</url>
-        <price>582</price>
+      <offer id="1799" available="true">
+        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-gryl-0-5/</url>
+        <price>432</price>
         <currencyId>UAH</currencyId>
         <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-191.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-192.jpg</picture>
-        <name>Джерки Яловичина-Ultimate 0.5</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-185.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-186.jpg</picture>
+        <name>Джерки Курячі слайси - Гриль 0.5</name>
         <vendor/>
-        <description><![CDATA[<p>Яловичина Ultimate– це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Слайси Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
-        <vendorCode>1808</vendorCode>
+        <description><![CDATA[<p>М’які слайси з курки, в'ялені зі спеціями "Гриль". Фасування 500г.</p>]]></description>
+        <vendorCode>1799</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1811" available="true">
-        <url>https://snacks.in.ua/product/yalovycha-solomka-ultimate/</url>
-        <price>569</price>
+      <offer id="1802" available="true">
+        <url>https://snacks.in.ua/product/kuryacha-solomka-chasnyk/</url>
+        <price>432</price>
         <currencyId>UAH</currencyId>
         <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-193.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-194.jpg</picture>
-        <name>Яловича соломка Ultimate</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-187.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-188.jpg</picture>
+        <name>Куряча соломка - Часник</name>
         <vendor/>
-        <description><![CDATA[<p></p><p></p><p>М'ясна соломка – це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Соломка з Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
-        <vendorCode>1811</vendorCode>
+        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Часник".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p> </p><p>Фасування 500г.</p>]]></description>
+        <vendorCode>1802</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1769" available="true">
-        <url>https://snacks.in.ua/product/mygdal-chyli/</url>
-        <price>648</price>
+      <offer id="1805" available="true">
+        <url>https://snacks.in.ua/product/kuryacha-solomka-gryl/</url>
+        <price>432</price>
         <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-169.jpg</picture>
-        <name>Мигдаль чилі</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-189.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-190.jpg</picture>
+        <name>Куряча соломка - Гриль</name>
         <vendor/>
-        <description><![CDATA[<p>Смажений-солоний мигдаль </p><p>Зі смаком Чилі</p>]]></description>
-        <vendorCode>1769</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1771" available="true">
-        <url>https://snacks.in.ua/product/suluguni/</url>
-        <price>399</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-170.jpg</picture>
-        <name>Сулугуні</name>
-        <vendor/>
-        <description><![CDATA[<p>Сулугуні копчений (палочки). Фасування 1кг.</p>]]></description>
-        <vendorCode>1771</vendorCode>
-        <portal_category_id>20901</portal_category_id>
+        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Гриль".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p>Фасування 500г.</p>]]></description>
+        <vendorCode>1805</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1780" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-myunhenski-kovbasky-tm-panfri/</url>
@@ -1205,29 +1208,31 @@
         <vendorCode>1780</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1749" available="true">
-        <url>https://snacks.in.ua/product/midiyi-vareno-morozheni-100-200-tilky-po-mistu-dnipro/</url>
-        <price>309</price>
+      <offer id="1783" available="true">
+        <url>https://snacks.in.ua/product/grinky-zi-smakom-holodecz-z-hrinom-tm-panfri/</url>
+        <price>138</price>
         <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-159.jpg</picture>
-        <name>Мідії варено-морожені 100-200 ( тільки по місту Дніпро)</name>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-176.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-175.jpg</picture>
+        <name>Грінки зі смаком "Холодець з хріном" TM Panfri</name>
         <vendor/>
-        <description/>
-        <vendorCode>1749</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
+        <description><![CDATA[<p>Грінки житні зі спеціями "Холодець з хріном". Фасування 500г.</p>]]></description>
+        <vendorCode>1783</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1751" available="true">
-        <url>https://snacks.in.ua/product/morskyj-koktejl-svizhomorozhenyj-tilky-po-mistu-dnipro/</url>
-        <price>250</price>
+      <offer id="1785" available="true">
+        <url>https://snacks.in.ua/product/grinky-zi-smakom-somga-u-vershkovomu-sousi-tm-panfri/</url>
+        <price>138</price>
         <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-160.jpg</picture>
-        <name>Морський коктейль свіжоморожений ( тільки по місту Дніпро)</name>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-177.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-175.jpg</picture>
+        <name>Грінки зі смаком "Сьомга у вершковому соусі" TM Panfri</name>
         <vendor/>
-        <description/>
-        <vendorCode>1751</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
+        <description><![CDATA[<p>Грінки житні зі спеціями "Сьомга у вершковому соусі". Фасування 500г.</p>]]></description>
+        <vendorCode>1785</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
       </offer>
       <offer id="1753" available="true">
         <url>https://snacks.in.ua/product/yantarna-z-perczem-premium-500gram/</url>
@@ -1313,6 +1318,30 @@
         <vendorCode>1767</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
+      <offer id="1769" available="true">
+        <url>https://snacks.in.ua/product/mygdal-chyli/</url>
+        <price>648</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-169.jpg</picture>
+        <name>Мигдаль чилі</name>
+        <vendor/>
+        <description><![CDATA[<p>Смажений-солоний мигдаль </p><p>Зі смаком Чилі</p>]]></description>
+        <vendorCode>1769</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
+      <offer id="1771" available="true">
+        <url>https://snacks.in.ua/product/suluguni/</url>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-170.jpg</picture>
+        <name>Сулугуні</name>
+        <vendor/>
+        <description><![CDATA[<p>Сулугуні копчений (палочки). Фасування 1кг.</p>]]></description>
+        <vendorCode>1771</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
       <offer id="2395" available="true">
         <url>https://snacks.in.ua/product/oseledecz-350-solena-vidro-4kg/</url>
         <price>600</price>
@@ -1324,6 +1353,66 @@
         <description><![CDATA[<p>Оселедець солоний </p><p>-вага однієї рибини 350+</p><p>-вага 4кг у відрі</p>]]></description>
         <vendorCode>2395</vendorCode>
         <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1749" available="true">
+        <url>https://snacks.in.ua/product/midiyi-vareno-morozheni-100-200-tilky-po-mistu-dnipro/</url>
+        <price>309</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-159.jpg</picture>
+        <name>Мідії варено-морожені 100-200 ( тільки по місту Дніпро)</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1749</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1751" available="true">
+        <url>https://snacks.in.ua/product/morskyj-koktejl-svizhomorozhenyj-tilky-po-mistu-dnipro/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-160.jpg</picture>
+        <name>Морський коктейль свіжоморожений ( тільки по місту Дніпро)</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1751</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="2423" available="true">
+        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-chyli-100g/</url>
+        <price>53</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file.jpg</picture>
+        <name>Сулугуні Premium рублені "Чилі" 100г</name>
+        <vendor/>
+        <description/>
+        <vendorCode>2423</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1725" available="true">
+        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-iz-zelenyu-100g/</url>
+        <price>53</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-146.jpg</picture>
+        <name>Сулугуні Premium рублені "Із зеленю" 100г</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1725</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1727" available="true">
+        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-kurka-papryka-100g/</url>
+        <price>53</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-147.jpg</picture>
+        <name>Сулугуні Premium рублені "Курка-паприка" 100г</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1727</vendorCode>
+        <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1729" available="true">
         <url>https://snacks.in.ua/product/suluguni-fasovanyj/</url>
@@ -1349,16 +1438,90 @@
         <vendorCode>1731</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="2423" available="true">
-        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-chyli-100g/</url>
-        <price>53</price>
+      <offer id="1737" available="true">
+        <url>https://snacks.in.ua/product/plotva-vyalena-z-ikroyu/</url>
+        <price>540</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-152.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-153.jpg</picture>
+        <name>Плотва в'ялена з ікрою</name>
+        <vendor/>
+        <description><![CDATA[<p>Плотва з ікрою</p><p></p><p>Один з найсмачніших річкових представників закуски до пива. М'ясо плотви жирне, соковите і дуже смачне. Добре підходить до пива з класичним смаком.</p>]]></description>
+        <vendorCode>1737</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1740" available="true">
+        <url>https://snacks.in.ua/product/plotva-vyalena/</url>
+        <price>630</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-154.jpg</picture>
+        <name>Плотва в’ялена з ікрою велика</name>
+        <vendor/>
+        <description><![CDATA[<p>Один з найсмачніших річкових представників закуски до пива. М'ясо плотви жирне, соковите і дуже смачне. Добре підходить до пива з класичним смаком.</p>]]></description>
+        <vendorCode>1740</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1742" available="true">
+        <url>https://snacks.in.ua/product/sudak/</url>
+        <price>750</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-155.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-156.jpg</picture>
+        <name>Судак</name>
+        <vendor/>
+        <description><![CDATA[<p>В'ялений судак - це не тільки закуска, це самостійна страва, тому, не обов'язково бігти за пивом, а можна насолодитись рибкою окремо. Судак багатий на вітаміни і мінерали, а також на білок, який дуже легко засвоюється. В'ялений судак так само корисний як і смажений, або запечений. М'якоть цієї рибки не схожа на тарань або лящ, м'ясо щільне та пружне, більш нагадує тріску. Неперевершений смак судака робить його справжнім рибним делікатесом.</p>]]></description>
+        <vendorCode>1742</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1699" available="true">
+        <url>https://snacks.in.ua/product/produkt-syrnyj-moczaretta-brus-2-kg/</url>
+        <price>496</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file.jpg</picture>
-        <name>Сулугуні Premium рублені "Чилі" 100г</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-133.jpg</picture>
+        <name>Продукт сирний "Моцаретта" брус 2 кг.</name>
+        <vendor/>
+        <description><![CDATA[<p>Паста-філата (Pasta Fillatta) – це група традиційних південно-італійських сирів, які стають тягучими при нагріванні і утворюють довгі сирні нитки. Один з найпопулярніших видів сирів паста-філата – моцарелла для піци (більш тверда моцарелла без розсолу).</p><p>Переваги «Моцаретта» ТМ Тульчинка:</p><p>улюблений смак сиру моцарелла для піци</p><p>при нагріванні гарно плавиться, утворюючи довгі сирні нитки, не розтікається і не горить</p><p>ідеальна для приготування піци, гарячих бутербродів та гарячих страв з сиром</p><p></p><p></p>]]></description>
+        <vendorCode>1699</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1703" available="true">
+        <url>https://snacks.in.ua/product/syr-maazdam-vagovyj/</url>
+        <price>519</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-135.jpg</picture>
+        <name>Сир Мааздам , ваговий</name>
+        <vendor/>
+        <description><![CDATA[<p>-УВАГА-</p><p>Продукт ваговий , перед оплатою проконсультуйтесь з менеджером</p><p></p><p>«Мааздам» має м'яку та пластичну консистенцію жовтого кольору, ніжний, солодкаво-горіховий смак, завдяки бактериям, які додаються під час його виробництва.  Сир має жовту шкірку, покриту воском.  Серцевина сиру має дірки — 10-13 мм, утворені під час дозрівання.</p>]]></description>
+        <vendorCode>1703</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1711" available="true">
+        <url>https://snacks.in.ua/product/syr-suluguni-kosa/</url>
+        <price>390</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-139.jpg</picture>
+        <name>Сир Сулугуні коса</name>
+        <vendor/>
+        <description><![CDATA[<p>Копчений сир коса є традиційною стравою вірменської кухні.  Зовні він є волокнистим сиром, за консистенцією чимось нагадує сулугуні.  Роблять його, зазвичай, вручну.  Сир-коса - це чудова закуска, яка подобається і дорослим, і дітям.</p>]]></description>
+        <vendorCode>1711</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1713" available="true">
+        <url>https://snacks.in.ua/product/syroyizhka-travy-provans-100g/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-140.jpg</picture>
+        <name>Сироїжка "Трави Прованс" 100г</name>
         <vendor/>
         <description/>
-        <vendorCode>2423</vendorCode>
+        <vendorCode>1713</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1715" available="true">
@@ -1421,78 +1584,6 @@
         <vendorCode>1723</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
-      <offer id="1725" available="true">
-        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-iz-zelenyu-100g/</url>
-        <price>53</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-146.jpg</picture>
-        <name>Сулугуні Premium рублені "Із зеленю" 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1725</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1727" available="true">
-        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-kurka-papryka-100g/</url>
-        <price>53</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-147.jpg</picture>
-        <name>Сулугуні Premium рублені "Курка-паприка" 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1727</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1689" available="true">
-        <url>https://snacks.in.ua/product/ikra-sudaka-sushena-yastyk/</url>
-        <price>826</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>332</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-128.jpg</picture>
-        <name>Ікра судака сушена (ястик)</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1689</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
-      </offer>
-      <offer id="1691" available="true">
-        <url>https://snacks.in.ua/product/dzherky-kuryachi-po-dizhonski-0-5/</url>
-        <price>443</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-129.jpg</picture>
-        <name>Джерки Курячі по-Діжонські 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Курячі чипси з додаванням Діжонської гірчиці– це смачна натуральна закуска до пива, виготовлена з куриного філе з додаванням натуральних спецій.</p>]]></description>
-        <vendorCode>1691</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1693" available="true">
-        <url>https://snacks.in.ua/product/ikra-trisky-ms-500-gram/</url>
-        <price>586</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>332</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-130.jpg</picture>
-        <name>Ікра тріски МS 500 грам</name>
-        <vendor/>
-        <description><![CDATA[<p>Ікра тріски це джерело білка, йоду, поліненасичених кислот. Ікра тріски багата вітамінами А, D, C, PP, групи В, містить кальцій, калій, цинк, фосфор, йод, залізо та інші корисні речовини. Практично не містить вуглеводів, а багата білками, поліненасиченими жирними кислотами Омега-3, антиоксидантами. Ікра тріски засвоюється організмом людини майже повністю. Ікра тарані-це справжній делікатес, що часто використовується в кулінарії. Вона солиться, пресується, потім твердіє, після чого виходять маленькі брусочки, що вживаються в їжу або додаються в інші страви. Ікра тріски це дуже поживний продукт, причому як у зав'яленому, так і у свіжому вигляді</p>]]></description>
-        <vendorCode>1693</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
-      </offer>
-      <offer id="1695" available="true">
-        <url>https://snacks.in.ua/product/kosa-kopchena-syroyizhka-100g/</url>
-        <price>40</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-131.jpg</picture>
-        <name>Коса копчена "Сироїжка" 100г</name>
-        <vendor/>
-        <description><![CDATA[<p>Термін придатності: 90 днів при 0 …+8 °С</p>]]></description>
-        <vendorCode>1695</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
       <offer id="1697" available="true">
         <url>https://snacks.in.ua/product/kosa-suluguni-syroyizhka-100g/</url>
         <price>40</price>
@@ -1504,126 +1595,6 @@
         <description><![CDATA[<p>Термін придатності: 90 днів при 0 …+8 °С</p>]]></description>
         <vendorCode>1697</vendorCode>
         <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1699" available="true">
-        <url>https://snacks.in.ua/product/produkt-syrnyj-moczaretta-brus-2-kg/</url>
-        <price>496</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-133.jpg</picture>
-        <name>Продукт сирний "Моцаретта" брус 2 кг.</name>
-        <vendor/>
-        <description><![CDATA[<p>Паста-філата (Pasta Fillatta) – це група традиційних південно-італійських сирів, які стають тягучими при нагріванні і утворюють довгі сирні нитки. Один з найпопулярніших видів сирів паста-філата – моцарелла для піци (більш тверда моцарелла без розсолу).</p><p>Переваги «Моцаретта» ТМ Тульчинка:</p><p>улюблений смак сиру моцарелла для піци</p><p>при нагріванні гарно плавиться, утворюючи довгі сирні нитки, не розтікається і не горить</p><p>ідеальна для приготування піци, гарячих бутербродів та гарячих страв з сиром</p><p></p><p></p>]]></description>
-        <vendorCode>1699</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1703" available="true">
-        <url>https://snacks.in.ua/product/syr-maazdam-vagovyj/</url>
-        <price>519</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-135.jpg</picture>
-        <name>Сир Мааздам , ваговий</name>
-        <vendor/>
-        <description><![CDATA[<p>-УВАГА-</p><p>Продукт ваговий , перед оплатою проконсультуйтесь з менеджером</p><p></p><p>«Мааздам» має м'яку та пластичну консистенцію жовтого кольору, ніжний, солодкаво-горіховий смак, завдяки бактериям, які додаються під час його виробництва.  Сир має жовту шкірку, покриту воском.  Серцевина сиру має дірки — 10-13 мм, утворені під час дозрівання.</p>]]></description>
-        <vendorCode>1703</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1711" available="true">
-        <url>https://snacks.in.ua/product/syr-suluguni-kosa/</url>
-        <price>390</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-139.jpg</picture>
-        <name>Сир Сулугуні коса</name>
-        <vendor/>
-        <description><![CDATA[<p>Копчений сир коса є традиційною стравою вірменської кухні.  Зовні він є волокнистим сиром, за консистенцією чимось нагадує сулугуні.  Роблять його, зазвичай, вручну.  Сир-коса - це чудова закуска, яка подобається і дорослим, і дітям.</p>]]></description>
-        <vendorCode>1711</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1713" available="true">
-        <url>https://snacks.in.ua/product/syroyizhka-travy-provans-100g/</url>
-        <price>40</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-140.jpg</picture>
-        <name>Сироїжка "Трави Прованс" 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1713</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1687" available="true">
-        <url>https://snacks.in.ua/product/ikra-sudaka-vakuum-05-kg/</url>
-        <price>653</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>332</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-127.jpg</picture>
-        <name>Ікра судака (вакуум) 0,5 кг</name>
-        <vendor/>
-        <description><![CDATA[<p>Має приємний рибний смак, багата білком та риб'ячими жирами. Зручна у використанні. Практична у зберіганні. Дієтологи вважають ікру найціннішим харчовим продуктом. У ній міститься більше 30% білка, який засвоюється людиною набагато краще, ніж білки, що містяться в м'ясі та молочних продуктах. Крім того, до її складу входять вітаміни A, D і Е, фолієва кислота, кальцій, фосфор та йод, які дуже корисні.</p>]]></description>
-        <vendorCode>1687</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
-      </offer>
-      <offer id="1656" available="true">
-        <url>https://snacks.in.ua/product/palychky-kurky/</url>
-        <price>953</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-111.jpg</picture>
-        <name>Палички курки</name>
-        <vendor/>
-        <description><![CDATA[<p>Добірне курячі філе, нарізане однаковою товщиною, замариноване в суміші спецій та в'уялене у спеціальних умовах. Нічого зайвого, шикарний смак, аромат та консистенція. Можна вживати як самостійний продукт та як закуску</p>]]></description>
-        <vendorCode>1656</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1658" available="true">
-        <url>https://snacks.in.ua/product/dzherky-svynyna-05/</url>
-        <price>533</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-112.jpg</picture>
-        <name>Джерки - Свинина 0,5</name>
-        <vendor/>
-        <description><![CDATA[<p>Свині сушені чіпси – це смачна натуральна закуска до пива, виготовлена зі свинини  з додаванням натуральних спецій.</p>]]></description>
-        <vendorCode>1658</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1663" available="true">
-        <url>https://snacks.in.ua/product/svynyna-chyli-50g/</url>
-        <price>60</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-115.jpg</picture>
-        <name>Свинина Чилі 50г</name>
-        <vendor/>
-        <description><![CDATA[<p>Добірне м'ясо свинини, нарізане однаковою товщиною, замариноване в суміші спецій з додаванням перцю "Чилі" та висушене у спеціальних умовах. Нічого зайвого, шикарний смак, аромат та консистенція. Можна вживати як самостійний продукт та як закуску</p>]]></description>
-        <vendorCode>1663</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1665" available="true">
-        <url>https://snacks.in.ua/product/sudzhuk-50g/</url>
-        <price>40</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-116.jpg</picture>
-        <name>Суджук 50г</name>
-        <vendor/>
-        <description><![CDATA[<p>Суджук – це м'ясний делікатес, традиційний для кулінарної культури у багатьох країнах Азії, Кавказу та Європи. Зазвичай його подають як закуску на стіл у складі м'ясних тарілок, або їдять із хлібом та лавашем. У деяких країнах його також їдять у складі гарячих страв: додають у страви з яєць, у випічку, обсмажують на грилі та в олії. Рецептів приготування суджука дуже багато, причому використовуються практично будь-які сорти м'яса</p>]]></description>
-        <vendorCode>1665</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1669" available="true">
-        <url>https://snacks.in.ua/product/file-kuryache-po-greczky-100g/</url>
-        <price>99</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-118.jpg</picture>
-        <name>Філе куряче по-грецьки 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1669</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1671" available="true">
         <url>https://snacks.in.ua/product/hamon-s-v/</url>
@@ -1685,16 +1656,148 @@
         <vendorCode>1679</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1648" available="true">
-        <url>https://snacks.in.ua/product/konyna/</url>
-        <price>510</price>
+      <offer id="1687" available="true">
+        <url>https://snacks.in.ua/product/ikra-sudaka-vakuum-05-kg/</url>
+        <price>653</price>
         <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-107.jpg</picture>
-        <name>Конина</name>
+        <categoryId>332</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-127.jpg</picture>
+        <name>Ікра судака (вакуум) 0,5 кг</name>
+        <vendor/>
+        <description><![CDATA[<p>Має приємний рибний смак, багата білком та риб'ячими жирами. Зручна у використанні. Практична у зберіганні. Дієтологи вважають ікру найціннішим харчовим продуктом. У ній міститься більше 30% білка, який засвоюється людиною набагато краще, ніж білки, що містяться в м'ясі та молочних продуктах. Крім того, до її складу входять вітаміни A, D і Е, фолієва кислота, кальцій, фосфор та йод, які дуже корисні.</p>]]></description>
+        <vendorCode>1687</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1689" available="true">
+        <url>https://snacks.in.ua/product/ikra-sudaka-sushena-yastyk/</url>
+        <price>826</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-128.jpg</picture>
+        <name>Ікра судака сушена (ястик)</name>
         <vendor/>
         <description/>
-        <vendorCode>1648</vendorCode>
+        <vendorCode>1689</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1691" available="true">
+        <url>https://snacks.in.ua/product/dzherky-kuryachi-po-dizhonski-0-5/</url>
+        <price>443</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-129.jpg</picture>
+        <name>Джерки Курячі по-Діжонські 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p>Курячі чипси з додаванням Діжонської гірчиці– це смачна натуральна закуска до пива, виготовлена з куриного філе з додаванням натуральних спецій.</p>]]></description>
+        <vendorCode>1691</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1693" available="true">
+        <url>https://snacks.in.ua/product/ikra-trisky-ms-500-gram/</url>
+        <price>586</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-130.jpg</picture>
+        <name>Ікра тріски МS 500 грам</name>
+        <vendor/>
+        <description><![CDATA[<p>Ікра тріски це джерело білка, йоду, поліненасичених кислот. Ікра тріски багата вітамінами А, D, C, PP, групи В, містить кальцій, калій, цинк, фосфор, йод, залізо та інші корисні речовини. Практично не містить вуглеводів, а багата білками, поліненасиченими жирними кислотами Омега-3, антиоксидантами. Ікра тріски засвоюється організмом людини майже повністю. Ікра тарані-це справжній делікатес, що часто використовується в кулінарії. Вона солиться, пресується, потім твердіє, після чого виходять маленькі брусочки, що вживаються в їжу або додаються в інші страви. Ікра тріски це дуже поживний продукт, причому як у зав'яленому, так і у свіжому вигляді</p>]]></description>
+        <vendorCode>1693</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1695" available="true">
+        <url>https://snacks.in.ua/product/kosa-kopchena-syroyizhka-100g/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-131.jpg</picture>
+        <name>Коса копчена "Сироїжка" 100г</name>
+        <vendor/>
+        <description><![CDATA[<p>Термін придатності: 90 днів при 0 …+8 °С</p>]]></description>
+        <vendorCode>1695</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1656" available="true">
+        <url>https://snacks.in.ua/product/palychky-kurky/</url>
+        <price>953</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-111.jpg</picture>
+        <name>Палички курки</name>
+        <vendor/>
+        <description><![CDATA[<p>Добірне курячі філе, нарізане однаковою товщиною, замариноване в суміші спецій та в'уялене у спеціальних умовах. Нічого зайвого, шикарний смак, аромат та консистенція. Можна вживати як самостійний продукт та як закуску</p>]]></description>
+        <vendorCode>1656</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1658" available="true">
+        <url>https://snacks.in.ua/product/dzherky-svynyna-05/</url>
+        <price>533</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-112.jpg</picture>
+        <name>Джерки - Свинина 0,5</name>
+        <vendor/>
+        <description><![CDATA[<p>Свині сушені чіпси – це смачна натуральна закуска до пива, виготовлена зі свинини  з додаванням натуральних спецій.</p>]]></description>
+        <vendorCode>1658</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1663" available="true">
+        <url>https://snacks.in.ua/product/svynyna-chyli-50g/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-115.jpg</picture>
+        <name>Свинина Чилі 50г</name>
+        <vendor/>
+        <description><![CDATA[<p>Добірне м'ясо свинини, нарізане однаковою товщиною, замариноване в суміші спецій з додаванням перцю "Чилі" та висушене у спеціальних умовах. Нічого зайвого, шикарний смак, аромат та консистенція. Можна вживати як самостійний продукт та як закуску</p>]]></description>
+        <vendorCode>1663</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1665" available="true">
+        <url>https://snacks.in.ua/product/sudzhuk-50g/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-116.jpg</picture>
+        <name>Суджук 50г</name>
+        <vendor/>
+        <description><![CDATA[<p>Суджук – це м'ясний делікатес, традиційний для кулінарної культури у багатьох країнах Азії, Кавказу та Європи. Зазвичай його подають як закуску на стіл у складі м'ясних тарілок, або їдять із хлібом та лавашем. У деяких країнах його також їдять у складі гарячих страв: додають у страви з яєць, у випічку, обсмажують на грилі та в олії. Рецептів приготування суджука дуже багато, причому використовуються практично будь-які сорти м'яса</p>]]></description>
+        <vendorCode>1665</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1669" available="true">
+        <url>https://snacks.in.ua/product/file-kuryache-po-greczky-100g/</url>
+        <price>99</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-118.jpg</picture>
+        <name>Філе куряче по-грецьки 100г</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1669</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1642" available="true">
+        <url>https://snacks.in.ua/product/kachka-pekinska/</url>
+        <price>466</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-104.jpg</picture>
+        <name>Качка Пекінська</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1642</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1646" available="true">
+        <url>https://snacks.in.ua/product/kachka-syrovyalena-100g/</url>
+        <price>99</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-106.jpg</picture>
+        <name>Качка сиров'ялена 100г</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1646</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1650" available="true">
@@ -1732,126 +1835,6 @@
         <description><![CDATA[<p>Курячі чипси з додаванням натурального Часнику– це смачна натуральна закуска до пива, виготовлена з куриного філе з додаванням натуральних спецій.</p>]]></description>
         <vendorCode>1654</vendorCode>
         <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="2267" available="true">
-        <url>https://snacks.in.ua/product/karpachini/</url>
-        <price>335</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-1.jpg</picture>
-        <name>Карпачіні</name>
-        <vendor/>
-        <description><![CDATA[<p>Немає краще закуски під келих пива смачного пива, ніж пікантний м'ясної карпачини.</p><p>Кожен шматочок, просякнуте особливим набором спецій, ідеально поєднується з характерною пивний гірчинкою.</p><p>А там, де один шматочок, завжди настає час для ще одного!</p><p>Ніжний і ситний карпачини підійде тим любителям пінного, які знаходяться в пошуку чогось нового, тому що всі звичайні варіанти закуски вже встигли остаточно приїстися.</p><p>Саме тому варто зробити вибір саме на користь цієї закуски.</p>]]></description>
-        <vendorCode>2267</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1634" available="true">
-        <url>https://snacks.in.ua/product/basturma-50g/</url>
-        <price>51</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-100.jpg</picture>
-        <name>Бастурма 50г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1634</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1636" available="true">
-        <url>https://snacks.in.ua/product/indychka-chipsy/</url>
-        <price>886</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-101.jpg</picture>
-        <name>Індичка чіпси</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1636</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1640" available="true">
-        <url>https://snacks.in.ua/product/dzherky-svynyachi-karnaczii-0-5/</url>
-        <price>443</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-103.jpg</picture>
-        <name>Джерки свинячі «Карнаціі» 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Мініатюрні запашні Карнаціі </p><p>Одна ковбаска важить не більше 50 грамів</p><p>Свинина у поєднанні з прянощами ще більше розкриває свій смак завдяки плоскій формі цого снека</p>]]></description>
-        <vendorCode>1640</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1642" available="true">
-        <url>https://snacks.in.ua/product/kachka-pekinska/</url>
-        <price>466</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-104.jpg</picture>
-        <name>Качка Пекінська</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1642</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1646" available="true">
-        <url>https://snacks.in.ua/product/kachka-syrovyalena-100g/</url>
-        <price>99</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-106.jpg</picture>
-        <name>Качка сиров'ялена 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1646</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1608" available="true">
-        <url>https://snacks.in.ua/product/kabanosy-polski/</url>
-        <price>594</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-87.jpg</picture>
-        <name>Кабаноси Польскі</name>
-        <vendor/>
-        <description><![CDATA[<p>Ковбаски курячі, без консервантів та барвників. Підійде як легкий перекус так і як закуска до пива.</p>]]></description>
-        <vendorCode>1608</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1610" available="true">
-        <url>https://snacks.in.ua/product/kabanosy-ukrayina-klasyk-210/</url>
-        <price>141</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-88.jpg</picture>
-        <name>Кабаноси Україна класик 210</name>
-        <vendor/>
-        <description><![CDATA[<p>Кабаноси Чикенzzz Класік це ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування</p>]]></description>
-        <vendorCode>1610</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1612" available="true">
-        <url>https://snacks.in.ua/product/kabanosy-ukrayina-perecz-70g/</url>
-        <price>54</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-89.jpg</picture>
-        <name>Кабаноси Україна перець 70г</name>
-        <vendor/>
-        <description><![CDATA[<p>Кабаноси Чикенzzz Пері Пері це гострі ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування. Фасування 70г.</p>]]></description>
-        <vendorCode>1612</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1614" available="true">
-        <url>https://snacks.in.ua/product/kabanosy-ukrayina-perecz-210-g/</url>
-        <price>141</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-90.jpg</picture>
-        <name>Кабаноси Україна перець 210 г</name>
-        <vendor/>
-        <description><![CDATA[<p>Кабаноси Чикенzzz Пері Пері це гострі ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування</p>]]></description>
-        <vendorCode>1614</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1616" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-mahan-75g/</url>
@@ -1925,64 +1908,64 @@
         <vendorCode>1632</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1606" available="true">
-        <url>https://snacks.in.ua/product/kabanosy-ispanski-gostri-90g/</url>
-        <price>69</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-86.jpg</picture>
-        <name>Кабаноси Іспанські гострі 90г</name>
-        <vendor/>
-        <description><![CDATA[<p>Ковбаски сирокопчені першого сорту.</p><p>“Іспанські” - спекотні та гострі, ідеальні до прохолодних напоїв. Ключовими перевагами продукту є вишуканий смак, компактна вага у 90 г, 100% м’ясна сировина, їстівна оболонка та тривалий термін зберігання (від 90 до 120 діб).</p><p>Оболонка: їстівна.</p><p>Після відкриття упаковки вжити протягом 48 годин при дотриманні умов зберігання, але не пізніше кінцевої дати споживання.</p>]]></description>
-        <vendorCode>1606</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1588" available="true">
-        <url>https://snacks.in.ua/product/vushky-hryushky-z-adzhykoyu/</url>
-        <price>410</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-77.jpg</picture>
-        <name>Вушки-Хрюшки (з аджикою)</name>
-        <vendor/>
-        <description><![CDATA[<p>Вуха свині мариновані </p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p>]]></description>
-        <vendorCode>1588</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1590" available="true">
-        <url>https://snacks.in.ua/product/vushky-hryushky-holodecz-z-hronom/</url>
-        <price>410</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-78.jpg</picture>
-        <name>Вушки-Хрюшки (холодець з хроном)</name>
-        <vendor/>
-        <description><![CDATA[<p>Вуха свині мариновані </p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p>]]></description>
-        <vendorCode>1590</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1592" available="true">
-        <url>https://snacks.in.ua/product/kabanos-one-bite-cheese-50g/</url>
+      <offer id="1634" available="true">
+        <url>https://snacks.in.ua/product/basturma-50g/</url>
         <price>51</price>
         <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-79.jpg</picture>
-        <name>Кабанос ONE BITE CHEESE 50г</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-100.jpg</picture>
+        <name>Бастурма 50г</name>
         <vendor/>
-        <description><![CDATA[<p>CHEESE</p><p></p><p>З ніжної курятини та твердого сиру</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
-        <vendorCode>1592</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
+        <description/>
+        <vendorCode>1634</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1594" available="true">
-        <url>https://snacks.in.ua/product/kabanos-one-bite-chili-50g/</url>
-        <price>51</price>
+      <offer id="1636" available="true">
+        <url>https://snacks.in.ua/product/indychka-chipsy/</url>
+        <price>886</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-101.jpg</picture>
+        <name>Індичка чіпси</name>
+        <vendor/>
+        <description/>
+        <vendorCode>1636</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1640" available="true">
+        <url>https://snacks.in.ua/product/dzherky-svynyachi-karnaczii-0-5/</url>
+        <price>443</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-80.jpg</picture>
-        <name>Кабанос ONE BITE CHILI 50г</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-103.jpg</picture>
+        <name>Джерки свинячі «Карнаціі» 0.5</name>
         <vendor/>
-        <description><![CDATA[<p>CHILI</p><p></p><p>З добірної свинини та червоного перцю</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
-        <vendorCode>1594</vendorCode>
+        <description><![CDATA[<p>Мініатюрні запашні Карнаціі </p><p>Одна ковбаска важить не більше 50 грамів</p><p>Свинина у поєднанні з прянощами ще більше розкриває свій смак завдяки плоскій формі цого снека</p>]]></description>
+        <vendorCode>1640</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
+      </offer>
+      <offer id="2267" available="true">
+        <url>https://snacks.in.ua/product/karpachini/</url>
+        <price>335</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-1.jpg</picture>
+        <name>Карпачіні</name>
+        <vendor/>
+        <description><![CDATA[<p>Немає краще закуски під келих пива смачного пива, ніж пікантний м'ясної карпачини.</p><p>Кожен шматочок, просякнуте особливим набором спецій, ідеально поєднується з характерною пивний гірчинкою.</p><p>А там, де один шматочок, завжди настає час для ще одного!</p><p>Ніжний і ситний карпачини підійде тим любителям пінного, які знаходяться в пошуку чогось нового, тому що всі звичайні варіанти закуски вже встигли остаточно приїстися.</p><p>Саме тому варто зробити вибір саме на користь цієї закуски.</p>]]></description>
+        <vendorCode>2267</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1614" available="true">
+        <url>https://snacks.in.ua/product/kabanosy-ukrayina-perecz-210-g/</url>
+        <price>141</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-90.jpg</picture>
+        <name>Кабаноси Україна перець 210 г</name>
+        <vendor/>
+        <description><![CDATA[<p>Кабаноси Чикенzzz Пері Пері це гострі ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування</p>]]></description>
+        <vendorCode>1614</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1596" available="true">
@@ -2045,53 +2028,53 @@
         <vendorCode>1604</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1574" available="true">
-        <url>https://snacks.in.ua/product/vuha-svynyachi-klasychni/</url>
-        <price>30</price>
+      <offer id="1606" available="true">
+        <url>https://snacks.in.ua/product/kabanosy-ispanski-gostri-90g/</url>
+        <price>69</price>
         <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-70.jpg</picture>
-        <name>Вуха свинячі "Класичні"</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-86.jpg</picture>
+        <name>Кабаноси Іспанські гострі 90г</name>
         <vendor/>
-        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
-        <vendorCode>1574</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Ковбаски сирокопчені першого сорту.</p><p>“Іспанські” - спекотні та гострі, ідеальні до прохолодних напоїв. Ключовими перевагами продукту є вишуканий смак, компактна вага у 90 г, 100% м’ясна сировина, їстівна оболонка та тривалий термін зберігання (від 90 до 120 діб).</p><p>Оболонка: їстівна.</p><p>Після відкриття упаковки вжити протягом 48 годин при дотриманні умов зберігання, але не пізніше кінцевої дати споживання.</p>]]></description>
+        <vendorCode>1606</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1576" available="true">
-        <url>https://snacks.in.ua/product/vuha-svynyachi-tradyczijni/</url>
-        <price>30</price>
+      <offer id="1608" available="true">
+        <url>https://snacks.in.ua/product/kabanosy-polski/</url>
+        <price>594</price>
         <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-71.jpg</picture>
-        <name>Вуха свинячі "Традиційні"</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-87.jpg</picture>
+        <name>Кабаноси Польскі</name>
         <vendor/>
-        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
-        <vendorCode>1576</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Ковбаски курячі, без консервантів та барвників. Підійде як легкий перекус так і як закуска до пива.</p>]]></description>
+        <vendorCode>1608</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1578" available="true">
-        <url>https://snacks.in.ua/product/vuha-svynyachi-specziyi/</url>
-        <price>30</price>
+      <offer id="1610" available="true">
+        <url>https://snacks.in.ua/product/kabanosy-ukrayina-klasyk-210/</url>
+        <price>141</price>
         <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-72.jpg</picture>
-        <name>Вуха свинячі "Спеції"</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-88.jpg</picture>
+        <name>Кабаноси Україна класик 210</name>
         <vendor/>
-        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
-        <vendorCode>1578</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Кабаноси Чикенzzz Класік це ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування</p>]]></description>
+        <vendorCode>1610</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1580" available="true">
-        <url>https://snacks.in.ua/product/vuha-svynyachi-holodecz-hrin/</url>
-        <price>30</price>
+      <offer id="1612" available="true">
+        <url>https://snacks.in.ua/product/kabanosy-ukrayina-perecz-70g/</url>
+        <price>54</price>
         <currencyId>UAH</currencyId>
-        <categoryId>187</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-73.jpg</picture>
-        <name>Вуха свинячі "Холодець-хрін"</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-89.jpg</picture>
+        <name>Кабаноси Україна перець 70г</name>
         <vendor/>
-        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90 грам</p>]]></description>
-        <vendorCode>1580</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Кабаноси Чикенzzz Пері Пері це гострі ковбаски з приправами. Без барвників та підсилювачів смаку. Підходить до алкогольних напоїв. Зручний та смачний варіант для перекушування. Фасування 70г.</p>]]></description>
+        <vendorCode>1612</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1582" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-chasnyk/</url>
@@ -2129,65 +2112,89 @@
         <vendorCode>1586</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1570" available="true">
-        <url>https://snacks.in.ua/product/chipsy-fasovani-syr/</url>
-        <price>153</price>
+      <offer id="1588" available="true">
+        <url>https://snacks.in.ua/product/vushky-hryushky-z-adzhykoyu/</url>
+        <price>410</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
-        <name>Чіпси фасовані сир</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-77.jpg</picture>
+        <name>Вушки-Хрюшки (з аджикою)</name>
         <vendor/>
-        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Сир», фасуванням 750г,   15 шт. в ящику.</p>]]></description>
-        <vendorCode>1570</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>Вуха свині мариновані </p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p>]]></description>
+        <vendorCode>1588</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1572" available="true">
-        <url>https://snacks.in.ua/product/chipsy-fasovani-smetana/</url>
-        <price>153</price>
+      <offer id="1590" available="true">
+        <url>https://snacks.in.ua/product/vushky-hryushky-holodecz-z-hronom/</url>
+        <price>410</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
-        <name>Чіпси фасовані сметана</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-78.jpg</picture>
+        <name>Вушки-Хрюшки (холодець з хроном)</name>
         <vendor/>
-        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Сметани із зеленню», фасуванням 750г,   15 шт. в ящику.</p>]]></description>
-        <vendorCode>1572</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>Вуха свині мариновані </p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p>]]></description>
+        <vendorCode>1590</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1573" available="true">
-        <url>https://snacks.in.ua/product/chipsy-fasovani-shashlyk/</url>
-        <price>153</price>
+      <offer id="1592" available="true">
+        <url>https://snacks.in.ua/product/kabanos-one-bite-cheese-50g/</url>
+        <price>51</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
-        <name>Чіпси фасовані шашлик</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-79.jpg</picture>
+        <name>Кабанос ONE BITE CHEESE 50г</name>
         <vendor/>
-        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Шашлик», фасуванням 750г,   15 шт. в ящику.</p>]]></description>
-        <vendorCode>1573</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>CHEESE</p><p></p><p>З ніжної курятини та твердого сиру</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
+        <vendorCode>1592</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1550" available="true">
-        <url>https://snacks.in.ua/product/grinky-zhytni-tomchyky-chasnyk-500-gram/</url>
-        <price>102</price>
+      <offer id="1594" available="true">
+        <url>https://snacks.in.ua/product/kabanos-one-bite-chili-50g/</url>
+        <price>51</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-60.jpg</picture>
-        <name>Грінки житні Томчики - часник 500 грам</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-80.jpg</picture>
+        <name>Кабанос ONE BITE CHILI 50г</name>
         <vendor/>
-        <description><![CDATA[<p>Грінки житні з додаванням свіжого часнику та солі </p><p>Фасування 500г</p>]]></description>
-        <vendorCode>1550</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>CHILI</p><p></p><p>З добірної свинини та червоного перцю</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
+        <vendorCode>1594</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1552" available="true">
-        <url>https://snacks.in.ua/product/pelety-bekon/</url>
-        <price>281</price>
+      <offer id="1576" available="true">
+        <url>https://snacks.in.ua/product/vuha-svynyachi-tradyczijni/</url>
+        <price>30</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-61.jpg</picture>
-        <name>Пелети бекон</name>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-71.jpg</picture>
+        <name>Вуха свинячі "Традиційні"</name>
         <vendor/>
-        <description><![CDATA[<p>Дуже хрусткі та ніжні картопляні чіпси займають окреме місце серед інших снеків</p><p></p><p>Неймовірно смачний та легкий снек нікого не залишить байдужим !</p><p></p><p>Наш інтернет-магазин пропонує вам купити картопляні пелети  за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
-        <vendorCode>1552</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
+        <vendorCode>1576</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1578" available="true">
+        <url>https://snacks.in.ua/product/vuha-svynyachi-specziyi/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-72.jpg</picture>
+        <name>Вуха свинячі "Спеції"</name>
+        <vendor/>
+        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
+        <vendorCode>1578</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1580" available="true">
+        <url>https://snacks.in.ua/product/vuha-svynyachi-holodecz-hrin/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-73.jpg</picture>
+        <name>Вуха свинячі "Холодець-хрін"</name>
+        <vendor/>
+        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90 грам</p>]]></description>
+        <vendorCode>1580</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1554" available="true">
         <url>https://snacks.in.ua/product/pelety-vasabi/</url>
@@ -2237,18 +2244,6 @@
         <vendorCode>1560</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1562" available="true">
-        <url>https://snacks.in.ua/product/suhari-tomchyky-holodecz-hrin/</url>
-        <price>102</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-66.jpg</picture>
-        <name>Сухарі Томчики холодець-хрін</name>
-        <vendor/>
-        <description><![CDATA[<p>Сухарі житні - виготовлені з додаванням солі та натурального хрону</p><p>Фасування 500г</p>]]></description>
-        <vendorCode>1562</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
-      </offer>
       <offer id="1564" available="true">
         <url>https://snacks.in.ua/product/suhari-tomchyky-chasnyk-500-gram/</url>
         <price>102</price>
@@ -2285,6 +2280,42 @@
         <vendorCode>1569</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
+      <offer id="1570" available="true">
+        <url>https://snacks.in.ua/product/chipsy-fasovani-syr/</url>
+        <price>153</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
+        <name>Чіпси фасовані сир</name>
+        <vendor/>
+        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Сир», фасуванням 750г,   15 шт. в ящику.</p>]]></description>
+        <vendorCode>1570</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
+      </offer>
+      <offer id="1573" available="true">
+        <url>https://snacks.in.ua/product/chipsy-fasovani-shashlyk/</url>
+        <price>153</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
+        <name>Чіпси фасовані шашлик</name>
+        <vendor/>
+        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Шашлик», фасуванням 750г,   15 шт. в ящику.</p>]]></description>
+        <vendorCode>1573</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
+      </offer>
+      <offer id="1574" available="true">
+        <url>https://snacks.in.ua/product/vuha-svynyachi-klasychni/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>187</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-70.jpg</picture>
+        <name>Вуха свинячі "Класичні"</name>
+        <vendor/>
+        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
+        <vendorCode>1574</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
       <offer id="1544" available="true">
         <url>https://snacks.in.ua/product/fistashka-ssha/</url>
         <price>780</price>
@@ -2309,16 +2340,16 @@
         <vendorCode>1546</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="1548" available="true">
-        <url>https://snacks.in.ua/product/grinky-zhytni-tomchyky-holodecz-hrin-500-gram/</url>
-        <price>102</price>
+      <offer id="1552" available="true">
+        <url>https://snacks.in.ua/product/pelety-bekon/</url>
+        <price>281</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-59.jpg</picture>
-        <name>Грінки житні Томчики холодець-хрін 500 грам</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-61.jpg</picture>
+        <name>Пелети бекон</name>
         <vendor/>
-        <description><![CDATA[<p>Грінки житні з додаванням соті та натурального хрону .</p><p></p><p>Фасування 500г</p>]]></description>
-        <vendorCode>1548</vendorCode>
+        <description><![CDATA[<p>Дуже хрусткі та ніжні картопляні чіпси займають окреме місце серед інших снеків</p><p></p><p>Неймовірно смачний та легкий снек нікого не залишить байдужим !</p><p></p><p>Наш інтернет-магазин пропонує вам купити картопляні пелети  за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
+        <vendorCode>1552</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
       <offer id="1530" available="true">
@@ -2780,7 +2811,7 @@
       </offer>
       <offer id="1434" available="true">
         <url>https://snacks.in.ua/product/gold-fish-metelyk-500gram/</url>
-        <price>330</price>
+        <price>323</price>
         <currencyId>UAH</currencyId>
         <categoryId>23</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-2.jpg</picture>
