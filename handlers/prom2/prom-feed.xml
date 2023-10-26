@@ -142,7 +142,7 @@
                                 </regions>
                         </offer>
                         <offer id="1696934353" available="true">
-                                <price>3899</price>
+                                <price>3999</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4949880535_umyvalnik-rakovina-nad.jpg</picture>
@@ -250,7 +250,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">По центру</param>
                                 <param name="Вес" unit="кг">4.5</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
@@ -370,7 +369,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">По центру</param>
                                 <param name="Вес" unit="кг">4</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
@@ -492,7 +490,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">По центру</param>
                                 <param name="Вес" unit="кг">4</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
@@ -507,7 +504,7 @@
 
                         </offer>
                         <offer id="1696934439" available="true">
-                                <price>3899</price>
+                                <price>3949</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4950058683_umyvalnik-rakovina-nad.jpg</picture>
@@ -612,7 +609,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">По центру</param>
                                 <param name="Вес" unit="кг">4</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
@@ -733,7 +729,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">Справа</param>
                                 <param name="Вес" unit="кг">4</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
@@ -854,7 +849,6 @@
                                 <param name="Количество отверстий под смеситель">Одно</param>
                                 <param name="Расположение отверстия под смеситель">Слева</param>
                                 <param name="Вес" unit="кг">4.5</param>
-
                                 <param name="Состояние">Новое</param>
                                 <param name="Цвет">Белый</param>
                                 <param name="Ширина" unit="мм">600</param>
