@@ -9,11 +9,14 @@ const santehservissFeedUaUrl =
     'https://www.santehservis.dp.ua/export/klient/zm_uk.xml'
 //ru lang feed link 'https://www.santehservis.dp.ua/export/klient/zm_ru.xml'
 
-const validatePrice = (price) => price <= 1000
-const updatePrice = (price) => {
-    const markup = 1.5
-    return Math.ceil(parseFloat(price) * markup)
-}
+const markup = 1.5
+const priceRange = { min: 500, max: 1000 }
+const wrongCategoryProducts = ['V47183', 'V47310', 'V47335', 'V47286', 'V47209']
+
+const validatePrice = (price, priceRange) =>
+    price >= priceRange.min && price <= priceRange.max
+
+const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
 
 ;(async () => {
     // Get yml
@@ -30,15 +33,21 @@ const updatePrice = (price) => {
         const newOffers = offers.filter((offer) => {
             // Remove out of stock products
             const isAvailable = offer['$'].available === 'true'
-            // Remove products with price above 1k
-            const validPrice = validatePrice(offer.price)
 
-            // console.log(isAvailable, validPrice)
-            return isAvailable && validPrice
+            // Remove products out of price range
+            const validPrice = validatePrice(offer.price, priceRange)
+
+            // Filter out products with wrong category
+            const isNotWrongCategory = !wrongCategoryProducts.includes(
+                ...offer.kod
+            )
+
+            // console.log(isAvailable, validPrice, isNotWrongCategory)
+            return isAvailable && validPrice && isNotWrongCategory
         })
 
         newOffers.forEach((offer) => {
-            offer.price = updatePrice(offer.price)
+            offer.price = updatePrice(offer.price, markup)
         })
 
         result.yml_catalog.shop[0].offers[0].offer = newOffers
