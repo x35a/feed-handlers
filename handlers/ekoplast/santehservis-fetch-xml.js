@@ -4,7 +4,7 @@ const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 const fetchFeed = require('../../common/fetch-feed')
 
-const outputFilePath = 'output/santehservisFeedUa.xml'
+const outputFilePath = './handlers/ekoplast/output/santehservisFeedUa.xml'
 const santehservissFeedUaUrl =
     'https://www.santehservis.dp.ua/export/klient/zm_uk.xml'
 //ru lang feed link 'https://www.santehservis.dp.ua/export/klient/zm_ru.xml'

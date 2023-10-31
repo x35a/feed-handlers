@@ -2,7 +2,7 @@ const fs = require('fs')
 const parse = require('csv-parse/lib/sync')
 const stringify = require('csv-stringify/lib/sync')
 const fetchFeed = require('../../common/fetch-feed')
-const feedOutputPath = 'output/wix-to-woo.csv'
+const feedOutputPath = './handlers/snacks/output/wix-to-woo.csv'
 const { wixTSVUrl, markup } = require('./settings')
 const { excludeById } = require('./exclude-products')
 
