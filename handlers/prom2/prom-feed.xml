@@ -622,7 +622,7 @@
                                 </regions>
 
                         </offer>
-                        <offer id="1696934452" available="false">
+                        <offer id="1696934452" available="true">
                                 <price>4199</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
@@ -742,7 +742,7 @@
                                 </regions>
 
                         </offer>
-                        <offer id="1696934464" available="false">
+                        <offer id="1696934464" available="true">
                                 <price>4199</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
