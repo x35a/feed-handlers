@@ -7,9 +7,9 @@ const builder = new xml2js.Builder({ cdata: true })
 const snacksFeedUrl =
     'https://snacks.in.ua/wp-content/uploads/uamrktpls/mrkvuamppromua.xml'
 
-const outputFeedPath = './handlers/prom2/output/snacks-to-prom.xml'
-const fetchFeed = require('../../common/fetch-feed')
-const { markup } = require('../snacks/settings')
+const outputFeedPath = './handlers/prom/snacks-feed/output/snacks-to-prom.xml'
+const fetchFeed = require('../../../common/fetch-feed')
+const { markup } = require('../../snacks/settings')
 const snacksWooMarkup = markup
 const promMarkup = 1.5
 

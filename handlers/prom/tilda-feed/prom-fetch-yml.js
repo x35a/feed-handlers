@@ -4,11 +4,11 @@ const xml2js = require('xml2js')
 const parser = new xml2js.Parser()
 const builder = new xml2js.Builder({ cdata: true })
 const excludeList = require('./exclude')
-const fetchFeed = require('../../common/fetch-feed')
+const fetchFeed = require('../../../common/fetch-feed')
 
-const path = require('../../common/feeds-path')
+const path = require('../../../common/feeds-path')
 const outputFilePath = path.prom.output
-const { tldYMLLink } = require('../../common/const')
+const { tldYMLLink } = require('../../../common/const')
 const washbasin = require('./washbasin')
 
 // tilda products to prom
