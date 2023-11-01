@@ -16,15 +16,14 @@ const promMarkup = 1.5
 // woo categories: portal_category_id
 // https://docs.google.com/spreadsheets/d/1PirckSbp3_wyXeZVsaVoITWBtlyGAlf0/edit#gid=1694936648
 const promCategoriesMatchList = [
-    { wooCategoryId: '23', promCategoryId: '2350606' },
     { wooCategoryId: '87', promCategoryId: '104' },
     { wooCategoryId: '113', promCategoryId: '2350602' },
     { wooCategoryId: '147', promCategoryId: '2110301' },
-    { wooCategoryId: '187', promCategoryId: '2350606' },
     { wooCategoryId: '220', promCategoryId: '20901' },
-    { wooCategoryId: '258', promCategoryId: '1091206' },
-    { wooCategoryId: '332', promCategoryId: '1091206' },
-    { wooCategoryId: '410', promCategoryId: '2350606' }
+    { wooCategoryId: '258', promCategoryId: '10905' },
+    { wooCategoryId: '410', promCategoryId: '2350606' },
+    { wooCategoryId: '411', promCategoryId: '2350606' },
+    { wooCategoryId: '412', promCategoryId: '1091206' }
 ]
 
 // snacks to prom
