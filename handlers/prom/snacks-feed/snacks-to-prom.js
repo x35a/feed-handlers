@@ -11,7 +11,7 @@ const outputFeedPath = './handlers/prom/snacks-feed/output/snacks-to-prom.xml'
 const fetchFeed = require('../../../common/fetch-feed')
 const { markup } = require('../../snacks/settings')
 const snacksWooMarkup = markup
-const promMarkup = 1.5
+const promMarkup = 1.45
 
 // woo categories: portal_category_id
 // https://docs.google.com/spreadsheets/d/1PirckSbp3_wyXeZVsaVoITWBtlyGAlf0/edit#gid=1694936648
