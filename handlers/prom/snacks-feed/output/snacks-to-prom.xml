@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2023-11-01 13:46">
+<yml_catalog date="2023-11-05 01:08">
   <shop>
     <name/>
     <company/>
@@ -20,7 +20,7 @@
     <offers>
       <offer id="2484" available="true">
         <url>https://snacks.in.ua/product/mygdal-med-chyli-500-gram/</url>
-        <price>360</price>
+        <price>348</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-21.jpg</picture>
@@ -32,7 +32,7 @@
       </offer>
       <offer id="2486" available="true">
         <url>https://snacks.in.ua/product/mygdal-solonyj-500-gram/</url>
-        <price>315</price>
+        <price>305</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-22.jpg</picture>
@@ -44,7 +44,7 @@
       </offer>
       <offer id="2488" available="true">
         <url>https://snacks.in.ua/product/kukurudza-barbekyu-500-gram/</url>
-        <price>128</price>
+        <price>124</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-23.jpg</picture>
@@ -56,7 +56,7 @@
       </offer>
       <offer id="2490" available="true">
         <url>https://snacks.in.ua/product/kukurudza-med-girchyczya-500-gram/</url>
-        <price>128</price>
+        <price>124</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-24.jpg</picture>
@@ -68,7 +68,7 @@
       </offer>
       <offer id="2492" available="true">
         <url>https://snacks.in.ua/product/arahis-shidnyj-500-gram/</url>
-        <price>135</price>
+        <price>131</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-25.jpg</picture>
@@ -80,7 +80,7 @@
       </offer>
       <offer id="2502" available="true">
         <url>https://snacks.in.ua/product/kukurudza-syr-500-gram/</url>
-        <price>128</price>
+        <price>124</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-28.jpg</picture>
@@ -92,7 +92,7 @@
       </offer>
       <offer id="2474" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-fuet-130gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-16.jpg</picture>
@@ -104,7 +104,7 @@
       </offer>
       <offer id="2476" available="true">
         <url>https://snacks.in.ua/product/gorihovyj-miks-500-gram/</url>
-        <price>293</price>
+        <price>283</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-17.jpg</picture>
@@ -116,7 +116,7 @@
       </offer>
       <offer id="2478" available="true">
         <url>https://snacks.in.ua/product/krispers-miks-500-gram/</url>
-        <price>120</price>
+        <price>116</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-18.jpg</picture>
@@ -128,7 +128,7 @@
       </offer>
       <offer id="2480" available="true">
         <url>https://snacks.in.ua/product/keshyu-sil-500-gram/</url>
-        <price>360</price>
+        <price>348</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-19.jpg</picture>
@@ -140,7 +140,7 @@
       </offer>
       <offer id="2482" available="true">
         <url>https://snacks.in.ua/product/funduk-solonyj-500-gram/</url>
-        <price>375</price>
+        <price>363</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-20.jpg</picture>
@@ -152,7 +152,7 @@
       </offer>
       <offer id="2464" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-karamel-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-11.jpg</picture>
@@ -164,7 +164,7 @@
       </offer>
       <offer id="2466" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-bekon-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-12.jpg</picture>
@@ -176,7 +176,7 @@
       </offer>
       <offer id="2468" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-silskyj-reczept-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-13.jpg</picture>
@@ -188,7 +188,7 @@
       </offer>
       <offer id="2470" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-ekstra-hrustki-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-14.jpg</picture>
@@ -200,7 +200,7 @@
       </offer>
       <offer id="2472" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-klasychni-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-15.jpg</picture>
@@ -212,7 +212,7 @@
       </offer>
       <offer id="2415" available="true">
         <url>https://snacks.in.ua/product/skumbriya-v-oliyi-180-gram/</url>
-        <price>77</price>
+        <price>74</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-31-scaled.jpg</picture>
@@ -224,7 +224,7 @@
       </offer>
       <offer id="2419" available="true">
         <url>https://snacks.in.ua/product/morskyj-koktejl-v-oliyi-200-gram/</url>
-        <price>120</price>
+        <price>116</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-33-scaled.jpg</picture>
@@ -236,7 +236,7 @@
       </offer>
       <offer id="2425" available="true">
         <url>https://snacks.in.ua/product/rybnyj-boks-degustaczijnyj-1-9-kg/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-1-scaled.jpg</picture>
@@ -248,7 +248,7 @@
       </offer>
       <offer id="2439" available="true">
         <url>https://snacks.in.ua/product/file-skumbriyi-vyalene-klasychne-200-gram/</url>
-        <price>117</price>
+        <price>114</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-2.jpg</picture>
@@ -261,7 +261,7 @@
       </offer>
       <offer id="2442" available="true">
         <url>https://snacks.in.ua/product/file-skumbriyi-vyalene-teriyaki-200-gram/</url>
-        <price>117</price>
+        <price>114</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-4.jpg</picture>
@@ -274,7 +274,7 @@
       </offer>
       <offer id="2445" available="true">
         <url>https://snacks.in.ua/product/salat-zi-svynogo-serczya-ta-morkvy-2kg/</url>
-        <price>375</price>
+        <price>363</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-6.jpg</picture>
@@ -286,7 +286,7 @@
       </offer>
       <offer id="2447" available="true">
         <url>https://snacks.in.ua/product/asorti-oseledecz-forel-100-gram/</url>
-        <price>131</price>
+        <price>127</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-7.jpg</picture>
@@ -298,7 +298,7 @@
       </offer>
       <offer id="2449" available="true">
         <url>https://snacks.in.ua/product/oseledecz-alya-losos-180-gram/</url>
-        <price>57</price>
+        <price>56</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-8.jpg</picture>
@@ -310,7 +310,7 @@
       </offer>
       <offer id="2451" available="true">
         <url>https://snacks.in.ua/product/boks-svyatkovyj-2/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-9.jpg</picture>
@@ -322,7 +322,7 @@
       </offer>
       <offer id="2462" available="true">
         <url>https://snacks.in.ua/product/ispanski-chipsy-totas-babekyu-130-gram/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-10.jpg</picture>
@@ -334,7 +334,7 @@
       </offer>
       <offer id="2411" available="true">
         <url>https://snacks.in.ua/product/asorti-rybne-oseledecz-losos-200-gram/</url>
-        <price>126</price>
+        <price>122</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-29-scaled.jpg</picture>
@@ -346,7 +346,7 @@
       </offer>
       <offer id="2385" available="true">
         <url>https://snacks.in.ua/product/degustaczijnyj-syrnyj-boks-3-1-kg/</url>
-        <price>1650</price>
+        <price>1595</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-16-scaled.jpg</picture>
@@ -358,7 +358,7 @@
       </offer>
       <offer id="2387" available="true">
         <url>https://snacks.in.ua/product/degustaczijnyj-boks-mini-1-4-kg/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-17-scaled.jpg</picture>
@@ -370,7 +370,7 @@
       </offer>
       <offer id="2392" available="true">
         <url>https://snacks.in.ua/product/morskyj-koktejl-500-gram/</url>
-        <price>350</price>
+        <price>338</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-21-scaled.jpg</picture>
@@ -382,7 +382,7 @@
       </offer>
       <offer id="2398" available="true">
         <url>https://snacks.in.ua/product/morske-chudo-%e2%84%96-14-200gram/</url>
-        <price>225</price>
+        <price>218</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-22-scaled.jpg</picture>
@@ -395,7 +395,7 @@
       </offer>
       <offer id="2401" available="true">
         <url>https://snacks.in.ua/product/stavryda-stejk-v-marynadi-1-3-kg/</url>
-        <price>360</price>
+        <price>348</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-24-scaled.jpg</picture>
@@ -407,7 +407,7 @@
       </offer>
       <offer id="2403" available="true">
         <url>https://snacks.in.ua/product/morske-chudo-%e2%84%9613-200-gram/</url>
-        <price>149</price>
+        <price>144</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-25-scaled.jpg</picture>
@@ -419,7 +419,7 @@
       </offer>
       <offer id="2405" available="true">
         <url>https://snacks.in.ua/product/midiyi-v-oliyi-z-lymonom-200-gram/</url>
-        <price>90</price>
+        <price>87</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-26-scaled.jpg</picture>
@@ -431,7 +431,7 @@
       </offer>
       <offer id="2407" available="true">
         <url>https://snacks.in.ua/product/midiyi-v-oliyi-200-gram/</url>
-        <price>90</price>
+        <price>87</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-27-scaled.jpg</picture>
@@ -443,7 +443,7 @@
       </offer>
       <offer id="2409" available="true">
         <url>https://snacks.in.ua/product/pidshkirne-m%ca%bcyaso-lososya-200-gram/</url>
-        <price>90</price>
+        <price>87</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-28-scaled.jpg</picture>
@@ -455,7 +455,7 @@
       </offer>
       <offer id="2368" available="true">
         <url>https://snacks.in.ua/product/degustaczijnyj-boks-kalmarovyj/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-8-scaled.jpg</picture>
@@ -467,7 +467,7 @@
       </offer>
       <offer id="2370" available="true">
         <url>https://snacks.in.ua/product/file-kachky-po-pekinski-100-gram/</url>
-        <price>90</price>
+        <price>87</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-9-scaled.jpg</picture>
@@ -480,7 +480,7 @@
       </offer>
       <offer id="2375" available="true">
         <url>https://snacks.in.ua/product/boks-syry-ta-kovbasy/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-11-scaled.jpg</picture>
@@ -492,7 +492,7 @@
       </offer>
       <offer id="2377" available="true">
         <url>https://snacks.in.ua/product/boks-degustaczijnyj-miks-vaga-2-kg/</url>
-        <price>2400</price>
+        <price>2320</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-12-scaled.jpg</picture>
@@ -504,7 +504,7 @@
       </offer>
       <offer id="2379" available="true">
         <url>https://snacks.in.ua/product/ermitage-syr-kamamber-erival-250-g/</url>
-        <price>180</price>
+        <price>174</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-13-scaled.jpg</picture>
@@ -516,7 +516,7 @@
       </offer>
       <offer id="2381" available="true">
         <url>https://snacks.in.ua/product/ermitage-syr-mini-bri-250-g/</url>
-        <price>180</price>
+        <price>174</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-14-scaled.jpg</picture>
@@ -528,7 +528,7 @@
       </offer>
       <offer id="2383" available="true">
         <url>https://snacks.in.ua/product/tverdyj-syr-gran-mondoro-vytrymanyj-12-misyashiv/</url>
-        <price>180</price>
+        <price>174</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-15-scaled.jpg</picture>
@@ -540,7 +540,7 @@
       </offer>
       <offer id="2360" available="true">
         <url>https://snacks.in.ua/product/indychka-syr-solomka-500-gram/</url>
-        <price>473</price>
+        <price>457</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-3-scaled.jpg</picture>
@@ -553,7 +553,7 @@
       </offer>
       <offer id="2363" available="true">
         <url>https://snacks.in.ua/product/balyk-zi-svynyny-s-v-100-gram/</url>
-        <price>101</price>
+        <price>98</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-5-scaled.jpg</picture>
@@ -566,7 +566,7 @@
       </offer>
       <offer id="2366" available="true">
         <url>https://snacks.in.ua/product/degustaczijnyj-boks-m%ca%bcyasnyj/</url>
-        <price>1500</price>
+        <price>1450</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-7-scaled.jpg</picture>
@@ -578,7 +578,7 @@
       </offer>
       <offer id="2220" available="true">
         <url>https://snacks.in.ua/product/myasnyj-boks-2-5-kg/</url>
-        <price>2550</price>
+        <price>2465</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-271-scaled.jpg</picture>
@@ -590,7 +590,7 @@
       </offer>
       <offer id="2269" available="true">
         <url>https://snacks.in.ua/product/krem-syr-kaliforniya-z-zelennyu/</url>
-        <price>71</price>
+        <price>69</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-2-scaled.jpg</picture>
@@ -603,7 +603,7 @@
       </offer>
       <offer id="2272" available="true">
         <url>https://snacks.in.ua/product/krem-syr-kremosso-vershkovyj/</url>
-        <price>75</price>
+        <price>73</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-4-scaled.jpg</picture>
@@ -616,7 +616,7 @@
       </offer>
       <offer id="2275" available="true">
         <url>https://snacks.in.ua/product/krem-syr-kaliforniya-vershkovyj/</url>
-        <price>71</price>
+        <price>69</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-6-scaled.jpg</picture>
@@ -629,7 +629,7 @@
       </offer>
       <offer id="2278" available="true">
         <url>https://snacks.in.ua/product/krem-syr-kremosso-z-zelennyu/</url>
-        <price>75</price>
+        <price>73</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-8-scaled.jpg</picture>
@@ -642,7 +642,7 @@
       </offer>
       <offer id="2281" available="true">
         <url>https://snacks.in.ua/product/boks-rybnyj-3kg/</url>
-        <price>2475</price>
+        <price>2393</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-10-scaled.jpg</picture>
@@ -654,7 +654,7 @@
       </offer>
       <offer id="2283" available="true">
         <url>https://snacks.in.ua/product/boks-kalmarchyk-3-kg/</url>
-        <price>2850</price>
+        <price>2755</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-11-scaled.jpg</picture>
@@ -666,7 +666,7 @@
       </offer>
       <offer id="2293" available="true">
         <url>https://snacks.in.ua/product/boks-pekelnyj-vaga-3-850/</url>
-        <price>2700</price>
+        <price>2610</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/08/file-12-scaled.jpg</picture>
@@ -678,7 +678,7 @@
       </offer>
       <offer id="2355" available="true">
         <url>https://snacks.in.ua/product/boks-svyatkovyj/</url>
-        <price>1650</price>
+        <price>1595</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-scaled.jpg</picture>
@@ -690,7 +690,7 @@
       </offer>
       <offer id="2357" available="true">
         <url>https://snacks.in.ua/product/indychka-pryana-solomka-500-gram/</url>
-        <price>435</price>
+        <price>421</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-1-scaled.jpg</picture>
@@ -703,7 +703,7 @@
       </offer>
       <offer id="2214" available="true">
         <url>https://snacks.in.ua/product/pyvchyky-klasychni-500-gram/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-268-scaled.jpg</picture>
@@ -715,7 +715,7 @@
       </offer>
       <offer id="2216" available="true">
         <url>https://snacks.in.ua/product/palychky-z-yalovychyny-500-gram/</url>
-        <price>507</price>
+        <price>490</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-269-scaled.jpg</picture>
@@ -727,7 +727,7 @@
       </offer>
       <offer id="2218" available="true">
         <url>https://snacks.in.ua/product/syrnyj-boks/</url>
-        <price>1650</price>
+        <price>1595</price>
         <currencyId>UAH</currencyId>
         <categoryId>410</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-270-scaled.jpg</picture>
@@ -739,7 +739,7 @@
       </offer>
       <offer id="1926" available="true">
         <url>https://snacks.in.ua/product/chipsy-svynyny-susheni-z-vyshneyu-500gram/</url>
-        <price>537</price>
+        <price>519</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-257-scaled.jpg</picture>
@@ -751,7 +751,7 @@
       </offer>
       <offer id="1928" available="true">
         <url>https://snacks.in.ua/product/yalovychyna-vyshhij-gatunok-500-gram/</url>
-        <price>582</price>
+        <price>562</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-258-scaled.jpg</picture>
@@ -763,7 +763,7 @@
       </offer>
       <offer id="1930" available="true">
         <url>https://snacks.in.ua/product/grinky-miks-tm-jokers-1-2-kg/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-259.jpg</picture>
@@ -775,7 +775,7 @@
       </offer>
       <offer id="1932" available="true">
         <url>https://snacks.in.ua/product/fistashka-ssha-500gram/</url>
-        <price>390</price>
+        <price>377</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-260.jpg</picture>
@@ -787,7 +787,7 @@
       </offer>
       <offer id="1934" available="true">
         <url>https://snacks.in.ua/product/gorihovyj-miks-1kg/</url>
-        <price>570</price>
+        <price>551</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-261-scaled.jpg</picture>
@@ -799,7 +799,7 @@
       </offer>
       <offer id="1936" available="true">
         <url>https://snacks.in.ua/product/ikryani-palychky-500-gram/</url>
-        <price>285</price>
+        <price>276</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-262.jpg</picture>
@@ -811,7 +811,7 @@
       </offer>
       <offer id="2211" available="true">
         <url>https://snacks.in.ua/product/kurka-z-italijskymy-travamy-100gram/</url>
-        <price>90</price>
+        <price>87</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-266-scaled.jpg</picture>
@@ -822,35 +822,9 @@
         <vendorCode>2211</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1894" available="true">
-        <url>https://snacks.in.ua/product/syr-plavlenyj-tryufelnyj-mus-z-grybamy/</url>
-        <price>49</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-238-scaled.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-239-scaled.jpg</picture>
-        <name>Сир плавлений «ТРЮФЕЛЬНИЙ МУС З ГРИБАМИ»</name>
-        <vendor/>
-        <description><![CDATA[<p>Сир плавлений пастоподібний «ТРЮФЕЛЬНИЙ МУС З ГРИБАМИ» 60% миру в сухій речовині. СКЛАД: вода питна, сур розсільний</p><p>Моцарелла-28,6%, масто вершкове, вершки з коров'ячого молока-4,8%, молоко сухе</p><p>знежирене, емульгуюча сіль (поліфосфати натрію), гриби сушені-0,6%, паста з трюфеля-0,3% (трюфель чорний 90%, оливкова олія, сіль кухоння (79у%: зінізатор (карагенан, хлорид калію, декстроза).</p>]]></description>
-        <vendorCode>1894</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1897" available="true">
-        <url>https://snacks.in.ua/product/syr-plavlenyj-vershkovyj-mus/</url>
-        <price>49</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-240-scaled.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-241-scaled.jpg</picture>
-        <name>Сир плавлений  «ВЕРШКОВИЙ МУС»</name>
-        <vendor/>
-        <description><![CDATA[<p>Сир плавлений пастоподібний «ВЕРШКОВИЙ МУС» 60% жиру в сухій речовині. СКЛАД: вода питна, сир розсільний Моцарелла-28,6%, масло вершкове, вершки з коровʼячого молока-4,8%, молоко сухе знежирене, емульгуюча сіль (поліфосфати натрію), стабілізатор (карагенан, хлорид калію, декстроза).</p>]]></description>
-        <vendorCode>1897</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
       <offer id="1900" available="true">
         <url>https://snacks.in.ua/product/syr-plavlenyj-shynkovyj-mus-proshutto/</url>
-        <price>49</price>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-242-scaled.jpg</picture>
@@ -861,9 +835,21 @@
         <vendorCode>1900</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
+      <offer id="1905" available="true">
+        <url>https://snacks.in.ua/product/mahan-0-350-gram/</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-245.jpg</picture>
+        <name>Махан  0.350 грам</name>
+        <vendor/>
+        <description><![CDATA[<p>Сиров'ялена ковбаса - це та сама натуральна ковбаса про яку багато говорять і яку всі хочуть отримати. У ній немає нічого зайвого тільки м'ясо та спеції. Цю ковбасу готують за старовинним рецептом татарських м'ясників, тому смак цієї ковбаси передається нам через століття. Термін витримки 30 днів.</p>]]></description>
+        <vendorCode>1905</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
+      </offer>
       <offer id="1907" available="true">
         <url>https://snacks.in.ua/product/hrumkyj-syr-0-5kg/</url>
-        <price>432</price>
+        <price>417</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-246.jpg</picture>
@@ -875,7 +861,7 @@
       </offer>
       <offer id="1909" available="true">
         <url>https://snacks.in.ua/product/hrumkyj-syr-premium-0-400-gram/</url>
-        <price>435</price>
+        <price>421</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-247.jpg</picture>
@@ -887,7 +873,7 @@
       </offer>
       <offer id="1913" available="true">
         <url>https://snacks.in.ua/product/dzherky-kurky-yantarni-0-5/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-249-scaled.jpg</picture>
@@ -900,7 +886,7 @@
       </offer>
       <offer id="1916" available="true">
         <url>https://snacks.in.ua/product/dzherky-kurky-z-chasnykom-05/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-251-scaled.jpg</picture>
@@ -914,7 +900,7 @@
       </offer>
       <offer id="1920" available="true">
         <url>https://snacks.in.ua/product/sushena-krevetka-z-paprykoyu-500g/</url>
-        <price>578</price>
+        <price>559</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-254.jpg</picture>
@@ -924,9 +910,21 @@
         <vendorCode>1920</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
+      <offer id="1922" available="true">
+        <url>https://snacks.in.ua/product/sushena-krevetka-z-sillyu-500g/</url>
+        <price>559</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>412</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-255.jpg</picture>
+        <name>Сушена креветка з сіллю 500г</name>
+        <vendor/>
+        <description><![CDATA[<p>Сушена креветка з сіллю ( Канада)</p><p></p><p>Повністю готова до вживання</p><p>Фасування 0.500кг</p>]]></description>
+        <vendorCode>1922</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
       <offer id="1924" available="true">
         <url>https://snacks.in.ua/product/solomka-svynyna-z-vyshneyu-500-gram/</url>
-        <price>428</price>
+        <price>414</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-256-scaled.jpg</picture>
@@ -936,45 +934,22 @@
         <vendorCode>1924</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1886" available="true">
-        <url>https://snacks.in.ua/product/syr-tverdyj-pryazhenyj/</url>
-        <price>395</price>
+      <offer id="1897" available="true">
+        <url>https://snacks.in.ua/product/syr-plavlenyj-vershkovyj-mus/</url>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-234-scaled.jpg</picture>
-        <name>Сир твердий «Пряжений»</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-240-scaled.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-241-scaled.jpg</picture>
+        <name>Сир плавлений  «ВЕРШКОВИЙ МУС»</name>
         <vendor/>
-        <description><![CDATA[<p>Сир твердий «Пряжений»</p><p>50% хиру в сухій речовині,</p><p>ТУ У 10.5-30873067-007:20I5</p><p>Склад: молоко коров яче пастеризоване, сіль кухонна, агент твердіння хлорид кальцію консервант нітрат калір, ароматизатор «Пряжене молоко», закваска чистих культур молочно-кислих бактерій, молокозсідальний ферментний препарат мікробіального</p><p>походження</p><p>Еомер партії</p><p>барвник екстракт аннато.</p><p>(I), маса нетто та дата «Вжити до»</p><p>вказані на стікері. Спеціальні умови зберігання: за відносної вологості повітря (80-85)% та за температури від 0°С до 6°С.</p>]]></description>
-        <vendorCode>1886</vendorCode>
+        <description><![CDATA[<p>Сир плавлений пастоподібний «ВЕРШКОВИЙ МУС» 60% жиру в сухій речовині. СКЛАД: вода питна, сир розсільний Моцарелла-28,6%, масло вершкове, вершки з коровʼячого молока-4,8%, молоко сухе знежирене, емульгуюча сіль (поліфосфати натрію), стабілізатор (карагенан, хлорид калію, декстроза).</p>]]></description>
+        <vendorCode>1897</vendorCode>
         <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1866" available="true">
-        <url>https://snacks.in.ua/product/kovbasa-s-v-s-milano-milano/</url>
-        <price>548</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-224-scaled.jpg</picture>
-        <name>Ковбаса с/ в/с Мілано (Milano)</name>
-        <vendor/>
-        <description><![CDATA[<p>Ковбаса с/ в/с Мілано (Milano)</p><p>Оболонка неїстівна, містить підсолоджувач ТУ У 15.1 32122069.</p><p>004:2011 Упаковано в захисному середовищі Склад: свинина</p><p>энежилована нежирна 3%, сало ковбасне хребтове .11%, сль</p><p>морська, декстроза, підсилювач смаку та аромату Е621, спеції, антиоксидант Е300, екстракти спецій, цукор, регулятор кислотності Е330, антиоксидант Е316, ароматизатор, глюкоза, коптильний ароматизатор, підсолоджувач Е955, ароматична суміш (ароматизатори, картопляний мальтодекстрин), стартова культура, консервант Е250. Може містити сліди ясних, молочних продуктів, глютену, гірчиці, селери.</p><p>Спеціальні умови зберігання: за температури від ОС до 6С і відносної вологості повітря від 75% до 78%. Дозволяється білий наліт солі на поверхні оболонки Країна походження: Україна</p>]]></description>
-        <vendorCode>1866</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
-      </offer>
-      <offer id="1868" available="true">
-        <url>https://snacks.in.ua/product/kovbasas-k-v-s-napoli-napoli/</url>
-        <price>525</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-225-scaled.jpg</picture>
-        <name>Ковбасас/к в/с Наполі (Napoli)</name>
-        <vendor/>
-        <description><![CDATA[<p>Ковбаса с/к в/с Наполі (Napoli)</p><p>Оболонка неїстівна, містить підсолоджувач ТУ У 15.1 32122069.</p><p>004:2011 Упаковано в захисному середовищі Склад: свинина знежилована нежирна 83%, сало ковбасне хребтове 11%, сіль морська, декстроза, підсилювач смаку та аромату Е621, спецій, антиоксидант Е300, екстракти спецій, чукор, регулятор кислотності Е330, антиоксидант Е316, ароматизатор, глюкоз8, Коптильний ароматизатор, підсолоджувач Е955, ароматична суміш (ароматизатори, картопляний мальтодекстрин), стартова культура, консервант Е250. Може містити сліди яєчних, молочних продуктів, глютену, гірчиці, селери.</p><p>Спеціальні умови зберігання: за температури від ОС до 6Сі відносної вологості повітря від 75% до 78%. Дозволяється білий маліт солі на поверхні оболонки Країна походження: Україна</p>]]></description>
-        <vendorCode>1868</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1870" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-prezydentska/</url>
-        <price>555</price>
+        <price>537</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-226-scaled.jpg</picture>
@@ -986,7 +961,7 @@
       </offer>
       <offer id="1872" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-mahan-po-tatarsky/</url>
-        <price>495</price>
+        <price>479</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-227-scaled.jpg</picture>
@@ -998,7 +973,7 @@
       </offer>
       <offer id="1874" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-sushena-zi-svynynoyu-rancho/</url>
-        <price>513</price>
+        <price>496</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-228-scaled.jpg</picture>
@@ -1010,7 +985,7 @@
       </offer>
       <offer id="1876" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-sushena-z-yalovychynoyu-rancho/</url>
-        <price>525</price>
+        <price>508</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-229-scaled.jpg</picture>
@@ -1022,7 +997,7 @@
       </offer>
       <offer id="1878" available="true">
         <url>https://snacks.in.ua/product/kovbasa-s-k-v-s-ukrayinska/</url>
-        <price>606</price>
+        <price>586</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-230-scaled.jpg</picture>
@@ -1034,7 +1009,7 @@
       </offer>
       <offer id="1880" available="true">
         <url>https://snacks.in.ua/product/syr-tverdyj-ukrayinskyj-tradyczijnyj/</url>
-        <price>387</price>
+        <price>375</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-231-scaled.jpg</picture>
@@ -1046,7 +1021,7 @@
       </offer>
       <offer id="1882" available="true">
         <url>https://snacks.in.ua/product/syr-tverdyj-korolivskyj/</url>
-        <price>402</price>
+        <price>389</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-232-scaled.jpg</picture>
@@ -1058,7 +1033,7 @@
       </offer>
       <offer id="1884" available="true">
         <url>https://snacks.in.ua/product/syr-tverdyj-gollandskyj-bruskovyj/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-233-scaled.jpg</picture>
@@ -1068,9 +1043,118 @@
         <vendorCode>1884</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
+      <offer id="1886" available="true">
+        <url>https://snacks.in.ua/product/syr-tverdyj-pryazhenyj/</url>
+        <price>382</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-234-scaled.jpg</picture>
+        <name>Сир твердий «Пряжений»</name>
+        <vendor/>
+        <description><![CDATA[<p>Сир твердий «Пряжений»</p><p>50% хиру в сухій речовині,</p><p>ТУ У 10.5-30873067-007:20I5</p><p>Склад: молоко коров яче пастеризоване, сіль кухонна, агент твердіння хлорид кальцію консервант нітрат калір, ароматизатор «Пряжене молоко», закваска чистих культур молочно-кислих бактерій, молокозсідальний ферментний препарат мікробіального</p><p>походження</p><p>Еомер партії</p><p>барвник екстракт аннато.</p><p>(I), маса нетто та дата «Вжити до»</p><p>вказані на стікері. Спеціальні умови зберігання: за відносної вологості повітря (80-85)% та за температури від 0°С до 6°С.</p>]]></description>
+        <vendorCode>1886</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1894" available="true">
+        <url>https://snacks.in.ua/product/syr-plavlenyj-tryufelnyj-mus-z-grybamy/</url>
+        <price>48</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-238-scaled.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-239-scaled.jpg</picture>
+        <name>Сир плавлений «ТРЮФЕЛЬНИЙ МУС З ГРИБАМИ»</name>
+        <vendor/>
+        <description><![CDATA[<p>Сир плавлений пастоподібний «ТРЮФЕЛЬНИЙ МУС З ГРИБАМИ» 60% миру в сухій речовині. СКЛАД: вода питна, сур розсільний</p><p>Моцарелла-28,6%, масто вершкове, вершки з коров'ячого молока-4,8%, молоко сухе</p><p>знежирене, емульгуюча сіль (поліфосфати натрію), гриби сушені-0,6%, паста з трюфеля-0,3% (трюфель чорний 90%, оливкова олія, сіль кухоння (79у%: зінізатор (карагенан, хлорид калію, декстроза).</p>]]></description>
+        <vendorCode>1894</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1849" available="true">
+        <url>https://snacks.in.ua/product/rybna-pavutyna-zi-smakom-krevetok/</url>
+        <price>543</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>412</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-215-scaled.jpg</picture>
+        <name>Рибна павутина зі смаком Креветок</name>
+        <vendor/>
+        <description><![CDATA[<p>Ніжна рибна павутинка з тонким смаком креветок </p><p></p><p>Фасування 1кг</p>]]></description>
+        <vendorCode>1849</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1850" available="true">
+        <url>https://snacks.in.ua/product/ikra-tovstoloba-0-5/</url>
+        <price>657</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>412</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-216-scaled.jpg</picture>
+        <name>Ікра товстолоба 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p>Ікра товстолоба сушена</p><p>Фасування 0.5кг</p>]]></description>
+        <vendorCode>1850</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
+      <offer id="1852" available="true">
+        <url>https://snacks.in.ua/product/parmezan-gojus-gold-vagovyj/</url>
+        <price>646</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-217.jpg</picture>
+        <name>Пармезан Gojus Gold  ваговий</name>
+        <vendor/>
+        <description><![CDATA[<p>Пармезан Gojus Gold Польського виробництва </p><p></p><p>-УВАГА- </p><p>Продукт ваговий , перед сплатою проконсультуйтесь з менеджером !!!</p>]]></description>
+        <vendorCode>1852</vendorCode>
+        <portal_category_id>20901</portal_category_id>
+      </offer>
+      <offer id="1866" available="true">
+        <url>https://snacks.in.ua/product/kovbasa-s-v-s-milano-milano/</url>
+        <price>530</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-224-scaled.jpg</picture>
+        <name>Ковбаса с/ в/с Мілано (Milano)</name>
+        <vendor/>
+        <description><![CDATA[<p>Ковбаса с/ в/с Мілано (Milano)</p><p>Оболонка неїстівна, містить підсолоджувач ТУ У 15.1 32122069.</p><p>004:2011 Упаковано в захисному середовищі Склад: свинина</p><p>энежилована нежирна 3%, сало ковбасне хребтове .11%, сль</p><p>морська, декстроза, підсилювач смаку та аромату Е621, спеції, антиоксидант Е300, екстракти спецій, цукор, регулятор кислотності Е330, антиоксидант Е316, ароматизатор, глюкоза, коптильний ароматизатор, підсолоджувач Е955, ароматична суміш (ароматизатори, картопляний мальтодекстрин), стартова культура, консервант Е250. Може містити сліди ясних, молочних продуктів, глютену, гірчиці, селери.</p><p>Спеціальні умови зберігання: за температури від ОС до 6С і відносної вологості повітря від 75% до 78%. Дозволяється білий наліт солі на поверхні оболонки Країна походження: Україна</p>]]></description>
+        <vendorCode>1866</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
+      </offer>
+      <offer id="1868" available="true">
+        <url>https://snacks.in.ua/product/kovbasas-k-v-s-napoli-napoli/</url>
+        <price>508</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-225-scaled.jpg</picture>
+        <name>Ковбасас/к в/с Наполі (Napoli)</name>
+        <vendor/>
+        <description><![CDATA[<p>Ковбаса с/к в/с Наполі (Napoli)</p><p>Оболонка неїстівна, містить підсолоджувач ТУ У 15.1 32122069.</p><p>004:2011 Упаковано в захисному середовищі Склад: свинина знежилована нежирна 83%, сало ковбасне хребтове 11%, сіль морська, декстроза, підсилювач смаку та аромату Е621, спецій, антиоксидант Е300, екстракти спецій, чукор, регулятор кислотності Е330, антиоксидант Е316, ароматизатор, глюкоз8, Коптильний ароматизатор, підсолоджувач Е955, ароматична суміш (ароматизатори, картопляний мальтодекстрин), стартова культура, консервант Е250. Може містити сліди яєчних, молочних продуктів, глютену, гірчиці, селери.</p><p>Спеціальні умови зберігання: за температури від ОС до 6Сі відносної вологості повітря від 75% до 78%. Дозволяється білий маліт солі на поверхні оболонки Країна походження: Україна</p>]]></description>
+        <vendorCode>1868</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
+      </offer>
+      <offer id="1836" available="true">
+        <url>https://snacks.in.ua/product/arahis-smetana-ta-zelen/</url>
+        <price>221</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-39.jpg</picture>
+        <name>Арахіс Сметана та зелень</name>
+        <vendor/>
+        <description><![CDATA[<p>Смажений солоний арахіс зі смаком Сметани та зелені </p>]]></description>
+        <vendorCode>1836</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
+      <offer id="1837" available="true">
+        <url>https://snacks.in.ua/product/arahis-telyatyna-z-adzhykoyu/</url>
+        <price>221</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
+        <name>Арахіс Телятина з Аджикою</name>
+        <vendor/>
+        <description><![CDATA[<p>Арахіс смажений зі смаком Телятини з Аджикою</p><p>не лише ідеальне доповнення до пінного , але і чудова самостійна закуска.</p><p>Наш інтернет-магазин пропонує вам купити арахіс смажений зі смаком Телятини та Аджики за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
+        <vendorCode>1837</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
       <offer id="1838" available="true">
         <url>https://snacks.in.ua/product/kovbasa-narizka-s-k-fuet-de-la-cantre-75-gram/</url>
-        <price>65</price>
+        <price>63</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-210-scaled.jpg</picture>
@@ -1082,7 +1166,7 @@
       </offer>
       <offer id="1843" available="true">
         <url>https://snacks.in.ua/product/palychky-ikry-mentayu-0-5-kg/</url>
-        <price>638</price>
+        <price>617</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-213-scaled.jpg</picture>
@@ -1094,7 +1178,7 @@
       </offer>
       <offer id="1847" available="true">
         <url>https://snacks.in.ua/product/rybna-pavutyna-zi-smakom-rakiv/</url>
-        <price>561</price>
+        <price>543</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-215-scaled.jpg</picture>
@@ -1104,33 +1188,101 @@
         <vendorCode>1847</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
-      <offer id="1849" available="true">
-        <url>https://snacks.in.ua/product/rybna-pavutyna-zi-smakom-krevetok/</url>
-        <price>561</price>
+      <offer id="1802" available="true">
+        <url>https://snacks.in.ua/product/kuryacha-solomka-chasnyk/</url>
+        <price>417</price>
         <currencyId>UAH</currencyId>
-        <categoryId>412</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-215-scaled.jpg</picture>
-        <name>Рибна павутина зі смаком Креветок</name>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-187.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-188.jpg</picture>
+        <name>Куряча соломка - Часник</name>
         <vendor/>
-        <description><![CDATA[<p>Ніжна рибна павутинка з тонким смаком креветок </p><p></p><p>Фасування 1кг</p>]]></description>
-        <vendorCode>1849</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
+        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Часник".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p> </p><p>Фасування 500г.</p>]]></description>
+        <vendorCode>1802</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1852" available="true">
-        <url>https://snacks.in.ua/product/parmezan-gojus-gold-vagovyj/</url>
-        <price>668</price>
+      <offer id="1805" available="true">
+        <url>https://snacks.in.ua/product/kuryacha-solomka-gryl/</url>
+        <price>417</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-189.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-190.jpg</picture>
+        <name>Куряча соломка - Гриль</name>
+        <vendor/>
+        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Гриль".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p>Фасування 500г.</p>]]></description>
+        <vendorCode>1805</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1808" available="true">
+        <url>https://snacks.in.ua/product/dzherky-yalovychyna-ultimate-0-5/</url>
+        <price>562</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-191.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-192.jpg</picture>
+        <name>Джерки Яловичина-Ultimate 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p>Яловичина Ultimate– це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Слайси Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
+        <vendorCode>1808</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1811" available="true">
+        <url>https://snacks.in.ua/product/yalovycha-solomka-ultimate/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-193.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-194.jpg</picture>
+        <name>Яловича соломка Ultimate</name>
+        <vendor/>
+        <description><![CDATA[<p></p><p></p><p>М'ясна соломка – це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Соломка з Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
+        <vendorCode>1811</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1814" available="true">
+        <url>https://snacks.in.ua/product/dzherky-svynyna-tokaczu-0-5/</url>
+        <price>526</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-195-scaled.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-196-scaled.jpg</picture>
+        <name>Джерки Свинина-Токацу 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p>Сушене м'ясо свинини тонкацю.</p><p></p><p>Ми не використовуємо підсилювачі смаку!</p><p></p><p>Джерки, це добірне м'ясо свинини, нарізане однаковою товщиною, замариноване в суміші спецій і висушені в спеціальних умовах. Нічого зайвого, в'ялене м'ясо, шикарний смак, аромат і консистенція.</p>]]></description>
+        <vendorCode>1814</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1820" available="true">
+        <url>https://snacks.in.ua/product/dzherky-yalovychyna-klasychna-0-5/</url>
+        <price>506</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-199.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-200.jpg</picture>
+        <name>Джерки Яловичина-класична 0.5</name>
+        <vendor/>
+        <description><![CDATA[<p><strong>Сушене м'ясо яловичини класік.</strong> Це добірне м'ясо яловичини, нарізане однаковою товщиною, замариноване в суміші спецій і висушені в спеціальних умовах. Нічого зайвого, шикарний смак, аромат і консистенція.</p>]]></description>
+        <vendorCode>1820</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
+      <offer id="1823" available="true">
+        <url>https://snacks.in.ua/product/suluguni-nytka-zi-smakom-vasabi-100-gram/</url>
+        <price>57</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-217.jpg</picture>
-        <name>Пармезан Gojus Gold  ваговий</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-201.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-202-scaled.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-203-scaled.jpg</picture>
+        <name>Сулугуні нитка зі смаком васабі 100 грам</name>
         <vendor/>
-        <description><![CDATA[<p>Пармезан Gojus Gold Польського виробництва </p><p></p><p>-УВАГА- </p><p>Продукт ваговий , перед сплатою проконсультуйтесь з менеджером !!!</p>]]></description>
-        <vendorCode>1852</vendorCode>
+        <description><![CDATA[<p>Нитка - сулугуні зі смаком вассабі </p><p>Порціонне фасування по 100 грам </p>]]></description>
+        <vendorCode>1823</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1827" available="true">
         <url>https://snacks.in.ua/product/suluguni-nytka-zi-smakom-lobstera-100-gram/</url>
-        <price>59</price>
+        <price>57</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-204.jpg</picture>
@@ -1144,7 +1296,7 @@
       </offer>
       <offer id="1831" available="true">
         <url>https://snacks.in.ua/product/suluguni-nytka-zi-smakom-smetany-ta-zeleni-100-gram/</url>
-        <price>59</price>
+        <price>57</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-207.jpg</picture>
@@ -1158,7 +1310,7 @@
       </offer>
       <offer id="1835" available="true">
         <url>https://snacks.in.ua/product/arahis-zi-smakom-krabu/</url>
-        <price>228</price>
+        <price>221</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
@@ -1168,46 +1320,9 @@
         <vendorCode>1835</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="1836" available="true">
-        <url>https://snacks.in.ua/product/arahis-smetana-ta-zelen/</url>
-        <price>228</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-39.jpg</picture>
-        <name>Арахіс Сметана та зелень</name>
-        <vendor/>
-        <description><![CDATA[<p>Смажений солоний арахіс зі смаком Сметани та зелені </p>]]></description>
-        <vendorCode>1836</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1837" available="true">
-        <url>https://snacks.in.ua/product/arahis-telyatyna-z-adzhykoyu/</url>
-        <price>228</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
-        <name>Арахіс Телятина з Аджикою</name>
-        <vendor/>
-        <description><![CDATA[<p>Арахіс смажений зі смаком Телятини з Аджикою</p><p>не лише ідеальне доповнення до пінного , але і чудова самостійна закуска.</p><p>Наш інтернет-магазин пропонує вам купити арахіс смажений зі смаком Телятини та Аджики за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
-        <vendorCode>1837</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1796" available="true">
-        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chyli-0-5/</url>
-        <price>432</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-183.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-184.jpg</picture>
-        <name>Джерки курячі слайси - Чилі 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Слайси з курки, в'ялені зі спеціями "Чилі". Фасування 500г.</p>]]></description>
-        <vendorCode>1796</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
       <offer id="1799" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-gryl-0-5/</url>
-        <price>432</price>
+        <price>417</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-185.jpg</picture>
@@ -1218,151 +1333,9 @@
         <vendorCode>1799</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1802" available="true">
-        <url>https://snacks.in.ua/product/kuryacha-solomka-chasnyk/</url>
-        <price>432</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-187.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-188.jpg</picture>
-        <name>Куряча соломка - Часник</name>
-        <vendor/>
-        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Часник".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p> </p><p>Фасування 500г.</p>]]></description>
-        <vendorCode>1802</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1805" available="true">
-        <url>https://snacks.in.ua/product/kuryacha-solomka-gryl/</url>
-        <price>432</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-189.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-190.jpg</picture>
-        <name>Куряча соломка - Гриль</name>
-        <vendor/>
-        <description><![CDATA[<p>Соломка з курки, в'ялена зі спеціями "Гриль".</p><p>Смачна та ніжна новинка на ринку снеків, яка набираю свою популярність з кожним днем</p><p>Фасування 500г.</p>]]></description>
-        <vendorCode>1805</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1808" available="true">
-        <url>https://snacks.in.ua/product/dzherky-yalovychyna-ultimate-0-5/</url>
-        <price>582</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-191.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-192.jpg</picture>
-        <name>Джерки Яловичина-Ultimate 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Яловичина Ultimate– це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Слайси Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
-        <vendorCode>1808</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1811" available="true">
-        <url>https://snacks.in.ua/product/yalovycha-solomka-ultimate/</url>
-        <price>569</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-193.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-194.jpg</picture>
-        <name>Яловича соломка Ultimate</name>
-        <vendor/>
-        <description><![CDATA[<p></p><p></p><p>М'ясна соломка – це чудовий перекус для людей, які ведуть активний спосіб життя. Саме натуральні снеки з м'яса допоможуть вам відчути смак найкращого м'яса, яке ви куштували у своєму житті. </p><p></p><p>Соломка з Яловичини до пива – не тільки смачний та натуральний продукт але й чудова закуска, яка має тривалий термін зберігання та не псується без холодильника, </p><p></p><p>Термін зберігання 60 діб.</p>]]></description>
-        <vendorCode>1811</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1814" available="true">
-        <url>https://snacks.in.ua/product/dzherky-svynyna-tokaczu-0-5/</url>
-        <price>544</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-195-scaled.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-196-scaled.jpg</picture>
-        <name>Джерки Свинина-Токацу 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Сушене м'ясо свинини тонкацю.</p><p></p><p>Ми не використовуємо підсилювачі смаку!</p><p></p><p>Джерки, це добірне м'ясо свинини, нарізане однаковою товщиною, замариноване в суміші спецій і висушені в спеціальних умовах. Нічого зайвого, в'ялене м'ясо, шикарний смак, аромат і консистенція.</p>]]></description>
-        <vendorCode>1814</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1817" available="true">
-        <url>https://snacks.in.ua/product/dzherky-bekon-0-5/</url>
-        <price>462</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-197.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-198.jpg</picture>
-        <name>Джерки - бекон 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>Джерки з бекону, це добірне м'ясо свинини, нарізане однаковою товщиною, замариноване в суміші спецій і висушені в спеціальних умовах. Нічого зайвого, в'ялений бекон, шикарний смак, аромат і консистенція.</p>]]></description>
-        <vendorCode>1817</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1820" available="true">
-        <url>https://snacks.in.ua/product/dzherky-yalovychyna-klasychna-0-5/</url>
-        <price>523</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-199.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-200.jpg</picture>
-        <name>Джерки Яловичина-класична 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p><strong>Сушене м'ясо яловичини класік.</strong> Це добірне м'ясо яловичини, нарізане однаковою товщиною, замариноване в суміші спецій і висушені в спеціальних умовах. Нічого зайвого, шикарний смак, аромат і консистенція.</p>]]></description>
-        <vendorCode>1820</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1823" available="true">
-        <url>https://snacks.in.ua/product/suluguni-nytka-zi-smakom-vasabi-100-gram/</url>
-        <price>59</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-201.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-202-scaled.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-203-scaled.jpg</picture>
-        <name>Сулугуні нитка зі смаком васабі 100 грам</name>
-        <vendor/>
-        <description><![CDATA[<p>Нитка - сулугуні зі смаком вассабі </p><p>Порціонне фасування по 100 грам </p>]]></description>
-        <vendorCode>1823</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
-      <offer id="1793" available="true">
-        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chasnyk-0-5/</url>
-        <price>432</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-181.jpg</picture>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-182.jpg</picture>
-        <name>Джерки курячі слайси - Часник 0.5</name>
-        <vendor/>
-        <description><![CDATA[<p>М’які слайси з курки, в'ялені зі спеціями "Часник". Фасування 500г.</p>]]></description>
-        <vendorCode>1793</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
-      </offer>
-      <offer id="1767" available="true">
-        <url>https://snacks.in.ua/product/kranchi-miks/</url>
-        <price>176</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-168.jpg</picture>
-        <name>Кранчі мікс</name>
-        <vendor/>
-        <description><![CDATA[<p>Кранчі - це смажений арахіс у хрусткій злаковій оболонці</p><p>Особлива технологія виготовлення дозволяє рівномірно покрити цільний арахіс оболонкою та підкреслити його смак.</p>]]></description>
-        <vendorCode>1767</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
-      <offer id="1769" available="true">
-        <url>https://snacks.in.ua/product/mygdal-chyli/</url>
-        <price>648</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-169.jpg</picture>
-        <name>Мигдаль чилі</name>
-        <vendor/>
-        <description><![CDATA[<p>Смажений-солоний мигдаль </p><p>Зі смаком Чилі</p>]]></description>
-        <vendorCode>1769</vendorCode>
-        <portal_category_id>104</portal_category_id>
-      </offer>
       <offer id="1771" available="true">
         <url>https://snacks.in.ua/product/suluguni/</url>
-        <price>398</price>
+        <price>385</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-170.jpg</picture>
@@ -1374,7 +1347,7 @@
       </offer>
       <offer id="1780" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-myunhenski-kovbasky-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-174.jpg</picture>
@@ -1387,7 +1360,7 @@
       </offer>
       <offer id="1783" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-holodecz-z-hrinom-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-176.jpg</picture>
@@ -1400,7 +1373,7 @@
       </offer>
       <offer id="1785" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-somga-u-vershkovomu-sousi-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-177.jpg</picture>
@@ -1413,7 +1386,7 @@
       </offer>
       <offer id="1787" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-tomaty-spisy-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-178.jpg</picture>
@@ -1426,7 +1399,7 @@
       </offer>
       <offer id="1789" available="true">
         <url>https://snacks.in.ua/product/grinky-zi-smakom-salo-z-girchyczeyu-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-179.jpg</picture>
@@ -1439,7 +1412,7 @@
       </offer>
       <offer id="1791" available="true">
         <url>https://snacks.in.ua/product/grinky-z-chasnykom-tm-panfri/</url>
-        <price>138</price>
+        <price>133</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-180.jpg</picture>
@@ -1450,33 +1423,35 @@
         <vendorCode>1791</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1755" available="true">
-        <url>https://snacks.in.ua/product/midiyi-v-oliyi-500g/</url>
-        <price>251</price>
+      <offer id="1793" available="true">
+        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chasnyk-0-5/</url>
+        <price>417</price>
         <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-162.jpg</picture>
-        <name>Мідії в олії 500г</name>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-181.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-182.jpg</picture>
+        <name>Джерки курячі слайси - Часник 0.5</name>
         <vendor/>
-        <description><![CDATA[<p>Користь мідій незаперечна, оскільки завдяки їх унікальному складу можна відновити пошкоджені сектори нервової системи та забезпечити організм необхідною енергією. Завдяки високому вмісту вітамінів та мікроелементів у мідіях, вони сприятливо впливають на імунну систему людини, допомагають у лікуванні застуди чи вірусних захворювань, позитивно впливають на кровоносні судини та процес кровотворення, загалом.</p>]]></description>
-        <vendorCode>1755</vendorCode>
-        <portal_category_id>10905</portal_category_id>
+        <description><![CDATA[<p>М’які слайси з курки, в'ялені зі спеціями "Часник". Фасування 500г.</p>]]></description>
+        <vendorCode>1793</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1757" available="true">
-        <url>https://snacks.in.ua/product/midiyi-zi-specziyamy-500g/</url>
-        <price>251</price>
+      <offer id="1796" available="true">
+        <url>https://snacks.in.ua/product/dzherky-kuryachi-slajsy-chyli-0-5/</url>
+        <price>417</price>
         <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-163.jpg</picture>
-        <name>Мідії зі спеціями 500г</name>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-183.jpg</picture>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-184.jpg</picture>
+        <name>Джерки курячі слайси - Чилі 0.5</name>
         <vendor/>
-        <description><![CDATA[<p>Мідії у олії зі спеціями </p><p>Фасування 500г</p>]]></description>
-        <vendorCode>1757</vendorCode>
-        <portal_category_id>10905</portal_category_id>
+        <description><![CDATA[<p>Слайси з курки, в'ялені зі спеціями "Чилі". Фасування 500г.</p>]]></description>
+        <vendorCode>1796</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1761" available="true">
         <url>https://snacks.in.ua/product/oseledecz-v-marynadi-choven-1-4kg/</url>
-        <price>365</price>
+        <price>353</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-165.jpg</picture>
@@ -1488,7 +1463,7 @@
       </offer>
       <offer id="1763" available="true">
         <url>https://snacks.in.ua/product/oseledecz-rulet-choven-1-4kg/</url>
-        <price>365</price>
+        <price>353</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-166.jpg</picture>
@@ -1510,9 +1485,33 @@
         <vendorCode>1765</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
+      <offer id="1767" available="true">
+        <url>https://snacks.in.ua/product/kranchi-miks/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-168.jpg</picture>
+        <name>Кранчі мікс</name>
+        <vendor/>
+        <description><![CDATA[<p>Кранчі - це смажений арахіс у хрусткій злаковій оболонці</p><p>Особлива технологія виготовлення дозволяє рівномірно покрити цільний арахіс оболонкою та підкреслити його смак.</p>]]></description>
+        <vendorCode>1767</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
+      <offer id="1769" available="true">
+        <url>https://snacks.in.ua/product/mygdal-chyli/</url>
+        <price>627</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-169.jpg</picture>
+        <name>Мигдаль чилі</name>
+        <vendor/>
+        <description><![CDATA[<p>Смажений-солоний мигдаль </p><p>Зі смаком Чилі</p>]]></description>
+        <vendorCode>1769</vendorCode>
+        <portal_category_id>104</portal_category_id>
+      </offer>
       <offer id="2395" available="true">
         <url>https://snacks.in.ua/product/oseledecz-350-solena-vidro-4kg/</url>
-        <price>600</price>
+        <price>580</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/09/file-20.jpg</picture>
@@ -1524,7 +1523,7 @@
       </offer>
       <offer id="2500" available="true">
         <url>https://snacks.in.ua/product/oseledecz-firmovyj-500g/</url>
-        <price>110</price>
+        <price>107</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-27.jpg</picture>
@@ -1534,33 +1533,9 @@
         <vendorCode>2500</vendorCode>
         <portal_category_id>10905</portal_category_id>
       </offer>
-      <offer id="1749" available="true">
-        <url>https://snacks.in.ua/product/midiyi-vareno-morozheni-100-200-tilky-po-mistu-dnipro/</url>
-        <price>308</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-159.jpg</picture>
-        <name>Мідії варено-морожені 100-200 ( тільки по місту Дніпро)</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1749</vendorCode>
-        <portal_category_id>10905</portal_category_id>
-      </offer>
-      <offer id="1751" available="true">
-        <url>https://snacks.in.ua/product/morskyj-koktejl-svizhomorozhenyj-tilky-po-mistu-dnipro/</url>
-        <price>250</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>258</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-160.jpg</picture>
-        <name>Морський коктейль свіжоморожений ( тільки по місту Дніпро)</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1751</vendorCode>
-        <portal_category_id>10905</portal_category_id>
-      </offer>
       <offer id="1753" available="true">
         <url>https://snacks.in.ua/product/yantarna-z-perczem-premium-500gram/</url>
-        <price>360</price>
+        <price>348</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-161.jpg</picture>
@@ -1570,21 +1545,33 @@
         <vendorCode>1753</vendorCode>
         <portal_category_id>1091206</portal_category_id>
       </offer>
-      <offer id="1721" available="true">
-        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-bekon-100g/</url>
-        <price>53</price>
+      <offer id="1755" available="true">
+        <url>https://snacks.in.ua/product/midiyi-v-oliyi-500g/</url>
+        <price>243</price>
         <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-144.jpg</picture>
-        <name>Сулугуні Premium рублені "Бекон" 100г</name>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-162.jpg</picture>
+        <name>Мідії в олії 500г</name>
         <vendor/>
-        <description/>
-        <vendorCode>1721</vendorCode>
-        <portal_category_id>20901</portal_category_id>
+        <description><![CDATA[<p>Користь мідій незаперечна, оскільки завдяки їх унікальному складу можна відновити пошкоджені сектори нервової системи та забезпечити організм необхідною енергією. Завдяки високому вмісту вітамінів та мікроелементів у мідіях, вони сприятливо впливають на імунну систему людини, допомагають у лікуванні застуди чи вірусних захворювань, позитивно впливають на кровоносні судини та процес кровотворення, загалом.</p>]]></description>
+        <vendorCode>1755</vendorCode>
+        <portal_category_id>10905</portal_category_id>
+      </offer>
+      <offer id="1757" available="true">
+        <url>https://snacks.in.ua/product/midiyi-zi-specziyamy-500g/</url>
+        <price>243</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-163.jpg</picture>
+        <name>Мідії зі спеціями 500г</name>
+        <vendor/>
+        <description><![CDATA[<p>Мідії у олії зі спеціями </p><p>Фасування 500г</p>]]></description>
+        <vendorCode>1757</vendorCode>
+        <portal_category_id>10905</portal_category_id>
       </offer>
       <offer id="1723" available="true">
         <url>https://snacks.in.ua/product/suluguni-premium-rubleni-z-adzhykoyu-100g/</url>
-        <price>53</price>
+        <price>52</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-145.jpg</picture>
@@ -1596,7 +1583,7 @@
       </offer>
       <offer id="1725" available="true">
         <url>https://snacks.in.ua/product/suluguni-premium-rubleni-iz-zelenyu-100g/</url>
-        <price>53</price>
+        <price>52</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-146.jpg</picture>
@@ -1608,7 +1595,7 @@
       </offer>
       <offer id="1727" available="true">
         <url>https://snacks.in.ua/product/suluguni-premium-rubleni-kurka-papryka-100g/</url>
-        <price>53</price>
+        <price>52</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-147.jpg</picture>
@@ -1620,7 +1607,7 @@
       </offer>
       <offer id="1729" available="true">
         <url>https://snacks.in.ua/product/suluguni-fasovanyj/</url>
-        <price>390</price>
+        <price>377</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-148.jpg</picture>
@@ -1632,7 +1619,7 @@
       </offer>
       <offer id="1731" available="true">
         <url>https://snacks.in.ua/product/krispersy-miks/</url>
-        <price>209</price>
+        <price>202</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-149.jpg</picture>
@@ -1644,7 +1631,7 @@
       </offer>
       <offer id="1737" available="true">
         <url>https://snacks.in.ua/product/plotva-vyalena-z-ikroyu/</url>
-        <price>540</price>
+        <price>522</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-152.jpg</picture>
@@ -1655,9 +1642,21 @@
         <vendorCode>1737</vendorCode>
         <portal_category_id>10905</portal_category_id>
       </offer>
+      <offer id="1740" available="true">
+        <url>https://snacks.in.ua/product/plotva-vyalena/</url>
+        <price>609</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>258</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-154.jpg</picture>
+        <name>Плотва в’ялена з ікрою велика</name>
+        <vendor/>
+        <description><![CDATA[<p>Один з найсмачніших річкових представників закуски до пива. М'ясо плотви жирне, соковите і дуже смачне. Добре підходить до пива з класичним смаком.</p>]]></description>
+        <vendorCode>1740</vendorCode>
+        <portal_category_id>10905</portal_category_id>
+      </offer>
       <offer id="1742" available="true">
         <url>https://snacks.in.ua/product/sudak/</url>
-        <price>750</price>
+        <price>725</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-155.jpg</picture>
@@ -1670,7 +1669,7 @@
       </offer>
       <offer id="2423" available="true">
         <url>https://snacks.in.ua/product/suluguni-premium-rubleni-chyli-100g/</url>
-        <price>53</price>
+        <price>52</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file.jpg</picture>
@@ -1682,31 +1681,19 @@
       </offer>
       <offer id="2498" available="true">
         <url>https://snacks.in.ua/product/koryushka-dalekoshidna-500-gram/</url>
-        <price>398</price>
+        <price>385</price>
         <currencyId>UAH</currencyId>
         <categoryId>258</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/10/file-26.jpg</picture>
         <name>Корюшка далекосхідна 500 грам</name>
         <vendor/>
-        <description>Корюшка далекосхідна, в'ялена. Дуже смачний та корисний продукт. Вона мешкає в північних морях, має щільне м'ясо з відмінним смаком і приємним апетитним ароматом. Чиста вода та природне харчування дозволяють корюшці бути абсолютно натуральною та корисною.</description>
+        <description><![CDATA[<p>Корюшка далекосхідна, в'ялена. Дуже смачний та корисний продукт.  Вона мешкає в північних морях, має щільне м'ясо з відмінним смаком і приємним апетитним ароматом.  Чиста вода та природне харчування дозволяють корюшці бути абсолютно натуральною та корисною.</p>]]></description>
         <vendorCode>2498</vendorCode>
         <portal_category_id>10905</portal_category_id>
       </offer>
-      <offer id="1715" available="true">
-        <url>https://snacks.in.ua/product/syroyizhka-kopchena-100g/</url>
-        <price>39</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>220</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-141.jpg</picture>
-        <name>Сироїжка копчена 100г</name>
-        <vendor/>
-        <description/>
-        <vendorCode>1715</vendorCode>
-        <portal_category_id>20901</portal_category_id>
-      </offer>
       <offer id="1717" available="true">
         <url>https://snacks.in.ua/product/syroyizhka-molochna-100g/</url>
-        <price>39</price>
+        <price>38</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-142.jpg</picture>
@@ -1718,7 +1705,7 @@
       </offer>
       <offer id="1719" available="true">
         <url>https://snacks.in.ua/product/suluguni-palychka-molochna-100g/</url>
-        <price>45</price>
+        <price>44</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-143.jpg</picture>
@@ -1728,21 +1715,21 @@
         <vendorCode>1719</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
-      <offer id="1693" available="true">
-        <url>https://snacks.in.ua/product/ikra-trisky-ms-500-gram/</url>
-        <price>585</price>
+      <offer id="1721" available="true">
+        <url>https://snacks.in.ua/product/suluguni-premium-rubleni-bekon-100g/</url>
+        <price>52</price>
         <currencyId>UAH</currencyId>
-        <categoryId>412</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-130.jpg</picture>
-        <name>Ікра тріски МS 500 грам</name>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-144.jpg</picture>
+        <name>Сулугуні Premium рублені "Бекон" 100г</name>
         <vendor/>
-        <description><![CDATA[<p>Ікра тріски це джерело білка, йоду, поліненасичених кислот. Ікра тріски багата вітамінами А, D, C, PP, групи В, містить кальцій, калій, цинк, фосфор, йод, залізо та інші корисні речовини. Практично не містить вуглеводів, а багата білками, поліненасиченими жирними кислотами Омега-3, антиоксидантами. Ікра тріски засвоюється організмом людини майже повністю. Ікра тарані-це справжній делікатес, що часто використовується в кулінарії. Вона солиться, пресується, потім твердіє, після чого виходять маленькі брусочки, що вживаються в їжу або додаються в інші страви. Ікра тріски це дуже поживний продукт, причому як у зав'яленому, так і у свіжому вигляді</p>]]></description>
-        <vendorCode>1693</vendorCode>
-        <portal_category_id>1091206</portal_category_id>
+        <description/>
+        <vendorCode>1721</vendorCode>
+        <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1695" available="true">
         <url>https://snacks.in.ua/product/kosa-kopchena-syroyizhka-100g/</url>
-        <price>39</price>
+        <price>38</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-131.jpg</picture>
@@ -1754,7 +1741,7 @@
       </offer>
       <offer id="1697" available="true">
         <url>https://snacks.in.ua/product/kosa-suluguni-syroyizhka-100g/</url>
-        <price>39</price>
+        <price>38</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-132.jpg</picture>
@@ -1766,7 +1753,7 @@
       </offer>
       <offer id="1699" available="true">
         <url>https://snacks.in.ua/product/produkt-syrnyj-moczaretta-brus-2-kg/</url>
-        <price>495</price>
+        <price>479</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-133.jpg</picture>
@@ -1778,7 +1765,7 @@
       </offer>
       <offer id="1703" available="true">
         <url>https://snacks.in.ua/product/syr-maazdam-vagovyj/</url>
-        <price>518</price>
+        <price>501</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-135.jpg</picture>
@@ -1790,7 +1777,7 @@
       </offer>
       <offer id="1711" available="true">
         <url>https://snacks.in.ua/product/syr-suluguni-kosa/</url>
-        <price>390</price>
+        <price>377</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-139.jpg</picture>
@@ -1802,7 +1789,7 @@
       </offer>
       <offer id="1713" available="true">
         <url>https://snacks.in.ua/product/syroyizhka-travy-provans-100g/</url>
-        <price>39</price>
+        <price>38</price>
         <currencyId>UAH</currencyId>
         <categoryId>220</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-140.jpg</picture>
@@ -1812,21 +1799,21 @@
         <vendorCode>1713</vendorCode>
         <portal_category_id>20901</portal_category_id>
       </offer>
-      <offer id="1671" available="true">
-        <url>https://snacks.in.ua/product/hamon-s-v/</url>
-        <price>342</price>
+      <offer id="1715" available="true">
+        <url>https://snacks.in.ua/product/syroyizhka-kopchena-100g/</url>
+        <price>38</price>
         <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-119.jpg</picture>
-        <name>Хамон (с.в.)</name>
+        <categoryId>220</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-141.jpg</picture>
+        <name>Сироїжка копчена 100г</name>
         <vendor/>
-        <description><![CDATA[<p>Іспанський національний делікатес, сиров'ялене свиняче стегно.</p>]]></description>
-        <vendorCode>1671</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description/>
+        <vendorCode>1715</vendorCode>
+        <portal_category_id>20901</portal_category_id>
       </offer>
       <offer id="1673" available="true">
         <url>https://snacks.in.ua/product/ho-kurka/</url>
-        <price>84</price>
+        <price>82</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-120.jpg</picture>
@@ -1838,7 +1825,7 @@
       </offer>
       <offer id="1675" available="true">
         <url>https://snacks.in.ua/product/chorizo-katalonska/</url>
-        <price>450</price>
+        <price>435</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-121.jpg</picture>
@@ -1850,7 +1837,7 @@
       </offer>
       <offer id="1677" available="true">
         <url>https://snacks.in.ua/product/dzherky-yalovychyna-05/</url>
-        <price>521</price>
+        <price>504</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-122.jpg</picture>
@@ -1862,7 +1849,7 @@
       </offer>
       <offer id="1679" available="true">
         <url>https://snacks.in.ua/product/yalovychyna-teriyaki-50g/</url>
-        <price>59</price>
+        <price>57</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-123.jpg</picture>
@@ -1874,7 +1861,7 @@
       </offer>
       <offer id="1687" available="true">
         <url>https://snacks.in.ua/product/ikra-sudaka-vakuum-05-kg/</url>
-        <price>653</price>
+        <price>631</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-127.jpg</picture>
@@ -1886,7 +1873,7 @@
       </offer>
       <offer id="1689" available="true">
         <url>https://snacks.in.ua/product/ikra-sudaka-sushena-yastyk/</url>
-        <price>825</price>
+        <price>798</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-128.jpg</picture>
@@ -1898,7 +1885,7 @@
       </offer>
       <offer id="1691" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-po-dizhonski-0-5/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-129.jpg</picture>
@@ -1908,9 +1895,21 @@
         <vendorCode>1691</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
+      <offer id="1693" available="true">
+        <url>https://snacks.in.ua/product/ikra-trisky-ms-500-gram/</url>
+        <price>566</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>412</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-130.jpg</picture>
+        <name>Ікра тріски МS 500 грам</name>
+        <vendor/>
+        <description><![CDATA[<p>Ікра тріски це джерело білка, йоду, поліненасичених кислот. Ікра тріски багата вітамінами А, D, C, PP, групи В, містить кальцій, калій, цинк, фосфор, йод, залізо та інші корисні речовини. Практично не містить вуглеводів, а багата білками, поліненасиченими жирними кислотами Омега-3, антиоксидантами. Ікра тріски засвоюється організмом людини майже повністю. Ікра тарані-це справжній делікатес, що часто використовується в кулінарії. Вона солиться, пресується, потім твердіє, після чого виходять маленькі брусочки, що вживаються в їжу або додаються в інші страви. Ікра тріски це дуже поживний продукт, причому як у зав'яленому, так і у свіжому вигляді</p>]]></description>
+        <vendorCode>1693</vendorCode>
+        <portal_category_id>1091206</portal_category_id>
+      </offer>
       <offer id="2201" available="true">
         <url>https://snacks.in.ua/product/svynna-solomka-vyshnya/</url>
-        <price>387</price>
+        <price>374</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-263.jpg</picture>
@@ -1922,7 +1921,7 @@
       </offer>
       <offer id="1665" available="true">
         <url>https://snacks.in.ua/product/sudzhuk-50g/</url>
-        <price>39</price>
+        <price>38</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-116.jpg</picture>
@@ -1932,21 +1931,21 @@
         <vendorCode>1665</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1642" available="true">
-        <url>https://snacks.in.ua/product/kachka-pekinska/</url>
-        <price>465</price>
+      <offer id="1640" available="true">
+        <url>https://snacks.in.ua/product/dzherky-svynyachi-karnaczii-0-5/</url>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-104.jpg</picture>
-        <name>Качка Пекінська</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-103.jpg</picture>
+        <name>Джерки свинячі «Карнаціі» 0.5</name>
         <vendor/>
-        <description/>
-        <vendorCode>1642</vendorCode>
+        <description><![CDATA[<p>Мініатюрні запашні Карнаціі </p><p>Одна ковбаска важить не більше 50 грамів</p><p>Свинина у поєднанні з прянощами ще більше розкриває свій смак завдяки плоскій формі цого снека</p>]]></description>
+        <vendorCode>1640</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1644" available="true">
         <url>https://snacks.in.ua/product/kachka-syrovyalena/</url>
-        <price>415</price>
+        <price>401</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-105.jpg</picture>
@@ -1958,7 +1957,7 @@
       </offer>
       <offer id="1646" available="true">
         <url>https://snacks.in.ua/product/kachka-syrovyalena-100g/</url>
-        <price>98</price>
+        <price>95</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-106.jpg</picture>
@@ -1970,7 +1969,7 @@
       </offer>
       <offer id="1648" available="true">
         <url>https://snacks.in.ua/product/konyna/</url>
-        <price>510</price>
+        <price>493</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-107.jpg</picture>
@@ -1982,7 +1981,7 @@
       </offer>
       <offer id="1650" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-u-kunzhuti/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-108.jpg</picture>
@@ -1994,7 +1993,7 @@
       </offer>
       <offer id="1652" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-papryka-0-5/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-109.jpg</picture>
@@ -2006,7 +2005,7 @@
       </offer>
       <offer id="1654" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-chasnyk-0-5/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-110.jpg</picture>
@@ -2018,7 +2017,7 @@
       </offer>
       <offer id="1656" available="true">
         <url>https://snacks.in.ua/product/palychky-kurky/</url>
-        <price>953</price>
+        <price>921</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-111.jpg</picture>
@@ -2030,7 +2029,7 @@
       </offer>
       <offer id="1658" available="true">
         <url>https://snacks.in.ua/product/dzherky-svynyna-05/</url>
-        <price>533</price>
+        <price>515</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-112.jpg</picture>
@@ -2042,7 +2041,7 @@
       </offer>
       <offer id="1663" available="true">
         <url>https://snacks.in.ua/product/svynyna-chyli-50g/</url>
-        <price>60</price>
+        <price>58</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-115.jpg</picture>
@@ -2052,9 +2051,21 @@
         <vendorCode>1663</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
+      <offer id="1630" available="true">
+        <url>https://snacks.in.ua/product/basturma-yalovychyna-50g/</url>
+        <price>41</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-98.jpg</picture>
+        <name>Бастурма (яловичина) 50г</name>
+        <vendor/>
+        <description><![CDATA[<p>Ароматна бастурма - незамінний сиров'ялений продукт для любителів яскравих уподобань.</p><p></p><p>Цей вид бастурми готується з добірних соковитих шматків яловичини, найвищого гатунку. За основу взято старовинний вірменський рецепт: м'ясо маринується в солі та спеціях близько тижня.</p>]]></description>
+        <vendorCode>1630</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
+      </offer>
       <offer id="1632" available="true">
         <url>https://snacks.in.ua/product/basturma-500g/</url>
-        <price>455</price>
+        <price>440</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-99.jpg</picture>
@@ -2066,7 +2077,7 @@
       </offer>
       <offer id="1634" available="true">
         <url>https://snacks.in.ua/product/basturma-50g/</url>
-        <price>50</price>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-100.jpg</picture>
@@ -2078,7 +2089,7 @@
       </offer>
       <offer id="1636" available="true">
         <url>https://snacks.in.ua/product/indychka-chipsy/</url>
-        <price>885</price>
+        <price>856</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-101.jpg</picture>
@@ -2090,7 +2101,7 @@
       </offer>
       <offer id="1638" available="true">
         <url>https://snacks.in.ua/product/dzherky-kuryachi-karnacziya-0-5/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-102.jpg</picture>
@@ -2100,21 +2111,21 @@
         <vendorCode>1638</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1640" available="true">
-        <url>https://snacks.in.ua/product/dzherky-svynyachi-karnaczii-0-5/</url>
-        <price>443</price>
+      <offer id="1616" available="true">
+        <url>https://snacks.in.ua/product/kovbasa-s-k-mahan-75g/</url>
+        <price>64</price>
         <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-103.jpg</picture>
-        <name>Джерки свинячі «Карнаціі» 0.5</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-91.jpg</picture>
+        <name>Ковбаса с/к "Махан" 75г</name>
         <vendor/>
-        <description><![CDATA[<p>Мініатюрні запашні Карнаціі </p><p>Одна ковбаска важить не більше 50 грамів</p><p>Свинина у поєднанні з прянощами ще більше розкриває свій смак завдяки плоскій формі цого снека</p>]]></description>
-        <vendorCode>1640</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Ковбаса Махан, відрізняється делікатним смаком, який визначає конина, твердою пружною структурою і в той же час приємно тане в роті. Ковбаса махан має характерний вигляд, пружну щільність і зріз. Якісний махан майже чорного кольору з вираженим рубіновим відтінком, добре видним на просвіт. Складається з цільних шматків м'яса і великих шматочків жиру. Нарізка 75г.</p>]]></description>
+        <vendorCode>1616</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1618" available="true">
         <url>https://snacks.in.ua/product/kovbasky-madyaryky-100g/</url>
-        <price>83</price>
+        <price>80</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-92.jpg</picture>
@@ -2126,7 +2137,7 @@
       </offer>
       <offer id="1620" available="true">
         <url>https://snacks.in.ua/product/salyami-mini/</url>
-        <price>713</price>
+        <price>689</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-93.jpg</picture>
@@ -2138,7 +2149,7 @@
       </offer>
       <offer id="1622" available="true">
         <url>https://snacks.in.ua/product/salyami-koktelna/</url>
-        <price>795</price>
+        <price>769</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-94.jpg</picture>
@@ -2150,7 +2161,7 @@
       </offer>
       <offer id="1628" available="true">
         <url>https://snacks.in.ua/product/basturma-kuryacha-50g/</url>
-        <price>41</price>
+        <price>40</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-97.jpg</picture>
@@ -2160,21 +2171,21 @@
         <vendorCode>1628</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1630" available="true">
-        <url>https://snacks.in.ua/product/basturma-yalovychyna-50g/</url>
-        <price>42</price>
+      <offer id="1596" available="true">
+        <url>https://snacks.in.ua/product/kabanos-one-bite-delicate-50g/</url>
+        <price>48</price>
         <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-98.jpg</picture>
-        <name>Бастурма (яловичина) 50г</name>
+        <categoryId>147</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-81.jpg</picture>
+        <name>Кабанос ONE BITE DELICATE 50г</name>
         <vendor/>
-        <description><![CDATA[<p>Ароматна бастурма - незамінний сиров'ялений продукт для любителів яскравих уподобань.</p><p></p><p>Цей вид бастурми готується з добірних соковитих шматків яловичини, найвищого гатунку. За основу взято старовинний вірменський рецепт: м'ясо маринується в солі та спеціях близько тижня.</p>]]></description>
-        <vendorCode>1630</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>DELICATE</p><p></p><p>З ніжної курятини</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
+        <vendorCode>1596</vendorCode>
+        <portal_category_id>2110301</portal_category_id>
       </offer>
       <offer id="1598" available="true">
         <url>https://snacks.in.ua/product/kabanos-one-bite-hotspicy-50g/</url>
-        <price>56</price>
+        <price>54</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-82.jpg</picture>
@@ -2186,7 +2197,7 @@
       </offer>
       <offer id="1600" available="true">
         <url>https://snacks.in.ua/product/kabanos-one-bite-original-50g/</url>
-        <price>50</price>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-83.jpg</picture>
@@ -2198,7 +2209,7 @@
       </offer>
       <offer id="1602" available="true">
         <url>https://snacks.in.ua/product/kabanos-franczuzkyj-z-tryufelem-90g/</url>
-        <price>68</price>
+        <price>66</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-84.jpg</picture>
@@ -2210,7 +2221,7 @@
       </offer>
       <offer id="1604" available="true">
         <url>https://snacks.in.ua/product/kabanosy-avstrijski-pryani-90g/</url>
-        <price>68</price>
+        <price>66</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-85.jpg</picture>
@@ -2222,7 +2233,7 @@
       </offer>
       <offer id="1606" available="true">
         <url>https://snacks.in.ua/product/kabanosy-ispanski-gostri-90g/</url>
-        <price>68</price>
+        <price>66</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-86.jpg</picture>
@@ -2234,7 +2245,7 @@
       </offer>
       <offer id="1608" available="true">
         <url>https://snacks.in.ua/product/kabanosy-polski/</url>
-        <price>594</price>
+        <price>575</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-87.jpg</picture>
@@ -2246,7 +2257,7 @@
       </offer>
       <offer id="1610" available="true">
         <url>https://snacks.in.ua/product/kabanosy-ukrayina-klasyk-210/</url>
-        <price>140</price>
+        <price>135</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-88.jpg</picture>
@@ -2270,7 +2281,7 @@
       </offer>
       <offer id="1614" available="true">
         <url>https://snacks.in.ua/product/kabanosy-ukrayina-perecz-210-g/</url>
-        <price>140</price>
+        <price>135</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-90.jpg</picture>
@@ -2280,33 +2291,33 @@
         <vendorCode>1614</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1616" available="true">
-        <url>https://snacks.in.ua/product/kovbasa-s-k-mahan-75g/</url>
-        <price>66</price>
+      <offer id="1594" available="true">
+        <url>https://snacks.in.ua/product/kabanos-one-bite-chili-50g/</url>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-91.jpg</picture>
-        <name>Ковбаса с/к "Махан" 75г</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-80.jpg</picture>
+        <name>Кабанос ONE BITE CHILI 50г</name>
         <vendor/>
-        <description><![CDATA[<p>Ковбаса Махан, відрізняється делікатним смаком, який визначає конина, твердою пружною структурою і в той же час приємно тане в роті. Ковбаса махан має характерний вигляд, пружну щільність і зріз. Якісний махан майже чорного кольору з вираженим рубіновим відтінком, добре видним на просвіт. Складається з цільних шматків м'яса і великих шматочків жиру. Нарізка 75г.</p>]]></description>
-        <vendorCode>1616</vendorCode>
+        <description><![CDATA[<p>CHILI</p><p></p><p>З добірної свинини та червоного перцю</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
+        <vendorCode>1594</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1596" available="true">
-        <url>https://snacks.in.ua/product/kabanos-one-bite-delicate-50g/</url>
-        <price>50</price>
+      <offer id="1576" available="true">
+        <url>https://snacks.in.ua/product/vuha-svynyachi-tradyczijni/</url>
+        <price>29</price>
         <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-81.jpg</picture>
-        <name>Кабанос ONE BITE DELICATE 50г</name>
+        <categoryId>411</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-71.jpg</picture>
+        <name>Вуха свинячі "Традиційні"</name>
         <vendor/>
-        <description><![CDATA[<p>DELICATE</p><p></p><p>З ніжної курятини</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
-        <vendorCode>1596</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
+        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
+        <vendorCode>1576</vendorCode>
+        <portal_category_id>2350606</portal_category_id>
       </offer>
       <offer id="1578" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-specziyi/</url>
-        <price>30</price>
+        <price>29</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-72.jpg</picture>
@@ -2318,7 +2329,7 @@
       </offer>
       <offer id="1580" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-holodecz-hrin/</url>
-        <price>30</price>
+        <price>29</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-73.jpg</picture>
@@ -2330,7 +2341,7 @@
       </offer>
       <offer id="1582" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-chasnyk/</url>
-        <price>30</price>
+        <price>29</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-74.jpg</picture>
@@ -2342,7 +2353,7 @@
       </offer>
       <offer id="1584" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-czili/</url>
-        <price>273</price>
+        <price>264</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-75.jpg</picture>
@@ -2354,7 +2365,7 @@
       </offer>
       <offer id="1586" available="true">
         <url>https://snacks.in.ua/product/vushky-hryushky-brushetta/</url>
-        <price>409</price>
+        <price>396</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-76.jpg</picture>
@@ -2366,7 +2377,7 @@
       </offer>
       <offer id="1588" available="true">
         <url>https://snacks.in.ua/product/vushky-hryushky-z-adzhykoyu/</url>
-        <price>409</price>
+        <price>396</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-77.jpg</picture>
@@ -2378,7 +2389,7 @@
       </offer>
       <offer id="1590" available="true">
         <url>https://snacks.in.ua/product/vushky-hryushky-holodecz-z-hronom/</url>
-        <price>409</price>
+        <price>396</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-78.jpg</picture>
@@ -2390,7 +2401,7 @@
       </offer>
       <offer id="1592" available="true">
         <url>https://snacks.in.ua/product/kabanos-one-bite-cheese-50g/</url>
-        <price>50</price>
+        <price>48</price>
         <currencyId>UAH</currencyId>
         <categoryId>147</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-79.jpg</picture>
@@ -2400,21 +2411,21 @@
         <vendorCode>1592</vendorCode>
         <portal_category_id>2110301</portal_category_id>
       </offer>
-      <offer id="1594" available="true">
-        <url>https://snacks.in.ua/product/kabanos-one-bite-chili-50g/</url>
-        <price>50</price>
+      <offer id="1566" available="true">
+        <url>https://snacks.in.ua/product/chipsy-syr/</url>
+        <price>170</price>
         <currencyId>UAH</currencyId>
-        <categoryId>147</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-80.jpg</picture>
-        <name>Кабанос ONE BITE CHILI 50г</name>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-68.jpg</picture>
+        <name>Чіпси сир</name>
         <vendor/>
-        <description><![CDATA[<p>CHILI</p><p></p><p>З добірної свинини та червоного перцю</p><p></p><p>Готові до споживання, в їстівній оболонці. Упаковані в захисному середовищі.</p><p>Термін придатності в газовому середовищі – 90 діб при температурі від +2˚С до +25˚С і відносній вологості повітря від 75% до 78%. Після відкриття упаковки спожити протягом 2 діб.</p>]]></description>
-        <vendorCode>1594</vendorCode>
-        <portal_category_id>2110301</portal_category_id>
+        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Сир»</p><p>Фасування 1кг</p>]]></description>
+        <vendorCode>1566</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
       </offer>
       <offer id="1568" available="true">
         <url>https://snacks.in.ua/product/chipsy-smetana-zelen/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-68.jpg</picture>
@@ -2426,7 +2437,7 @@
       </offer>
       <offer id="1569" available="true">
         <url>https://snacks.in.ua/product/chipsy-shashlyk/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-68.jpg</picture>
@@ -2438,7 +2449,7 @@
       </offer>
       <offer id="1570" available="true">
         <url>https://snacks.in.ua/product/chipsy-fasovani-syr/</url>
-        <price>152</price>
+        <price>147</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
@@ -2450,7 +2461,7 @@
       </offer>
       <offer id="1572" available="true">
         <url>https://snacks.in.ua/product/chipsy-fasovani-smetana/</url>
-        <price>152</price>
+        <price>147</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
@@ -2462,7 +2473,7 @@
       </offer>
       <offer id="1573" available="true">
         <url>https://snacks.in.ua/product/chipsy-fasovani-shashlyk/</url>
-        <price>152</price>
+        <price>147</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-69.jpg</picture>
@@ -2474,7 +2485,7 @@
       </offer>
       <offer id="1574" available="true">
         <url>https://snacks.in.ua/product/vuha-svynyachi-klasychni/</url>
-        <price>30</price>
+        <price>29</price>
         <currencyId>UAH</currencyId>
         <categoryId>411</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-70.jpg</picture>
@@ -2484,21 +2495,21 @@
         <vendorCode>1574</vendorCode>
         <portal_category_id>2350606</portal_category_id>
       </offer>
-      <offer id="1576" available="true">
-        <url>https://snacks.in.ua/product/vuha-svynyachi-tradyczijni/</url>
-        <price>30</price>
+      <offer id="1560" available="true">
+        <url>https://snacks.in.ua/product/pelety-syr/</url>
+        <price>272</price>
         <currencyId>UAH</currencyId>
-        <categoryId>411</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-71.jpg</picture>
-        <name>Вуха свинячі "Традиційні"</name>
+        <categoryId>113</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-65.jpg</picture>
+        <name>Пелети сир</name>
         <vendor/>
-        <description><![CDATA[<p>Вуха мариновані - різані</p><p></p><p>Той, хто жодного разу не пробував свинячі вушка, скептично ставиться до них. А дарма, адже вони невимовно багаті не тільки корисними мінералами, але й вітамінами.</p><p></p><p>Фасування 90грам</p>]]></description>
-        <vendorCode>1576</vendorCode>
-        <portal_category_id>2350606</portal_category_id>
+        <description><![CDATA[<p>Дуже хрусткі та ніжні картопляні чіпси займають окреме місце серед інших снеків</p><p></p><p>Неймовірно смачний та легкий снек нікого не залишить байдужим !</p><p></p><p>Наш інтернет-магазин пропонує вам купити картопляні пелети  за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
+        <vendorCode>1560</vendorCode>
+        <portal_category_id>2350602</portal_category_id>
       </offer>
       <offer id="1562" available="true">
         <url>https://snacks.in.ua/product/suhari-tomchyky-holodecz-hrin/</url>
-        <price>102</price>
+        <price>98</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-66.jpg</picture>
@@ -2510,7 +2521,7 @@
       </offer>
       <offer id="1564" available="true">
         <url>https://snacks.in.ua/product/suhari-tomchyky-chasnyk-500-gram/</url>
-        <price>102</price>
+        <price>98</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-67.jpg</picture>
@@ -2520,21 +2531,21 @@
         <vendorCode>1564</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1566" available="true">
-        <url>https://snacks.in.ua/product/chipsy-syr/</url>
-        <price>176</price>
+      <offer id="1540" available="true">
+        <url>https://snacks.in.ua/product/mygdal-solonyj/</url>
+        <price>557</price>
         <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-68.jpg</picture>
-        <name>Чіпси сир</name>
+        <categoryId>87</categoryId>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-55.jpg</picture>
+        <name>Мигдаль солоний</name>
         <vendor/>
-        <description><![CDATA[<p>Пропонуємо до Вашої уваги чіпси пластини  зі смаком  «Сир»</p><p>Фасування 1кг</p>]]></description>
-        <vendorCode>1566</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
+        <description><![CDATA[<p>Смажений солоний мигдаль має яскраво вираженим смак і приємний аромат. Крім того, ретельно обсмажені ядра цього горіха здатні принести масу користі людині. Вони містять ціле джерело поживних речовин, необхідних організму для підтримки тонусу протягом усього дня.</p>]]></description>
+        <vendorCode>1540</vendorCode>
+        <portal_category_id>104</portal_category_id>
       </offer>
       <offer id="1542" available="true">
         <url>https://snacks.in.ua/product/pyvnyj-miks-v-tubusi/</url>
-        <price>311</price>
+        <price>301</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-56.jpg</picture>
@@ -2546,7 +2557,7 @@
       </offer>
       <offer id="1544" available="true">
         <url>https://snacks.in.ua/product/fistashka-ssha/</url>
-        <price>780</price>
+        <price>754</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-57.jpg</picture>
@@ -2558,7 +2569,7 @@
       </offer>
       <offer id="1546" available="true">
         <url>https://snacks.in.ua/product/funduk-solonyj/</url>
-        <price>698</price>
+        <price>675</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-58.jpg</picture>
@@ -2570,7 +2581,7 @@
       </offer>
       <offer id="1548" available="true">
         <url>https://snacks.in.ua/product/grinky-zhytni-tomchyky-holodecz-hrin-500-gram/</url>
-        <price>102</price>
+        <price>98</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-59.jpg</picture>
@@ -2582,7 +2593,7 @@
       </offer>
       <offer id="1550" available="true">
         <url>https://snacks.in.ua/product/grinky-zhytni-tomchyky-chasnyk-500-gram/</url>
-        <price>102</price>
+        <price>98</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-60.jpg</picture>
@@ -2594,7 +2605,7 @@
       </offer>
       <offer id="1552" available="true">
         <url>https://snacks.in.ua/product/pelety-bekon/</url>
-        <price>281</price>
+        <price>272</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-61.jpg</picture>
@@ -2606,7 +2617,7 @@
       </offer>
       <offer id="1554" available="true">
         <url>https://snacks.in.ua/product/pelety-vasabi/</url>
-        <price>281</price>
+        <price>272</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-62.jpg</picture>
@@ -2618,7 +2629,7 @@
       </offer>
       <offer id="1556" available="true">
         <url>https://snacks.in.ua/product/pelety-krab/</url>
-        <price>281</price>
+        <price>272</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-63.jpg</picture>
@@ -2630,7 +2641,7 @@
       </offer>
       <offer id="1558" available="true">
         <url>https://snacks.in.ua/product/pelety-smetana/</url>
-        <price>281</price>
+        <price>272</price>
         <currencyId>UAH</currencyId>
         <categoryId>113</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-64.jpg</picture>
@@ -2640,21 +2651,9 @@
         <vendorCode>1558</vendorCode>
         <portal_category_id>2350602</portal_category_id>
       </offer>
-      <offer id="1560" available="true">
-        <url>https://snacks.in.ua/product/pelety-syr/</url>
-        <price>281</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>113</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-65.jpg</picture>
-        <name>Пелети сир</name>
-        <vendor/>
-        <description><![CDATA[<p>Дуже хрусткі та ніжні картопляні чіпси займають окреме місце серед інших снеків</p><p></p><p>Неймовірно смачний та легкий снек нікого не залишить байдужим !</p><p></p><p>Наш інтернет-магазин пропонує вам купити картопляні пелети  за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
-        <vendorCode>1560</vendorCode>
-        <portal_category_id>2350602</portal_category_id>
-      </offer>
       <offer id="1534" available="true">
         <url>https://snacks.in.ua/product/kukurudza-barbekyu/</url>
-        <price>236</price>
+        <price>228</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-52.jpg</picture>
@@ -2666,7 +2665,7 @@
       </offer>
       <offer id="1536" available="true">
         <url>https://snacks.in.ua/product/kukurudza-med-girchyczya/</url>
-        <price>236</price>
+        <price>228</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-53.jpg</picture>
@@ -2676,21 +2675,21 @@
         <vendorCode>1536</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
-      <offer id="1540" available="true">
-        <url>https://snacks.in.ua/product/mygdal-solonyj/</url>
-        <price>576</price>
+      <offer id="1538" available="true">
+        <url>https://snacks.in.ua/product/kukurudza-syr/</url>
+        <price>228</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
-        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-55.jpg</picture>
-        <name>Мигдаль солоний</name>
+        <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-54.jpg</picture>
+        <name>Кукурудза сир</name>
         <vendor/>
-        <description><![CDATA[<p>Смажений солоний мигдаль має яскраво вираженим смак і приємний аромат. Крім того, ретельно обсмажені ядра цього горіха здатні принести масу користі людині. Вони містять ціле джерело поживних речовин, необхідних організму для підтримки тонусу протягом усього дня.</p>]]></description>
-        <vendorCode>1540</vendorCode>
+        <description><![CDATA[<p>Кукурудза зі смаком Сиру</p><p>Особлива технологія обжареня зерен ,з додаванням спецій , роблять цей продукт неймовірним !</p><p>Вона поєднала у собі ніжність попкорну та хрусткість арахісу</p><p></p><p>Наш інтернет-магазин пропонує вам купити кукурудзу зі смаком сиру за доступною ціною. Ми пропонуємо тільки натуральний продукт, доставку якого можна замовити в будь-яку точку України.</p>]]></description>
+        <vendorCode>1538</vendorCode>
         <portal_category_id>104</portal_category_id>
       </offer>
       <offer id="1518" available="true">
         <url>https://snacks.in.ua/product/kranchi-vasabi/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-44.jpg</picture>
@@ -2702,7 +2701,7 @@
       </offer>
       <offer id="1522" available="true">
         <url>https://snacks.in.ua/product/kranchi-krab/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-46.jpg</picture>
@@ -2714,7 +2713,7 @@
       </offer>
       <offer id="1524" available="true">
         <url>https://snacks.in.ua/product/kranchi-syr/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-47.jpg</picture>
@@ -2726,7 +2725,7 @@
       </offer>
       <offer id="1526" available="true">
         <url>https://snacks.in.ua/product/kranchi-smetana/</url>
-        <price>173</price>
+        <price>167</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-48.jpg</picture>
@@ -2738,7 +2737,7 @@
       </offer>
       <offer id="1528" available="true">
         <url>https://snacks.in.ua/product/krispersy-bekon/</url>
-        <price>209</price>
+        <price>202</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-49.jpg</picture>
@@ -2750,7 +2749,7 @@
       </offer>
       <offer id="1530" available="true">
         <url>https://snacks.in.ua/product/krispersy-vasabi/</url>
-        <price>209</price>
+        <price>202</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-50.jpg</picture>
@@ -2762,7 +2761,7 @@
       </offer>
       <offer id="1532" available="true">
         <url>https://snacks.in.ua/product/krispersy-syr/</url>
-        <price>209</price>
+        <price>202</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-51.jpg</picture>
@@ -2774,7 +2773,7 @@
       </offer>
       <offer id="1500" available="true">
         <url>https://snacks.in.ua/product/tunecz-z-perczem-500-gram/</url>
-        <price>315</price>
+        <price>305</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-35.jpg</picture>
@@ -2786,7 +2785,7 @@
       </offer>
       <offer id="1502" available="true">
         <url>https://snacks.in.ua/product/chyli-kalmar-500gram/</url>
-        <price>469</price>
+        <price>454</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-36.jpg</picture>
@@ -2798,7 +2797,7 @@
       </offer>
       <offer id="1504" available="true">
         <url>https://snacks.in.ua/product/arahis-bekon/</url>
-        <price>228</price>
+        <price>221</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-37.jpg</picture>
@@ -2810,7 +2809,7 @@
       </offer>
       <offer id="1506" available="true">
         <url>https://snacks.in.ua/product/arahis-vasabi/</url>
-        <price>228</price>
+        <price>221</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-38.jpg</picture>
@@ -2822,7 +2821,7 @@
       </offer>
       <offer id="1508" available="true">
         <url>https://snacks.in.ua/product/arahis-syr/</url>
-        <price>228</price>
+        <price>221</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-39.jpg</picture>
@@ -2834,7 +2833,7 @@
       </offer>
       <offer id="1510" available="true">
         <url>https://snacks.in.ua/product/arahis-solonyj/</url>
-        <price>228</price>
+        <price>221</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-40.jpg</picture>
@@ -2846,7 +2845,7 @@
       </offer>
       <offer id="1512" available="true">
         <url>https://snacks.in.ua/product/arahis-shidnyj/</url>
-        <price>251</price>
+        <price>243</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-41.jpg</picture>
@@ -2858,7 +2857,7 @@
       </offer>
       <offer id="1514" available="true">
         <url>https://snacks.in.ua/product/keshyu-sil/</url>
-        <price>683</price>
+        <price>660</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-42.jpg</picture>
@@ -2870,7 +2869,7 @@
       </offer>
       <offer id="1516" available="true">
         <url>https://snacks.in.ua/product/kranchi-bekon/</url>
-        <price>176</price>
+        <price>170</price>
         <currencyId>UAH</currencyId>
         <categoryId>87</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-43.jpg</picture>
@@ -2882,7 +2881,7 @@
       </offer>
       <offer id="1498" available="true">
         <url>https://snacks.in.ua/product/tunecz-2-sort/</url>
-        <price>660</price>
+        <price>638</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-34.jpg</picture>
@@ -2894,7 +2893,7 @@
       </offer>
       <offer id="1478" available="true">
         <url>https://snacks.in.ua/product/solomka-sazana-vakuum/</url>
-        <price>683</price>
+        <price>660</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-24.jpg</picture>
@@ -2906,7 +2905,7 @@
       </offer>
       <offer id="1480" available="true">
         <url>https://snacks.in.ua/product/solomka-sazana-vakuum-2/</url>
-        <price>990</price>
+        <price>957</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-24.jpg</picture>
@@ -2918,7 +2917,7 @@
       </offer>
       <offer id="1481" available="true">
         <url>https://snacks.in.ua/product/struzhka-kalmaru-500gram/</url>
-        <price>405</price>
+        <price>392</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-25.jpg</picture>
@@ -2930,7 +2929,7 @@
       </offer>
       <offer id="1483" available="true">
         <url>https://snacks.in.ua/product/struzhka-krabu-500gram/</url>
-        <price>428</price>
+        <price>414</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-26.jpg</picture>
@@ -2942,7 +2941,7 @@
       </offer>
       <offer id="1485" available="true">
         <url>https://snacks.in.ua/product/somga-1-sort/</url>
-        <price>675</price>
+        <price>653</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-27.jpg</picture>
@@ -2954,7 +2953,7 @@
       </offer>
       <offer id="1487" available="true">
         <url>https://snacks.in.ua/product/zhovtyj-smugastyk-500-gram/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-28.jpg</picture>
@@ -2967,7 +2966,7 @@
       </offer>
       <offer id="1490" available="true">
         <url>https://snacks.in.ua/product/trygla-500gram/</url>
-        <price>423</price>
+        <price>409</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-30.jpg</picture>
@@ -2979,7 +2978,7 @@
       </offer>
       <offer id="1492" available="true">
         <url>https://snacks.in.ua/product/triska-z-perczem-500-gram/</url>
-        <price>375</price>
+        <price>363</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-31.jpg</picture>
@@ -2991,7 +2990,7 @@
       </offer>
       <offer id="1494" available="true">
         <url>https://snacks.in.ua/product/triska-sol-sush-500gram/</url>
-        <price>353</price>
+        <price>341</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-32.jpg</picture>
@@ -3003,7 +3002,7 @@
       </offer>
       <offer id="1496" available="true">
         <url>https://snacks.in.ua/product/tunecz-1-sort-500g/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-33.jpg</picture>
@@ -3015,7 +3014,7 @@
       </offer>
       <offer id="1468" available="true">
         <url>https://snacks.in.ua/product/putasu-shhuka-500gram/</url>
-        <price>413</price>
+        <price>399</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-19.jpg</picture>
@@ -3027,7 +3026,7 @@
       </offer>
       <offer id="1470" available="true">
         <url>https://snacks.in.ua/product/rybna-pavutynka-bila/</url>
-        <price>765</price>
+        <price>740</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-20.jpg</picture>
@@ -3039,7 +3038,7 @@
       </offer>
       <offer id="1472" available="true">
         <url>https://snacks.in.ua/product/rybna-pavutynka-z-perczem/</url>
-        <price>833</price>
+        <price>805</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-21.jpg</picture>
@@ -3051,7 +3050,7 @@
       </offer>
       <offer id="1474" available="true">
         <url>https://snacks.in.ua/product/smugy-kalmaru-500gram/</url>
-        <price>469</price>
+        <price>454</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-22.jpg</picture>
@@ -3063,7 +3062,7 @@
       </offer>
       <offer id="1476" available="true">
         <url>https://snacks.in.ua/product/smuzhka-trisky-500gram/</url>
-        <price>368</price>
+        <price>356</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-23.jpg</picture>
@@ -3075,7 +3074,7 @@
       </offer>
       <offer id="1456" available="true">
         <url>https://snacks.in.ua/product/pavutynka/</url>
-        <price>788</price>
+        <price>762</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-13.jpg</picture>
@@ -3087,7 +3086,7 @@
       </offer>
       <offer id="1458" available="true">
         <url>https://snacks.in.ua/product/pavutynka-kalmara-z-percz-1-sort-500gram/</url>
-        <price>413</price>
+        <price>399</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-14.jpg</picture>
@@ -3099,7 +3098,7 @@
       </offer>
       <offer id="1460" available="true">
         <url>https://snacks.in.ua/product/palychka-kefali-vakuum/</url>
-        <price>1050</price>
+        <price>1015</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-15.jpg</picture>
@@ -3111,7 +3110,7 @@
       </offer>
       <offer id="1462" available="true">
         <url>https://snacks.in.ua/product/peruanskyj-kalmar-500gram/</url>
-        <price>413</price>
+        <price>399</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-16.jpg</picture>
@@ -3123,7 +3122,7 @@
       </offer>
       <offer id="1466" available="true">
         <url>https://snacks.in.ua/product/putasu-shhuka-z-perczem-500gram/</url>
-        <price>398</price>
+        <price>385</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-18.jpg</picture>
@@ -3135,7 +3134,7 @@
       </offer>
       <offer id="1430" available="true">
         <url>https://snacks.in.ua/product/anchous-1-sort-500gram/</url>
-        <price>274</price>
+        <price>265</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file.jpg</picture>
@@ -3147,7 +3146,7 @@
       </offer>
       <offer id="1434" available="true">
         <url>https://snacks.in.ua/product/gold-fish-metelyk-500gram/</url>
-        <price>323</price>
+        <price>312</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-2.jpg</picture>
@@ -3159,7 +3158,7 @@
       </offer>
       <offer id="1436" available="true">
         <url>https://snacks.in.ua/product/gorbusha-1-sort-500gram/</url>
-        <price>398</price>
+        <price>385</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-3.jpg</picture>
@@ -3171,7 +3170,7 @@
       </offer>
       <offer id="1438" available="true">
         <url>https://snacks.in.ua/product/ikryani-palychky-firmovi-tm/</url>
-        <price>576</price>
+        <price>557</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-4.jpg</picture>
@@ -3183,7 +3182,7 @@
       </offer>
       <offer id="1440" available="true">
         <url>https://snacks.in.ua/product/solomka-lososya-ikryanyk-1-kg/</url>
-        <price>593</price>
+        <price>573</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-5.jpg</picture>
@@ -3195,7 +3194,7 @@
       </offer>
       <offer id="1444" available="true">
         <url>https://snacks.in.ua/product/kalmar-shanhajskyj-gostryj-500gram/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-7.jpg</picture>
@@ -3207,7 +3206,7 @@
       </offer>
       <offer id="1446" available="true">
         <url>https://snacks.in.ua/product/kilcze-kalmaru-500gram/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-8.jpg</picture>
@@ -3219,7 +3218,7 @@
       </offer>
       <offer id="1448" available="true">
         <url>https://snacks.in.ua/product/kilcze-kalmaru-perecz/</url>
-        <price>435</price>
+        <price>421</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-9.jpg</picture>
@@ -3231,7 +3230,7 @@
       </offer>
       <offer id="1452" available="true">
         <url>https://snacks.in.ua/product/krabovi-smugy-500gram/</url>
-        <price>443</price>
+        <price>428</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-11.jpg</picture>
@@ -3243,7 +3242,7 @@
       </offer>
       <offer id="1454" available="true">
         <url>https://snacks.in.ua/product/kryzhana/</url>
-        <price>420</price>
+        <price>406</price>
         <currencyId>UAH</currencyId>
         <categoryId>412</categoryId>
         <picture>https://snacks.in.ua/wp-content/uploads/2023/07/file-12.jpg</picture>
