@@ -991,7 +991,7 @@
                         </offer>
 
 
-                        <offer id="1696934477" available="true">
+                        <offer id="1696934477" available="false">
                                 <price>189</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934265</categoryId>
@@ -1041,7 +1041,7 @@
                                 <param name="Фасовка">Пастеризованная</param>
                         </offer>
 
-                        <offer id="1696934400" available="true">
+                        <offer id="1696934400" available="false">
                                 <price>259</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934265</categoryId>
@@ -1093,7 +1093,7 @@
                                 <param name="Срок годности" unit="мес">6</param>
                         </offer>
 
-                        <offer id="1697377326" available="true">
+                        <offer id="1697377326" available="false">
                                 <price>189</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934265</categoryId>
@@ -1139,7 +1139,7 @@
                                 <param name="Фасовка">Пастеризованная</param>
                         </offer>
 
-                        <offer id="1697398290" available="true">
+                        <offer id="1697398290" available="false">
                                 <price>259</price>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934265</categoryId>
