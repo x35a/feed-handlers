@@ -623,7 +623,8 @@
 
                         </offer>
                         <offer id="1696934452" available="true">
-                                <price>4199</price>
+                                <price>4099</price>
+                                <oldprice>4199</oldprice>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4950312411_umyvalnik-rakovina-nad.jpg</picture>
@@ -743,7 +744,8 @@
 
                         </offer>
                         <offer id="1696934464" available="true">
-                                <price>4199</price>
+                                <price>4099</price>
+                                <oldprice>4199</oldprice>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://images.prom.ua/4950854152_umyvalnik-rakovina-nad.jpg</picture>
@@ -863,7 +865,8 @@
 
                         </offer>
                         <offer id="1699186614" available="true">
-                                <price>3799</price>
+                                <price>3599</price>
+                                <oldprice>3799</oldprice>
                                 <currencyId>UAH</currencyId>
                                 <categoryId>706934295</categoryId>
                                 <picture>https://ekoplast.clutch.cx.ua/wp-content/uploads/2023/11/img_9284-photoroom.png-photoroom.png</picture>
