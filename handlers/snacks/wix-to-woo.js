@@ -3,8 +3,17 @@ const parse = require('csv-parse/lib/sync')
 const stringify = require('csv-stringify/lib/sync')
 const fetchFeed = require('../../common/fetch-feed')
 const feedOutputPath = './handlers/snacks/output/wix-to-woo.csv'
-const { wixTSVUrl, markup } = require('./settings')
-const { excludeById } = require('./exclude-products')
+
+// settings
+const markup = 1.35
+const wixTSVUrl =
+    'https://manage.wix.com/catalog-feed/v1/feed.tsv?marketplace=google&version=1&token=at7rMOXsoIy9Sxvf9FdA2BbAq12yaa%2BqMr8FW6N01ZFoYommMHbQCGS4DpHFpi4s&productsOnly=false' // feed url
+const excludeById = [
+    'e40487a9-1425-d3cc-bef5-bd167a6f39dc', // Креветка варено-морожена 90-120 ( лише по місту Дніпро)
+    'b84e38a8-4df3-efff-ddda-9d2fecff28a7',
+    'd103611d-cdab-b49b-19f2-acb715fed442',
+    'f4bd30e3-aac1-3a37-df19-bcc5afb68e50'
+]
 
 // tsv to csv
 ;(async () => {
