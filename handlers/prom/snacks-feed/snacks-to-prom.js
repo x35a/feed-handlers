@@ -9,8 +9,7 @@ const snacksFeedUrl =
 
 const outputFeedPath = './handlers/prom/snacks-feed/output/snacks-to-prom.xml'
 const fetchFeed = require('../../../common/fetch-feed')
-const { markup } = require('../../snacks/settings')
-const snacksWooMarkup = markup
+const { snacksWooMarkup } = require('../../snacks/wix-to-woo')
 const promMarkup = 1.45
 
 // woo categories: portal_category_id

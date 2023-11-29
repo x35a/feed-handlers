@@ -6,6 +6,7 @@ const feedOutputPath = './handlers/snacks/output/wix-to-woo.csv'
 
 // settings
 const markup = 1.35
+exports.snacksWooMarkup = markup
 const wixTSVUrl =
     'https://manage.wix.com/catalog-feed/v1/feed.tsv?marketplace=google&version=1&token=at7rMOXsoIy9Sxvf9FdA2BbAq12yaa%2BqMr8FW6N01ZFoYommMHbQCGS4DpHFpi4s&productsOnly=false' // feed url
 const excludeById = [
