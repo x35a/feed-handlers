@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-01-01 08:20">
+<yml_catalog date="2024-01-27 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,83 +17,6 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
-      <offer id="18376" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umyvalnika-topaz-zara-tz-13201-h37</url>
-        <price>1464</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/283/IMG283c84f1d3e350ca81ada3e49d42b8f0.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3ed/IMG3eddbe316427f30f050c65ef734f89da.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/922/IMG922f5b542a7af546a3ba5bf288eb1626.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/35c/IMG35cd74defca488dedba6653af428bfa1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a11/IMGa110732377eeaca5f94b93c7ceeb45fb.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Topaz Zara-TZ 13201-H37</name>
-        <vendor>TOPAZ</vendor>
-        <vendorCode>GZR-12218</vendorCode>
-        <model>Topaz Zara</model>
-        <kod>V18376</kod>
-        <description>Змішувач для умивальника TOPAZ ZARA-TZ 13201-H37.  &#xD;
-&#xD;
-Для виготовлення продукції TOPAZ використовуються матеріали відповідають строгим міжнародним гігієнічним стандартам та екологічним нормам.&#xD;
-&#xD;
-Всі етапи створення продукції ретельно контролюються, що дозволяє компанії гарантувати бездоганну якість кожного виробу, який оцінили тисячі споживачів у світі в цілому, і в Україні зокрема.&#xD;
-&#xD;
-Також ТМ TOPAZ схвалена вітчизняними професіоналами.&#xD;
-&#xD;
-З кожним роком компанія вдосконалює свої технології, розробляючи все нові моделі, виходячи на новий рівень якості виробництва.&#xD;
-&#xD;
-Доступні ціни ТМ TOPAZ дозволяють придбати зручну, красиву і якісну продукцію.&#xD;
-&#xD;
-Гарантія на всі змішувачі марки TOPAZ становить 5 років&#xD;
-&#xD;
-Виробництво сертифіковане по системі якості ISO 9001:2000.&#xD;
-&#xD;
-&#xD;
-	&#xD;
-		&#xD;
-			Вид монтажу:&#xD;
-			 Врізний&#xD;
-		&#xD;
-		&#xD;
-			Вид змішувача:&#xD;
-			 Одноважільний&#xD;
-		&#xD;
-		&#xD;
-			Довжина виливу, см:&#xD;
-			 13&#xD;
-		&#xD;
-		&#xD;
-			Тип виливу:&#xD;
-			 Стаціонарний&#xD;
-		&#xD;
-		&#xD;
-			Матеріал:&#xD;
-			 Латунь&#xD;
-		&#xD;
-		&#xD;
-			Можливе застосування:&#xD;
-			 Для раковини&#xD;
-		&#xD;
-		&#xD;
-			Вага:&#xD;
-			 0.9 кг&#xD;
-		&#xD;
-	&#xD;
-&#xD;
-&#xD;
-&#xD;
-Країна виробник - Польща</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
       <offer id="31658" available="true">
         <url>https://www.santehservis.dp.ua/uk/sbt1-101-smes-l-alpen-d-umyvalnika-nerzhaveyka_na-gaykekomplekt-globus-lux</url>
         <price>936</price>
@@ -387,46 +310,6 @@
         <param name="Діаметр підключення шлангів">1/2"</param>
         <param name="Шланги">На різьбі звичайні</param>
       </offer>
-      <offer id="38287" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-lotus-dlja-kuhni-rbzz002-6k</url>
-        <price>1077</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K-1.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач RJ Lotus для кухні/умивальника RBZZ002-6K</name>
-        <vendor>RJ</vendor>
-        <vendorCode>RBZZ002-6K</vendorCode>
-        <model>RJ Lotus</model>
-        <kod>V38287</kod>
-        <description>Змішувач RJ LOTUS для кухні RBZZ002-6K.&#xD;
-&#xD;
-LOTUS змішувач для кухні одноважільний, настільний монтаж, вилив 160 мм, колір - хром, картридж 35 мм.&#xD;
-&#xD;
-Довжина виливу: 148&#xD;
-Висота виливу: 78&#xD;
-Висота змішувача: 106&#xD;
-Монтаж: Врізний&#xD;
-Колір виробу: Хром&#xD;
-Тип управління: Одноважільний&#xD;
-Тип виливу: Довгий&#xD;
-Висувний вилив: Немає&#xD;
-Вихід для фільтрованої води: Немає&#xD;
-Комплектація: Немає&#xD;
-Особливості: Немає&#xD;
-Бренд: RJ&#xD;
-Серія: LOTUS</description>
-        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
       <offer id="38359" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-nerzh-kraft-krf5012</url>
         <price>1113</price>
@@ -603,60 +486,9 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Продукт">Змішувач</param>
       </offer>
-      <offer id="46882" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlya-umivalnikakuhni-domino-sirius-dsv-103m</url>
-        <price>962</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453_4.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/domino/10453.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника/кухні Domino Sirius DSV-103M</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>DSV-103M</vendorCode>
-        <model>Domino Sirius</model>
-        <kod>V46882</kod>
-        <description><![CDATA[Змішувач для умивальника/кухні Domino Sirius DSV-103M.
-
-Комплектація:
-
-
-	Змішувач латунний
-	Шланг М10 х 1/2&Prime; - 2шт
-	Кріплення для змішувача - шпильки
-
-
-ТМ &laquo;Domino&raquo; - це виробництво якісних змішувачів для ванної та кухні.
-Відмінною рисою виробів ТМ &laquo;Domino&raquo; є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.
-Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.
-Досить купити продукцію ТМ &laquo;Domino&raquo; для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.
-Продукція ТМ &laquo;Domino&raquo; є зразком балансу порівняно невисокої ціни і високої якості.
-
-Переваги змішувачів DOMINO:
-
-
-	Зручність в експлуатації.
-	Надлегке управління.
-	Елегантність форм і надійність
-	Керамічний вузол змішування.
-	Сучасний картридж.
-	Підходить для проточних нагрівачів.
-	Аератор з пластиковою сіткою.
-	Висока функціональність.]]></description>
-        <param name="Призначення виробу">Для кухні ||  Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
       <offer id="46920" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-sena-gls-101</url>
-        <price>1007</price>
+        <price>936</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ebb/IMGebb95afa415e127edb8b42cb1890f426.jpg</picture>
@@ -774,7 +606,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47030" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0401</url>
-        <price>1452</price>
+        <price>1464</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/151/IMG151ff8fb60660c4d41d22a5e0f243b85.jpg</picture>
@@ -804,7 +636,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47060" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-queensland-glqu-103m</url>
-        <price>1067</price>
+        <price>1179</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/98f/IMG98f2433ade202a4fc2ba91a9a7cce4b5.jpg</picture>
@@ -834,7 +666,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47061" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-queensland-glqu-203m</url>
-        <price>1452</price>
+        <price>1392</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cf8/IMGcf8cb0ff28223009feffcdba8146cd34.jpg</picture>
@@ -864,7 +696,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47077" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0101</url>
-        <price>1343</price>
+        <price>1326</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0c6/IMG0c686f8d83d3f9bf19466929b5c5d386.jpg</picture>
@@ -894,7 +726,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47081" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0203m</url>
-        <price>1200</price>
+        <price>1178</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/31c/IMG31cf97ae71c79f4331d82c0ddb3a243c.jpg</picture>
@@ -924,7 +756,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47086" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-solly-glso-0101</url>
-        <price>1343</price>
+        <price>1326</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/534/IMG534da004612eda8b520b4f4de20dcc3e.jpg</picture>
@@ -1069,363 +901,9 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Тип виливу">Поворотний</param>
         <param name="Вага брутто, кг">1.000000</param>
       </offer>
-      <offer id="47118" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101</url>
-        <price>915</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dac/IMGdac43131c6a9ae45d5eb60c3a5b86f20.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ce8/IMGce8d8a51818b1a7b4f4455a27f3ed982.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b4a/IMGb4aa6506fb768b5aaff17c7390983e92.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/04b/IMG04b2e761c202a11daf8fe8f9a8b0552d.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e81/IMGe81754387d629e08e720f5794861f599.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника EcoMix Energo E-GEZ-101</name>
-        <vendor>EcoMIX</vendor>
-        <vendorCode>EcoMix Energo E-GEZ-101</vendorCode>
-        <model>EcoMix Energo</model>
-        <kod>V47118</kod>
-        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-101Змішувач для умивальника EcoMIX E-GEZ-101 серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:ЗмішувачШланги для підключенняКартридж 35 діаметрТип кріплення - шпильки</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ENERGO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.800000</param>
-      </offer>
-      <offer id="47120" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-203m</url>
-        <price>914</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f7/IMG5f78543d57def87f193972d3e0d041b5.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a94/IMGa9497b30eced3e35c64bcdff440dfacc.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d05/IMGd05030386ebbf0b73e381375bbe36b27.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/37f/IMG37f39b40e86f49b36fe5a54805fd49d5.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e7c/IMGe7c1884bd78689c1222f2a07e6f20bec.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника EcoMix Energo E-GEZ-203M</name>
-        <vendor>EcoMIX</vendor>
-        <vendorCode>EcoMix Energo E-GEZ-203M</vendorCode>
-        <model>EcoMix Energo</model>
-        <kod>V47120</kod>
-        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-203MЗмішувач для кухні та умивальника EcoMIX E-GEZ-203M серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключенняКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - гайка</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ENERGO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">0.800000</param>
-      </offer>
-      <offer id="47155" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m</url>
-        <price>831</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/197/IMG197fffb20bcbc454df9c8d1eb240959b.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1d4/IMG1d460546db3f204bf420f898d31b6dd9.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/368/IMG368edcf20689bcb8f512c41c98550491.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c09/IMGc091620adc0fc35471999ca2948bd001.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b33/IMGb33e1db774afae70dc58762ae4227b4b.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника EcoMix Energo E-GEZ-103M</name>
-        <vendor>EcoMIX</vendor>
-        <vendorCode>EcoMix Energo E-GEZ-103M</vendorCode>
-        <model>EcoMix Energo</model>
-        <kod>V47155</kod>
-        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-103MЗмішувач для кухні EcoMIX E-GEZ-103M  серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачШланги для підключення водиКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - шпильки</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ENERGO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">0.700000</param>
-      </offer>
-      <offer id="47156" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-103m-wh</url>
-        <price>803</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/913/IMG9133a24a6d69d40a8ea540be750ec262.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c4b/IMGc4ba9f7ad08766695b96d4dd4b9930e7.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/19d/IMG19d9f27db87d0c13765c5f4e6e3c6cf2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/07b/IMG07b7d237c1b1ec0eb93e1df9987198be.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e1e/IMGe1e8c772ff878c0d76898ed2be0b363f.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника EcoMix Energo E-GEZ-103M-WH</name>
-        <vendor>EcoMIX</vendor>
-        <vendorCode>EcoMix Energo E-GEZ-103M-WH</vendorCode>
-        <model>EcoMix Energo</model>
-        <kod>V47156</kod>
-        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-103M-WHЗмішувач для кухні EcoMIX E-GEZ-103M- WH серія EnergoЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачБез шлангів для підключення водиКартридж 40 діаметрДовжина гусака 200 ммТип кріплення - шпильки</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ENERGO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">0.800000</param>
-      </offer>
-      <offer id="47157" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-101</url>
-        <price>1310</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/71e/IMG71e75725be525e42838081275927e2a7.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f15/IMGf155c6d13d6b8d0a19278ebda3478d3c.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2db/IMG2dbd37813b06a76e6475bee8324b93b0.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/0da/IMG0da2d2ac75a1325aa52add32e8970b86.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Sirius DSV-101</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Sirius DSV-101</vendorCode>
-        <model>Domino Sirius</model>
-        <kod>V47157</kod>
-        <description>Змішувач для умивальника Domino SIRIUS DSV-101Змішувач для умивальника DOMINO SIRIUS DSV-101Комплектація:Змішувач латуннийКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">SIRIUS</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.180000</param>
-      </offer>
-      <offer id="47158" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-401</url>
-        <price>1310</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ec9/IMGec9a417f07b24d8880d1f8f91a7b0dde.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f1/IMG5f12792ebd240854ff81caa086cbe634.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a4d/IMGa4d29398562ea832a4fce3d17865b231.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d0d/IMGd0d43841eb9b53fcf1076466d479322d.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Sirius DSV-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Sirius DSV-401</vendorCode>
-        <model>Domino Sirius</model>
-        <kod>V47158</kod>
-        <description>Змішувач для умивальника Domino SIRIUS DSV-401Змішувач для умивальника DOMINO SIRIUS DSV-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">SIRIUS</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.550000</param>
-      </offer>
-      <offer id="47159" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-sirius-dsv-203m</url>
-        <price>1038</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/085/IMG0853b08d67997eb25d5d02b8492b0693.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ec3/IMGec3de7e55a6dadc687a3207a17f931d7.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c0b/IMGc0bae2b5ee67354473b7ca26a3e00897.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9f6/IMG9f6856ac5ca1befa136cdd7ab87a6158.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Sirius DSV-203M</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Sirius DSV-203M</vendorCode>
-        <model>Domino Sirius</model>
-        <kod>V47159</kod>
-        <description>Змішувач для умивальника Domino SIRIUS DSV-203MЗмішувач для умивальника DOMINO SIRIUS DSV-203MКомплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">SIRIUS</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.050000</param>
-      </offer>
-      <offer id="47163" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101</url>
-        <price>1248</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1fe/IMG1fe4bb3979b583e8ee4da69d00ebb99e.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/69b/IMG69b3b539a76a4b15b5e2a1c7fd5f670a.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5ed/IMG5ed5bad2c7c216e986a7c8372c3be650.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f20/IMGf2099f01260c6ecc347e6ad9f2401644.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f1/IMG5f17f641c5be4311b64ea02a48debae0.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-101</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-101</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47163</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-101Змішувач для умивальника DOMINO BLITZ DBC-101Комплектація:Змішувач латуннийШланг М10 * 1 / 2-2штКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, внаслідок змішувачі Domino відповідають сучасним технологіям і  якості  матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.050000</param>
-      </offer>
-      <offer id="47164" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-103m</url>
-        <price>962</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/45f/IMG45f7cf17dcf402488e948482fc5df6c1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a64/IMGa6478dc2473b5efdb4fc376b0a444b4d.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1f2/IMG1f2c02599e94eb9175a6518542abd768.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f64/IMGf64cb38e8ffd19f0c001009fa3f780fc.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-103M</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-103M</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47164</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-103MЗмішувач для умивальника DOMINO BLITZ DBC-103MКомплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">0.850000</param>
-      </offer>
-      <offer id="47165" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m</url>
-        <price>1038</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/db2/IMGdb2c82fc2a2aca52878c5515a1c1b8fa.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/700/IMG7005ca84a1d2a2330e5c5c608029cc62.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/24a/IMG24a927df4948480448268b10fc4c21da.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c1c/IMGc1c5016fde35ea02b26edcfd7fe85a5c.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-203M</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-203M</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47165</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-203MЗмішувач для умивальника DOMINO BLITZ DBC-203MКомплектація:Змішувач латуннийГусак - 15 смШланг М10 х 1/2″ - 2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.050000</param>
-      </offer>
-      <offer id="47170" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-101</url>
-        <price>1382</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6b2/IMG6b21f52537ce126504fd06e14027cb49.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/838/IMG838fbe10d304c559c73d2966968c2861.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f7b/IMGf7bd801aa6a938465a48015c9a21a62c.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1e9/IMG1e9133a3f8fa4639a14a24a93cdba56c.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Accent DAC-101</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Accent DAC-101</vendorCode>
-        <model>Domino Accent</model>
-        <kod>V47170</kod>
-        <description>Змішувач для умивальника Domino ACCENT DAC-101Змішувач для умивальника DOMINO ACCENT DAC-101Комплектація:ЗмішувачШланги для підключеннякріплення- шпилькаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ACCENT</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.180000</param>
-      </offer>
-      <offer id="47178" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-ecomix-energo-e-gez-101-wh</url>
-        <price>885</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c05/IMGc05ee53e32128e3449187b9d4559a14e.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/cd8/IMGcd85d561d61c7ec21f8397f22e6ca1ea.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/d7e/IMGd7ed0fcfbf584be092ba69567967dc7e.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1d7/IMG1d79eb78187d9d2c2851ca75062b5df2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b22/IMGb221145f95377d75d11ac70ffea985b8.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника EcoMix Energo E-GEZ-101-WH</name>
-        <vendor>EcoMIX</vendor>
-        <vendorCode>EcoMix Energo E-GEZ-101-WH</vendorCode>
-        <model>EcoMix Energo</model>
-        <kod>V47178</kod>
-        <description>Змішувач для умивальника EcoMix ENERGO E-GEZ-101-WHЗмішувач для умивальника EcoMIX E-GEZ-101-WH серія Energo без шлангівЗмішувачі EcoMIX відрізняються своїм полегшеним дизайном, зручністю у використанні і доступні в ціні.Комплектація:змішувачКартридж 40 діаметрТип кріплення - шпильки</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ENERGO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.700000</param>
-      </offer>
       <offer id="47184" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-caprice-glca-0103m</url>
-        <price>1125</price>
+        <price>1121</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/dea/IMGdea608e65446a998cd4361eb102519fa.jpg</picture>
@@ -1453,212 +931,9 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Тип виливу">Поворотний</param>
         <param name="Вага брутто, кг">1.000000</param>
       </offer>
-      <offer id="47194" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-accent-dac-401</url>
-        <price>1422</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/e0f/IMGe0f731640299de15c3bfcff62bbb1bc6.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5fe/IMG5feeb12b6dc94335212245e91eb058a5.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a02/IMGa02df7f11f28a7d6a7c3de3230830396.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/fc7/IMGfc72a4d7798e89c3ab906303cc0732cb.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Accent DAC-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Accent DAC-401</vendorCode>
-        <model>Domino Accent</model>
-        <kod>V47194</kod>
-        <description>Змішувач для умивальника Domino ACCENT DAC-401Змішувач для умивальника DOMINO ACCENT DAC-401Комплектація:ЗмішувачШланги для підключенняКріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ACCENT</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.350000</param>
-      </offer>
-      <offer id="47262" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-401</url>
-        <price>1295</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/37b/IMG37bd142e8b9efae6c601f32df953fcbe.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2e7/IMG2e735c826de054cdfdb763a3cdaf0d9f.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f8e/IMGf8ec8eb0d694e6553ccdc76d51468c26.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/618/IMG6185222381ed3a546b827eabd99934c2.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-401</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47262</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-401Змішувач для умивальника DOMINO BLITZ DBC-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - на гайціТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.500000</param>
-      </offer>
-      <offer id="47263" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-h1-green</url>
-        <price>1371</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a6f/IMGa6fcf02a1f5452692b40b8ccf313555c.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/032/IMG032d183f7dafd99c41b0f7072e51ebc9.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/56c/IMG56ce84f21dd7f9e4d90dad7d94e32034.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f9e/IMGf9e71904f2a5992b8591e25f73ac22f6.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DYM-H1-GREEN</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DYM-H1-GREEN</vendorCode>
-        <model>Domino DYM</model>
-        <kod>V47263</kod>
-        <description>Змішувач для умивальника Domino DYM-H1-GREENЗмішувач вентильний для умивальника DYM-H1-GREEN DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х15х12смВага в упаковці: 1. кгВага: 0.8 кгКомплектація:змішувачШланги для підключення 2 шт</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DYM</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.900000</param>
-      </offer>
-      <offer id="47269" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-204-06-cruize</url>
-        <price>1248</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/bad/IMGbade6e35e66540a11f0dd3e0dbec0071.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/8c1/IMG8c1556aca9da5e9e3406baec7bb642ce.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/185/IMG185a9b7ecf47c8efd6261760116d54cb.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b6a/IMGb6a5559f48c0986fe3d97546a61a6b72.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DKF-204-06-CRUIZE</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DKF-204-06-CRUIZE</vendorCode>
-        <model>Domino DKF</model>
-        <kod>V47269</kod>
-        <description>Змішувач для умивальника Domino DKF-204-06-CRUIZEЗмішувач для умивальника DOMINO DKF-204-06-CRUIZE тип ″Ялинка″ Вид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус.Двухзахватна  конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Вилив змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Комплектація:змішувачШланги для підключення 2 шт</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DKF</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.130000</param>
-      </offer>
-      <offer id="47287" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-027-cruize</url>
-        <price>1401</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/831/IMG831161a6a05718ce5d88fa4a574b186c.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/33d/IMG33d52b669b673fd59d0644a28084e1fc.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/95f/IMG95fb15423ef71ed28c88fd1103e77585.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/315/IMG315ab9347061918e35b62893960d76b6.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DYM-027-CRUIZE</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DYM-027-CRUIZE</vendorCode>
-        <model>Domino DYM</model>
-        <kod>V47287</kod>
-        <description>Змішувач для умивальника Domino DYM-027-CRUIZEЗмішувач вентильний для умивальника DYM-027- CRUIZE DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х17х12 смВага в упаковці: 1.11 кгВага: 0.9 кгКомплектація:змішувачШланги для підключення 2 шт</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DYM</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.900000</param>
-      </offer>
-      <offer id="47333" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dkf-209-06-sharm</url>
-        <price>1248</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5e5/IMG5e52489ac283da266d061fd8ae41483d.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/9a1/IMG9a1b53ab491f4c41beb639109d4dd169.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/c29/IMGc29eeee6d49ccab7325d86fdfde2953f.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/337/IMG337f7d97e9c338c7cb9bce2042c0de81.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DKF-209-06-SHARM</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DKF-209-06-SHARM</vendorCode>
-        <model>Domino DKF</model>
-        <kod>V47333</kod>
-        <description>Змішувач для умивальника Domino DKF-209-06-SHARMЗмішувач для раковини DOMINO DKF-209-06-SHARMВид монтажу: Врізний, на гайціВид змішувача: ДвохвентильнийГабарити (ВхГ): 20 х 20 смТип виливу: ПоворотнийДовжина виливу: 17 смВисота виливу: 17.5 смПідключення: до водопроводуДіаметр підключення шлангів 1/2 ″Шланги на різьбі звичайніШланги підключення входять в комплект поставкиМатеріал: Силумін / ЛатуньКолір виробу: ХромГабарити упаковки (ВхШхГ): 34х16х8 смВага в упаковці: 1.13 кгВага: 0.8 кгКраїна-виробник товару: КитайГарантія: 12 місяців офіційної гарантії від виробника.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DKF</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.188000</param>
-      </offer>
-      <offer id="47334" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-dym-029-sharm</url>
-        <price>1401</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/724/IMG72425e055c09aff1dea355ef10c1ad62.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f31/IMGf312aafcb7b4f82178b59e2b8a507427.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/482/IMG482118aecfb311afe9d947f500c83577.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/7f6/IMG7f63076dd270708c707accb54344bb37.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino DYM-029-SHARM</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino DYM-029-SHARM</vendorCode>
-        <model>Domino DYM</model>
-        <kod>V47334</kod>
-        <description>Змішувач для умивальника Domino DYM-029-SHARMЗмішувач вентильний для умивальника DYM-029-SHARM DOMINOВид такого змішувача зручний і простий у використанні.В основі змішувача - цілісний литий корпус, що переходить в гусакДвохзахватна конструкція дозволяє точно регулювати температуру, завдяки роздільним поворотним ручкам для холодної і гарячої води.За рахунок запірних елементів з гуми виріб стійкий до води низької якості,що надходить із систем водопостачання. Виливши змішувача забезпечений аератором.Спосіб підключення до системи водопостачання - гнучка підводка.Габарити упаковки (ВхШхГ): 19х17х12 смВага в упаковці: 1.11 кгВага: 0.9 кгКомплектація:змішувачШланги для підключення 2 шт</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Вентильний</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">DYM</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">0.900000</param>
-      </offer>
       <offer id="47358" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-solly-glso-0401</url>
-        <price>1458</price>
+        <price>1464</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a47/IMGa4796b0d7b9c08f8e8d263c7434f2d4b.jpg</picture>
@@ -1688,7 +963,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47382" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-koln-glk-0203m</url>
-        <price>1200</price>
+        <price>1163</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/506/IMG5068bee7a5b31a46ab8df55e8e94871f.jpg</picture>
@@ -1744,6 +1019,34 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Країна реєстрації бренду">Україна</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Вага брутто, кг">1.350000</param>
+      </offer>
+      <offer id="47444" available="true">
+        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-laguna-gla-0203mq</url>
+        <price>1431</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/4db/IMG4db6940c59ff5153c54b58a5394c5816.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/39f/IMG39f9e79cb95f58800a92f7f2ee88c8e2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/128/IMG128492a04cd9d2abd9a312d43fb095a4.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Globus Lux Laguna GLA-0203MQ</name>
+        <vendor>GLOBUS LUX</vendor>
+        <vendorCode>Globus Lux Laguna GLA-0203MQ</vendorCode>
+        <model>Globus Lux Laguna</model>
+        <kod>V47444</kod>
+        <description>Змішувач для умивальника Globus Lux Laguna GLA-0203MQЗмішувач для раковини Globus Lux Laguna GLA-0203MQПереваги змішувачів Globus Lux:1 Довговічність і безвідмовність в експлуатації2 Елегантність форм, міцність і надійність3 Висока функціональність4 Використання якісних екологічно чистих матеріалів5 Інноваційні технології виробництва6 Корпус виготовлений з латуні з вмістом міді не менше 70%Комплектація:Змішувач латуннийШланг М10 * 1 / 2″-2штКріплення для змішувача - гайка</description>
+        <param name="Призначення виробу">Для умивальника</param>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Серія">LAGUNA</param>
+        <param name="Країна реєстрації бренду">Україна</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Вага брутто, кг">1.200000</param>
       </offer>
       <offer id="47532" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-wien-sbt2-101n</url>
@@ -1835,7 +1138,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47622" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-mixmira-alpen-ms1-101s</url>
-        <price>1038</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/a77/IMGa778aeeb24d2b85985d5b252ba326071.jpg</picture>
@@ -1861,7 +1164,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47624" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-sicilia-sbq-101-bb</url>
-        <price>1437</price>
+        <price>1454</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/83c/IMG83c8eba3c637a5ccbf1eeb368ae9c176.jpg</picture>
@@ -1887,58 +1190,6 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Країна реєстрації бренду">Україна</param>
         <param name="Тип виливу">Стаціонарний</param>
         <param name="Вага брутто, кг">1.000000</param>
-      </offer>
-      <offer id="47664" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-101-wh</url>
-        <price>1208</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1ab/IMG1ab84399d434e1cbebff4c347b6a8b55.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-101-WH</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-101-WH</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47664</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-101-WHЗмішувач для умивальника DOMINO BLITZ DBC-101-WH, без шлангівКомплектація:Змішувач латуннийКріплення для змішувача - шпилькиТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, внаслідок змішувачі Domino відповідають сучасним технологіям і  якості  матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.050000</param>
-      </offer>
-      <offer id="47665" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-blitz-dbc-203m-wh</url>
-        <price>998</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/46b/IMG46b34e57af1237f57022ecdb4ebdeb7c.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Blitz DBC-203M-WH</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Blitz DBC-203M-WH</vendorCode>
-        <model>Domino Blitz</model>
-        <kod>V47665</kod>
-        <description>Змішувач для умивальника Domino BLITZ DBC-203M-WHЗмішувач для умивальника DOMINO BLITZ DBC-203M-WH, без шлангівКомплектація:Змішувач латуннийГусак - 15 смКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BLITZ</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.050000</param>
       </offer>
       <offer id="47705" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-alpen-sbt1-101s-bb</url>
@@ -2086,38 +1337,6 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Тип виливу">Поворотний</param>
         <param name="Вага брутто, кг">1.270000</param>
       </offer>
-      <offer id="47772" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-prestige-dps-101</url>
-        <price>1424</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/91d/IMG91d97e73682bd58321992f845107b58b.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/927/IMG9278732e34b1189840c9c921c31905f1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/1a5/IMG1a58d76e1da10a2c3bc13687d64121fb.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/da1/IMGda12759a419e10f3c535fe787537dede.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/2cb/IMG2cbf41e4d5e53d547432168dee5f6768.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ce5/IMGce53cdf67e4649bfb999c31d9128dfcc.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/6bc/IMG6bcc6736a54ba85cfcbd675449b3ce5f.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Prestige DPS-101</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Prestige DPS-101</vendorCode>
-        <model>Domino Prestige</model>
-        <kod>V47772</kod>
-        <description>Змішувач для умивальника Domino PRESTIGE  DPS-101Змішувач для умивальника DOMINO PRESTIGE  DPS-101ТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Корпус змішувача виконаний методом лиття під тискомКомплектація:Змішувач латуннийШланг М10 х 1/2″ - 2штКріплення для змішувача - гайкаВідмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">PRESTIGE</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.200000</param>
-      </offer>
       <offer id="47802" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-dukat-sd2-101</url>
         <price>1359</price>
@@ -2182,7 +1401,7 @@ LOTUS змішувач для кухні одноважільний, насті�
       </offer>
       <offer id="47822" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-globus-lux-koln-glk-0103m</url>
-        <price>1154</price>
+        <price>1110</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/geizer/5f6/IMG5f67f274adaa1a66eb96c25b97766d38.jpg</picture>
@@ -2210,117 +1429,6 @@ LOTUS змішувач для кухні одноважільний, насті�
         <param name="Країна реєстрації бренду">Україна</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Вага брутто, кг">1.000000</param>
-      </offer>
-      <offer id="47828" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-malibu-dmm-401</url>
-        <price>1458</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/f73/IMGf735e5c642a55286de61c4305ed81202.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/865/IMG86595509780741e0e90e187a41185570.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/3a8/IMG3a81ea1b6a2b7d083fc590c060aed483.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/b78/IMGb789c87b7aa4a57930899ac23def001a.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Malibu DMM-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Malibu DMM-401</vendorCode>
-        <model>Domino Malibu</model>
-        <kod>V47828</kod>
-        <description>Змішувач для умивальника Domino MALIBU DMM-401Змішувач для умивальника DOMINO MALIBU DMM-401Комплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Силумін</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">MALIBU</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.100000</param>
-      </offer>
-      <offer id="47859" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-ellipse-dcc-101s</url>
-        <price>971</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/408/IMG40846e2d2ba8e96db1049f13a4c8af9e.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/de0/IMGde0fed0e98e4873d94ab41bc9b0b41cc.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/619/IMG619e590965e70cc48b3bb08ae7f5885b.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/077/IMG077c14740c1793e3b6dd22cd408e48b3.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/beb/IMGbebe27d4da2fb4b81107a445bb9d24bc.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Ellipse DCC-101S</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Ellipse DCC-101S</vendorCode>
-        <model>Domino Ellipse</model>
-        <kod>V47859</kod>
-        <description>Змішувач для умивальника Domino ELLIPSE DCC-101SЗмішувач для умивальника DOMINO ELLIPSE DCC-101S з бок.ручкою, на гайціКомплектація:Змішувач латуннийШланг М10 х 1/2″ -2штКріплення для змішувача - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегке управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ELLIPSE</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Вага брутто, кг">1.400000</param>
-      </offer>
-      <offer id="47874" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-alicante-daa-401</url>
-        <price>1089</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/ca3/IMGca32c9c0428acc2c98f28f2d1d94b021.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Alicante DAA-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Alicante DAA-401</vendorCode>
-        <model>Domino Alicante</model>
-        <kod>V47874</kod>
-        <description>Змішувач для умивальника Domino ALICANTE DAA-401Змішувач для умивальника DOMINO ALICANTE DAA-401 на гайціКомплектація:ЗмішувачШланги для підключення води - 2 шт.Кріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">ALICANTE</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.040000</param>
-      </offer>
-      <offer id="47877" available="true">
-        <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-domino-bilbao-dbb-401</url>
-        <price>1218</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/geizer/637/IMG63749e7a32004bf01040ee7a92ee1c16.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Domino Bilbao DBB-401</name>
-        <vendor>DOMINO</vendor>
-        <vendorCode>Domino Bilbao DBB-401</vendorCode>
-        <model>Domino Bilbao</model>
-        <kod>V47877</kod>
-        <description>Змішувач для умивальника Domino BILBAO DBB-401Змішувач для умивальника DOMINO BILBAO DBB-401  на гайціКомплектація:ЗмішувачШланги для підключення води - 2 шт.Кріплення - гайкаТМ «Domino» - це виробництво якісних змішувачів для ванної та кухні.Відмінною рисою виробів ТМ «Domino» є якість матеріалів і майстерність дизайнерів, які передають через свої вироби атмосферу надійності і одночасно вишуканості.Компанія завжди йде в ногу з часом, в результаті змішувачі Domino відповідають сучасним технологіям і якості матеріалів.Досить купити продукцію ТМ «Domino» для власного будинку і можна забути про проблему незручних змішувачів або душових систем на багато років.Продукція ТМ «Domino» є зразком балансу порівняно невисокої ціни і високої якості.Переваги змішувачів DOMINO:1. Зручність в експлуатації.2. Надлегкий управління.3. Елегантність форм і надійність.4. Керамічний вузол змішування.5. Сучасний картридж.6. Підходить для проточних нагрівачів.7. Аератор з пластиковою сіткою.8. Висока функціональність.</description>
-        <param name="Призначення виробу">Для умивальника</param>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">BILBAO</param>
-        <param name="Країна реєстрації бренду">Україна</param>
-        <param name="Тип виливу">Стаціонарний</param>
-        <param name="Вага брутто, кг">1.180000</param>
       </offer>
     </offers>
   </shop>
