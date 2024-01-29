@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2024-01-29 17:00</date>
+    <firmName>Ekoplast</firmName>
+    <firmId></firmId>
+    <rate></rate>
+    <delivery id="1" type="warehouse" carrier="NP" cost="0" />
+    <delivery id="2" type="warehouse" carrier="ME" cost="0" />
+    <delivery id="3" type="warehouse" carrier="UP" cost="0" />
+    <shipping>2</shipping>
+    <categories>
+        <category>
+            <id>17</id>
+            <name>Раковини (умивальники)</name>
+        </category>
+    </categories>
+    <items>
+        <item>
+            <id>1487</id>
+            <categoryId>17</categoryId>
+            <code>872526</code>
+            <vendor>Ekoplast</vendor>
+            <name>Умивальник акриловий 60х52 см над пральною машиною</name>
+            <description></description>
+            <url>https://ekoplast.clutch.cx.ua/product/umyvalnyk-rakovyna-nad-pralnoyu-mashynoyu-60x52sm/</url>
+            <image>https://ekoplast.clutch.cx.ua/wp-content/uploads/2023/08/ek05_1.webp</image>
+            <priceRUAH>3899</priceRUAH>
+            <stock>В наявності</stock>
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Розміри">60 х 52 х 9см</param>
+            <param name="Вага">4кг</param>
+            <param name="Розташування змішувача">По центру</param>
+            <param name="Розташування зливу">Зправа</param>
+            <param name="Комплектація">Умивальник, Сифон, Комплект кріплень</param>
+            <param name="Матеріал">Акрил, Поліефірні матеріали</param>
+            <param name="Колір">Білий</param>
+            <param name="Отвір під змішувач">35мм</param>
+            <param name="Тип установки">Над пральною машиною, на стільницю</param>
+            <param name="Виробник">Ekoplast Kompozit Україна</param>
+            <param name="Країна виготовлення">Україна</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="cash-on-delivery">true</payment>
+            <payment type="pay-card">true</payment>
+            <payment type="card-card">true</payment>
+            <payment type="vat">true</payment>
+            <payment type="non-vat">true</payment>
+            <condition>0</condition>
+            <custom>1</custom>
+        </item>
+    </items>
+</price>
