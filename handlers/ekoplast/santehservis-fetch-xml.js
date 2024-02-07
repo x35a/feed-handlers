@@ -11,7 +11,14 @@ const santehservissFeedUaUrl =
 
 const markup = 1.5
 const priceRange = { min: 500, max: 1000 }
-const wrongCategoryProducts = ['V47183', 'V47310', 'V47335', 'V47286', 'V47209']
+const wrongCategoryProducts = [
+    'V47183',
+    'V47310',
+    'V47335',
+    'V47286',
+    'V47209',
+    'V38123'
+]
 
 const validatePrice = (price, priceRange) =>
     price >= priceRange.min && price <= priceRange.max
@@ -41,6 +48,13 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
             const isNotWrongCategory = !wrongCategoryProducts.includes(
                 ...offer.kod
             )
+
+            // Remove products with 0 components
+            // param:
+            // [
+            //     { _: 'Для умивальника', '$': { name: 'Призначення виробу' } },
+            //     { _: 'Джойстик', '$': { name: 'Управління змішувачем' } },
+            // ]
 
             // console.log(isAvailable, validPrice, isNotWrongCategory)
             return isAvailable && validPrice && isNotWrongCategory
