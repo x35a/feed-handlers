@@ -19,6 +19,16 @@ const wrongCategoryProducts = [
     'V47209',
     'V38123'
 ]
+// no tubes in complect
+const notFullComplect = [
+    'V38324',
+    'V38255',
+    'V38194',
+    'V38121',
+    'V38058',
+    'V38053',
+    'V38061'
+]
 
 const validatePrice = (price, priceRange) =>
     price >= priceRange.min && price <= priceRange.max
@@ -49,6 +59,9 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
                 ...offer.kod
             )
 
+            // Filter out no complect products
+            const isFullComplect = !notFullComplect.includes(...offer.kod)
+
             // Remove products with 0 components
             // param:
             // [
@@ -57,7 +70,12 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
             // ]
 
             // console.log(isAvailable, validPrice, isNotWrongCategory)
-            return isAvailable && validPrice && isNotWrongCategory
+            return (
+                isAvailable &&
+                validPrice &&
+                isNotWrongCategory &&
+                isFullComplect
+            )
         })
 
         newOffers.forEach((offer) => {
