@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-02-11 08:20">
+<yml_catalog date="2024-02-17 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -53,6 +53,7 @@
         <param name="Призначення">Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
         <param name="Продукт">Змішувач</param>
       </offer>
       <offer id="38489" available="true">
@@ -95,6 +96,7 @@
         <param name="Призначення">Для кухні || Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
         <param name="Продукт">Змішувач</param>
       </offer>
       <offer id="38515" available="true">
@@ -132,6 +134,7 @@
         <param name="Призначення">Для кухні ||  Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
         <param name="Продукт">Змішувач</param>
       </offer>
       <offer id="38547" available="true">
@@ -165,6 +168,7 @@
         <param name="Призначення">Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
         <param name="Продукт">Змішувач</param>
       </offer>
       <offer id="38552" available="true">
@@ -200,39 +204,7 @@
         <param name="Призначення">Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38556" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-kraft-krf5013</url>
-        <price>1293</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF5013.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Kraft KRF5013</name>
-        <vendor>Kraft</vendor>
-        <vendorCode>kraft-17816</vendorCode>
-        <model>Kraft KRF5013</model>
-        <kod>V38556</kod>
-        <description>Змішувач для умивальника Kraft KRF5013.&#xD;
-&#xD;
-Модель 5013 - виокий змішувач на умивальник у ванну або туалет. &#xD;
-&#xD;
-Всі кріплення і деталі - з нержавійки, прослужать довгі роки.&#xD;
-&#xD;
-Тип - змішувач для умивальника;&#xD;
-Монтаж - врізний;&#xD;
-Тип управління - Джойстик;&#xD;
-Термостат - Ні;&#xD;
-Покриття - сатин;&#xD;
-Країна виробник - Китай;</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника високий || Для умивальника</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
         <param name="Продукт">Змішувач</param>
       </offer>
     </offers>
