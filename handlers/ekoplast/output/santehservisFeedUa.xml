@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-02-17 08:20">
+<yml_catalog date="2024-03-08 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,6 +17,125 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
+      <offer id="38282" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-lotus-dlja-umivalnika-rbzz002-1</url>
+        <price>1274</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-1-1.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач RJ Lotus для умивальника RBZZ002-1</name>
+        <vendor>RJ</vendor>
+        <vendorCode>RBZZ002-1</vendorCode>
+        <model>RJ Lotus</model>
+        <kod>V38282</kod>
+        <description>Змішувач RJ LOTUS для умивальника RBZZ002-1.&#xD;
+&#xD;
+LOTUS змішувач для умивальника одноважільний на гайці, настільний монтаж, колір - хром, картридж 35 мм. Шланги підключення води 45 см.&#xD;
+&#xD;
+Довжина виливу: 96&#xD;
+Висота виливу: 54&#xD;
+Висота змішувача: 123&#xD;
+Монтаж: Врізний&#xD;
+Колір виробу: Хром&#xD;
+Комплектація: Немає&#xD;
+Тип управління: Одноважільний&#xD;
+Наявність донного клапана: Немає&#xD;
+Кількість отворів: 1&#xD;
+Бренд: RJ&#xD;
+Серія: LOTUS</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="38287" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-lotus-dlja-kuhni-rbzz002-6k</url>
+        <price>1107</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K-1.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач RJ Lotus для кухні/умивальника RBZZ002-6K</name>
+        <vendor>RJ</vendor>
+        <vendorCode>RBZZ002-6K</vendorCode>
+        <model>RJ Lotus</model>
+        <kod>V38287</kod>
+        <description>Змішувач RJ LOTUS для кухні RBZZ002-6K.&#xD;
+&#xD;
+LOTUS змішувач для кухні одноважільний, настільний монтаж, вилив 160 мм, колір - хром, картридж 35 мм.&#xD;
+&#xD;
+Довжина виливу: 148&#xD;
+Висота виливу: 78&#xD;
+Висота змішувача: 106&#xD;
+Монтаж: Врізний&#xD;
+Колір виробу: Хром&#xD;
+Тип управління: Одноважільний&#xD;
+Тип виливу: Довгий&#xD;
+Висувний вилив: Немає&#xD;
+Вихід для фільтрованої води: Немає&#xD;
+Комплектація: Немає&#xD;
+Особливості: Немає&#xD;
+Бренд: RJ&#xD;
+Серія: LOTUS</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для кухні ||  Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="38302" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-tulip-dlja-umivalnika-rbz081-1</url>
+        <price>1145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-4.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач RJ TULIP для умивальника RBZ081-1</name>
+        <vendor>RJ</vendor>
+        <vendorCode>RBZ081-1</vendorCode>
+        <model>RJ TULIP</model>
+        <kod>V38302</kod>
+        <description>Змішувач RJ TULIP для умивальника RBZ081-1.&#xD;
+&#xD;
+TULIP змішувач для умивальника одноважільний на гайці, хром, 35 ​​мм.&#xD;
+&#xD;
+Довжина виливу: 145&#xD;
+Висота виливу: 112&#xD;
+Висота змішувача: 165&#xD;
+Монтаж: Врізний&#xD;
+Колір виробу: Хром&#xD;
+Комплектація: Немає&#xD;
+Тип управління: Одноважільний&#xD;
+Наявність донного клапана: Немає&#xD;
+Кількість отворів: 1&#xD;
+Бренд: RJ&#xD;
+Серія: TULIP</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">60</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
       <offer id="38359" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-nerzh-kraft-krf5012</url>
         <price>1113</price>
