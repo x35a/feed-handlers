@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-03-08 08:20">
+<yml_catalog date="2024-03-28 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -280,42 +280,6 @@ TULIP змішувач для умивальника одноважільний 
 Термостат - Ні;&#xD;
 Покриття - сатин;&#xD;
 Країна виробник - Китай;</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Гарантія виробника, міс">12</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38552" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-kraft-krf5007</url>
-        <price>1496</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF5007.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Kraft KRF5007</name>
-        <vendor>Kraft</vendor>
-        <vendorCode>kraft-6485</vendorCode>
-        <model>Kraft KRF5007</model>
-        <kod>V38552</kod>
-        <description><![CDATA[Змішувач для умивальника Kraft KRF5007.
-
-Змішувач 5007 для умивальника виконаний в строгому стилі. Його прямокутні поверхні добре впишуться в сучасний дизайн ванної кімнати, особливо добре поєднується з масивними деталями інтер&#39;єру.
-
-Стійкий до забруднень і подряпин. Як і всі товари, пройшов двоетапну перевірку ВТК.
-
-Змішувачі моделі 5007, вироблені з нержавіючої сталі відомої серії AISI 304 доступні як роздрібним покупцям, так і великим підприємствам. На всі товари - бюджетна цінова політика.
-
-Тип - змішувач для умивальника;
-Монтаж - врізний;
-Тип управління - Джойстик;
-Термостат - Ні;
-Покриття - сатин;
-Країна виробник - Китай;]]></description>
         <param name="Управління змішувачем">Джойстик</param>
         <param name="Термостат">Ні</param>
         <param name="Матеріал">Нержавіюча сталь</param>
