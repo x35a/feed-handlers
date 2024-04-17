@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-03-28 08:20">
+<yml_catalog date="2024-04-06 07:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -50,46 +50,6 @@ LOTUS змішувач для умивальника одноважільний 
         <param name="Матеріал">Латунь</param>
         <param name="Монтаж">Врізний</param>
         <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38287" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-lotus-dlja-kuhni-rbzz002-6k</url>
-        <price>1107</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ002-6K-1.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач RJ Lotus для кухні/умивальника RBZZ002-6K</name>
-        <vendor>RJ</vendor>
-        <vendorCode>RBZZ002-6K</vendorCode>
-        <model>RJ Lotus</model>
-        <kod>V38287</kod>
-        <description>Змішувач RJ LOTUS для кухні RBZZ002-6K.&#xD;
-&#xD;
-LOTUS змішувач для кухні одноважільний, настільний монтаж, вилив 160 мм, колір - хром, картридж 35 мм.&#xD;
-&#xD;
-Довжина виливу: 148&#xD;
-Висота виливу: 78&#xD;
-Висота змішувача: 106&#xD;
-Монтаж: Врізний&#xD;
-Колір виробу: Хром&#xD;
-Тип управління: Одноважільний&#xD;
-Тип виливу: Довгий&#xD;
-Висувний вилив: Немає&#xD;
-Вихід для фільтрованої води: Немає&#xD;
-Комплектація: Немає&#xD;
-Особливості: Немає&#xD;
-Бренд: RJ&#xD;
-Серія: LOTUS</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для кухні ||  Для умивальника</param>
         <param name="Країна виготовлення">Польща</param>
         <param name="Колір">Хром</param>
         <param name="Гарантія виробника, міс">60</param>
@@ -223,7 +183,7 @@ TULIP змішувач для умивальника одноважільний 
         <price>1220</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF3109-15.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/hyuivbijnkkljhbvycvubiuhnkml.jpg</picture>
         <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF3109-15-1.jpg</picture>
         <delivery>true</delivery>
         <name>Змішувач для кухні/умивальника Нерж. Kraft KRF3109-15</name>
@@ -233,7 +193,7 @@ TULIP змішувач для умивальника одноважільний 
         <kod>V38515</kod>
         <description>Змішувач для кухні Нерж. Kraft KRF3109-15.&#xD;
 &#xD;
-Фабрика, на якій виготовляють змішувачі з нержавіючої сталі Kraft розташована в Китаї і має 30 тис. кв. м виробничих потужностей. &#xD;
+Фабрика, на якій виготовляють змішувачі з нержавіючої сталі Kraft розташована в Китаї і має 30 тис. кв. м виробничих потужностей. &#xD;
 &#xD;
 Продукція Kraftвідповідає стандартам якості у відповідність з міжнародним стандартом ISO9001. &#xD;
 &#xD;
