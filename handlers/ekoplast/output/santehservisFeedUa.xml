@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-07-11 08:20">
+<yml_catalog date="2024-08-15 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -92,49 +92,6 @@ TULIP змішувач для умивальника одноважільний 
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Монтаж">Врізний</param>
         <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Гарантія виробника, міс">12</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38489" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-kuhni-nerzh-kraft-krf3006</url>
-        <price>840</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/iyuvyterdyfughfcxrxtcyvyghbujn.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-4.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-3.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника / кухні Kraft KRF3006 з нержавіючої сталі</name>
-        <vendor>Kraft</vendor>
-        <vendorCode>kraft-6469</vendorCode>
-        <model>Kraft KRF3006</model>
-        <kod>V38489</kod>
-        <description>Змішувач для умивальника / кухні Kraft KRF3006 з нержавіючої сталі&#xD;
-&#xD;
-Фабрика, на якій виготовляють змішувачі з нержавіючої сталі Kraft розташована в Китаї і має 30 тис. кв. м виробничих потужностей. &#xD;
-&#xD;
-Продукція Kraftвідповідає стандартам якості у відповідність з міжнародним стандартом ISO9001. &#xD;
-&#xD;
-Всі кріплення і деталі виконані з нержавіючої сталі - сантехніка КрафтСанСістем прослужить вам довгі роки.&#xD;
-&#xD;
-Нержавіюча сталь серії AISI 304 стійка до забруднень і не дряпається.&#xD;
-&#xD;
-&#xD;
-	Тип - Змішувач для мийки;&#xD;
-	Монтаж - Врізний;&#xD;
-	Тип управління - Джойстик;&#xD;
-	Термостат - Немає;&#xD;
-	Покриття - Сатин;&#xD;
-	Країна виробник - Китай;</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для кухні || Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Гарантія виробника, міс">12</param>
