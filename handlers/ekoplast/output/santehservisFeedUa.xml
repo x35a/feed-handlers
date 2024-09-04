@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-08-15 08:20">
+<yml_catalog date="2024-09-04 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,81 +17,44 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
-      <offer id="38302" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-tulip-dlja-umivalnika-rbz081-1</url>
-        <price>1226</price>
+      <offer id="38489" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-kuhni-nerzh-kraft-krf3006</url>
+        <price>840</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-3.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZ081-1-4.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/iyuvyterdyfughfcxrxtcyvyghbujn.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-2.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-1.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-4.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-3.jpg</picture>
         <delivery>true</delivery>
-        <name>Змішувач RJ TULIP для умивальника RBZ081-1</name>
-        <vendor>RJ</vendor>
-        <vendorCode>RBZ081-1</vendorCode>
-        <model>RJ TULIP</model>
-        <kod>V38302</kod>
-        <description>Змішувач RJ TULIP для умивальника RBZ081-1.&#xD;
-&#xD;
-TULIP змішувач для умивальника одноважільний на гайці, хром, 35 ​​мм.&#xD;
-&#xD;
-Довжина виливу: 145&#xD;
-Висота виливу: 112&#xD;
-Висота змішувача: 165&#xD;
-Монтаж: Врізний&#xD;
-Колір виробу: Хром&#xD;
-Комплектація: Немає&#xD;
-Тип управління: Одноважільний&#xD;
-Наявність донного клапана: Немає&#xD;
-Кількість отворів: 1&#xD;
-Бренд: RJ&#xD;
-Серія: TULIP</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38359" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-nerzh-kraft-krf5012</url>
-        <price>1113</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/xtcyvuugycvb5998556.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF5012-20.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF5012-10.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF5012-2.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF5012-3.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Kraft KRF5012 з нержавіючої сталі</name>
+        <name>Змішувач для умивальника / кухні Kraft KRF3006 з нержавіючої сталі</name>
         <vendor>Kraft</vendor>
-        <vendorCode>kraft-6487</vendorCode>
-        <model>Kraft KRF5012</model>
-        <kod>V38359</kod>
-        <description>Змішувач для умивальника Kraft KRF5012 з нержавіючої сталі&#xD;
+        <vendorCode>kraft-6469</vendorCode>
+        <model>Kraft KRF3006</model>
+        <kod>V38489</kod>
+        <description>Змішувач для умивальника / кухні Kraft KRF3006 з нержавіючої сталі&#xD;
 &#xD;
 Фабрика, на якій виготовляють змішувачі з нержавіючої сталі Kraft розташована в Китаї і має 30 тис. кв. м виробничих потужностей. &#xD;
 &#xD;
 Продукція Kraftвідповідає стандартам якості у відповідність з міжнародним стандартом ISO9001. &#xD;
 &#xD;
+Всі кріплення і деталі виконані з нержавіючої сталі - сантехніка КрафтСанСістем прослужить вам довгі роки.&#xD;
 &#xD;
-	Тип - Змішувач для умивальника;&#xD;
+Нержавіюча сталь серії AISI 304 стійка до забруднень і не дряпається.&#xD;
+&#xD;
+&#xD;
+	Тип - Змішувач для мийки;&#xD;
 	Монтаж - Врізний;&#xD;
-	Вид змішувача - Джойстик;&#xD;
+	Тип управління - Джойстик;&#xD;
 	Термостат - Немає;&#xD;
-	Колір - Нержавійка;&#xD;
+	Покриття - Сатин;&#xD;
 	Країна виробник - Китай;</description>
         <param name="Управління змішувачем">Джойстик</param>
         <param name="Термостат">Ні</param>
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
+        <param name="Призначення">Для кухні || Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Гарантія виробника, міс">12</param>
@@ -130,40 +93,6 @@ TULIP змішувач для умивальника одноважільний 
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Монтаж">Врізний</param>
         <param name="Призначення">Для кухні ||  Для умивальника</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Гарантія виробника, міс">12</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38547" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-kraft-krf5001</url>
-        <price>1367</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF5001.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Kraft KRF5001</name>
-        <vendor>Kraft</vendor>
-        <vendorCode>kraft-6480</vendorCode>
-        <model>Kraft KRF5001</model>
-        <kod>V38547</kod>
-        <description>Змішувач для умивальника Kraft KRF5001.&#xD;
-&#xD;
-Модель 5001 - класичний невеликий змішувач на умивальник у ванну або туалет. Його будова гармонійно: кран займає рівно стільки місця, скільки необхідно. Хороший варіант, щоб заощадити простір або просто не робити зайвий акцент на сантехніці в ванній.&#xD;
-&#xD;
-Всі кріплення і деталі - з нержавійки, прослужать довгі роки.&#xD;
-&#xD;
-Тип - змішувач для умивальника;&#xD;
-Монтаж - врізний;&#xD;
-Тип управління - Джойстик;&#xD;
-Термостат - Ні;&#xD;
-Покриття - сатин;&#xD;
-Країна виробник - Китай;</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Гарантія виробника, міс">12</param>
