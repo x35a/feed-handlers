@@ -1,6 +1,6 @@
 module.exports = async (fileLink) => {
     let response = await fetch(fileLink)
-    console.log('Start feed fetching...')
+    console.log('Start feed fetching...'.toLocaleUpperCase())
 
     if (response.ok) {
         let text = await response.text()

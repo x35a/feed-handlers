@@ -8,9 +8,10 @@ const outputFilePath = './handlers/ekoplast/output/santehservisFeedUa.xml'
 const santehservissFeedUaUrl =
     'https://www.santehservis.dp.ua/export/klient/zm_uk.xml'
 //ru lang feed link 'https://www.santehservis.dp.ua/export/klient/zm_ru.xml'
+// https://www.santehservis.dp.ua/uk/smesiteli/smesytely/
 
-const markup = 1.5
-const priceRange = { min: 500, max: 1000 }
+const markup = 300
+const priceRange = { min: 500, max: 2000 }
 const wrongCategoryProducts = [
     'V47183',
     'V47310',
@@ -27,13 +28,15 @@ const notFullComplect = [
     'V38121',
     'V38058',
     'V38053',
-    'V38061'
+    'V38061',
+    'V38330',
+    'V38251'
 ]
 
 const validatePrice = (price, priceRange) =>
     price >= priceRange.min && price <= priceRange.max
 
-const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
+const updatePrice = (price, markup) => Math.ceil(parseFloat(price) + markup)
 
 ;(async () => {
     // Get yml
@@ -88,7 +91,7 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) * markup)
         const xml = builder.buildObject(result)
         fs.writeFileSync(outputFilePath, xml)
 
-        console.log('santehservis feed done')
+        console.log('santehservis feed done'.toUpperCase())
         ////console.log('offers', offers.length)
     })
 })()
