@@ -30,7 +30,8 @@ const notFullComplect = [
     'V38053',
     'V38061',
     'V38330',
-    'V38251'
+    'V38251',
+    'V05387' // watermark on photo
 ]
 
 const validatePrice = (price, priceRange) =>
