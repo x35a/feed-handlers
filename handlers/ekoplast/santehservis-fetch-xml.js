@@ -19,16 +19,18 @@ const mixerExcludeList = [
     'V47286', // wrong category
     'V47209', // wrong category
     'V38123', // wrong category
-    'V38324', // no tubes in complect
-    'V38255', // no tubes in complect
-    'V38194', // no tubes in complect
-    'V38121', // no tubes in complect
-    'V38058', // no tubes in complect
-    'V38053', // no tubes in complect
-    'V38061', // no tubes in complect
-    'V38330', // no tubes in complect
-    'V38251', // no tubes in complect
-    'V05387' // watermark on photo
+    'V38324', // no tubes
+    'V38255', // no tubes
+    'V38194', // no tubes
+    'V38121', // no tubes
+    'V38058', // no tubes
+    'V38053', // no tubes
+    'V38061', // no tubes
+    'V38330', // no tubes
+    'V38251', // no tubes
+    'V05387', // watermarks
+    'V05400', // watermarks
+    'V05386' // watermarks
 ]
 
 const validatePrice = (price, priceRange) =>
