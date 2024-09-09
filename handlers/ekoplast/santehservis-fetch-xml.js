@@ -12,25 +12,22 @@ const santehservissFeedUaUrl =
 
 const markup = 300
 const priceRange = { min: 500, max: 2000 }
-const wrongCategoryProducts = [
-    'V47183',
-    'V47310',
-    'V47335',
-    'V47286',
-    'V47209',
-    'V38123'
-]
-// no tubes in complect
-const notFullComplect = [
-    'V38324',
-    'V38255',
-    'V38194',
-    'V38121',
-    'V38058',
-    'V38053',
-    'V38061',
-    'V38330',
-    'V38251',
+const mixerExcludeList = [
+    'V47183', // wrong category
+    'V47310', // wrong category
+    'V47335', // wrong category
+    'V47286', // wrong category
+    'V47209', // wrong category
+    'V38123', // wrong category
+    'V38324', // no tubes in complect
+    'V38255', // no tubes in complect
+    'V38194', // no tubes in complect
+    'V38121', // no tubes in complect
+    'V38058', // no tubes in complect
+    'V38053', // no tubes in complect
+    'V38061', // no tubes in complect
+    'V38330', // no tubes in complect
+    'V38251', // no tubes in complect
     'V05387' // watermark on photo
 ]
 
@@ -58,13 +55,8 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) + markup)
             // Remove products out of price range
             const validPrice = validatePrice(offer.price, priceRange)
 
-            // Filter out products with wrong category
-            const isNotWrongCategory = !wrongCategoryProducts.includes(
-                ...offer.kod
-            )
-
-            // Filter out no complect products
-            const isFullComplect = !notFullComplect.includes(...offer.kod)
+            // Exclude products
+            const isNotInExcludeList = !mixerExcludeList.includes(...offer.kod)
 
             // Remove products with 0 components
             // param:
@@ -74,12 +66,7 @@ const updatePrice = (price, markup) => Math.ceil(parseFloat(price) + markup)
             // ]
 
             // console.log(isAvailable, validPrice, isNotWrongCategory)
-            return (
-                isAvailable &&
-                validPrice &&
-                isNotWrongCategory &&
-                isFullComplect
-            )
+            return isAvailable && validPrice && isNotInExcludeList
         })
 
         newOffers.forEach((offer) => {
