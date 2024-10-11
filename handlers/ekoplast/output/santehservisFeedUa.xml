@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-09-09 08:20">
+<yml_catalog date="2024-10-11 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -181,6 +181,7 @@ GROHE SilkMove керамічний картридж 35 мм
         <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-1.jpg</picture>
         <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-4.jpg</picture>
         <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/smesi/KRF3006-3.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/ytrxcyuvylvyurcvubinmlkjgiyfugihn.jpg</picture>
         <delivery>true</delivery>
         <name>Змішувач для умивальника / кухні Kraft KRF3006 з нержавіючої сталі</name>
         <vendor>Kraft</vendor>
@@ -274,55 +275,6 @@ GROHE SilkMove керамічний картридж 35 мм
         <param name="Країна виготовлення">Польща</param>
         <param name="Колір">Хром</param>
         <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="52858" available="true">
-        <url>https://www.santehservis.dp.ua/uk/volle_1534-010104</url>
-        <price>2249</price>
-        <oldprice>2437.00</oldprice>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/volle/zm/ef0/IMGef00d80e26d3ac9c124f2689d4a719d9.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/volle/zm/271/IMG271d078b0c56910ce5d28717cc2b27b2.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач Volle FIESTA для умивальника, 26 мм, de la noche 1534.010104</name>
-        <vendor>VOLLE</vendor>
-        <vendorCode>1534.010104</vendorCode>
-        <model>Volle FIESTA</model>
-        <kod>V52858</kod>
-        <description>Змішувач Volle FIESTA для умивальника, 26 мм, de la noche 1534.010104&#xD;
-&#xD;
-Volle це сучасний іспанський бренд сантехніки.&#xD;
-&#xD;
-З 2001 року і до сьогодні фахівці компанії розробляють комплексні рішення для ванної кімнати:&#xD;
-&#xD;
-&#xD;
-	душові кабіни&#xD;
-	ванни&#xD;
-	змішувачі і душові системи&#xD;
-	кераміку&#xD;
-	меблі для ванної&#xD;
-	інсталяції для підвісних унітазів та біде&#xD;
-&#xD;
-&#xD;
-Концепція сантехніки Volle – це створення універсальних виробів для наповнення ванної кімнати всім необхідним, подібно до конструктора.&#xD;
-&#xD;
-Шляхом поєднання різних інженерних рішень в одному продукті та застосування спеціальних дизайнерських прийомів з різних колекцій гармонійно поєднуються між собою, що дозволяє споживачеві самостійно визначати вигляд майбутньої ванної кімнати, використовуючи продукцію Volle.&#xD;
-&#xD;
-Гарантія на змішувачі Volle&#xD;
-&#xD;
-&#xD;
-	Гарантія 5 років</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Іспанія</param>
-        <param name="Колір">Чорний мат</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Серія">FIESTA</param>
-        <param name="Країна реєстрації бренду">Іспанія</param>
       </offer>
     </offers>
   </shop>
