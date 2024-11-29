@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-11-12 08:20">
+<yml_catalog date="2024-11-29 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -135,42 +135,6 @@
         <param name="Гарантія виробника, міс">84</param>
         <param name="Продукт">Змішувач</param>
       </offer>
-      <offer id="27213" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-dlya-rakoviny-grohe-euroeco-32734000-s-size</url>
-        <price>2280</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/SANDI/smesiteli/IMG986a49b61f8174e8fe6506d472f2f1b4.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/SANDI/smesiteli/IMG6c960de3c5733b938c7b2afc119e24df.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для раковини Grohe Euroeco 32734000 S-Size</name>
-        <vendor>GROHE</vendor>
-        <vendorCode>32734000</vendorCode>
-        <model>Grohe Euroeco</model>
-        <kod>V27213</kod>
-        <description>Змішувач для раковини Grohe Euroeco 32734000 S-Size.&#xD;
-&#xD;
-S-Size
-монтаж на один отвір
-металевий важіль
-GROHE SilkMove керамічний картридж 35 мм
-Хромована поверхня GROHE StarLight
-обмежувач потоку 9 л/хв.
-система швидкого монтажу
-аератор
-гладкий корпус
-гнучка підводка в комплекті
-опція - обмежувач температури (46375000)
-клас шуму I по DIN 4109</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Німеччина</param>
-        <param name="Колір">Хром</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
       <offer id="38057" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-boss-dlja-umivalnika-rbz077-1</url>
         <price>1509</price>
@@ -199,44 +163,6 @@ BOSS змішувач для умивальника одноважільний, 
 Кількість отворів: 1&#xD;
 Бренд: RJ&#xD;
 Серія: BOSS</description>
-        <param name="Управління змішувачем">Джойстик</param>
-        <param name="Термостат">Ні</param>
-        <param name="Матеріал">Латунь</param>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Польща</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантія виробника, міс">60</param>
-        <param name="Продукт">Змішувач</param>
-      </offer>
-      <offer id="38108" available="true">
-        <url>https://www.santehservis.dp.ua/uk/smesitel-rozzy-jenori-kink-dlja-umivalnika-rbzz003-1</url>
-        <price>1141</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ003-1.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/ROZZY_JENORI/RBZZ003-1-1.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач RJ KINK для умивальника RBZZ003-1</name>
-        <vendor>RJ</vendor>
-        <vendorCode>RBZZ003-1</vendorCode>
-        <model>RJ KINK</model>
-        <kod>V38108</kod>
-        <description>Змішувач RJ KINK для умивальника RBZZ003-1.&#xD;
-&#xD;
-KINK змішувач для умивальника одноважільний на гайці, хром 35 мм&#xD;
-&#xD;
-Довжина виливу: 125&#xD;
-Висота виливу: 90&#xD;
-Висота змішувача: 145&#xD;
-Монтаж: Врізний&#xD;
-Колір виробу: Хром&#xD;
-Комплектація: Немає&#xD;
-Тип управління: Одноважільний&#xD;
-Наявність донного клапана: Немає&#xD;
-Кількість отворів: 1&#xD;
-Бренд: RJ&#xD;
-Серія: KINK</description>
         <param name="Управління змішувачем">Джойстик</param>
         <param name="Термостат">Ні</param>
         <param name="Матеріал">Латунь</param>
