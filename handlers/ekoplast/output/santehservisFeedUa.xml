@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-11-29 08:20">
+<yml_catalog date="2024-12-03 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -17,9 +17,171 @@
 Змішувачі для умивальника</category>
     </categories>
     <offers>
+      <offer id="8337" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-elio-dlya-umyvalnika-s951-147</url>
+        <price>2228</price>
+        <oldprice>2472.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/78d/IMG78d34209eb32b3b9c354d51df62f344b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/b24/IMGb24223d9719e2317373e07ec86fdffb6.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit ELIO, для умивальника, S951-147</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-147</vendorCode>
+        <model>Модель ЕЛІО-24</model>
+        <kod>V08337</kod>
+        <description>Змішувач CERSANIT ELIO, для умивальника, S951-147&#xD;
+Змішувач CERSANIT ELIO, для умивальника, S951-147 з донним клапаном&#xD;
+&#xD;
+ </description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">84</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="8340" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-vigo-dlya-umyvalnika-s951-146</url>
+        <price>1996</price>
+        <oldprice>2100.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/0b6/IMG0b61a8f40ad266fec57e4ff5a61070a5.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/9c0/IMG9c0afd2cf938e41881887db435a99b39.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit VIGO, для умивальника, S951-146</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-146</vendorCode>
+        <model>Модель ВІГО-24</model>
+        <kod>V08340</kod>
+        <description>Змішувач CERSANIT VIGO, для умивальника, S951-146&#xD;
+&#xD;
+&#xD;
+&#xD;
+	Висота корпусу [мм] 149&#xD;
+	Довжина носика [мм] 106&#xD;
+	Тип продукту Механічний змішувач&#xD;
+	Ручка Одна ручка&#xD;
+&#xD;
+&#xD;
+&#xD;
+ </description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">120</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="8343" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-luvio-dlya-umyvalnika-s951-142</url>
+        <price>2184</price>
+        <oldprice>2415.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/d64/IMGd644d4e3ae384c5f8fd2297c6833274b.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/e52/IMGe52cf502f09c3da7906034b392d4a365.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/f1f/IMGf1fd46021f58b682fb56315a6761fa0d.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit LUVIO для умивальника з донним клапаном Click-Clack S951-142</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-142</vendorCode>
+        <model>Модель ЛУВІО-24</model>
+        <kod>V08343</kod>
+        <description>Змішувач Cersanit LUVIO для умивальника з донним коапаном Click-Clack S951-142&#xD;
+&#xD;
+&#xD;
+Змішувач для умивальника LUVIO — це високоякісний продукт оригінального дизайну.&#xD;
+&#xD;
+Має хромоване покриття для захисту поверхні.&#xD;
+&#xD;
+Крім того, він поставляється з керамічною головкою з двоступінчастим регулюванням інтенсивності потоку води для плавного і точного контролю струму води.&#xD;
+&#xD;
+Цей продукт поставляється з обмежувачем температури води Cersanit Thermo-Block та аератором Cersanit Water Save, що знижує споживання води до 6 л/хв.&#xD;
+&#xD;
+Особливості і технічні дані змішувача Церсаніт:&#xD;
+&#xD;
+&#xD;
+	Аератор - Cersanit Water Save&#xD;
+	Акустична група - I&#xD;
+	Висота змішувача - 13,5 см&#xD;
+	Діаметр картриджу - 3,5 см&#xD;
+	Діапазон частоти акустичної групи - до 20 dB&#xD;
+	Довжина виливу - 11,6 см&#xD;
+	Донний клапан - металевий click-clack G 1 1/4 дюйма&#xD;
+	З'єднувальні шланги - гнучкі з`єднувальні шланги G 3/8 дюйма довжиною 450 мм&#xD;
+	Картридж - керамічний&#xD;
+	Клас витрати води - Z&#xD;
+	Колір - хром&#xD;
+	Механізм - Cersanit Thermo-Block&#xD;
+	Об'єм витрати води - менше ніж 9 л/хв.&#xD;
+	Спосіб установки - врізний&#xD;
+	Тип змішувача - механічний&#xD;
+	Тип покриття поверхні - Cersanit Super Shine - технологія покриття змішувачів шаром нікелю 8-12 мкм та хрому 0,25-0,3 мкм, яка гарантує бездоганну поверхню навіть через багато років використання.&#xD;
+	код EAN - 5902115716676&#xD;
+	Індекс продукту - AATW1000203731&#xD;
+&#xD;
+&#xD;
+Гарантія від виробника на змішувач Cersanit:&#xD;
+&#xD;
+&#xD;
+	12 років на корпус&#xD;
+	5 років на картридж</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">120</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="8345" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-mayo-dlya-umyvalnika-s951-144</url>
+        <price>2043</price>
+        <oldprice>2235.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/ca6/IMGca65abe8c7f1adb20c4c16323c63b7bd.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/b92/IMGb92215e7451057abf6832a609e1b286d.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/ns/aca/IMGaca2b704667799c5f982a82f0de8753a.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit MAYO, для умивальника, S951-144</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-144</vendorCode>
+        <model>Модель МАЙО-24</model>
+        <kod>V08345</kod>
+        <description>Змішувач CERSANIT MAYO, для умивальника, S951-144&#xD;
+&#xD;
+з донним клапаном клік-клак&#xD;
+&#xD;
+&#xD;
+&#xD;
+	Висота корпусу [мм] 159&#xD;
+	Довжина носика [мм] 119&#xD;
+&#xD;
+&#xD;
+&#xD;
+ </description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">120</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
       <offer id="9549" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-avedo-dlja-umyvalnika-s-donnym-klapanom</url>
-        <price>1842</price>
+        <price>1503</price>
+        <oldprice>1542.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/ns/a91/IMGa914c9287b693068630f70984766b059.jpg</picture>
@@ -45,7 +207,8 @@
       </offer>
       <offer id="16871" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-cari-dlja-umyvalnika-s951-040</url>
-        <price>2099</price>
+        <price>1703</price>
+        <oldprice>1799.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/ns/99b/IMG99b24e5bd9f1cafb39e629286720a8d4.jpg</picture>
@@ -87,7 +250,8 @@
       </offer>
       <offer id="16875" available="true">
         <url>https://www.santehservis.dp.ua/uk/smesitel-cersanit-amet-dlja-umyvalnika-s951-041</url>
-        <price>2199</price>
+        <price>1781</price>
+        <oldprice>1899.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/new/cers/treurgetg374tyw8934.jpg</picture>
@@ -291,7 +455,8 @@ BOSS змішувач для умивальника одноважільний, 
       </offer>
       <offer id="44237" available="true">
         <url>https://www.santehservis.dp.ua/uk/zmshuvach-dlya-umivalnika-cersanit-cersania</url>
-        <price>2299</price>
+        <price>1859</price>
+        <oldprice>1999.00</oldprice>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/cache/catalog/Cersanit/smesytely/IMG8a147ac8e03c2b75181f9eb4594aa081-600x600.jpg</picture>
@@ -310,6 +475,85 @@ BOSS змішувач для умивальника одноважільний, 
         <param name="Призначення">Для умивальника</param>
         <param name="Країна виготовлення">Польща</param>
         <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="45505" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-umivalnika-cersanit-moduo</url>
+        <price>2296</price>
+        <oldprice>2559.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Cersanit/S951-372.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Cersanit/S951-372-1.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника Cersanit Moduo S951-372</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-372</vendorCode>
+        <model>Cersanit Moduo</model>
+        <kod>V45505</kod>
+        <description>Змішувач для умивальника Cersanit MODUO&#xD;
+&#xD;
+Керамічний картридж 35 мм.&#xD;
+&#xD;
+Аератор Water Save.&#xD;
+&#xD;
+Витрата води до 6 л/хв.&#xD;
+&#xD;
+Гнучка підводка.&#xD;
+&#xD;
+Спеціальне покриття всередині шлангів не дозволяє воді змінювати смак і запах.</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Продукт">Змішувач</param>
+        <param name="Країна реєстрації бренду">Польща</param>
+      </offer>
+      <offer id="50816" available="true">
+        <url>https://www.santehservis.dp.ua/uk/s951_227</url>
+        <price>2171</price>
+        <oldprice>2399.00</oldprice>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/cers/juyr894yt584tg59eihsd.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач Cersanit Brasco, для умивальника, S951-227</name>
+        <vendor>CERSANIT</vendor>
+        <vendorCode>S951-227</vendorCode>
+        <model>Cersanit Brasco</model>
+        <kod>V50816</kod>
+        <description><![CDATA[Змішувач Cersanit Brasco, для умивальника, S951-227.
+
+Змішувач для умивальника BRASCO. Одноважільний урізний змішувач для умивальника з донним клапаном серії BRASCO, виготовлений з високоякісної латуні з хромованим покриттям і має стаціонарний вилив з виносом в 11,6 см. Модель встановлюється на один отвір і комплектується шлангами для підведення води під діаметр 1/2.
+
+Технічні данні змішувача Cersanit Brasco для умивальника:
+
+
+	Аератор - Cersanit Water Save
+	Акустична група - ii
+	Діапазон частоти акустичної групи - від 20 до 30 db
+	Картридж - керамічний
+	Колір - хром
+	Об&#39;єм витрати води - менше ніж 9 л/хв.
+	Спосіб установки - врізний
+	Тип змішувача - механічний
+	Тип хромування - Cersanit Super Shine - технологія покриття змішувачів шаром нікелю 8-12 мкм та хрому 0,25-0,3 мкм, яка гарантує бездоганну поверхню навіть через багато років використання
+
+
+Гарантія на змішувач S951-227:
+
+
+	12 років змішувач, 5 років картридж]]></description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Матеріал">Латунь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Польща</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія виробника, міс">144</param>
         <param name="Продукт">Змішувач</param>
       </offer>
       <offer id="52569" available="true">
