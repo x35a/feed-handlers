@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2024-12-27 08:20">
+<yml_catalog date="2024-12-30 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -590,28 +590,6 @@ Volle це сучасний іспанський бренд сантехніки
         <param name="Продукт">Змішувач</param>
         <param name="Серія">TRAJAN</param>
         <param name="Країна реєстрації бренду">Іспанія</param>
-      </offer>
-      <offer id="60853" available="true">
-        <url>https://www.santehservis.dp.ua/uk/mixxus_mi2810</url>
-        <price>1092</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>109</categoryId>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/mixxus/smesiteli/IMG47382416e99e063fccde1f4e0a138d35.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/mixxus/smesiteli/IMG9c40c781d058243a8cd4ffdd1666bea7.jpg</picture>
-        <picture>https://www.santehservis.dp.ua/image/catalog/new/mixxus/smesiteli/IMG408f4128abe83df11d80617a6b2f2c1c.jpg</picture>
-        <delivery>true</delivery>
-        <name>Змішувач для умивальника Mixxus KUB-001  чорний (з нерж. сталі) (MI2810)</name>
-        <vendor>MIXXUS</vendor>
-        <vendorCode>MI2810</vendorCode>
-        <model>29796</model>
-        <kod>V60853</kod>
-        <description>Змішувач для умивальника Mixxus KUB-001  чорний (з нерж. сталі) (MI2810)&#xD;
-Mixxus – це високоякісна сантехніка, яка виготовляється на німецькому обладнанні під чітким керівництвом провідних європейських інженерів. Продукція компанії пройшла всі необхідні рівні сертифікації і реалізовується в країнах Європи і Азії.</description>
-        <param name="Монтаж">Врізний</param>
-        <param name="Призначення">Для умивальника</param>
-        <param name="Країна виготовлення">Китай</param>
-        <param name="Продукт">Змішувач</param>
-        <param name="Країна реєстрації бренду">Німеччина</param>
       </offer>
     </offers>
   </shop>
