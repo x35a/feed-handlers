@@ -11,7 +11,7 @@ const santehservissFeedUaUrl =
 // https://www.santehservis.dp.ua/uk/smesiteli/smesytely/
 
 const markup = 300
-const priceRange = { min: 1, max: 1200 }
+const priceRange = { min: 1, max: 1000 }
 const mixerExcludeList = [
     'V47183', // wrong category
     'V47310', // wrong category
