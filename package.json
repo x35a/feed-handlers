@@ -5,9 +5,9 @@
     "main": "index.js",
     "scripts": {
         "test products": "node common/find-id-duplicates.js & node common/find-products-with-missed-category.js & node common/find-missed-images.js",
-        "santehservis to woo": "node handlers/ekoplast/santehservis-fetch-xml.js",
         "1 snacks wix to woo": "node handlers/snacks/wix-to-woo.js",
-        "2 snacks woo to prom": "node handlers/prom/snacks-feed/snacks-to-prom.js"
+        "2 snacks woo to prom": "node handlers/prom/snacks-feed/snacks-to-prom.js",
+        "santehservis to woo": "node handlers/ekoplast/santehservis-fetch-xml.js"
     },
     "author": "",
     "license": "ISC",
