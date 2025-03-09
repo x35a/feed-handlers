@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2025-03-02 08:20">
+<yml_catalog date="2025-03-09 08:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -94,6 +94,44 @@ LOTUS змішувач для умивальника одноважільний 
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Монтаж">Врізний</param>
         <param name="Призначення">Для кухні || Для умивальника</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантія виробника, міс">12</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="38515" available="true">
+        <url>https://www.santehservis.dp.ua/uk/smesitel-dlja-kuhni-nerzh-kraft-krf3109-15</url>
+        <price>1113</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/kraft/hyuivbijnkkljhbvycvubiuhnkml.jpg</picture>
+        <picture>https://www.santehservis.dp.ua/image/catalog/Kraft/KRF3109-15-1.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для кухні/умивальника Нерж. Kraft KRF3109-15</name>
+        <vendor>Kraft</vendor>
+        <vendorCode>kraft-17819</vendorCode>
+        <model>Kraft KRF3109-15</model>
+        <kod>V38515</kod>
+        <description>Змішувач для кухні Нерж. Kraft KRF3109-15.&#xD;
+&#xD;
+Фабрика, на якій виготовляють змішувачі з нержавіючої сталі Kraft розташована в Китаї і має 30 тис. кв. м виробничих потужностей. &#xD;
+&#xD;
+Продукція Kraftвідповідає стандартам якості у відповідність з міжнародним стандартом ISO9001. &#xD;
+&#xD;
+Всі кріплення і деталі - з нержавійки, прослужать вам довгі роки. Сантехніка Kraft SanSystem більше 20 років користується заслуженою довірою користувачів.&#xD;
+&#xD;
+&#xD;
+	Тип - Змішувач для мийки;&#xD;
+	Монтаж - Врізний;&#xD;
+	Тип управління - Джойстик;&#xD;
+	Термостат - Немає;&#xD;
+	Покриття - Сатин;&#xD;
+	Країна виробник - Китай;</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для кухні ||  Для умивальника</param>
         <param name="Країна виготовлення">Китай</param>
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Гарантія виробника, міс">12</param>
