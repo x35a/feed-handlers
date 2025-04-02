@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2025-03-09 08:20">
+<yml_catalog date="2025-04-02 07:20">
   <shop>
     <name>САНТЕХСЕРВІС</name>
     <company>САНТЕХСЕРВІС</company>
@@ -2385,7 +2385,7 @@ Mixxus – це високоякісна сантехніка, яка вигот
       </offer>
       <offer id="61797" available="true">
         <url>https://www.santehservis.dp.ua/uk/haiba_hb3909</url>
-        <price>1208</price>
+        <price>1125</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/new/haiba/smesiteli/IMG637edf3df008dd27480f53b886f1e5e1.jpg</picture>
@@ -2958,7 +2958,7 @@ Mixxus – це високоякісна сантехніка, яка вигот
       </offer>
       <offer id="62050" available="true">
         <url>https://www.santehservis.dp.ua/uk/haiba_hb3910</url>
-        <price>1092</price>
+        <price>993</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/new/haiba/smesiteli/IMG52282873a2439ed7ae6c438faed1fd0d.jpg</picture>
@@ -4389,7 +4389,7 @@ Mixxus – це високоякісна сантехніка, яка вигот
       </offer>
       <offer id="62599" available="true">
         <url>https://www.santehservis.dp.ua/uk/haiba_hb3892</url>
-        <price>1114</price>
+        <price>1040</price>
         <currencyId>UAH</currencyId>
         <categoryId>109</categoryId>
         <picture>https://www.santehservis.dp.ua/image/catalog/new/haiba/smesiteli/IMGd90d0b967eb1331f100f3a95b58aa711.jpg</picture>
@@ -4400,6 +4400,73 @@ Mixxus – це високоякісна сантехніка, яка вигот
         <model>Haiba SUS</model>
         <kod>V62599</kod>
         <description>Змішувач для умивальника Haiba SUS 001-C (HB3892)&#xD;
+&#xD;
+Компанія Haiba заснована в 1992 році і розташована в Веньчжоу – одному з найбільших центрів в Китаї по виробництву сантехнічної продукції.&#xD;
+Це відома в світі компанія по дизайну, розробці, проектуванню та виробництву сантехніки.&#xD;
+&#xD;
+Переваги продукції Haiba:&#xD;
+&#xD;
+Матеріал корпусу нержавіюча сталь SUS304 &#xD;
+&#xD;
+&#xD;
+	Висока якість продукції забезпечена міцними  та зносостійкими матеріалами&#xD;
+&#xD;
+&#xD;
+БЕЗШУМНІ ТЕХНОЛОГІЇ &#xD;
+&#xD;
+&#xD;
+	Точна внутрішня структура змішувачів, правильне гідродинамічне проектування і якісні елементи гарантують безшумну і плавну роботу пристрою&#xD;
+&#xD;
+&#xD;
+ЯКІСНА І БАГАТОРІВНЕВА ОБРОБКА &#xD;
+&#xD;
+&#xD;
+	Багатошарове покриття хрому, стійке до подряпин, має високу зносостійкість, гарантує ідеальний дзеркальний блиск, зберігає від забруднення&#xD;
+&#xD;
+&#xD;
+БЕЗПЕКА ТА ЕКОЛОГІЧНІСТЬ &#xD;
+&#xD;
+&#xD;
+	Застосовувані матеріали і технології безпечні для людини і сприяють збереженню навколишнього середовища&#xD;
+&#xD;
+&#xD;
+ПЛАВНЕ ТЕРМОРЕГУЛЮВАННЯ &#xD;
+&#xD;
+&#xD;
+	Спеціальне технічне рішення дозволяє точно регулювати температуру гарячої і холодної води, захищає змішувач від накипу&#xD;
+	Має функцію захисту від опіків при перебоях подачі води&#xD;
+&#xD;
+&#xD;
+ТЕХНОЛОГІЯ ПОСТІЙНОГО ПОТОКУ &#xD;
+&#xD;
+&#xD;
+	Аератор є компенсатором постійного потоку води&#xD;
+	Чим більше водяний тиск, тим більше потік води в звичайних аераторах. У аераторах Haiba при тиску понад 0,14 МПа йде постійний потік, який економить воду більш, ніж на 30%&#xD;
+&#xD;
+&#xD;
+ТЕХНОЛОГІЇ HAIBA</description>
+        <param name="Управління змішувачем">Джойстик</param>
+        <param name="Термостат">Ні</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Монтаж">Врізний</param>
+        <param name="Призначення">Для умивальника</param>
+        <param name="Країна виготовлення">Китай</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Продукт">Змішувач</param>
+      </offer>
+      <offer id="62600" available="true">
+        <url>https://www.santehservis.dp.ua/uk/haiba_hb3904</url>
+        <price>1152</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>109</categoryId>
+        <picture>https://www.santehservis.dp.ua/image/catalog/new/haiba/smesiteli/IMG34c67d486f63a5f68b6fffbf33fe60d8.jpg</picture>
+        <delivery>true</delivery>
+        <name>Змішувач для умивальника HAIBA KUB 001 (HB3904)</name>
+        <vendor>HAIBA</vendor>
+        <vendorCode>HB3904</vendorCode>
+        <model>Haiba Kub</model>
+        <kod>V62600</kod>
+        <description>Змішувач для умивальника HAIBA KUB 001 (HB3904)&#xD;
 &#xD;
 Компанія Haiba заснована в 1992 році і розташована в Веньчжоу – одному з найбільших центрів в Китаї по виробництву сантехнічної продукції.&#xD;
 Це відома в світі компанія по дизайну, розробці, проектуванню та виробництву сантехніки.&#xD;
